@@ -4,6 +4,7 @@ import { ChatMessage, Settings } from "llamaindex";
 import { NextRequest, NextResponse } from "next/server";
 import { createChatEngine } from "./engine/chat";
 import { initSettings } from "./engine/settings";
+// asdf
 import {
   convertMessageContent,
   retrieveDocumentIds,
