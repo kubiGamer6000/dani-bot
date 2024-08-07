@@ -1,0 +1,12 @@
+1. Customer inquiry: Price list of food for a birthday celebration on July 1st.
+2. Order inquiry: Can I order finger food for 15 people, mixed or only one ingredient?
+3. Confirmation of order: Yes, definitely we can organize this; you can choose a mixed selection.
+4. Scheduling inquiry: Asking what time the order should be ready for pickup or delivery.
+5. Delivery details: We come to deliver and make it beautiful on your table; I will bring platters and decoration.
+6. Rental inquiry: How much is it to rent a house for a celebration? 
+7. Date and time for rental: September 10th, from 16:00 to 22:00.
+8. Cancellation of order for finger food on Saturday.
+9. Availability inquiry: Was September 10th available for the event?
+10. Pricing information: Usually charges 2500 for the rental but offers a discount.
+11. Guest count: 25-30 people for the food order.
+12. Inquiry about types of food available for the event.

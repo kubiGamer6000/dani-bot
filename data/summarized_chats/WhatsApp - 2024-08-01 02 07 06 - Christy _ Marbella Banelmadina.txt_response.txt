@@ -1,0 +1,14 @@
+1. Customer inquiry: Organizing a birthday for my father and need catering for 40 people, BBQ buffet style.
+2. Event details: The event is on May 22 in Benalmádena Pueblo.
+3. Menu preferences:
+   - Chicken wings
+   - Corn
+   - Hamburgers
+   - Hotdogs
+   - Salad
+   - Roasted potatoes
+   - Coleslaw
+4. Service inquiry: Asking whether to have service or just food.
+5. Equipment inquiry: Asking if equipment is needed.
+6. Food only preference: Only food is requested.
+7. Estimated cost: Possible quote of €2000 + VAT for the catering service.

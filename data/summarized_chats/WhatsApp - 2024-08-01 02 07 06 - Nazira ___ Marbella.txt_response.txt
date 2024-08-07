@@ -1,0 +1,32 @@
+1. Customer inquiry: Nazira is asking if Dani's Catering does BBQs.
+2. Event details: BBQ for around 100 people on Friday, May 31.
+3. Quote inquiry: Nazira requests a quote for 90 guests, specifying 15 vegetarian guests.
+4. Menu inquiry:
+   - Canapés as starters
+   - BBQ with chicken, sausages, and beef
+   - Salads and quinoa bowls
+5. Additional services inquiry: Nazira requests cocktail tables and asks if Dani's Catering offers cocktail service.
+6. Guest count: Initially around 100, later specified as 90.
+7. Event timing: Start at 19:00 and finish at Midnight.
+8. Dietary requirements: Suggestion for gluten-free and lactose-free options; they are open to sauces having gluten.
+9. Inquiry about equipment: Nazira mentions a BBQ and asks if Dani wants to see the place before the event.
+10. Pre-site visit: Nazira offers a time to meet and see the space.
+11. Customer feedback: Nazira expresses excitement about the arrangements.
+12. Guest count update: Nazira mentions the guest count may be around 80 people.
+13. Inquiry about customization: Nazira requests changes to the proposal, including replacing couscous with quinoa and substituting some cheese with vegan options.
+14. Entertainment inquiry: Details requested about the flamenco band.
+15. Pricing inquiry: Nazira asks if gluten-free bread is available.
+16. Booking confirmation: Nazira inquires about the deposit and booking procedures.
+17. Photography inquiry: Nazira asks for photographer recommendations.
+18. Customer gratitude: Nazira thanks Dani for the assistance and organization involved.
+19. Additional decoration inquiries: Nazira requests decoration services for a birthday celebration at Nomad.
+20. Decoration details: Nazira discusses specifics about table decorations and lighting, asking for a rough quote.
+21. Pricing for tablecloths and decorations: Rough estimation provided as €400-€500 based on the final design.
+22. Cake inquiry: Nazira requests a birthday cake that is gluten and lactose-free.
+23. Customer confirmation on arrangements: Nazira confirms and updates on the event details post-arrival in Spain.
+24. Invoice inquiry: Nazira provides billing information and requests a proforma invoice.
+25. Final guest count: Nazira confirms 65 guests for the Friday event.
+26. Communication about event setup: Nazira confirms timings for setup and cake delivery, confirms that Dani's Catering will bring glasses and serve drinks at the event.
+27. Customer appreciation: Nazira expresses gratitude for the arrangements and Dani's service. 
+
+Keep all of the above information for further training of the customer service chatbot.

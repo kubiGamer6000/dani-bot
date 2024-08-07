@@ -1,0 +1,24 @@
+1. Customer inquiry: Can I check, are we able to order the party platters from the Shop here with delivery?
+2. Pricing inquiry: Will these be the €55 per platter (including VAT) + €33 delivery (including VAT)?
+3. Menu inquiry: Or can we only order from the brochure platters?
+4. Date, time, and location for delivery: Calle Almeria Calahonda 17th May at 2pm.
+5. Request for a quote: Hey, please can I have the quote.
+6. Order details: Just 1 tapas platter please with delivery to Calahonda.
+7. Confirmation request: Is that possible?
+8. Pricing details provided: Yes, the tapas €75 + VAT, Delivery €25 + VAT, Grand total = €110.
+9. Customer confirmation: Yes please, we will arrive around 2pm at Calahonda so would like it for our arrival please on Friday 17th May.
+10. Confirmation inquiry: Is that confirmed?
+11. Inquiry about tapas choices deadline: Perfect, when do you need the choices for the tapas by?
+12. Choices deadline confirmed: 3 days before perfect.
+13. Choices for tapas provided: Spanish Sobrasada & Chorizo, Hummus Pickle Cabbage & Carrot, Smoked Salmon & Caviar, Mediterranean Vegetables with Feta, Pulled Pork & Horseradish’s Sauce.
+14. Payment method inquiry: Would you like to pay cash or bank transfer?
+15. Payment method choice: Bank transfer please.
+16. Inquiry about payment methods: Do you take Revolut or Monzo?
+17. Payment details provided: British Pound account, details for Revolut payment.
+18. Request for payment before arrival: If you can send me payment before my arrival.
+19. Customer message about arrival: My colleague on the way now.
+20. Arrival time confirmation: Will be there in 30 min.
+21. Message about flight delay: Hi sorry flight delayed we have only just landed at Malaga airport.
+22. Inquiry regarding time to villa: Can I let you know when we set off as it takes 30 mins to Villa from airport?
+23. Payment acknowledgment: Sorry just seen them above haha.
+24. Customer feedback: Thank you we really enjoyed the food.

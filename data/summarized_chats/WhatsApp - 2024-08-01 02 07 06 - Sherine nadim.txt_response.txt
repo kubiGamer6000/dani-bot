@@ -1,0 +1,19 @@
+1. Customer inquiry: Event on 9th July for 20-25 people for brunch.
+2. Availability: Yes, availability for brunch on 9th July.
+3. Service type: Full catering with plates and waiters.
+4. Menu inquiry: Request for menus and prices for full catering.
+5. Customization inquiry: Discussion about creating a bespoke package based on client requirements and budget.
+6. Event details: Brunch menu including filled croissants, pita bread liver (Egyptian style), beef brains, mozzarella skewers, falafel, mini beef burgers, mushroom ball, vegetable sticks with cheese dips, tortilla potato, cheese platter, black bao scrambled eggs, white bao salmon cream cheese, couscous salad, pasta salad, summer green salad, finger desserts, mini pancakes, fruit sticks.
+7. Additional services: 2 tables with tablecloths, fresh squeezed orange juice, all plates, cutlery, and glasses, juice jugs with fruit water, 3 layers black boards, 3 tier board wooden.
+8. Service timeframe: Service from 11:00 to 15:00.
+9. Agreed price: €1500.
+10. Setup inquiry: Question about when the setup will happen.
+11. Additional inquiry: Requested coffee and tea cups/mugs; confirmation that the coffee machine is available.
+12. Equipment rental: Coffee and tea cups/mugs would have to be rented.
+13. Staffing inquiry: Added request for one more waitress.
+14. Inquiry about decorations: Asked if flower decorations would be provided.
+15. Confirmation: Confirmation that plastic flowers would be used for decoration.
+16. Inquiry about setting up equipment before the event: Asking if equipment can be brought a day before.
+17. Additional pricing inquiry for BBQ catering: Quote of €100/person + VAT for BBQ, with 4 types of meats, 4 mini tapas, with potato, salads, and desserts included.
+18. Last confirmation date: Inquiry about the latest date to confirm the BBQ event.
+19. Postponement notice: Notification about postponing the BBQ date.

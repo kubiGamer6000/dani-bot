@@ -1,0 +1,8 @@
+1. Customer inquiry: 4 food boxes for delivery in Elviria, specifically no pork.
+2. Pickup inquiry: Customer will pick up at 1pm.
+3. Delivery time: Customer requests delivery at 1pm.
+4. Food preferences: 
+   - No pork
+   - Requested items include cheese, salmon, chicken, and mini burgers.
+   - Customer also mentions including eggs.
+5. Payment inquiry: Customer asks if payment can be made via Bizum.

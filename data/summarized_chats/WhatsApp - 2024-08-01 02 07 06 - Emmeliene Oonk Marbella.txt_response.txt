@@ -1,0 +1,39 @@
+1. Customer inquiry: Do you also do tapas/platers for dinners that are not events?
+2. Catering options inquiry: Could you send some options we can choose from?
+3. Customer inquiry: I sent you an email a few days ago about catering for my birthday the 2nd of May. Could you take a look at it?
+4. Guest count: Approximately 15 people (waiting for confirmation).
+5. Event type: Informal setting, interested in the BBQ package on the website.
+6. Equipment inquiry: Could you put the costs of the equipment hire in the quotation?
+7. Proposal request: Could you send me a proposal for the table setting and the BBQ package?
+8. Pricing for BBQ & salad menu: €80/person + VAT, with table & chairs starting from €600 + VAT.
+9. Access inquiry: Do you have access a day before the event?
+10. Setup preference: Would you like setup inside the house or outside terrace? (Customer prefers outside if not raining.)
+11. Final details inquiry: When do you need to know the final details?
+12. Customer's availability: Available to discuss final details over the phone the week before the event.
+13. Downpayment inquiry: Is it also possible to discuss the final details over the phone?
+14. Table decoration request: I would like a nice table decoration if possible.
+15. Menu request: Could you send me a ‘menu’ with what kind of food we will get?
+16. Dietary accommodation: Switch the chicken skewers into salmon (for a customer who doesn’t eat meat).
+17. Starter menu:
+   - Prawn tempura
+   - Vegetable spring rolls
+   - Melting camembert bites
+   - Mini ham croquettes
+18. BBQ menu:
+   - Mini beef burgers
+   - Salmon skewers
+   - Beef entrecôte
+19. Side dish menu:
+   - Greek salad
+   - Pasta salad
+20. Dessert menu:
+   - Finger desserts including macaroons, mini brownies, cheesecake pots
+21. Birthday decoration request: Is it possible to arrange a decoration with the number 21 for the birthday?
+22. Delivery service inquiry: Is delivery also an option for platters?
+23. Delivery inquiry: Is 19:30/20:00 also possible for delivery?
+24. Location request: Can you send the location for the deliverance?
+
+25. Additional services inquiry: Can you book a chef as well?
+26. Request to confirm arrival time: At what time will you arrive?
+27. Tableware inquiry: Are the plates and glasses included in the table decoration?
+28. Confirmation of menu options: Can we switch the mixed leaf salad into a pasta salad?

@@ -1,0 +1,20 @@
+1. Event details: Hosting a party on Wednesday
+2. Meeting inquiry: Interested in discussing the party details
+3. Menu details:
+   - Homemade Guacamole with tortilla
+   - Finger food (8 types)
+   - Burrata salad
+   - Greek salad
+   - Tomato and rocket salad
+   - Bruschetta with various toppings
+   - Finger desserts with fruits on top
+   - Truffles
+4. Beverage options:
+   - Aperol spritz
+   - Gin and tonic
+   - Mojito/Pina colada
+   - Milkshake (for kids)
+5. BBQ information: Starts at 7:30 PM, finishes at 10:00 PM
+6. Pricing: €1500 + VAT
+7. Payment status: Already paid
+8. Inquiry about animator arrival time.

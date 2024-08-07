@@ -1,0 +1,13 @@
+1. Customer inquiry: Hosting a party on February 14th and looking for catering.
+2. Inquiry about service: Do you have brunch/breakfast packages?
+3. Guest count: Total of 9 people, but 2 are kids aged 8 and 12 who won't eat as much.
+4. Menu inquiry: Can you show me some menus?
+5. Menu information: Recommended to look at menus available at https://linktr.ee/danis_catering_marbella; bespoke packages can be created based on preferences (buffet, service, decoration, timings).
+6. Food preparation inquiry: Do you make the food at my house or before?
+7. Preparation options: Food can be cooked on-site or prepared in the restaurant, depending on the customer's preference.
+8. Brunch menu request: Looking for a brunch menu including fruits, sweets, eggs, and bacon.
+9. Request for quote: Can you make a quote for everything needed, including food items and pricing?
+10. Pricing inquiry: Request for quote to include prices.
+11. Menu request: Request to put together a full menu in writing, detailing what is being provided.
+12. Request for delivery timing: Need catering on February 14th for breakfast around 9 o’clock.
+13. Confirmation of availability: Confirmed that the requested service is possible.

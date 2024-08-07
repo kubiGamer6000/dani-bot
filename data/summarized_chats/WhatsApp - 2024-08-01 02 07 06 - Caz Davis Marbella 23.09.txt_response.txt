@@ -1,0 +1,29 @@
+1. Customer inquiry: Request for a buffet with different cold and hot options for a party on September 23 for 20 people.
+2. Menu inquiry: Customer asks for options, prices, and availability for the buffet.
+3. Availability: Confirmed availability for September 23.
+4. Package options provided:
+   - Package 1: Cold food only - €35/person + VAT.
+   - Package 2: Cold & hot food and service - €45/person + VAT.
+   - Package 3: Food, drinks, and service - €60/person + VAT.
+5. Food items included in the packages:
+   - Chicken tacos
+   - Mini beef burgers
+   - Mini mushroom burgers
+   - Prawn tempura
+   - Salmon and cream cheese
+   - Serrano ham and fig tapa
+   - Pita bread with roasted pepper and cheese
+   - Vegetable sticks and crudités dips
+   - Fruit skewers
+   - Mini dessert bites
+6. Service details: 
+   - Setup and collection of equipment the next day.
+   - Decorated display boards with flowers.
+   - Service includes food served by staff, cleaning, and clearing for up to 4 hours.
+7. Customer confirmation: Package 2 ordered for 20 people at 6pm on September 23.
+8. Venue visit inquiry: Request to visit the venue prior to the event.
+9. Payment inquiry: Customer asks if it is possible to prepare cash on arrival.
+10. Payment amount confirmed: €990 for Package 2 (without BBQ) including VAT.
+11. Cash payment option: Possible to pay without VAT if a receipt is not needed.
+12. Event address provided: 29679 Benahavís Málaga, Spain, with specific instructions on accessing the venue.
+13. Follow-up message: Inquiry about renting the venue post-event, but confirmation given that it is not available for rent.

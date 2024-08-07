@@ -1,0 +1,27 @@
+1. Customer inquiry: Catering for 17 people on Wednesday, August 11, starting at 4 PM until night.
+2. Request for a waiter to assist with food and drinks, and inquiry about having a bartender because a bar for drinks is available.
+3. Menu inquiry: Bocconcini, Caprese, hamburgers, croquettes, ceviche, cheeses, Spanish tortilla, milk bread rolls, chicken lollipops, and suggestions for similar items.
+4. Cuisine preference: Japanese and Italian.
+5. Additional services inquiry: Delivery inquiry for children’s catering on August 1st, with requests for food, snacks, and dinner.
+6. Dietary requirements: Menu for children must be fructose, lactose, and sorbitol-free.
+7. Event inquiry: Availability for a gender reveal event on November 4 for 50 people with a welcome cocktail, halal catering, and limited ham and cheese offerings.
+8. Pricing inquiry for hamburger and nuggets catering for a child's birthday.
+9. An event request asking for a total price of €450 + VAT.
+10. Delivery inquiry: Delivery option available for €25 + VAT.
+11. Event setup request: Inquiry about service and decoration options for a catering event.
+12. Menu details for a catering order on March 17: includes charcuterie tray, cheese plate, various mixed plates, Asian plate with shredded pork and chicken, mini hamburgers (40 units), canapés, and sandwiches.
+13. Total price quoted for mini burgers and delivery: €150 including delivery.
+14. Request for pick-up confirmation for a catering order on June 17 at 3 PM.
+15. Pricing and service flexibility inquiry: Checking if food can be brought earlier for an event starting at 5 PM. 
+16. Delivery and pick-up location: Calle Bruselas addressing, and changing the delivery location for a last-minute request on June 26 for mini burgers and fries.
+17. Payment method specified: Cash for delivery services. 
+18. Confirmation of delivery address for events in Marbella. 
+
+----------------------------------------------------
+
+1. Customer inquiry: Catering requested for 15 pink mini burgers and fries for a last-minute request on June 26.
+2. Pricing inquiry: Quoted total of €150, including delivery. 
+3. Confirmation request for event setup on June 17 at a specific time.
+4. Delivery instructions: Clarification about location for delivery and event timing. 
+
+This clean separation of information helps distinguish different customer interactions regarding catering inquiries and events scheduled.

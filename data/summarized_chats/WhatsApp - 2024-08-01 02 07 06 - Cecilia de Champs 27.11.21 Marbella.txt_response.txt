@@ -1,0 +1,33 @@
+1. Customer inquiry: Interested in a 4-5 course dinner.
+2. Menu request: Would like to see the type of food typically prepared for 4-5 course dinners.
+3. Menu proposal: 
+   - Canapés:
+     - Russian caviar on toast
+     - Scottish smoked salmon belini
+     - Foie gras and caramelized onion
+     - Live opening fresh oysters
+   - Tasting menu:
+     - Beef carpaccio, rocket, and port reduction
+     - Scallop with pea purée and butter sauce
+     - Black linguini with king shrimp and cherry tomatoes
+     - Grilled wagyu filet glazed with truffled mushroom potato
+     - Dessert: chef’s surprise
+4. Menu customization: Customer expresses concerns about the quality of meat for a large group and requests alternatives like slow-cooked salmon.
+5. Dietary requirements: One couple is gluten/dairy free; looking for options for them.
+6. Suggestion: Make all dishes have Bond-themed names.
+7. Customer feedback: Likes the proposed menu but emphasizes the importance of chocolate for the dessert.
+8. Entertainment inquiry: Interested in hiring entertainment and decorations for a James Bond themed party.
+9. Decoration inquiries: Wants to ensure all decorations, including name tags and backdrops, are properly planned and executed.
+10. Booking confirmation: Inquires about confirming details for the event on November 27.
+11. Service terms: Discussing 50% deposit and arranging the necessary details with a marketing company.
+12. Additional service inquiries: Asks about the hiring of tables, chairs, and decorations as separate costs.
+13. Event details: Clarifies guest count (initially around 17) and dietary preferences for guests.
+14. Communication preferences: Prefers to discuss details over coffee and emphasizes being excited for the planning process.
+15. Additional inquiries: Inquires about the inclusion of coffee and moscato d’asti with dessert.
+16. Customer offers: Willing to use personal items like coffee mugs and help arrange flowers for the event.
+17. Description of entertainment options: Discusses possible live music options such as a saxophonist for the dance part of the evening.
+18. Pricing concerns: Compares catering costs with a Michelin restaurant and emphasizes transparency on pricing.
+19. Request confirmation of services and final details for planning.
+20. Finalizing menu and seating arrangements, including special menus for guests with dietary restrictions. 
+
+This conversation contains numerous details and inquiries that fall under catering services, making it relevant for training the chatbot.

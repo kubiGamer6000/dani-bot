@@ -1,0 +1,4 @@
+1. Customer inquiry: Baby shower for approximately 45-50 people
+2. Catering option inquiry: Interested in takeaway catering
+3. Food quantity recommendation request: Asks for recommended food quantity
+4. Menu options and pricing inquiry: Requests options and prices for the catering

@@ -1,0 +1,30 @@
+1. Customer inquiry: Dinner for June 3.
+2. Menu options:
+   - Spanish dinner style at €100/person + VAT
+   - Starters:
+     - Beautiful tapas sharing platter
+     - Mini beef taco
+     - Serano, brie & membrillo
+     - Langostinos pill pill
+   - Main course choices (choose 1, additional €20/person for a second main):
+     - Oven baked dorada
+     - Octopus Galicia
+     - Seafood paella
+     - Beef entrecôte
+     - Beef tomahawk
+     - BBQ mix platter
+     - Chicken butterfly
+     - Lamb leg
+   - Two side dishes included.
+   - Dessert: Chef mini finger dessert platter, fresh fruit skewers.
+3. Equipment request: Customer inquires about bringing small tables for guests.
+4. Guest count: 7 persons.
+5. Address for service: Calle Diego de Almagro 1521, Altos de la Quinta, Benehavis.
+6. Arrival time for service: 20:00 on June 3.
+7. Confirmation request for service details.
+8. Payment details:
+   - Food cost: €700 + VAT
+   - Equipment cost: €50 + VAT
+   - Total net: €750 + VAT
+   - VAT: €150
+   - Grand total: €900.

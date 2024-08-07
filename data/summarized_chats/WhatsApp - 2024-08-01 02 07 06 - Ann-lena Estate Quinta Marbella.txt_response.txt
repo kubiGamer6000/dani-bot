@@ -1,0 +1,16 @@
+1. Customer inquiry: Can we have one BOX of this for Thursday the 5th of January at 9:30 in the morning?
+2. Delivery inquiry: Delivery to home if possible?
+3. Pricing inquiry: How much for 50 plus delivery?
+4. Delivery charge: Usually charges €25 for delivery, but if taking 2 boxes, delivery can be free.
+5. Customer request: Make another nice little box for delivery to Calle Alcalá, casa 17B.
+6. Meal type inquiry: Amazing- you wanted breakfast or more brunch style?
+7. Meal choice: Brunch requested for the order on the 5th.
+8. Order details: Customer ordered "BREAKFAST BOXES" for the 9th of March delivery at 09:00.
+9. Event details: It is a birthday breakfast for 50 years, and customer requested "bimbo sandwiches" for one box and left the rest up to the catering service.
+10. Number of boxes inquiry: How many boxes would you like? Customer confirmed 3 boxes.
+11. Box type: Customer specified 1 sweet and 2 salty boxes.
+12. Pricing confirmation: €150 will be perfect for the order on the 9th of March.
+13. Customer reminder: Just a gentle reminder for the surprise breakfast delivery at 9am.
+14. Inquiry about Easter boxes: Any EASTER BOXES?
+15. Service confirmation: Yes, we can create some boxes for Easter, and I will come back with ideas.
+16. Customer request: Open to suggestions for finger food/snack that is not sweet, with an Easter look.

@@ -1,0 +1,4 @@
+1. Customer inquiry: Request for packages for regular private chef services.
+2. Guest count: 2 adults, 1 child under 3 years.
+3. Pricing for private chef: Fixed rate of €150 per service plus groceries bill based on the number of guests.
+4. Menu inquiry: Questions about the number of dishes provided and whether weekly menus are prepared.

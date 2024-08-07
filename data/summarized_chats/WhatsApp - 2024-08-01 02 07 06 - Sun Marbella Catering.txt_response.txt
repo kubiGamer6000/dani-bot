@@ -1,0 +1,6 @@
+1. Customer inquiry: Cost for home catering, BBQ style for 8 guests.
+2. Date inquiry: Next week and the week after.
+3. Event details: Customer confirmed the date for August 4th.
+4. Service availability: Confirmation of availability for August 4th.
+5. Pricing: €75/person for Spanish tapas, 4 types of meat BBQ, 3 salads, and a chef's dessert; customer to provide their own drinks and BBQ equipment.
+6. Staffing details: The service will include the customer and an assistant for BBQ and drinks service.

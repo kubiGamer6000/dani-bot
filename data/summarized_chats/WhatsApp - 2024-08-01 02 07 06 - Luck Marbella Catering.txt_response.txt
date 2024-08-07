@@ -1,0 +1,8 @@
+1. Customer inquiry: Price for catering for 40 people.
+2. Event details: Birthday on April 3, at a home in Marbella.
+3. Catering options inquiry: Snack food; interested in options with or without drinks.
+4. Pricing packages offered:
+   - Package 1: €25/person, includes party style snack canapés, light equipment hire, service staff for setup, service, and assistance with serving drinks.
+   - Package 2: €50/person, includes party style snack canapés, wine, beer, and soft drinks for 3 hours, bar tables, glasses, ice, ice buckets, light equipment hire, service staff for setup, staff service and help.
+5. Customer preference: Interested in Package 1 (€25/person) and requested information about the included food.
+6. Types of food included in Package 1: 8 varieties of party food, with a good mix of mini burgers, tapas, canapés style, fruit platters, vegetables, and dips.

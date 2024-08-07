@@ -1,0 +1,5 @@
+1. Customer inquiry: Request for the platters menu.
+2. Takeaway inquiry: Breakfast box for 2.
+3. Delivery address provided: Farmacia internacional San Pedro. Calle Lagasca San Pedro de Alcántara.
+4. Delivery time confirmed: 10 am.
+5. Customer requests to ask for Ana Mari and Hind.

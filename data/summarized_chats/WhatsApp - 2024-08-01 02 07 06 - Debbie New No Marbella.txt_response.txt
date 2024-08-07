@@ -1,0 +1,4 @@
+1. Customer inquiry: Request for tables and chairs for catering services.
+2. Request for information: Need information on day-to-day items, referred to as "Bread and butter lines."
+3. Catalog request: Ask for price information to help with financial forecasts.
+4. Request for pricing: Customer asking for a price list.

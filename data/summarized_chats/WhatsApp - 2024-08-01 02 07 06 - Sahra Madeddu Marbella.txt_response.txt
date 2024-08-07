@@ -1,0 +1,37 @@
+1. Customer inquiry: Prices for baby shower catering and information on how it works.
+2. Service package: Party package starting from €40 per person.
+3. Additional service inquiry: Is the waiter service only for the package on page 12 of the catalog?
+4. Customer request: Services with pricing for an event on January 27.
+5. Menu inquiry: Asking if it is possible to add pieces to a specific menu item.
+6. Individual pricing: €2.50 per piece.
+7. Pricing for various menu items:
+   - Medium hamburgers: €4.50 + VAT.
+   - Mini hamburgers: €2.50 + VAT.
+   - Pita: €2.50 + VAT.
+8. Customer order confirmation for January 27.
+9. Booking procedure inquiry: How to reserve and payment details.
+10. Menu selection:
+    - Canapés | 36 pieces | 5 options: 
+      - Mini shrimp tartare sauce
+      - Mini fish and chips
+      - Mini burrata caprese
+      - Egg mayonnaise
+      - Russian salad
+    - Mini pita | 24 pieces: Hummus and Greek salad.
+11. Mini hamburger options: Fried chicken and fish.
+12. Total for 3 boxes: €165.
+13. Additional request: Asking for a mini menu to include flavors for the selection shared.
+14. Packing request: For the canapés and pita to indicate which is which for the customer's friends.
+15. Confirmation for event setup and payment process.
+16. Inquiry on whether dietary options such as halal meat are available.
+17. Customer request: Adding a plate of croissants with specific flavors (feta, egg, salmon, mozzarella).
+18. Final details about the pickup arrangement for food orders.
+19. Inquiry: Can the flavors for sandwiches be changed?
+
+*Conversation Summary for the Final Invoice and Payment:*
+1. Total for the final order of 7 boxes: €425 with delivery included.
+2. Payment method: Cash payment upon delivery, with a request for a final invoice.
+3. Mention of specific dietary requirements (no pork, halal meat, and allergy information needed for seafood).
+
+*Additional customer feedback:*
+- Praise for the quality of food and specific mention about one item being a bit dry, but overall satisfaction with the catering service.

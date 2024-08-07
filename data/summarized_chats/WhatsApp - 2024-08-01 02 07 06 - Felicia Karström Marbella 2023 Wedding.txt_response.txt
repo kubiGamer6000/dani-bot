@@ -1,0 +1,12 @@
+1. Customer inquiry: Price estimate for a wedding of around 80 guests.
+2. Menu inquiry: 
+   - 3 course dinner 
+   - Cocktail before dinner
+   - Tapas/canapés 
+   - Wine/beer with dinner 
+   - Inquiry about free bar availability.
+3. Request for standard table and chairs: Customer confirms they need tables, chairs, and all equipment.
+4. Venue information: Villa Lampara.
+5. Pricing inquiry: Request for a comparison of what is included for 120 vs 170 euros per person.
+6. Request for examples: Pictures of tables and chairs, and an example menu.
+7. Timeline for menu: Customer is informed that menus are still being finalized and will be available in about a week.

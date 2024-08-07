@@ -1,0 +1,8 @@
+1. Booking inquiry: BBQ party for 6 guests starts at 19:00.
+2. Total cost for the BBQ: €600.
+3. Setup time: Arriving at 18:00 for setup.
+4. Allergies or food intolerances inquiry: "Is there any allergies or food intolerances?"
+5. Payment collection: Payment of €600 + €50 shopping for invoice with VAT.
+6. Payment method: Card payment requested with an invoice.
+7. Customer feedback: "Everything went super!"
+8. Invoice request: Customer asking for the invoice again.

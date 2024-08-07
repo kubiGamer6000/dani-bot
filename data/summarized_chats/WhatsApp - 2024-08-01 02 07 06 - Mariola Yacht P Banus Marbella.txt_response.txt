@@ -1,0 +1,9 @@
+1. Customer inquiry: Interested in a collaboration to offer catering services to clients and discuss yacht charters.
+2. Inquiry about sending the catering catalog to a client without logos.
+3. Commission question regarding a previous order.
+4. Inquiry about ordering croissants for clients on short notice.
+5. Delivery inquiry for a croissant platter to port Gate number 1 for a specific time.
+6. Pricing inquiry: Delivery fee of €25 and 10% commission deduction on the total invoice.
+7. Request for a taco platter and sandwich platter for delivery to Puerto Banús.
+8. Specific menu items requested for tacos and sandwiches (Taco- 1./3./5. & Sandwiches- 1./3./4./8.).
+9. Inquiry for payment details: either bank transfer or card payment link.

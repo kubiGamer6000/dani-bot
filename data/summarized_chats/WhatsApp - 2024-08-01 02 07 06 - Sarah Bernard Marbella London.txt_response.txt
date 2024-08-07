@@ -1,0 +1,38 @@
+1. Event inquiry: Anniversary dinner on Saturday, September 23rd
+2. Catering options available: BBQ and tapas
+3. Customization request: Personalized quote and discussion of preferences 
+4. BBQ preference confirmed: BBQ options would be great
+5. Dietary requirements: None specified
+6. Additional services requested: Waitstaff
+7. Event details: 
+   - Date: Saturday, September 23, 2023
+   - Guest count: 8 people
+   - Location: To be confirmed
+   - Starting time: To be confirmed
+8. Services included:
+   - Beautiful setup with equipment
+   - Setup of the table
+   - Service of food and drinks
+   - Private chef for BBQ cooking
+   - 1 staff service included for 4 hours
+9. Tapas menu items:
+   - Gambas al Ajillo (Garlic Shrimp)
+   - Croquetas de Jamón (Ham Croquettes)
+   - Albóndigas (Spanish Meatballs)
+   - Pimientos de Padrón (Padrón Peppers)
+   - Calamares a la Romana (Fried Calamari)
+   - Gazpacho shots
+   - Manchego Cheese with Membrillo
+10. BBQ menu items:
+    - Grilled Ribeye Steaks
+    - BBQ Chicken Skewers
+    - Grilled Shrimp Skewers
+    - Grilled Vegetables (Zucchini, Bell Peppers, Eggplant)
+    - Assorted Gourmet Sausages
+    - Greek Salad
+    - Mediterranean Couscous 
+    - Garlic Bread
+    - Fresh Fruit Skewers
+    - Chocolate Brownies
+11. Price: €120/person + VAT
+12. Offer for customization: Menu can be added or removed as per request

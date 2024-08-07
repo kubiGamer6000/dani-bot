@@ -1,0 +1,45 @@
+1. Customer inquiry: Request for a quote for lunch and dinner (breakfast can be ignored since it will be taken at the hotel).
+2. Catering inquiry: Interested in dressing room catering.
+3. Equipment inquiry: Requesting glasses, kettle, plates, and cutlery in the quote.
+4. Table inquiry: Possibly needing one or two tables, which will be confirmed on Wednesday.
+5. Urgent request: Request for the quote by a specific time before Wednesday.
+6. Venue detail: A small kitchen can be used until 6 PM on Saturday.
+7. Contact request: Asking for an email address to send invitations.
+8. Catering details: Dressing room catering includes:
+   - Fresh fruit
+   - Hot water/kettle
+   - Tea, sugar, honey, and lemon
+   - 4 x 0.5L Coke bottles
+   - 8 x 0.5L mineral water (Evian if possible)
+   - 2 large coffee mugs
+   - 4 small glasses
+   - 12 x 0.5L still water
+   - 1 good quality white wine
+   - 12 local beers
+   - 4 regular Cokes and 4 Coke Zero
+   - Fruit juices
+   - Ice
+   - Cups and glasses
+9. Event capacity: Catering for 15 VIP guests on Saturday.
+10. Food inquiry: Menu for Saturday includes salads, wraps, sandwiches, and hot food platter.
+11. Request for details: Asking for vehicle details and license plates.
+12. Menu detail: List of requested items for catering, estimated on Friday and Saturday.
+13. Urgent need: Requesting three tables for four persons or two for six.
+14. Rental inquiry: Inquiring if the coffee machine can be rented along with coffee.
+15. Inquiry about extras: Need for paper cups, napkins, etc., for both regular and VIP guests.
+16. Confirmation request: Asking how many glasses and plates will be ready and whether they will all be provided.
+17. Lunch details: Lunch on Saturday requested for 15 persons to be delivered at 12:30 PM.
+18. Dinner details: Dinner requested at 7 PM for 15 persons.
+19. Special requirement: Items needed for dinner include:
+   - Knife for lemon
+   - Wine opener
+   - Wine glasses
+   - Various types of water
+   - Kettle
+   - Tables, ice, cups, and bowls for fruits.
+20. Change request: Asking if the order can hold if the guests decide to eat later.
+21. Cooking options: Mentioning options for soups like vegetable cream soup or clear soup.
+22. Request for wine openers: Asking for additional wine openers on the day of the event.
+23. Equipment collection: Arranging a time for collecting the equipment.
+24. Confirmation of logistical details for dropping off food.
+25. Thankful acknowledgment of services provided and positive feedback after the event.

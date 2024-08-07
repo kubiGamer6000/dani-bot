@@ -1,0 +1,12 @@
+1. Customer inquiry: Catering prices for a villa booked in Benahavis for 11 people from September 20-24.
+2. Event details:
+   - September 20: Dinner
+   - September 21: Lunch and dinner
+   - September 22: Lunch
+   - September 23: Dinner
+3. Menu type: Buffet style Spanish food.
+4. Pricing information: 
+   - Lunch: €80/person + VAT
+   - Dinner: €100/person + VAT
+5. Additional services: A chef and an assistant will be available for service included in the price.
+6. Confirmation of availability for the requested dates.

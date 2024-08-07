@@ -1,0 +1,6 @@
+1. Customer inquiry: Order for tomorrow
+2. Order details:
+   - One box of sandwiches: selections 2, 6, 7, and 10
+   - One box of croissants: selections 1, 2, 3, and 5
+3. Pickup time: 10:45 AM on May 14th
+4. Payment arrangement: Request for invoice details to arrange payment

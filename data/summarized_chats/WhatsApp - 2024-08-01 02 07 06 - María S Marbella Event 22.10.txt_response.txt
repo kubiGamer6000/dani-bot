@@ -1,0 +1,25 @@
+1. Customer inquiry: Looking for a caterer for a kids party on 22 October.
+2. Event details: Small house party for an 11th birthday, approximately 15-20 kids.
+3. Menu inquiry: Interested in finger foods like mini burgers, tacos, spring rolls, and snacks for staying adults.
+4. Menu order:
+   - Kids: 2 boxes of mini burgers (40 altogether), inquiry about French fries and nuggets.
+   - Adults: 1 mezze plate, canapés platter including:
+     - Roast baba Ganush
+     - Mini caprese
+     - Mini shrimp
+     - Coronation chicken
+     - Duck and hoisin sauce
+     - Black salmon
+5. Pricing inquiry: Asking if any advance payment is needed to secure the order.
+6. Confirmation: Order confirmed for 22 October, including payment details:
+   - 2 box mini burgers
+   - 1 box nuggets & fries at €50 + VAT
+   - 1 mezze platter
+   - 1 canapés platter
+   - Delivery charge: €25 + VAT
+7. Change request: Request to change 2 boxes of mini burgers to 1 mini burger box and 1 sushi box due to dietary preferences.
+8. Delivery time: Request for delivery at 13:00.
+9. Payment information: Total amount €275 + VAT, which is €302.50.
+10. Payment method inquiry: Asking whether to pay by cash or card, noting cash payment is acceptable.
+11. Issue: Request for a change in the order post-delivery regarding the burger boxes.
+12. Apology: Acknowledgment and resolution for the incorrect order with a replacement for sushi to be sent.

@@ -1,0 +1,26 @@
+1. Customer inquiry: Request for catering next Tuesday for one of their Villas.
+2. Catering details: Clients want catering shared outside at a big table already available at the villa.
+3. Additional service inquiry: Request for a welcome drink.
+4. Guest count: 15 adults and 5 kids.
+5. Event type: Dinner.
+6. Menu inquiry: Suggestions for dinner options including BBQ, salads, and finger food; question about whether the clients know what they want or if a package should be created.
+7. Event Proposal Sheet:
+   - Date: Tomorrow
+   - Time: Start at 21:00
+   - Number of Guests: 20 people
+   - All food will be halal.
+8. Menu Details:
+   - Welcome Tapas: 
+     - Spicy Patatas Bravas, Marinated Olives and Feta Cheese, Smoked Salmon Canapés with Dill Cream Cheese, Grilled Halloumi Skewers with Pomegranate Molasses, Mediterranean Mezze Platter.
+   - Barbecue: 
+     - Meat Options: Juicy Beef Steaks, Tender Chicken skewers, Lamb Koftas, Gourmet Beef Burgers.
+     - Seafood Options: Grilled Fish Fillets, Prawn & Calamari Skewers, Spicy Beef Sausages, Herb-infused Chicken Sausages.
+   - Salads: Various salads including Fresh Mixed Green Salad, Fluffy Couscous Salad, Italian Pasta Salad, Authentic Greek Salad, Crispy Roast Potatoes, Asian Slaw.
+   - Dessert Platter: Chef’s surprise dessert featuring a selection of gourmet delights.
+9. Total Cost:
+   - Total (excluding VAT): €3,000
+   - VAT: 10%
+   - Total (including VAT): €3,300
+10. Additional notes: All dishes prepared in accordance with halal dietary requirements; event commencing at 21:00 with tapas served upon arrival.
+11. Commission included: 10% commission mentioned.
+12. Cancellation notice: Customer informed that the party for today has been cancelled; will reschedule for next week.

@@ -1,0 +1,30 @@
+1. Inquiry about deposit: "Ok lovely do you want me to send over a deposit to secure my date xx"
+2. Deposit policy: "no deposit necessary yet - once we know better of what would you like - we will request payment a week before"
+3. Guest count: "I will need enough food for about 20 people if that’s ok xx"
+4. Food order inquiry: "Hello when would you like me to put in the food order thanks ☺️"
+5. Food order confirmation: "Good morning Dani ok so can I please order"
+6. Menu details included in the order:
+   - Sandwich platter x2: 
+     - BLT
+     - Turkey
+     - Coronation chicken
+     - Ham and cheese
+   - 1 bagel platter: 
+     - Egg 
+     - Nutella 
+     - Spicy chicken curry 
+     - Caprese
+   - Mini burgers: 
+     - Beef 
+     - Chicken
+   - Pitas: 
+     - Hummus & red pepper 
+     - Chicken kebab
+   - Sushi
+   - Greek salad
+   - Strawberry lemonade
+7. Inquiry about sufficiency of food: "Would you say this is enough for 20 people as this is just food for us whilst we get ready for my wedding ? XXX"
+8. Delivery inquiry: "You wanted delivered?? For €25 + vat ?"
+9. Service area note: "Unfortunately we don’t deliver to malaga, we only cover Marbella"
+10. Pick-up option: "Could I get someone to pick it up ?" and "Definitely"
+11. Cancellation notice: "Hello I’m going to have to cancel I don’t have anyone to come and pick it up 😢 sorry again x"

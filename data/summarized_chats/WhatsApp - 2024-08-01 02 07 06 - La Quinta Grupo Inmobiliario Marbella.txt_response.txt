@@ -1,0 +1,23 @@
+1. Customer inquiry: Can you provide us with some options that you usually do for open houses? It is between 1 PM and 5 PM, and we want the typical ones, like those you have done with Solvilla. 
+2. Event details:
+   - Date: Tuesday, September 6, 2022
+   - Guest count: 100
+   - Time: 1:00 PM - 5:00 PM
+3. Menu items:
+   - Selection of wraps and sandwiches
+   - Selection of party food
+   - Selection of cakes
+   - Vegetable sticks and dips
+   - Fruit skewers
+   - Beautiful table presentation
+   - Tea and coffee station
+   - Fresh orange juice
+   - Sparkling and still water
+4. Included services:
+   - All equipment included
+   - Staff service charge: €40 per person + VAT
+5. Additional service inquiry: If you want a DJ, we can also arrange that for €500 + VAT.
+6. Customer inquiry: Is this the only option?
+7. Customer inquiry: Is all this true? What does "selection of party food" mean?
+8. Customer inquiry: Does this not include beer or wine?
+9. Response: If you want, we can meet and elaborate this - the standard that offers Solvilla - no wine - no beer.

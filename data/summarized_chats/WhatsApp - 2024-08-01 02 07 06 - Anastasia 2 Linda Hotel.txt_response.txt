@@ -1,0 +1,19 @@
+1. Event inquiry: Organizing a get-together for a birthday and interested in ordering finger food for 15 people.
+2. Suggestion for food: Cheese platter, one meat platter, one fish platter at €50/platter, and sandwich boxes.
+3. Inquiry about individual portions: Asking for individual portions in small bowls.
+4. Menu inquiry: Interested in what is possible to include in the small bowls.
+5. Budget inquiry: Looking for offers around €15 per person for a budget-friendly option including a cheese platter, fruit platter, croquetas, and bowls.
+6. Warm food inquiry: Asking if warm options are available.
+7. Order confirmation: Confirming an order of 1 meat platter, 1 cheese platter, 1 sushi platter, 1 salad platter, and 1 sandwich/wrap platter including gluten-free options.
+8. Budget confirmation: Attempting to fit the order within a €200 budget.
+9. Pricing discussion: Discussing pricing for 5 platters and confirming adjustment to drop sushi to fit the budget.
+10. Inquiry for birthday drinks: Organizing small drinks for 25 people and inquiring about drinks and snacks.
+11. Minimum budget inquiry: Asking about the minimum budget for good wine, soft drinks, and snacks for 25 people.
+12. Service inquiry: Asking for pricing on staff service for the event.
+13. Event package options:
+    - Package 1: White & rosé wine, 1 staff service, light nibbles (nuts, crisps, olives), beautiful decoration table setup for €1000 + VAT.
+    - Package 2: White & rosé wine, 2 staff service, 8 types of finger party food, beautiful decoration table setup for €2000 per person + VAT.
+14. Nibbles details request: Asking for more details about the nibbles in Package 1 and if it can be done without a waitress.
+15. Cash payment inquiry: Asking if cash payment is possible and if VAT can be waived.
+16. Nibbles selection: Offering a selection of crisps, olives, tortilla and dips, vegetable sticks, and nuts in Package 1.
+17. Pricing without staff: Confirming the cost would be €750 without the waitress.

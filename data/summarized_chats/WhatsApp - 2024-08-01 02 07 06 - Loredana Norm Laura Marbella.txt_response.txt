@@ -1,0 +1,19 @@
+1. Inquiry about daily deliveries: "Laura told me that you make daily deliveries."
+2. Asking about services: "Do you have this kind of service?"
+3. Delivery time inquiry: "I wanted to ask what time the delivery will arrive as I need to go to the villa to prepare everything."
+4. Pricing inquiry: "Dani, tell me how much the food costs please."
+5. Inquiry about food orders around Christmas: "I was thinking to order some food from you if you are working."
+6. Order details:
+   - Requesting "sarmalute" (stuffed cabbage rolls) for Christmas.
+   - Interested in ordering "salata boeuf" (beef salad) and "salata de vinete" (eggplant salad).
+   - Asking if more items are available and requesting to be informed about them.
+7. Confirming order date: "I’ll schedule you for the 24th, won’t I?"
+8. Guest count for "salata boeuf": Requesting two portions of "salata boeuf."
+9. Offering platters for presentation: "Do you want to give me some platters to arrange them?"
+10. Coordinating location for picking up food: "Please send me a location to get the platters."
+11. Delivery coordination: "When you can send me a location - I’ll bring the goodies."
+12. Confirming location and time for pick up: "I think I will manage to get there at 3-4 - I’ll write to you when I leave."
+13. Inquiry about sending someone for a task: "Can you send someone down, please?"
+14. Invitation for an event on November 4th, 2023: "Join us for Dani's birthday on Saturday, November 4th, 2023, from 19:00 to 23:00."
+15. Event details: "The event guarantees an unforgettable experience filled with delicious food, refreshing drinks, exciting entertainment, and more surprises."
+16. RSVP required for event attendance: "To secure your attendance, kindly RSVP using the link provided."

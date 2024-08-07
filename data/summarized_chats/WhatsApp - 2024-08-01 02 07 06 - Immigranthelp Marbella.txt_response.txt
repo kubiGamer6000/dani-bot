@@ -1,0 +1,7 @@
+1. Customer inquiry: Canapés for eight people today.
+2. Price inquiry: €500 for canapés.
+3. Customer comment: "Sooo expensive."
+4. Alternative offer: "We can do standard price another time with another occasion."
+5. Customer clarification: "It’s takeaway."
+6. Customer budget: Ready to spend €200 for food today.
+7. Response: Unable to organize canapés due to being fully booked with another event.

@@ -1,0 +1,8 @@
+1. Customer inquiry: Order for tomorrow for Irina Gnuni
+2. Pickup time: 12:30 PM approximately
+3. Order details:
+   - 2 boxes of mini burgers (1 beef & 1 pulled pork, 1 chicken & 1 truffle mushroom)
+   - 1 box dessert platter
+   - 1 box fruit platter
+4. Burger specifications: Normal white burger bread instead of colored burgers
+5. Confirmation of pickup time: Will pick up the order at approximately 12:30 PM

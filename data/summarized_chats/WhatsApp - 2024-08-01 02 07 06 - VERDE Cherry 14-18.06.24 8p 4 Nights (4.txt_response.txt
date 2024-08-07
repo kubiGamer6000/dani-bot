@@ -1,0 +1,9 @@
+1. Customer inquiry: Interested in catering for a dinner night during their upcoming 4-night stay at Villa Verde in Marbella.
+2. Menu inquiry: Menus provided for perusal and offers for customization.
+3. Booking inquiry: Request to book a BBQ lunch for 8 guests on Sunday, June 16th.
+4. Custom package inquiry: Desire to create a custom package for a dinner party with a BBQ.
+5. Booking confirmation: Confirmation of booking for half a day (breakfast and dinner) on Sunday, June 16th, for 8 guests.
+6. Date change request: Customer requested to move the private chef booking from Sunday, June 16th to Monday, June 17th.
+7. Deposit mention: Customer willing to transfer a deposit in euros to secure the booking for Saturday, June 15th. 
+8. Service availability: Confirmation of availability to cater on the new requested date (Saturday, June 15th). 
+9. General service inquiry: Mention of needing to discuss menus and payment two weeks prior to the event.

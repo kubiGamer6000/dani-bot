@@ -1,0 +1,19 @@
+1. Customer inquiry: Coordination for a meeting.
+2. Customer inquiry: Request for information to be sent via email.
+3. Event inquiry: Cocktail event for approximately 200 people, later clarified to be for 250-300 guests.
+4. Request for details: Please include the number of waiters, payment method, and videos of setups at significant locations along with images of the most sophisticated buffets.
+5. Event inquiry: Budget request for a small service for an experience at a store in Puerto Banus.
+6. Service details: A one-hour service with one waiter for 5 people with 4 or 5 canapés per person.
+7. Additional request: Inquire if the pricing includes a waiter.
+8. Canapé menu options:
+   - Mini breadsticks with carpaccio or cured ham
+   - Roquefort cheese and white grape skewers
+   - Mini veal cutlet served in a pop cake format
+   - Salmon with crème fraiche
+   - Brick pastry cones filled with artichoke mousse and truffle caviar
+9. Cocktail option: Bellini (Prosecco and peach puree).
+10. Pricing information: 
+    - Cost per person: 150 euros 
+    - Total cost: 750 euros for 5 guests 
+    - Plus VAT. 
+11. Service guidelines regarding trays, napkins, branding, bar service, and staff duties to ensure a high-quality experience.

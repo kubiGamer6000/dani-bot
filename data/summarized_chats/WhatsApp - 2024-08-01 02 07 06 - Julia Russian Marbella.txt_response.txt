@@ -1,0 +1,50 @@
+1. Customer inquiry: Event planning for July 25th at a villa in Marbella
+2. Cuisine preference: Italian cooking including:
+   - Pasta with seafood
+   - Truffle
+   - Beef
+   - Fish
+   - Seafood
+   - Clams
+   - Green salads with mozzarella
+   - Grilled octopus
+3. Guest count: 6 people
+4. Meal timing inquiry: Afternoon
+5. Pricing inquiry: €150 per person
+6. Communication preference: WhatsApp for inquiries
+7. Additional services mentioned: Thanking for the service
+8. Future booking: Planning a menu for June for 15 people, celebrating a wedding anniversary
+9. Preferences: Guests prefer steak and vegetables
+10. Menu proposal for June 27:
+    - Standard *3 course dinner* @ €100 + person + VAT
+    - Itemized extras: Extra starter €15/person + VAT, extra main course €25/person + VAT, extra dessert €15/person + VAT
+11. Menu details included:
+    *Starters* options:
+    - Foie gras with fig compote and toasted brioche
+    - Caprese salad with burrata cheese, heirloom tomatoes, and balsamic glaze
+    - Beef tartare
+    - Shrimp cocktail
+    - Prawn pil pil
+    *Main course* options:
+    - Dry-aged beef steak with truffle mashed potatoes and garlic green beans
+    - Rack of lamb with roasted root vegetables
+    - Duck à l'orange
+    - Lemon & herb chicken skewers
+    - Beef & vegetable kebabs
+    - Grilled shrimp skewers
+    - Pan-seared scallops with champagne cream sauce and truffle risotto
+    - Lobster thermidor
+    - Veal osso buco Milanese with saffron risotto
+    - Beef tomahawk with red pepper sauce
+    *Dessert* options:
+    - Chocolate lava cake with vanilla ice cream
+    - Fresh berry tart
+    - Lemon cake with pomegranate syrup
+    - Homemade Italian tiramisu
+    - Fruit platters & kebabs
+12. Inquiry about commission: 10% including VAT
+13. Cost clarification: €110 cover for chef and food
+14. Meal pricing for the following days detailed:
+    - Dinner: €1500 + VAT
+    - Breakfast: €900 + VAT
+    - Total for multiple days summed up, including VAT for final amount of €9900

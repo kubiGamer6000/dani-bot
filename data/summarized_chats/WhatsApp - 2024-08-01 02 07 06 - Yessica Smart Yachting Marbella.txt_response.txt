@@ -1,0 +1,39 @@
+1. Customer inquiry: Catering for 30 guests on a boat.
+2. Event details: Event is on July 26, from 7 PM to 1 AM, for a private event.
+3. Catering request: Special catering with beverages for a 6-hour event.
+4. Initial suggestion: A brunch but later confirmed to be a dinner event.
+5. Package offered:
+   - Package 1 includes finger party food:
+     - Salmon and caviar bun
+     - Selection of gyozas
+     - Pulled chicken and lime taco
+     - Pulled pork & BBQ taco
+     - Langostinos tempura
+     - Mini beef burgers
+     - Selection of sushi
+     - Mini vegetarian burgers
+     - Meat charcuterie board 
+     - Selection of cheeses 
+     - Vegetables and dips
+   - Unlimited drinks: Premium Cava, white and rose wine, beers, organic homemade lemonades, still sparkling water, etc.
+   - Beautifully decorated table buffet included.
+   - Price: €100/person + VAT.
+6. Commission inquiry: A query about whether there is any commission included in the pricing.
+7. Adjusted pricing: Adjusted price for commission inclusion to €110/person to account for a 10% commission.
+8. Staffing inquiry: Clarification on whether staff will be provided for service or if that is separate.
+9. Additional services inquiry: Request for additional options for catering packages.
+10. Customer request: Full menu with prices requested.
+11. Quotation for catering on 21st July for 10 guests, with a budget of €300 to €400, no drinks necessary.
+12. Catering options for large groups discussed, including finger food, sandwiches, fruits, and vegetables dips.
+13. Delivery inquiry: Availability for a catering order for June 17 for 11 people, contact about timing and a specific request for cooling.
+14. Booking confirmation: For multiple charters, including a custom menu for each booking.
+15. Invoice inquiry: Customer requesting invoices for various pending payments.
+16. Payment confirmation: The client confirming that payment has been settled.
+17. Changes to bookings: Discussions about altering reservations based on weather conditions.
+18. Menu details: Specific catering options requested for upcoming charters including different platters and seasonal offerings.
+19. Special requests: Customer inquiries around dietary preferences and menu adjustments.
+20. Commission details: Clarification on commission percentage for various services.
+21. Service area mention: Confirmation that catering is valid for the designated service area related to bookings.
+22. Engagement with Accounting: Ongoing communication about payment schedules and reminders for outstanding invoices. 
+
+Each item contains specific information about bookings, catering options, pricing, and inquiries related to Dani's Catering services, emphasizing the richness in details needed for a customer service chatbot.

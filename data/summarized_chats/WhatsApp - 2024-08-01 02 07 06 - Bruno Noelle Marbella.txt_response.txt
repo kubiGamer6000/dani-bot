@@ -1,0 +1,4 @@
+1. Customer inquiry: Booking service for dinner in a villa for 9 people on April 29th.
+2. Menu inquiry: Interested in a large paella.
+3. Pricing: €100 per person + VAT for paella and tapas dinner.
+4. Guest count: 9 people.

@@ -1,0 +1,4 @@
+1. Inquiry about cost: "What will it cost?"
+2. Location for service: Benahavis
+3. Service cost: €250 for one hour
+4. Customer's budget: "I have a budget of €150."

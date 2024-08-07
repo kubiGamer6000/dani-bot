@@ -1,0 +1,12 @@
+1. Customer inquiry: Need to organize the birthday party for my son, 5 years old.
+2. Food inquiry:
+   - Mini pizza and nuggets for kids
+   - Hummus, babaganoush, and guacamole dips for adults
+   - Mixed of 8 hot and cold tapas
+3. Menu confirmation: Is it still the same menu?
+4. Guest count: 15 - 20 guests, including kids.
+5. Service options:
+   - Package 1: €40/person + IVA, kids half price; buffet cold finger party food, 8 different types selection, beautiful display, setup, and collection next day.
+   - Package 2: €60/person + IVA, kids half price; buffet cold finger party food, 8 different types selection, finger desserts and fruit skewers, staff service for 4 hours, equipment hire, beautiful display.
+   - Package 3: €80/person + IVA, kids half price; BBQ & finger party food, includes mini beef burgers, chicken skewers, sausages, salads, finger food, beautiful decorated buffet table, staff service for max 4 hours. Drinks package available for an additional €30/person + IVA.
+6. Customization: Packages can be personalized based on the customer's taste.

@@ -1,0 +1,10 @@
+1. Customer inquiry: Need a tent.
+2. Customer context: For my clients.
+3. Availability inquiry: Is it possible to set up in a terrace?
+4. Equipment inquiry: Customer asks about alternative options for a tent.
+5. Response: "Sorry, I don’t have tents that fit that space."
+6. Customer inquiry: Is there another option? 
+7. Response: "No, I'm sorry. I don't have that type of product."
+8. Date inquiry: "What date?"
+9. Availability for requested date: December 31 - customer mentions it's okay to have it set up earlier.
+10. Response: "No, we don't work on that date."

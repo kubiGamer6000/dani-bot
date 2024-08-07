@@ -1,0 +1,17 @@
+1. Customer inquiry: Information about pan bao
+2. Customer inquiry: Pricing for pan bao
+3. Customer inquiry: Variety of picoteo (appetizers/snacks) available
+4. Menu inquiry: Catalog shared (Danis Catering v3 ES.pdf)
+5. Customer inquiry: Ordering a tray of 20 units of baos
+6. Customer inquiry: Delivery on New Year's Eve morning
+7. Date of service inquiry: December 31
+8. Customer inquiry: Any trays more economical than 50€
+9. Pricing information: All trays are 50€
+10. Customer inquiry: Catering price list
+11. Customer inquiry: Service availability in Málaga Capital
+12. Menu inquiry: Updated catalog shared (Danis Catering v5 ES.pdf)
+13. Date of service inquiry: Monday, March 6 in Málaga Capital
+14. Customer inquiry: Delivery time
+15. Pricing information for Málaga:
+    - Minimum order: 100€
+    - Delivery fee: 50€

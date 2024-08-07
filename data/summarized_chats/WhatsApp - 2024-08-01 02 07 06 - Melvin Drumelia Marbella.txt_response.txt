@@ -1,0 +1,7 @@
+1. Customer inquiry: Request for the menu to order a box for a viewing on Monday.
+2. Pricing for the box: €50/box + VAT; Delivery cost: €25 + VAT.
+3. Customer payment option: Will pay cash and pick it up.
+4. Booking requirement: Needs 24 hours notice for orders.
+5. Customer inquiry: Where are you based?
+6. Customer inquiry: When do you want it? Tomorrow?
+7. Customer request: Needs it around 19h (7 PM) on the day of the inquiry.

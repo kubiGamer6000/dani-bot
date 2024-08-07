@@ -1,0 +1,14 @@
+1. Customer inquiry: Private chef experience including breakfast, lunch, and dinner.
+2. Menu planning: 
+   - Breakfast at 9am
+   - Lunch at 2pm
+   - Dinner at 7pm
+3. Staffing: Two chefs in charge of cooking; Yalda for breakfast and lunch, Adil for dinner.
+4. Shopping budget: Initial budget of €1000, with €909.92 already spent.
+5. Customer request for additional budget: Inquiry about transferring another €1000 for shopping.
+6. Payment inquiry: Customer asks for a payment link.
+7. Payment method: Customer able to pay in British Pounds; provides account details for payment.
+8. Reference for payment: Customer would like to put "shopping fee" as the reference.
+9. Guest requirements: Customer indicates they have informed the chef to lower portion sizes to minimize food waste.
+10. Catering for BBQ: Customer mentions planning a BBQ for Sunday and informs the chef of their needs.
+11. Follow-up inquiry: Dani asks if everything went well with the chef and requests confirmation of the last service and departure date.

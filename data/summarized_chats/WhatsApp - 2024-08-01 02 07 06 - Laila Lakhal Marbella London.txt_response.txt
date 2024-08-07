@@ -1,0 +1,17 @@
+1. Customer inquiry: Are you still doing catering in Marbella?
+2. Catering request: Catering for 30 people for a music video on Monday and Tuesday.
+3. Menu preference: Lunch and snacks, and some small breakfast items.
+4. Request for setup timing: Food ready by 11 am, no pork allowed.
+5. Catering service request: Delivery of food and setup without service, for 20-30 people.
+6. Pricing: €40/person + VAT for a brunch/lunch variety; can pay cash to skip VAT.
+7. Payment agreement: Customer confirms they will pay cash.
+8. Change in catering days: Initially booked for Monday/Tuesday, then changed to only Tuesday, and later confirmed for both days.
+9. Confirmation of setup time: Request to have the caterer set up at 11 am.
+10. Payment announcement: €1000 cash payment for today.
+11. Additional service inquiry: Inquiry about refreshments for the event.
+12. Confirmation inquiry: Customer is confirming catering for either tomorrow or Wednesday.
+13. Lunch request: Lunch for 20 people on short notice, including specific food items (sandwich and croissant platters, lemonade, mezze, fish).
+14. Budget mention: Customer's budget for the lunch request is €800.
+15. Location details: Customer provides the location for the catering service.
+16. Payment request: Customer requests payment confirmation and discusses the need for an invoice.
+17. Invoice inquiry: Request for an invoice of €1000 without VAT, including specific event details.

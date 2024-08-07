@@ -1,0 +1,30 @@
+1. Customer inquiry: Will you be able to come and help us make food on 3rd of July in Elviria?
+2. Event date: 3rd July
+3. Event time: 6:30 PM
+4. Number of guests: 11
+5. Inquiry about three-course dinner suggestions.
+6. Proposed menu:
+   - Starter:
+     - Burrata Caprese Salad
+     - Cheese and Charcuterie Platter
+   - Main Course (Choose One):
+     - Grilled Salmon
+     - Stuffed Chicken Breast
+     - Beef Entrecôte
+     - Vegetarian Lasagna
+   - Side Dishes:
+     - Green Salad
+     - Potatoes (choice between roasted or creamy mashed)
+   - Dessert:
+     - Chef's Surprise Dessert
+7. Cost per Person: 120 Euros plus VAT (10%)
+8. Inquiry about the possibility of selecting different bowls for the order.
+9. Selected cold bowls: 2, 5, 6, 19; dessert: 1; hot bowls: 3, 5, 12, 6, 17.
+10. Pricing for 10 different types of bowls: €150 per person plus VAT, based on 11 guests.
+11. Total cost confirmation: 1650 EUR + VAT.
+12. Payment policy: No deposit required, just payment a day before or same day.
+13. Request for bank details for payment.
+14. Arrival time for setup: 5:00 PM.
+15. Inquiry about the possibility of making a video of the setup.
+16. Preferred setup type: sit down if possible.
+17. Inquiry about the collection of glasses after the event.

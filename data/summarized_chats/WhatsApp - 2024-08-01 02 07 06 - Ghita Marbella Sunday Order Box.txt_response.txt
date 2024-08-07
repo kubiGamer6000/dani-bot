@@ -1,0 +1,23 @@
+1. Customer inquiry: Ordering takeaway boxes for Sunday evening
+2. Delivery inquiry: "Do you do deliveries?"
+3. Menu inquiry: "Do you do fish platters?"
+4. Pricing inquiry: "Do you have pictures and price please?"
+5. Sushi platter inquiry: "How much pieces are in the sushi platter?"
+6. Delivery timing inquiry: "Do you do deliveries until 8 pm?"
+7. Delivery details: "Yes it’s gonna be 4 boxes"
+8. Delivery address: "Calle Santander, 2, 212 A, 26970, Marbella"
+9. Delivery pricing: "How much is it for a delivery there?" - "Perfecto €25"
+10. Order details: Customer's final order consisting of:
+   - 1 mini burgers platter with aged beef and butter fried chicken
+   - 1 canapé platter with Foie Gras, Thai Pulled Chicken, Mini fish & chips
+   - 1 pinchos platter with Caramelized Onion and goat cheese, Salmon and Caviar
+   - 1 fish platter
+11. Total pricing inquiry: "Could you please let me know the total price?" - "€225 + vat, 10% vat = €22.50, Total = €247.50"
+12. Payment method inquiry: "How do we proceed for the payment?" - "do you wanted pay cash on arrival or transfer?"
+13. Payment confirmation: Customer confirmed payment will be via transfer.
+14. Wire transfer information provided:
+    - Beneficiary: Daniela Rosu
+    - IBAN: GB42 REVO 0099 7007 0631 51
+    - BIC: REVOGB21
+15. Confirmation of delivery arrangement: "You can reach me at this number for delivery on Sunday"
+16. Customer checking on delivery status: "Everything okay for tonight?"

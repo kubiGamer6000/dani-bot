@@ -1,0 +1,18 @@
+1. Customer inquiry: Cooking and looking after a group of 10 guys in a villa, as they will be always hungry.
+2. Event type: 40th birthday party for Nissim.
+3. Offer: Organizing a BBQ on the first day.
+4. Staffing preference: Only waitresses are needed, no waiters.
+5. Event capability inquiry: Asking about availability for a party.
+6. Additional services inquiry: Offering dancers, equipment, DJ, and entertainment for the party.
+7. Date of BBQ: Friday night.
+8. Specific dietary requirement: Need kosher meat.
+9. Confirmation of service: Availability confirmed for Friday the 8th.
+10. Meal planning: Customer stated they will supply the meat and requested salads and desserts.
+11. Service timeframe: Asked for a waitress available on Saturday, serving drinks and snacks.
+12. Pricing inquiry: Asking about rates for BBQ service, including salads and fruit platter.
+13. Service details: Quoting €600 + VAT for BBQ chef and server from 12:00 to 22:00 on Friday and €150 + VAT for a waitress on Thursday.
+14. Dietary restriction: Any desserts requested cannot contain milk, suggesting a fruit platter instead.
+15. Customer confirmation: "Ok great, so let’s go with 12-22:00 on Friday for a waitress and BBQ chef."
+16. Guest count: Clarified for 10 guests.
+17. Payment preference: Asked if they can pay cash to avoid VAT.
+18. Confirmation that the waitress will handle the BBQ with experience.

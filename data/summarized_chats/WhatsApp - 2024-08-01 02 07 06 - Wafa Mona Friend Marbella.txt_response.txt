@@ -1,0 +1,33 @@
+1. Customer inquiry: Request for menus
+2. Event details: 
+   - Date: Monday, 22nd of July 2024
+   - Number of Guests: 40
+   - Price: 140 Euro per person plus VAT
+   - Included in the Price: Private chef and two waitresses
+3. Menu Italiano:
+   - **Antipasti**:
+     1. Antipasti Platter - A selection of Italian cheeses, marinated olives, sun-dried tomatoes, artichoke hearts, and grilled vegetables.
+     2. Burrata with Heirloom Tomatoes - Creamy burrata cheese served with fresh heirloom tomatoes, basil, and a drizzle of extra virgin olive oil.
+     3. Beef Tartare - Finely chopped raw beef seasoned with olive oil, capers, onions, mustard, and fresh herbs, served with crostini.
+   - **Primi Piatti**:
+     1. Tagliata di Manzo - Grilled sliced beef steak served with arugula, cherry tomatoes, and shaved Parmesan, drizzled with balsamic reduction.
+     2. Risotto al Tartufo - Creamy risotto infused with black truffle and Parmesan cheese.
+     3. Gnocchi Gamberi e Zucchine - Gnocchi with sautéed shrimp and zucchini, tossed in a light garlic and olive oil sauce with a touch of lemon zest.
+   - **Dolce**:
+     - Homemade Tiramisu - Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa powder.
+4. Dietary requirements: Inquiry regarding allergies or dietary needs is present.
+5. Customer inquiry: Request for other options since they do not need a private chef for 14 guests.
+6. Finger Food & Service Package for 14 People:
+   - **12 Finger Foods**: €80 per person + VAT
+   - **Service Hours**: 8 PM to 12 AM, provided by 2 staff members
+   - **Included Equipment**:
+     - Beautifully decorated plates
+     - Cutlery
+     - Glassware (all types)
+     - Napkins and napkin rings
+     - Flower decorations
+     - Ice and ice packs
+   - **Grand Total**: €1500 + VAT
+7. Customer's follow-up: Confirmation of total of €1600 for additional services.
+8. Additional services: Request for more flowers, napkins, and extra food stated.
+9. Equipment: Request for collection of equipment, including cutlery and serving spoons.

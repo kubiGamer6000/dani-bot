@@ -1,0 +1,7 @@
+1. Customer inquiry: Breakfast box for 2 people
+2. Delivery inquiry: Customer initially requested delivery to Puerto Banús, then opted for pickup
+3. Pricing information: €25 + VAT for delivery (when initially discussed)
+4. Pickup time: Initially set for 12:00, then moved to 11:30, finally changed to 13:00 the next day
+5. Invoice requested by customer
+6. Catering company provides PDF menu of takeaway boxes
+7. Catering company provides location for pickup

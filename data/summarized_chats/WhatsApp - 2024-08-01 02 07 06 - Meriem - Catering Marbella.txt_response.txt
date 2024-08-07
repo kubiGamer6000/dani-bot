@@ -1,0 +1,23 @@
+1. Customer inquiry: Information about sandwich boxes for a birthday party
+2. Ordering details: Requesting a sandwich box for pickup at 1 PM, inquiring about the price (25€)
+3. Delivery options: Asking if delivery to a shop in San Pedro is possible, delivery price is €10
+4. Customization inquiry: Ask if it's possible to create a mix of sandwich box with cheese and meat
+5. Pricing for customization: Mentioning a willingness to pay extra (30€) for a personalized spread sufficient for 4 people
+6. Sandwich selections: Customer requests the following sandwiches:
+   - Coronation curry chicken
+   - Tuna homemade mayo
+   - Brioche with smoked salmon
+   - Mozzarella tomato chicken pesto
+7. Payment methods: Inquiry about payment options (card or bizum)
+8. Cash payment confirmation: Customer agrees to pay in cash
+9. Customer pickup time: Scheduled to pick up around 1:30-1:45 PM
+10. Follow-up message about pickup: Customer informs about a slight delay in arrival time
+11. Future catering inquiry: Request for three boxes for a baby shower and interest in catering options
+12. Customization options: Asking if color schemes can be arranged for the baby shower boxes and if there are options seen on Instagram
+13. Payment schedule: Inquiry about when to make payment, suggesting either Monday or through a transfer
+14. Payment method: Confirmation of ability to pay via bizum
+
+----------------------------------------------------
+
+15. Customer inquiry: Can I ask you for 3 boxes for next Friday?
+16. Event details: It would be for a baby shower and inquiry about catering options.

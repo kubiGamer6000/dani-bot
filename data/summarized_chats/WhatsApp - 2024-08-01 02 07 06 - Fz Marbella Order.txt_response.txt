@@ -1,0 +1,22 @@
+1. Customer inquiry: Order for two boxes of sandwiches and croissants for the weekend.
+2. Pickup time: Around 1:30 PM on the 22nd (Saturday).
+3. Sandwich preferences:
+   - Mozzarella cheese
+   - Egg
+   - Salmon
+   - Tuna
+4. Croissant preferences:
+   - Scrambled eggs
+   - Avocado
+   - Salmon
+   - Cheese (no ham)
+5. Inquiry about children's boxes for a birthday: "I want to ask if you do boxes for children for a birthday?"
+6. Children's box options:
+   - Plain sandwiches
+   - Mini burgers
+   - Chicken nuggets
+   - Quesadillas
+   - Vegetable sticks
+7. Confirmation of order for Saturday.
+8. Location inquiry for pickup on Saturday.
+9. Confirmation of pickup time at 13:30 (1:30 PM).

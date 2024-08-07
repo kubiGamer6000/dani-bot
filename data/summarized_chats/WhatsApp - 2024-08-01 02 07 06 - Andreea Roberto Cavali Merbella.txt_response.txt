@@ -1,0 +1,16 @@
+1. Customer inquiry: Budget for catering for 50-70 guests including food, beverages, and artist.
+2. Quotation provided: Catering and artist = €2200 + VAT. 
+3. VAT = 10%. 
+4. Grand total: €2420.
+5. Invoice requested by the customer.
+6. Customer provided details for the invoice:
+   - Company name: FASTEN SEAT BELT S.R.L.
+   - Address: Via Larga, 8, 20122 MILANO.
+   - P.IVA: 06615510960.
+   - Project code: FSB - AV - 40 - ROBERTO CAVALLI PUERTO BANUS.
+7. Mention of policy regarding content creation (unable to create content due to company policy).
+8. Inquiry regarding the payment status after the event.
+9. Customer confirming receipt of the invoice. 
+
+----------------------------------------------------
+delete

@@ -1,0 +1,9 @@
+1. Customer inquiry: Request for buying prices of all products sold in The Gourmet.
+2. Pricing information provided for specific items:
+   - Big salads - €4.00/box
+     - Big Chicken Caesar Salad: A delightful mix of crisp lettuce, crunchy croutons, savory Parmesan shavings, tender chicken tenders, all tossed in our signature Caesar sauce.
+     - Big Greek Salad: Bursting with freshness, featuring crisp cucumbers, flavorful onions, creamy feta cheese, rich Kalamata olives, all atop a bed of crisp lettuce.
+   - Mixed fruit cups: €3.50 + VAT
+   - Mixed Finger sandwich: €3.50 + VAT
+   - Veg sticks & hummus: €3.50 + VAT
+3. Delivery inquiry: Will you deliver the food for The Gourmet tomorrow?

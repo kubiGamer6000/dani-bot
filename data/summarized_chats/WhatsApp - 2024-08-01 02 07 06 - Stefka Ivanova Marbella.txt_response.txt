@@ -1,0 +1,10 @@
+1. Customer inquiry: Chef for making a paella for 8 people on Sunday.
+2. Pricing inquiry: Lunch service with paella costs €90 per person plus VAT.
+3. Menu details:
+   - Selection of tapas
+   - Paella options: vegetarian, seafood, chicken and chorizo, rabbit, veal, seafood, among others.
+   - Chef's surprise dessert.
+4. Additional services: Staff included for three hours, which includes a private chef and a waitress.
+5. Confirmation of availability: Confirmed availability for the paella.
+6. Specific dish inquiry: Seafood paella.
+7. Additional dish inquiry: Can prepare Padron peppers as an appetizer.

@@ -1,0 +1,36 @@
+1. Menu items requested:
+   - Mozzarella sticks and some salad
+   - Mini beef hamburgers
+   - Mini tortilla
+   - Mini crepe
+   - Chicken bao
+   - Salmon
+   - Dessert options requested
+   - Fish or shrimp options requested
+   
+2. Inquiry for a menu for 20 people:
+   - With drinks
+   - Without drinks
+   - With waiter service
+   - Without waiters
+
+3. Question about the number of hours of waiter service offered.
+
+4. Inquiry about vegan menu availability.
+
+5. Date request for service: November 26.
+
+6. Inquiry about the cost per hour for waiter service.
+
+7. Starting time requested: 20:00.
+
+8. Inquiry if it will be a buffet or table service.
+
+9. Request for prices for both buffet and table service.
+
+10. Preference for service type: distributing food, not table service.
+
+11. Pricing for buffet options provided:
+   - Without service: €40/person + VAT
+   - With service: €60/person + VAT
+   - With drinks included and service: €100/person + VAT.

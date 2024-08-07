@@ -1,0 +1,4 @@
+1. Customer inquiry: Price per person for a surprise birthday party catering
+2. Menu inquiry: Canapés
+3. Guest count: Maximum 10 persons
+4. Pricing inquiry: Customer asking about cost

@@ -1,0 +1,8 @@
+1. Customer inquiry: Inquiry about the breakfast private chef menu on the website.
+2. Pricing inquiry: Prices for breakfast for a group of 4 guests.
+3. Cost breakdown: Website mentions €160 + VAT + grocery receipts.
+4. Grocery cost inquiry: For a group of 4 people for an English/American style breakfast, estimated grocery cost would be €150/€200.
+5. Total cost inquiry: All-inclusive cost of €60 per person + VAT.
+6. Request for pictures: Inquiry about pictures of breakfasts served for smaller groups (less than 7).
+7. Customer date inquiry: Interested date is September 7th.
+8. Sample menu request: Customer asked for a sample breakfast menu.

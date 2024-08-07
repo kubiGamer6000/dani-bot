@@ -1,0 +1,23 @@
+1. Customer inquiry: Help with ready-made snack boxes for around 10-12 people on 10 July (Monday evening) in Estepona.
+2. Delivery inquiry: Interested in delivery service to Dominion Beach, Estepona.
+3. Menu inquiry: Interested in croissant platter, veggies and dips platter, and fruit platter.
+4. Pricing details:
+   - Croissant platter: €50 + VAT
+   - Veggie & dips platter: €50 + VAT
+   - Fruit platter: €30 + VAT
+   - Delivery in Estepona: €30 + VAT
+   - Total: €160 + VAT
+   - VAT (10%): €16.00
+   - Total amount including VAT: €176.00
+5. Croissant selection options:
+   1) Ham, cheese & salad
+   2) Turkey, cucumber & salad
+   3) Smoked salmon & cream cheese mousse
+   4) Mozzarella cheese, tomato & pesto
+6. Payment inquiry: Customer asks how and where to make the payment.
+7. Invoice request: Issuing an invoice to Karolina Jogminaite Mataciene, with an address in Estepona.
+8. Down payment inquiry: Asking for information on where to transfer the down payment.
+9. NIF request: Customer has NIE number: Z0340023-L.
+10. Confirmation of invoice payment: Customer confirms the invoice was paid.
+11. Delivery details: Address for delivery: Urbanization Dominion beach, apt. 202.
+12. Location pin request for easier delivery: Requesting a pin location for the delivery.

@@ -1,0 +1,16 @@
+1. Customer inquiry: Catering for approximately 20 people, with a glass of champagne (cava), something sweet and savory. Dates: October 12 and December 6.
+2. Event confirmation inquiry: Can both events be done and request for budget.
+3. Service details:
+   - Date: Thursday, October 12, 2023
+   - Time: 15:00 - 19:00
+   - Location: Max Mara Puerto Banús
+   - Guest count: approximately 30 (later confirmed as 20)
+   - Menu items: 
+     - 6 types of savory canapés
+     - 2 types of sweet canapés
+   - Beverages: Cava, still and sparkling water, orange juice
+   - Staffing: 1 service staff for the entire event
+   - Equipment: All necessary equipment (glasses, ice buckets, 2 cocktail tables)
+4. Pricing: €75 per person + VAT. 
+5. Updated pricing for champagne instead of cava: €100 per person + VAT.
+6. Confirmation of guest count: 20 attendees for the event.

@@ -1,0 +1,19 @@
+1. Customer inquiry: Request for a quote for catering for this Friday for a maximum of 20 people at Centro Plaza Nueva Andalucia.
+2. Menu inquiry: The food would be small dishes for snacking.
+3. Event type: It is for a birthday, and no cake is needed.
+4. Quotation provided: A beautiful display table with gyozas, selection of tapas, cheese and meat platter, selection of mini baos, vegetable sticks with sauces, and prawn lollipops, for a total cost of €500 + VAT.
+5. Drink inquiry: Does the quote include drinks or just food?
+6. Food only: It is confirmed that the quote is for food only.
+7. Equipment inquiry: Does the service include the table?
+8. Company response: Generally, decorations and wooden boards are provided but not the table.
+9. Customer follow-up: No table is available to place outside, and inquires about borrowing one from a nearby restaurant.
+10. Payment inquiry: How is the payment processed? Is it made before the event?
+11. Booking confirmation: Customer confirms a setup time for today and discusses location.
+12. Confirmation request: Request to confirm the canapé table setup for tomorrow at 14:00.
+13. Payment method: Payment will be in cash.
+14. Payment timeline: Inquiry about whether part of the payment needs to be made today or if the full €500 can be paid tomorrow.
+15. Confirmation for payment: Customer prefers to pay everything tomorrow.
+16. Arrival time inquiry: What time will the service arrive today?
+17. Scheduled arrival: Confirmed arrival time is between 1:00 and 1:15 PM.
+18. Further inquiry: Customer asks if the service is nearby as the birthday girl will arrive at 2 PM.
+19. Reassurance of timing: Confirmation that everything is under control and the service will arrive in about 5 minutes.

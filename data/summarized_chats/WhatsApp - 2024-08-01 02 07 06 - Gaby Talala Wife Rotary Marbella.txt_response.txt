@@ -1,0 +1,23 @@
+1. Customer inquiry: Ordering for Saturday, May 13th
+2. Order details: Small order for approximately 10 people
+3. Menu inquiry:
+   - Canapés platter:
+     - Goat cheese
+     - Brie Camembert
+     - Roast baba ganoush
+     - Thai pulled chicken
+   - Croissants:
+     - Serrano & cream cheese
+     - Salmon & cream cheese
+   - Italian pesto pasta salad (large for 8-10 people), with a request to increase the salad quantity for around 15 people.
+4. Pricing inquiry:
+   - 3 platters at €50 + VAT = €150
+   - Delivery fee: €25 + VAT
+   - Total = €175 + VAT
+   - Discount offered: €150 if paid in cash
+5. Payment method: Customer confirms payment will be in cash.
+6. Change request: Instead of the salad, customer requests to double the canapés.
+7. Delivery details:
+   - Address for delivery: Avenida Mar Mediterráneo 4, Edificio Corona, San Pedro (in front of Da Bruno restaurant)
+   - Delivery date confirmed: Saturday, May 13th
+   - Delivery time requested: Around 6:00 PM

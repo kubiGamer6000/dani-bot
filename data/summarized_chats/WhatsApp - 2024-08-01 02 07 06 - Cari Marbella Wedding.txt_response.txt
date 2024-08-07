@@ -1,0 +1,24 @@
+1. Customer inquiry: Discuss food for a small pre-wedding party on the evening of June 10th at their villa.
+2. Menu inquiry: Customer looking at available menus.
+3. Event type: Pre-wedding party.
+4. Guest count: 25-30 guests for the dinner.
+5. Italian vegetarian menu options:
+   - Starters: Mozzarella Caprese salad, Classic tomato bruschetta, Tuna nicoise salad.
+   - Served hot: Penne arrabiata, Parmigiana aubergine.
+   - Dessert: Platter of fresh fruit.
+6. Pricing: All dinners starting from 100€/person, reduced to €80/person + VAT.
+7. Event setup: Price for big table setup with chairs approximately €500 + VAT, including collection and setup.
+8. Payment method inquiry: Customer asking if payment can be made in cash.
+9. Deposit inquiry: Customer asked if a deposit is needed.
+10. Deposit confirmation: Deposit of €1000 discussed for booking confirmation.
+11. Payment options: Cash payment implies no deposit necessary; payment can be made on the day.
+12. Additional inquiry: Customer requesting to visit the villa to finalize details.
+13. Follow-up: Confirmation of a meeting time to discuss further details.
+14. Inquiry about food platters: Customer asked about ordering food platters for Monday while getting ready for the wedding at Casa de La Era.
+15. Delivery inquiry: Customer asking if the food is delivered or needs to be collected, and distance from the Casa.
+16. Delivery pricing: Delivery charge of €25 discussed, 10 minutes away from Casa.
+17. Guest count update: Total guests listed as 23 and then 22 during planning.
+18. Inquiry about drink supplies: Customer asking if lemons and limes will be provided for drinks.
+19. Food order confirmation: Customer confirming they will send an order later for the food platters.
+20. Food cost inquiry: Customer wanting to know the total cost for food for the event to ensure enough cash is available.
+21. Final pricing discussion: Estimated price for food including delivery set at €300, adjusted to €250 based on the revised guest count of 10.

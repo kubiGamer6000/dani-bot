@@ -1,0 +1,34 @@
+1. Menu options provided: 
+   - Menus sent for review; private chef experience or customized menu options available.
+   
+2. Cost breakdown mentioned:
+   - Total cost: €120
+   - Selection includes:
+     - Meat & cheese platter
+     - Mixed croissants
+     - Mini burgers
+     - Spanish/mezze platter mix (including tortilla, croquetas, roasted vegetables, couscous)
+     - Chicken lollipop
+     - 3 types of dips and sticks
+  
+3. Inquiry about croissants: "What will croissants normally have inside?"
+4. Clarification on "sticks": Confirmed they are vegetable sticks.
+5. Alternatives discussed:
+   - Blue cheese & serrano, smoked salmon & cream cheese for croissants or choosing two varieties from the menu.
+   - Option to replace vegetable sticks with homemade tortilla chips.
+6. Change request: 
+   - Replacement of croissants with chicken and pork gyozas discussed (not recommended for this order).
+7. Inquiry about Foie gras terrine: Confirmed high cost.
+8. Final confirmed menu include: Croissants with cream cheese, various breads, bread sticks, and fruit.
+9. Delivery request: 
+   - Delivery confirmation timing discussed for Estepona port at 14:00, with willingness to accommodate and confirm on delivery time.
+10. Prepayment process discussed:
+   - Payment options (Bizum not available), standard transfer details provided.
+11. Follow-up delivery details: Confirmed delivery by 12:30 pm on the day of the event.
+12. Post-event follow-up: Inquiry about guest satisfaction with the catering.
+13. New inquiry regarding beach party planning:
+   - Date: May 26th, at 19:00 for around 20-25 guests; request for prices on starters/finger food, cheese/meat, and fruit plates.
+14. Catering alternative offered: Picnic boxes and salads due to a wedding event on the same day, with menus shared for review.
+15. Inquiry about possible set up and barbecue services for the beach party; unable to assist due to prior bookings but promises to keep in touch for any updates.
+
+Overall, the conversation includes specific menu items, pricing inquiries, delivery arrangements, and options for customization, making it highly relevant for training a customer service chatbot.

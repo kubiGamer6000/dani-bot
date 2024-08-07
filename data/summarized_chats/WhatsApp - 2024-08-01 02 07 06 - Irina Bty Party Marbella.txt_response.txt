@@ -1,0 +1,30 @@
+1. Customer inquiry: Catering for a birthday party with 23 people on Saturday.
+2. Menu request: €60 per person.
+   - Finger foods requested:
+     1. Mini beef burger
+     2. Serrano, brie figs tapa
+     3. Coconut chicken tenders
+     4. Assorted fish sushi rolls
+     5. Mini shrimp tacos
+     6. Guacamole & tortilla
+     7. Baba ganoush tapa
+     8. Mini grilled cheese sandwich
+3. Event start time: 12 o'clock.
+4. Thematic decoration inquiry: Unicorn theme.
+5. Inquiry about payment: Preference to complete payment upon delivery.
+6. Event inquiry: Delivery time set for 11/11:30 for a birthday party.
+7. Inquiry for support: Questioning if support equipment for food will be provided.
+8. Menu confirmation for another event:
+   - Menu for April 21:
+     1. Sushi platter
+     2. Asian platter (korean chicken bao, prawn tempura)
+     3. Mini hamburger (beef sliders, chicken sliders)
+     4. Bellini canape (swedish meatballs, salmon bellini and caviar, eggplant babaganoush, Thai pulled chicken, mini fish and chips, foie gras, and quail egg)
+     5. Soft drinks and fresh juices: watermelon cooler
+9. Guest details: 25 people (11 children and rest adults).
+10. Payment information: Invoice details requested for "Eliris Smart Living SL" with NIF: B93657633.
+
+-----------------------------------------------------
+11. Inquiry about personal staffing for an event.
+12. Proposal for delivery of takeaway party platters.
+13. Quantity confirmation for takeaway meals.

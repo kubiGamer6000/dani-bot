@@ -1,0 +1,13 @@
+1. Customer inquiry: Interested in ordering a breakfast box for Wednesday morning, inquiring about available options.
+2. Menu options: Croissant filled box or a personalized one.
+3. Selected items for the croissant platter:
+   - Serrano ham
+   - Mozzarella and Tomato
+   - Tuna
+   - Signature Egg
+4. Delivery details: Delivery requested to Marbella Club Hills, Ur. Caserío Esperonal, Block 10. Apt. 10.0.1, 29679, Benahavís, with a preferred delivery time of 9 am.
+5. Early delivery charge: €30 for early delivery; alternative of free collection at 9:00 available in Marbella central.
+6. Payment details: For this small order, payment on arrival is accepted, no down payment required.
+7. Confirmation of pickup time: Customer confirmed picking up after 9 at the store.
+8. Follow-up inquiry: The customer confirmed interest in the croissant box again the next day.
+9. Coordination for pickup: Customer indicated arrival around 9:15 the next morning for pickup preparation.

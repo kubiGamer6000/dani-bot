@@ -1,0 +1,2 @@
+1. Customer inquiry: Takeaway order for pickup on Saturday, to be consumed on Sunday
+2. Order request: One box (Una cajita)

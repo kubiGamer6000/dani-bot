@@ -1,0 +1,7 @@
+1. Customer inquiry: How much does it cost to do one of those picnics for 2 people?
+2. Pricing information: For 2 people, the cost is somewhere from 200-300 € if setup is included, depending on the type of food and drinks chosen. 
+3. Alternative option: Equipment can be borrowed for free if the customer sets it up themselves, with a picnic box available for €50. 
+4. Service inquiry: Customer is considering having the picnic on their roof terrace at home.
+5. Setup inquiry: Customer requests to set up the picnic in the evening around 8pm, with discussions regarding availability for either Thursday or Sunday. 
+6. Event conflict: A wedding is scheduled for Sunday, which may affect availability.
+7. Change of plan: The customer ultimately decides to disregard the picnic idea.

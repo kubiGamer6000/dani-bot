@@ -1,0 +1,29 @@
+1. Customer inquiry: Birthday party this Saturday
+2. Event details:
+   - Location: Calle Febrero 4, Benalmádena
+   - Time: 13:00
+   - Date: Saturday 9th of March
+3. Service request: Opt for party package 1 at 40 EUR per person for 13 guests
+4. Menu selection request: Choose 8 types of finger food from the provided menu
+5. Selected finger foods:
+   - Mini beef burger
+   - Mini chicken burger
+   - Italian meatballs
+   - Serrano, Brie and figs tapa
+   - Spring rolls with dipping sauce
+   - Avocado egg tapa
+   - Vegetable sticks with hummus
+   - Coronation chicken bao
+6. Beverage request: Strawberry lemonade and pineapple mint refresher
+7. Customer request: Options for a cake
+8. Theme for decoration: Spring/girly/butterflies/flowers
+9. Invoice request: Personal, with name Tibor Ballai and NIE Y1088247Q
+10. Confirmation of the event: Everything confirmed for Saturday
+11. Invoice update request: Correction needed for the package price (noted mistake of 60 EUR instead of 40 EUR)
+12. Additional drinks: Noted that the second drink (pineapple mint refresher) was missing from the invoice
+13. Change in guest count: Increase from 13 to 17 menus
+14. Inquiry about provided items: Asking about cutlery, plates, and other items to be provided for the event
+15. Confirmation of provision: Platters, table decoration, and napkins will be brought since it's finger food style; cutlery and plates are not necessary.
+16. Payment confirmation: Will pay for the difference of 4 guests in cash on arrival
+17. Video permission: Allowed to make a video of the setup as long as no personally identifying items are visible.
+18. Equipment pickup arrangement: Planned to collect the equipment on the following Monday.

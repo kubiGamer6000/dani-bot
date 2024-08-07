@@ -1,0 +1,48 @@
+1. Customer inquiry: Need a chef for Thursday night for 7 people dinner. Request for breakfast the next day as well.
+2. Specialization inquiry: Asking what food the chef specializes in.
+3. Menu inquiry: Request for menu plans.
+4. Price List:
+   - 120 Euro Menu + VAT: Choose one starter, one main course, and one dessert.
+   - 150 Euro Menu + VAT: Choose two starters, two main courses, and one dessert.
+   - 200 Euro Menu + VAT: Choose three starters, three main courses, and two desserts.
+5. Starters options include:
+   - Smoked Salmon Tartare
+   - Burrata Salad
+   - Mushroom Soup
+   - Seared Scallops
+   - Foie Gras Terrine
+   - Lobster Bisque
+   - Caviar and Blinis
+   - Oysters Rockefeller
+   - Carpaccio di Manzo
+   - Crab Cakes
+6. Main Courses options include:
+   - Herb-Crusted Lamb Chops
+   - Filet Mignon
+   - Pan-Seared Sea Bass
+   - Wagyu Beef Ribeye
+   - Lobster Thermidor
+   - Truffle Risotto
+   - Duck à l’Orange
+   - Vegetarian Wellington
+   - Seafood Paella
+   - Coq au Vin
+7. Dessert options include:
+   - Lemon Tart
+   - Chocolate Fondant
+   - Grand Marnier Soufflé
+   - Pistachio Crème Brûlée
+   - Tiramisu
+8. Breakfast pricing: €500 + VAT.
+9. Dinner menu confirmation: Starters - Burrata Salad, Seared Scallops, Carpaccio di Manzo; Main Courses - Pan-Seared Sea Bass, Wagyu Beef Ribeye, Seafood Paella; Dessert - Chef's surprise dessert.
+10. Lunch inquiry: Request for a lunch menu for 13:00 on Friday.
+11. Lunch menu options include:
+    - Starters: Caprese Salad, Gazpacho, Caesar Salad, Bruschetta, Shrimp Cocktail, Beet and Goat Cheese Salad, Mini Quiches, Prosciutto and Melon, Fried Tempura, Smoked Salmon Crostini.
+    - Main Courses: Grilled Chicken Sandwich, Vegetable Stir-Fry, Margherita Pizza with Arugula and Goat Cheese, Fish Tacos, Pasta Primavera, Turkey Club Sandwich, Beef Steak, Quinoa Salad, Pan-Seared Salmon, Grilled Portobello Mushroom Burger.
+    - Desserts: Fruit Tart, Chocolate Mousse, Cheesecake, Apple Crumble, Lemon Sorbet.
+12. Lunch pricing: 90 Euro Menu + VAT: Choose two starters, one main course, and one dessert. Additional costs for extra options.
+13. Confirmation of 7 pax breakfast at €500 + VAT and consideration for lunch at €100 pp + VAT.
+14. Dietary accommodations and flexibility in timing discussed.
+15. Location confirmation required for chef's arrival time for dinner setup.
+16. Rearranging of lunch timings based on the guests’ schedule.
+17. Finalization of menu details for both dinner and lunch on specified dates.

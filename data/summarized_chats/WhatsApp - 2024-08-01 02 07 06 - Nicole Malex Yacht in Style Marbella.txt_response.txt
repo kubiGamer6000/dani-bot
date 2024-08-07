@@ -1,0 +1,21 @@
+1. Customer inquiry: Can I order catering? About 5 boxes for next Monday.
+2. Takeaway service available.
+3. Menu inquiry:
+   - TAPAS PLATTER
+     - 1 Pesto Mousse with Tomato & Mozzarella
+     - 3 Serrano Ham, Cream Cheese & Brie
+     - 4 Thai Chili Chicken, Lime & Coriander
+     - 6 Smoked Salmon & Caviar
+     - 10 Avocado, Quail Egg & Chili Flakes
+   - SANDWICH PLATTER
+   - CROISSANT PLATTER
+   - COLD TACO PLATTER
+4. Delivery inquiry: Do you deliver it? We are in the port of Puerto Banus. Is it possible for 1 pm? 
+5. Delivery cost: Yes, we deliver for €25 + VAT.
+6. Long-term service inquiry: We are looking for a long relationship. We will be doing sea charters during all summer and some events in the winter too. So would like to know more what you offer.
+7. Meeting arrangement: Flexible for a meeting on Saturday or Sunday, or discuss on Monday upon delivery.
+8. Final meeting confirmation: Shall we say meeting 13:30 and food is good at the same time?
+9. Invoice inquiry: Do you need an invoice I can raise for you? 
+10. Customer feedback: The food was fabulous the other day.
+11. Brochure sharing: Here is our brochure if someone is interested; there isn’t our contact detail, so people can contact you directly.
+12. Request for brochure without prices: Do you have a brochure without the prices?

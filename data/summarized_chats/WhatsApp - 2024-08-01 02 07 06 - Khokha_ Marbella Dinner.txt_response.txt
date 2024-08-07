@@ -1,0 +1,26 @@
+1. Customer inquiry: Dinner at home for 7 persons
+2. Cuisine type: Italian food
+3. Event date: July 28
+4. Menu provided:
+   - **Starters:**
+     1. Fresh Burata cheese, heirloom tomatoes, and basil drizzled with balsamic glaze.
+     2. Bruschetta: Grilled bread topped with a mixture of diced tomatoes, garlic, basil, and olive oil.
+     3. Arancini: Crispy fried risotto balls filled with mozzarella cheese, served with marinara sauce.
+     4. Italian cheese & charcuterie platter.
+   - **Main Courses and Sides:**
+     1. Gnocchi gamberi & zucchini: Soft potato dumplings cooked with shrimp, sautéed zucchini, garlic, and butter sauce.
+     2. Italian Steak: Grilled ribeye or sirloin steak seasoned with Italian herbs, served with sautéed spinach and roasted potatoes.
+     3. Parmigiana: Sliced eggplant layered with marinara sauce, Parmesan cheese, and breadcrumbs, baked to perfection.
+   - **Dessert:**
+     1. Tiramisu: Layers of espresso-soaked ladyfingers and mascarpone cream, dusted with cocoa powder.
+5. Pricing: €100 per person + VAT; total for serving 7 people: €700 + VAT.
+6. Table decoration: €500 + VAT for beautifully decorated table with all plates, glasses, and equipment.
+7. Drinks package: €50 per person + VAT, includes Aperol Spritz, Italian beer (Peroni), Limoncello, Prosecco, Italian Red Wine (Barolo), Italian White Wine (Pinot Grigio), San Pellegrino, and non-alcoholic cocktail.
+8. Staff service charge: 20% on final price.
+9. Customer requests: Exchange gnocchi for truffle pasta or risotto.
+10. Tasting menu requested.
+11. Guest count increase: Initially 7, later specified as 10.
+12. Meeting scheduled to discuss details, view space, and update any equipment needed.
+13. Confirmation of guests arriving around 19:00 - 20:00.
+14. Payment discussion: Total of €1375 (including VAT) for the event; payment by bank transfer.
+15. Bank details provided for the transfer.

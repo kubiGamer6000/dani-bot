@@ -1,0 +1,21 @@
+1. Customer inquiry: Party on Saturday, hours 14.00-17.00 in El Madroñal.
+2. Equipment inquiry: Need high tables and umbrellas.
+3. Package inquiry: Package 2 with servings for approximately 25 adults.
+4. Kids food inquiry: Asks if kids food is catered.
+5. Drinks service inquiry: Do we buy the drinks and you serve it?
+6. Serving equipment inquiry: Can you bring servings like plates, napkins, glasses, etc.?
+7. Kids food offering: €30/kid + VAT for mini burgers, chicken nuggets, vegetable sticks & dips, mini cheese quesadillas, fruit kebabs.
+8. Equipment pricing: €40/table + VAT, €100/umbrella + VAT, €80 transportation + VAT.
+9. Party details: Birthday for a boy, 8 years old, theme coordination request.
+10. Final headcount: 25 adults, 23 kids.
+11. Total cost breakdown:
+   - 25 adults * €60 = €1500
+   - 23 kids * €30 = €690
+   - 6 umbrellas = €600
+   - 4 tables = €120
+   - Grand total = €2910.
+12. Additional guest inquiry: 2 kids RSVP last minute, increasing kids count to 25.
+13. Preparation check-in: When to come for prepping; request to drop off equipment around 4/5 pm.
+14. Contracting inquiries: Payment options discussed—cash or invoice, VAT also considered.
+15. Customer requesting napkins for the event.
+16. Customer expressing gratitude post-event: Compliments on food, presentation, and staff professionalism.

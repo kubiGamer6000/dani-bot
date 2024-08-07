@@ -1,0 +1,46 @@
+1. Customer inquiry: Interested in catering services for a party on Saturday.
+2. Estimated guest count: Approximately 20 people, with potential extra guests.
+3. Food options inquiry: Asked for sushi and hot snacks or mini burgers.
+4. Pricing inquiry: "I have to understand how your pricing works."
+5. Package inquiry: Mentioned possibility of a package that includes staff service and decoration.
+6. Estimated costs inquiry: Requested estimated costs for the catering services.
+7. Food preference: A combination of cold and hot foods, including sushi and snack-type food, nothing too pricey.
+8. Menu inquiry: Interested in sushi and mini burgers.
+9. Package offers:
+   - Package 1: €1000 for a buffet setup with a mix of sandwiches, sushi, party finger food, including plates and cutlery, without service.
+   - Package 2: €1500 for a mix of hot and cold food with 2 staff serving drinks for 4 hours, including all equipment like glasses and high tables.
+10. Guest count confirmation: Confirmed that about 20 people will be attending.
+11. Delivery inquiry: Asked about delivery time, wanting it by 7:30 PM.
+12. Payment inquiry: Asked how much for delivery, quoted €25.
+13. Payment method inquiry: Customer asked if they could pay cash on delivery.
+14. Confirmation of order: Customer confirmed €220 total for the order.
+15. Menu details provided:
+    - 1 sushi platter - mixed
+    - 1 mini burgers platter - beef and pulled chicken
+    - 1 sandwiches platter - turkey cucumber salad, ham cheese and salad, egg and mayo, roasted peppers and hummus
+    - 1 tapas platter - Duck foie gras and salmon with caviar.
+16. Confirmation request for payment and delivery location.
+17. Customer confirmed that the party starts at 6 PM.
+18. Feedback on previous service: Mentioned issues with last catering service being super late.
+19. Inquiry about New Year's party availability.
+20. Capacity for consistent orders: Customer mentioned they have a party every two weeks.
+21. Customer specified that if they are looking for takeout, they want just the food without service.
+
+----------------------------------------------------
+
+1. Inquiry: "Can we have the same as last time?"
+2. Menu request:
+   - 2 mini burgers platters - beef and pulled chicken
+   - 1 sandwiches platter - turkey cucumber salad, ham cheese and salad, egg and mayo, roasted peppers and hummus
+   - 1 tapas platter - Duck foie gras and salmon with caviar
+3. Total cost mentioned: €220.
+4. Payment method: Customer confirmed they will pay cash.
+5. Confirmation of collection on the day of the party.
+6. Mention of dissatisfaction with previous service: Customer commented on food not being served or delayed in delivery.
+
+----------------------------------------------------
+
+1. Customer inquiry: Asking if they will be on time for their New Year's party catering.
+2. Response: Catering service is fully booked on New Year's Eve.
+3. Mention of offering takeaway without service due to high volume of events on New Year's Eve.
+4. Menu suggestion: Customer told to look at menus and place an order for food, indicating they only need food and not service.

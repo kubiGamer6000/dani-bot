@@ -1,0 +1,84 @@
+1. Customer inquiry: Chef for July in Coín, Spain, for 6 adults.
+2. Menu inquiry: Request for menus and prices.
+3. Menu options provided:
+   **Starters:**
+   - Beef Carpaccio with Arugula Salad
+   - Grilled Pork Skewers with Pineapple Salsa
+   - Lamb Kofta with Tzatziki Sauce
+   - Chicken Satay with Peanut Sauce
+   - Smoked Salmon Canapés with Cream Cheese
+   - Seafood Ceviche with Avocado
+   - Vegetarian Stuffed Mushrooms
+   - Caprese Salad with Balsamic Glaze
+   **Mains:**
+   - Grilled Beef Tenderloin with Red Wine Reduction
+   - Roast Pork Loin with Apple Chutney
+   - Herb-Crusted Rack of Lamb
+   - Lemon Herb Roasted Chicken
+   - Pan-Seared Salmon with Dill Sauce
+   - Seafood Paella
+   - Vegetarian Spinach and Ricotta Stuffed Shells
+   - Eggplant Parmesan with Tomato Basil Sauce
+   **Desserts:**
+   - Chocolate Lava Cake with Vanilla Ice Cream
+   - Tiramisu with Espresso Syrup
+   - Raspberry White Chocolate Cheesecake
+   - Lemon Sorbet with Fresh Berries
+4. Inquiry about Asian-inspired menu options.
+5. Asian menu options provided:
+   **Starters:**
+   - Beef Satay Skewers
+   - Pork Bao Buns
+   - Lemongrass Chicken Spring Rolls
+   - Miso Glazed Salmon
+   - Shrimp Tempura
+   - Seared Tuna Tataki
+   - Vegetarian Sushi Rolls
+   - Tom Yum Soup
+   **Mains:**
+   - Teriyaki Beef Stir-Fry
+   - Korean BBQ Pork Bulgogi
+   - Green Curry Chicken
+   - Sesame Ginger Glazed Salmon
+   - Shrimp Pad Thai
+   - Miso Eggplant Stir-Fry
+   - Vegetarian Bibimbap
+   - Panang Curry Tofu
+   **Desserts:**
+   - Matcha Green Tea Tiramisu
+   - Mango Sticky Rice
+   - Lychee Rose Panna Cotta
+   - Black Sesame Seed Ice Cream
+6. Inquiry about Italian menu options.
+7. Booking confirmed for July 30th for 6 adults.
+8. Menu options requested prior to the event.
+9. Payment inquiry: Cash on the night.
+10. Pricing provided: €120 per person + VAT; Total €132 per person.
+11. Dinner arrangement confirmed for 8 PM.
+12. Menu requests for starters:
+    - Pork bao buns
+    - Chicken skewers
+    - Shrimp tempura
+13. Mains requested:
+    - 3x Chicken Green Curry
+    - 2x Korean Pork
+    - 1x Teriyaki Beef Stir-Fry
+14. Dessert requests:
+    - 2x White Chocolate Raspberry Cheesecake
+    - 1x Lemon Sorbet
+    - 3x Lava Cake
+15. Final menu for the dinner confirmed:
+    *Starters*:
+    - Pork bao buns
+    - Chicken skewers
+    - Shrimp tempura
+    *Mains*:
+    - Chicken Green Curry
+    - Korean Pork
+    *Desserts*:
+    - Lemon Sorbet
+    - White Chocolate Raspberry Cheesecake
+16. Total price for the dinner: €792 including VAT.
+17. Payment confirmed: Cash on the evening of the event.
+18. Arrival time for the chef confirmed: 18:30.
+19. Inquiry about whether the food order was correct, specifically the mains.

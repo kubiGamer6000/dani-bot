@@ -1,0 +1,17 @@
+1. Customer inquiry: Platters for a hen party breakfast/brunch on June 21 at Villa Marina.
+2. Number of guests: 10 guests.
+3. Delivery time requested: 12:30 PM.
+4. Delivery address provided: 174 km A7 (N-340) Urb. Villa Marina, Puerto Banus, Marbella, 29660, Spain.
+5. Menu inquiry: Breakfast boxes with granola pots, orange juice, fresh fruit, Serrano ham, and bagels with smoked ham; box of 10 plain croissants.
+6. Pricing information: 
+   - €150 + VAT for 3 boxes 
+   - €25 + VAT delivery. 
+   - VAT at 10%.
+   - Grand total = €192.50.
+7. Payment terms: Full payment required 5 days before the event with no deposit.
+8. Customer confirmation requests: "Can you pop me in your diary for that day?" and "Hi, I've you booked for next Friday just confirming everything?"
+9. Request for timing change: "Could I change our order to Saturday morning at 8:30 am?"
+10. Final confirmation of order: "Just confirming everything for tomorrow morning - orange juice, granola pots, fresh fruit, Serrano ham croissants, and bagels with smoked ham? Then order a box of 10 plain croissants also?"
+11. Location confirmation: Villa no 7 Villa Marina.
+12. Flexibility in the order to accommodate check-in time adjustments.
+13. Payment transfer inquiry: "Can I transfer you payment?"

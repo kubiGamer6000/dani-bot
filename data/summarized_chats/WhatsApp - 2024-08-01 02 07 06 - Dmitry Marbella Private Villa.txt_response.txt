@@ -1,0 +1,5 @@
+1. Customer inquiry: Catering for a small number of people for a private meeting at a villa.
+2. Guest count: Just 3 people.
+3. Venue: Villa in Zagaleta.
+4. Date inquiry: Either Friday or Saturday next week.
+5. Menu inquiry: Request for information on the types of menus available.

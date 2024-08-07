@@ -1,0 +1,29 @@
+1. Entertainment inquiry: Options for an entertainment band for New Year’s Eve.
+2. Pricing details for entertainment:
+   - Most artists charging €1000/artist + VAT.
+   - Found a 3-artist band costing €3000 + VAT for 2 hours of performance during canapés and champagne service on the rooftop.
+3. There will be a DJ after the band, with an estimated cost of €1000 + VAT / €1500 max until 01:00 hrs.
+4. Inquiry for the full quote and table decorations/flowers style.
+5. Inquiry about the price for rental equipment.
+6. Customer request: Need for shot glasses for the event.
+7. Customer confirms the jazz band and singer will be present.
+8. Customer confirms the arrival of music equipment.
+9. Catering supplies request: Ginger beers for Moscow Mules and other listed cocktail supplies.
+10. Discussion about the possibility to return champagne bottles, with confirmation that other items can be returned.
+11. Customer confirms items ordered for event, including tequila and wine quantities.
+
+----------------------------------------------------
+
+1. Entertainment inquiry: Options for a DJ if the initial artist cannot attend on time.
+2. Confirmation that the jazz band will cover the gap until the DJ arrives.
+3. Inquiry about the delivery of plates and cutlery for the event.
+4. Request for a specific ingredient (passion fruit) for cocktail purposes.
+5. Inquiry regarding the collection and return of bottles from the event.
+
+----------------------------------------------------
+
+1. Inquiry about meeting the family for event details.
+2. Confirmation of arrangements and items needed for an event.
+3. Inquiry about the availability and return policy for used bottles, specifically champagne.
+
+The information extracted pertains to the catering services offered by Dani's Catering, such as entertainment options, rental equipment, and client communications for event planning logistics. It represents important details for a customer service chatbot in the catering industry.

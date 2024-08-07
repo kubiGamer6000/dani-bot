@@ -1,0 +1,17 @@
+1. Customer inquiry: Catering service for a pool party.
+2. Staffing inquiry: Need for a bartender for drinks and cocktails from 2 PM till 2 AM.
+3. Food catering inquiry: Food catering needed from 5 PM for a maximum of 20 people.
+4. Equipment inquiry: Questions about whether they need equipment such as disposable glasses and plates.
+5. Response regarding equipment: They need disposable equipment, not glass.
+6. Cost inquiry: The customer understands that short notice may affect the price.
+7. Schedule of Events:
+   - **2:00 PM:** Event Start
+     - Staff service begins
+     - Drinks and bar service begins
+     - Disposable glasses and ice available
+   - **5:00 PM:** Live Cooking Setup with a private chef cooking gourmet sausages and burgers
+   - **Throughout the Event:** Continuous bar service, drink service, ice replacement as needed
+   - **2:00 AM:** Event End
+8. Total Cost: €4000 (includes food, private chef, and staff service). Drinks are not included; the customer will bring their own.
+9. Extra service inquiry: Questions about whether they can pay extra for Dani's Catering to provide drinks.
+10. Unlimited drinks package: Priced at €3000 + VAT for 20 people, including cava, selection of wines, beers, soft drinks, still and sparkling water, with all glasses provided.

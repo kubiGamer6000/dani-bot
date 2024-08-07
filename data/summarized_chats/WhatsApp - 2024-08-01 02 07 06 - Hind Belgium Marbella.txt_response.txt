@@ -1,0 +1,3 @@
+1. Customer inquiry: Order for a tray for Saturday, the 4th.
+2. Pickup time: The customer wants to pick up the tray at 12:00.
+3. Confirmation: The customer confirmed that the pickup on Saturday is correct.

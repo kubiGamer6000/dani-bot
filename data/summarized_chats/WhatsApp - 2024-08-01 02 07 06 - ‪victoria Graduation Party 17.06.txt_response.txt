@@ -1,0 +1,23 @@
+1. Event type: Graduation breakfast celebration
+2. Venue: To be confirmed (probably Mijas)
+3. Date: Friday, 17.06.2022
+4. Guests count: 27 pax
+5. Package options:
+   - Package 1: 
+     - Price: €1000 + IVA
+     - Selection of breakfast buns
+     - Various types of filled croissants
+     - Sweet pastries
+     - Orange juice
+     - Staff service for 2 hours
+   - Package 2: 
+     - Price: €2000 + IVA
+     - Selection of breakfast buns
+     - Various types of filled croissants
+     - Sweet pastries
+     - Fresh squeezed orange juice
+     - Tea and coffee
+     - Staff service for 3 hours
+     - Unlimited cava for 3 hours
+     - Glasses and equipment hire included
+6. Inquiry about IVA: Customer asked "What is IVA?"

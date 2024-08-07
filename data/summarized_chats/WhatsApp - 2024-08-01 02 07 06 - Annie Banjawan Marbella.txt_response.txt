@@ -1,0 +1,34 @@
+1. Customer inquiry: Planning a breakfast event on 25/11 or 02/12 for 20-30 guests in Riviera del Sol, Mijas.
+2. Quotations request: Request for a few quotations for the breakfast event.
+3. Quotation details:
+   - *Basic Package 1*: €35/person
+     - Serrano ham croissants
+     - Smoked salmon caviar bun
+     - Scrambled egg croissants
+     - Avocado, tomato, cheese toast
+     - Sweet pastry
+     - Tea and coffee station
+     - Orange juice
+     - Still sparkling water
+     - All equipment hire (glasses, cups, decoration, etc.), ice
+     - Staff service for 4 hours
+   - *Package 2*: €50/person + VAT
+     - Food includes:
+       - Serrano ham croissants
+       - Smoked salmon caviar bun
+       - Scrambled egg croissants
+       - Avocado, tomato, cheese toast
+       - Sweet pastry
+       - Yogurt & granola pot
+       - Vegetable sticks and dips
+       - Mini finger desserts
+       - Fresh fruit mini kebabs
+     - Drinks include:
+       - Tea and coffee station
+       - Homemade lemonades
+       - Detox juices
+       - Still sparkling water
+     - All equipment hire (glasses, decoration, etc.), ice
+     - Staff service
+4. Inquiry about options for €20 per head and what can be provided.
+5. Confirmation that for €35, the most basic package includes staff service and all equipment.

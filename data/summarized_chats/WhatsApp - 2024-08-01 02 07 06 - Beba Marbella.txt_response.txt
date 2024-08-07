@@ -1,0 +1,8 @@
+1. Customer inquiry: Can we make an order today and pick it up around 4 o’clock?
+2. Order details: 2 different boxes of your choice for 7 people.
+3. Additional service inquiry: Birthday cake - asking if it’s possible to order one.
+4. Address for pickup: Requesting the address where to pick it up.
+5. Dietary requirements: No allergies.
+6. Final order: 2 boxes of canapés and 1 sweet box.
+7. Pricing inquiry: "How much is cost everything?" followed by "Thank you - 3 boxes. -150 🌸".
+8. Payment method: Customer inquiring if they should pay cash or card, confirming they will pay cash.

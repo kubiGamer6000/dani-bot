@@ -1,0 +1,4 @@
+1. Menu inquiry: Request for menus in Spanish.
+2. Inquiry about party menus: "Is this menu for parties?"
+3. Booking inquiry: "How many days in advance should I order?" 
+4. Customization options: "We create many customized menus, BBQ parties, weddings, etc. Let me know what you like, and I can create menus for you."

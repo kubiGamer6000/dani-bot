@@ -1,0 +1,15 @@
+1. Customer inquiry: Looking for a buffet for a dinner, wanting a variety of food options.
+2. Dietary requirements: Mention of children and teenagers (ages 2 to 16).
+3. Drinks inquiry: Asking about drinks and desserts.
+4. Pricing inquiry: Dinner starting from €100/person + VAT.
+5. Payment inquiry: Asking if payment can be made in cash.
+6. Menu details:
+   - Proposed menu for an event:
+     - Appetizers: Various selections including mini burgers, tapas, oysters, salmon, and caviar.
+     - Main courses: Hot seafood platter, beef steak, chicken in sauce.
+     - Desserts: Mini dessert plates, fresh fruit.
+7. Customer request: Package to be all-inclusive, including service and beverages.
+8. Event date: Request for a private chef for 5 people on March 13 at around 5:30 PM.
+9. Venue inquiry: Uncertain about where the event can take place.
+10. Breakfast inquiry: Asking for breakfast options available for the following day, specifying preferred items (club sandwiches, English breakfast) and dietary restrictions (no onion).
+11. Breakfast pricing: €50 for a breakfast box with a bit of everything, or €75 for a hot breakfast.

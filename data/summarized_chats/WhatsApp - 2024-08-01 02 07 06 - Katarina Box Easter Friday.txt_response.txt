@@ -1,0 +1,10 @@
+1. Customer inquiry: Order for tomorrow 3 boxes:
+   - Sweet box
+   - Cheese box
+   - Mix Sharing box (serrano ham & cheese...)
+2. Pickup time: 11:00
+3. Change request: Later requested to cancel the sweet box and just have 2 boxes.
+4. Additional request: Asked for one more box, specifically a sandwich box.
+5. Payment: Total cost of €75.
+6. Feedback: The food was great and the customer expressed gratitude for the service.
+7. Future orders: Customer mentioned they will order again in the future.

@@ -1,0 +1,9 @@
+1. Services inquiry: What sort of services do you provide?
+2. Minimum guest requirement inquiry: What is the minimum amount of people you will cook for?
+3. Private chef inquiry: Interested in having a chef come to the house twice a week to cook dinner for 6 people.
+4. BBQ organization inquiry: Interested in someone who can organize a BBQ for 10-15 people.
+5. Private chef pricing:
+   - Breakfast: €60 per person + VAT
+   - Lunch: €90 per person + VAT
+   - Dinner: €120 per person + VAT
+6. Alternative chef service option: Chef service available with payment for grocery shopping separately.

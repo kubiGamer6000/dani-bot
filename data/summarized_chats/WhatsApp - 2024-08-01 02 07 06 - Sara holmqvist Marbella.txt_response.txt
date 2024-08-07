@@ -1,0 +1,6 @@
+1. Event inquiry: Barbecue style event for approximately 30 to 40 people.
+2. Service request: Full service including cutlery, plates, and serving.
+3. Availability inquiry: Customer asking if there is availability for the requested date.
+4. Meeting inquiry: Discussion about meeting to discuss options for the event.
+5. Location mention: Event location is at the customer's house in Sierra Blanca.
+6. Cancellation notice: Customer informs the catering service that they need to cancel the event originally planned for the 18th and will postpone it to a later date in August.

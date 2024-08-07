@@ -1,0 +1,12 @@
+1. Customer inquiry: Hosting a networking event on Monday 14th, expecting around 50-60 people. 
+2. Meal requirements: 
+   - Breakfast from 10am to 12pm
+   - Small lunch from 12pm to 3pm
+   - Tea time from 4pm to 7pm
+   - Early dinner from 7pm to 9pm
+3. Pricing for services:
+   - Breakfast price: €40/person + VAT (includes savory & sweet pastries, fresh fruit platter, coffee & tea station, fresh orange juice, still & sparkling water)
+   - Lunch price: €60/person + VAT (includes sandwich platter, salad bar, vegetable sticks & dips, assorted soft drinks and water)
+   - Tea Time price: €60/person + VAT (includes assorted teas & coffee station, finger sandwiches, cheese and crackers platter, mini desserts)
+   - Early Dinner price: €80/person + VAT (includes buffet-style dinner with finger food options such as mini sliders, bruschetta, mini tacos, assorted sushi rolls, caprese skewers, soft drinks, still & sparkling water)
+4. Additional information: All prices include staff charge and equipment.

@@ -1,0 +1,17 @@
+1. Customer inquiry: Children's event on March 10, approximately 10 children and 10 adults.
+2. Lunch inquiry: Asking what can be offered for lunch, including hot dishes.
+3. Service area: For a private house in Marbella.
+4. Menu request: Request for options in English for a client who speaks English.
+5. Payment inquiry: Asking if cash payment can be made without VAT.
+6. Total guest count: 10 people for March 10, at 14:30.
+7. Food order request: Requesting a quote and payment details. Cash payment requested without VAT.
+8. Event logistics: Food will be brought to the client and will not require warming.
+9. Menu item list: MEAT: N 1, 3, 10, 13, 17, 18. VEGETARIAN: N1, 6, 12.
+10. Total cost: €400 mentioned for the service.
+11. Payment confirmation: Confirming payment can be made in advance, planned for Friday.
+12. Location for pickup: Bar Charly, Nueva Andalucia.
+13. Payment confirmation: €400 paid on March 8.
+14. Event administration: Arrangements for set up at 14:00, request for a photo of food once set up on the table.
+15. Inquiry about external heaters for the event.
+16. Response to heater inquiry: No external heaters available.
+17. Post-event follow-up: Confirmation that everything went well and coordinating the return to collect trays.

@@ -1,0 +1,27 @@
+1. Customer inquiry: Assistance needed for organizing a birthday party.
+2. Event details: Small birthday party for 15-20 people on April 17, daughter's 1st birthday, no entertainers required, to be held at home.
+3. Additional services inquiry: Decorations, catering, and potentially music.
+4. Meeting inquiry: Customer asks to meet to discuss the event preferences and show the space.
+5. Catering inquiry: Catering not yet sorted, asking for clarification if available for discussion.
+6. Catering proposal: €75/person + IVA, includes:
+   - Selection of tapas
+   - Crudities and dips
+   - Big seafood sharing platters
+   - Cool BBQ mix including fish/meat
+   - 4 salads selection
+   - Fresh fruit skewers
+   - All equipment decoration
+   - Staff service for 4 hours
+   - Homemade lemonades
+7. Menu detail inquiry: Customer requests details about the types of tapas to be served.
+8. Specific tapas proposed:
+   - Smoked salmon and caviar
+   - Shrimp tempura
+   - Pulled pork and horseradish bao
+   - Chicken and sweet and sour bao
+   - Platter of international cheese and crackers
+   - Charcuterie and smoked cut meats
+9. Confirmation: Customer confirms catering for the birthday party.
+10. Event timing confirmation: Party starts at 17:00 for 18-20 people.
+11. Setup time: Agreement to arrive around 15:00-16:00 for event setup.
+12. Ongoing communication: Customer and service provider confirm arrival times and event details.

@@ -1,0 +1,8 @@
+1. Customer inquiry: 20 people for an event
+2. Venue inquiry: Suggestions for venues around Marbella - Estepona
+3. Food inquiry: "Also what do you suggest for people to eat and the price"
+4. Event date: Looking to host on May 2nd, as it is a holiday
+5. Menu information: "Kindly see our takeaway menus - if there is something you like - please note that these prices are exclusive of service and delivery charge"
+6. Additional service inquiry: "If you wanted drinks and service we can specially create a package for you"
+7. Budget inquiry: Would like to get a range of prices from low to high for venue options
+8. Venue recommendation: Suggested to check on Airbnb or estate agents for venues

@@ -1,0 +1,24 @@
+1. Confirmation of catering services for an event.
+2. Event date: December 3rd.
+3. Dietary requirements: No pork, a mix of fish, meat, and vegetarian options preferred.
+4. Order details: 
+   - One box with cheese and charcuterie (no pork)
+   - One box with hummus 
+   - One box with croissants (10 salmon and 10 cheese mix)
+   - One box with a mix of sandwiches (salmon, tuna, egg, veggie)
+   - One box with a mix of canapés
+5. Payment inquiry: 
+   - How to pay for catering (transfer, card, or cash).
+6. Pricing: 
+   - Total estimated cost is 250 without delivery and 280 with delivery.
+7. Pickup inquiry for the order: 
+   - Will pick up the catering on the way to the event.
+   - Asking if it should be picked up the day before or the same morning around 9:30 AM.
+8. Delivery inquiry for freshness: 
+   - Suggestion to deliver instead of pick up for freshness, with a proposed delivery at 11:30 AM.
+9. Latest inquiry: 
+   - A request for a box to collect around 2:30 PM for two people.
+10. Specific menu request: 
+    - Vegetarian sandwiches, or a mix of vegetarian and non-vegetarian options, specifically stating no fruit in the order.
+11. Comment on collection arrangement: 
+    - Colleague will deliver the order at specified time.

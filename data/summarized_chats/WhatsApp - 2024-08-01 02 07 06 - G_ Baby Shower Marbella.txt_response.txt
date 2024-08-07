@@ -1,0 +1,6 @@
+1. Customer inquiry: Do you do catering for Baby Shower?
+2. Questions about services: What sort of things do you do? Is there packages or?
+3. Catering services offered: Very nice cool buffet, afternoon tea style, Spanish tapas platters available.
+4. Setup and cleanup: Can set it all up and collect the next day.
+5. Decoration services: Decorations can be provided.
+6. Menu preference: Spanish tapas.

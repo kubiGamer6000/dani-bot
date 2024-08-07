@@ -1,0 +1,28 @@
+1. Customer inquiry: Request for a quote for a cheese and ham table for 40 people for an art gallery opening.
+2. Service inquiry: Two waitresses needed from 5 PM to 9 PM.
+3. Additional services inquiry: Inquiry about including water, soft drinks, ice, and olives in the quote.
+4. Pricing inquiry: Quotation of €40 per person + VAT for a buffet table service.
+5. Clarification request: Request to adjust the quote to reflect a buffet-style service rather than full portions per person.
+6. Quote for entire service: €1,500 + VAT for 40 guests including service.
+7. Customer inquiry: Interested in show cooking stations for an event of 100 people.
+8. Menu options requested: Italian cooking station, Turkish station with kebabs and Turkish dishes, bar service for the evening.
+9. Customer inquiry: Request for a budget including options with alcohol.
+10. Menu inquiry: Inquiry about the possibility of adding pizza to the menu.
+11. Guest count adjustment: Updated to 80 guests instead of 100.
+12. Menu addition: A Spanish station including paella, croquetas, gazpacho, etc.
+13. Pricing: Quotation of €80/person + VAT for buffet dinner, €120/person including all equipment, and €200/person with food, service, and drinks included.
+14. Drink clarification: Inquiry if the €80 option includes soft drinks, needing a specific option for non-alcoholic drinks at €90/person + VAT.
+15. Confirmation on minimum guest count: Minimum guest confirmation due 3 days prior.
+16. Decoration inquiry: Request for the inclusion of typical desserts from the respective countries in each station, specifically rice pudding (arroz con leche).
+17. Final budget inquiry: Need for final official budget sent via email with included dishes' names.
+18. Additional request: Inquiry about the company for rental of plates and decoration.
+19. Bar rental: Inquiry if it's possible to have two bars for the event, quoting €80 each bar rent.
+20. Guest count inquiry: Quotation confirmation for event including the rental of high tables and finalizing setup for 65 people.
+21. Pricing for new inquiry on the 21st: Proposed options for canape selections, soft drinks, and white wine service for 40-60 guests.
+22. Package options: Package 1 at €55/person and Package 2 at €75/person, with adjustments based on staff and service needs.
+23. Food inquiry: Request for a list of canape options to present to the client.
+24. Final confirmation: Pricing adjustment acknowledgement for the final guest count.
+25. Event recap: Positive feedback about the last event they catered.
+26. New inquiry: Price for a station with cold food, drinks, and cocktails for a brunch event.
+
+(Note: Some identified points were repeated across multiple conversational threads. I combined similar inquiries or proposals for brevity while ensuring all relevant information is captured.)

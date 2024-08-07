@@ -1,0 +1,19 @@
+1. Customer inquiry: Looking for catering for a retreat on March 19th - 22nd.
+2. Services inquiry: What services can be provided for the retreat?
+3. Meal details: Considering 2 lunches and 3 dinners for 11 guests, dependent on cost.
+4. Additional services inquiry: Request for example menus.
+5. Menu customization: All menus are bespoke, tailored to client's preferences, with options for continental-style breakfasts, healthy lunches, themed culinary experiences, including international cuisine (Spanish, Mexican, Thai, Italian, etc.).
+6. Booking procedures: 
+   - 50% deposit required to secure dates.
+   - Full payment due 3 days in advance.
+7. Specific catering request for March:
+   - March 19th: Dinner
+   - March 20th: Lunch & Dinner
+   - March 21st: Lunch & Dinner
+8. Lunch preferences: Light lunch/buffet style for lunches.
+9. Dinner themes: 
+   - BBQ one night,
+   - Tapas/paella style one night,
+   - A la carte style with desserts for another night.
+10. Dietary requirements: All meals requested to be vegan.
+11. Price inquiry: Request to include groceries cost in the quote.

@@ -1,0 +1,5 @@
+1. Customer inquiry: I have ordered a picnic box for today at 1 PM.
+2. Pickup location inquiry: I need you to send me the location to pick it up in Nueva Andalucia.
+3. Booking confirmation: I can go at 1 PM then?
+4. Price confirmation: Is it €25?
+5. Payment method inquiry: Can it be paid by card?

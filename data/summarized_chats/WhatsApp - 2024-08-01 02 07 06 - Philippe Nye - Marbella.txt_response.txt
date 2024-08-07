@@ -1,0 +1,6 @@
+1. Customer order details:
+   - Order for 2 Canapés platters
+   - Order for 2 Mini Pitta Platters
+   - Pick up scheduled for December 31 at 11:00 AM
+2. Customer inquiry: "Do we eat Pitta hot or cold?"
+3. Response to inquiry: "Cold yes."

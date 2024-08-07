@@ -1,0 +1,15 @@
+1. Customer inquiry: Private chef dinner service for 2 people
+2. Pricing information: The usual dinner rate is €400 + groceries + VAT
+3. Understanding of a special request: Customer asking if there's a way to decrease the price for two people.
+4. Availability inquiry: Customers are staying for 10 nights from Thursday, June 21 to June 30; they are open to chef availability on different nights.
+5. Service confirmation: Breakfast service confirmation for tomorrow from 9:00 AM to 12:30 PM.
+6. Extra service charge: Additional breakfast service extension of 1 hour and 30 minutes will cost €100 per hour + VAT.
+7. Grocery list requests: Need to purchase pancake mix for breakfast.
+8. Service details: The chef will provide live cooking for breakfast.
+9. Dietary needs: Breakfast items requested include fresh orange juice, assorted fruits, yogurt, salmon, and bread assortments.
+10. Client preferences: Clients want to choose specific types of eggs, bacon, or pancakes for individual cooking.
+11. Payment procedure: Confirmation needed for grocery deposits and invoices for services rendered.
+12. Cancellation notice: The guest canceled breakfast service for tomorrow and Monday.
+13. Communication about payments: Inquiring about account settlements and discussing grocery deposits.
+
+Note: Some parts of the conversation were personal and redundant; thus, they were not included in the summary.

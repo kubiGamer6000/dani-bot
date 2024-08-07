@@ -1,0 +1,39 @@
+1. Event inquiry: Will you meet us at Mijas? The lady wants to pay you today, or should we take it for you?
+2. Payment inquiry: Yes please take it for me, I will get ready for the event.
+3. Setup inquiry: And should we come straight to you to help set up the Chinese event after? Where is the event?
+4. Location provided: Miuc please.
+5. Confirmation of tasks: Just making sure Dani, we will help with prep for the dinner but not staying and serving there right?
+6. Wine and champagne inventory: Hi Dani, so we have 22 bottles of white wine and 2 bottles of rose champagne.
+7. Other items inquiry: Do you know where is the rest of the stuff from the sushi party? I can't find the lemonade jugs which we used there.
+8. Missing items inquiry: We will need more plates, spare cutlery, starter plates for buffet, napkins, gloves, more trays, bin bags, tongs, serving spoons, and the desserts.
+9. Alcohólico inventory needed:
+   - Gin
+   - Vodka
+   - White rum
+   - Red wine
+   - Brandy
+   - Sweet red vermouth
+   - Campari
+   - Champagne
+   - Triple sec
+   - Elderflower liqueur
+   - Tequila blanco
+   - Soda water
+   - Apples, oranges (for sangria)
+   - Orange juice
+   - Mint
+   - Brown sugar
+   - Green pepper
+   - Limes (for slices and juice)
+   - Lemon
+10. Additional needs: Ice.
+11. Menu items needed: 
+   - Gyozas: 50 pcs chicken, 50 pcs prawn
+   - Pork Korean
+   - White chocolate, raspberry cheesecake
+   - Soy beans
+   - Chicken for skewers
+   - Cilantro
+   - Green curry paste
+   - Lemon grass
+   - Mini desserts.

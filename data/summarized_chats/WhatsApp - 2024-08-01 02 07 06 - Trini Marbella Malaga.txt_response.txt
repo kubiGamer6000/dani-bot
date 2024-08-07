@@ -1,0 +1,10 @@
+1. Customer inquiry: Interest in the catering boxes.
+2. Pricing inquiry: Request for information regarding the price and details of the boxes.
+3. Dates: Requesting catering service for the 15th and 16th.
+4. Clarification on delivery: The importance of serving the food the same day if not kept in the refrigerator.
+5. Confirmation question: Asking if it's possible to confirm the order on Monday for service on the 15th and 16th.
+6. Pickup arrangement: Inquiry about picking up from Marbella instead of delivery to Malaga due to distance.
+7. Pickup time inquiry: Asking about the earliest possible pickup time, suggesting 8:30 AM.
+8. Event details: Mentioning that colleagues are coming to a presentation and could bring the food.
+9. Inquiry about delivery for both days: Asking if food can be delivered for both days or if it should be picked up.
+10. Note about order flexibility: Indication that everything depends on the specific order, stating that it might be possible.

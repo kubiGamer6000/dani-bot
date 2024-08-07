@@ -1,0 +1,9 @@
+1. Customer inquiry: They would like to place an order.
+2. Delivery request: Delivery required tomorrow at around 14:30.
+3. Payment inquiry: Requesting a link for payment.
+4. Delivery charge: €25 + VAT.
+5. Pricing details: Total cost for delivery is €247.50 (€225 + VAT).
+6. Payment information:
+   - Beneficiary: Daniela Rosu
+   - IBAN: GB42 REVO 0099 7007 0631 51
+   - BIC: REVOGB21

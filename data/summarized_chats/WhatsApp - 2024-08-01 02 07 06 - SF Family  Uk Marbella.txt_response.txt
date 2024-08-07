@@ -1,0 +1,36 @@
+1. Customer inquiry: Looking for a chef to cook for two families while they are in Marbella from 01/08/2024 to 11/08/2024.
+2. Inquiry about options: Not sure what options are offered and how it works with possibly having the chef for multiple days or for a few meals, questioning the pricing structure.
+3. Pricing inquiry: Asking if the charge is on a day rate, per job, or per head.
+4. Meal schedule inquiry: 
+   - 02/08/2024 - Dinner
+   - 03/08/2024 - Lunch
+   - 04/08/2024 - Breakfast
+   - 07/08/2024 - Lunch
+   - 09/08/2024 - Dinner
+   - 10/08/2024 - Lunch
+5. Menus provided: 
+   - Service-Only Package: 
+     - Dinner Service: €600 plus grocery shopping
+     - Lunch Service: €500 plus grocery shopping
+     - Breakfast Service: €320 plus grocery shopping
+   - All-Inclusive Package: 
+     - Breakfast: €60 per adult, €30 per child, plus VAT
+     - Lunch: €90 per adult, €45 per child, plus VAT
+     - Dinner: €120 per adult, €60 per child, plus VAT (three-course menu dinner)
+6. Meal costs for the All-Inclusive Package (excluding VAT):
+   - 02/08/2024 - Dinner: €900
+   - 03/08/2024 - Lunch: €675
+   - 04/08/2024 - Breakfast: €450
+   - 07/08/2024 - Lunch: €675
+   - 09/08/2024 - Dinner: €900
+   - 10/08/2024 - Lunch: €675
+   - Overall Total: €4275
+7. Meal costs for the Service-Only Package (excluding groceries):
+   - 02/08/2024 - Dinner: Service Fee: €600 + VAT + groceries shopping
+   - 03/08/2024 - Lunch: Service Fee: €500 + VAT + groceries shopping
+   - 04/08/2024 - Breakfast: Service Fee: €320 + VAT + groceries shopping
+   - 07/08/2024 - Lunch: Service Fee: €500 + VAT + groceries shopping
+   - 09/08/2024 - Dinner: Service Fee: €600
+   - 10/08/2024 - Lunch: Service Fee: €500 + VAT + groceries shopping
+   - Overall Total: €3020 + VAT + groceries shopping
+8. Deposit required: A €2000 + VAT deposit for shopping is required for the service.

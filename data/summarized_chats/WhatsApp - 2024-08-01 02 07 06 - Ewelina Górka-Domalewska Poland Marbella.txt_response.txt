@@ -1,0 +1,39 @@
+1. Customer inquiry: Order catering for a boat on 23.07.2023
+2. Guest count: 7 people
+3. Delivery inquiry: Delivery to the boat for €25 + VAT
+4. Menu inquiry: Request for recommendations for the catering
+5. Initial menu suggestion:
+   - Sushi
+   - Fruit
+   - Cheese
+   - Burgers
+   - Sandwiches
+6. Menu pricing details (for 23.07):
+   - 1 sushi platter @ €50 + VAT
+   - 1 sandwiches platter @ €50 + VAT
+   - 1 mini burgers platter @ €50 + VAT
+   - 1 mix cheese and meat platter @ €50 + VAT
+   - 1 fruit platter @ €30 + VAT
+   - 1 delivery charge @ €25 + VAT
+   - Total: €255.00 (Gross: €280.50)
+7. Addition of vegetable platter:
+   - Vegetables platters with dips @ €50 + VAT
+8. Payment inquiry: Payment by transfer, invoice details requested
+9. Booking confirmation: Confirmed for 23.07, boat starting at noon
+10. Confirmation of payment deadline: Payment due 2 days before the event
+11. Additional booking inquiry for 26.07: Intention to provide information on 24.07
+12. Additional services inquiry: Inquiry about a mix box for 26.07
+13. Request for menu options: Customer asks what tapas can be recommended
+14. Guest count for additional order: 4 adults and 2 children for 26.07
+15. Recommended menu options for the second booking:
+   - Half burgers
+   - Half tapas
+16. Additional menu inquiry: Suggestion for the contents of the box, includes:
+   - Burgers
+   - Tapas
+   - Pita
+   - Cheese and ham
+   - Fruits
+17. Confirmation of order details: Boxes requested with specific contents and delivery time at 12:00
+18. Confirmation of payment for the second order: Payment went to the account
+19. Delivery location: Delivery to be confirmed as "same boat as Sunday" at Puerto Banus

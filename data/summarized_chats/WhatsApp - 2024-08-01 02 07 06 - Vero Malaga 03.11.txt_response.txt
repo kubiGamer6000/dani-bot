@@ -1,0 +1,10 @@
+1. Customer inquiry: Prices and catering services.
+2. Event details: A family dinner in central Malaga on 3/11/2022.
+3. Delivery inquiry: Do you deliver to Malaga?
+4. Guest count: 18 adults.
+5. Food preference: Finger food format, like canapés (specifically interested in baos).
+6. Time: 20:00.
+7. Pricing details: 
+   - Quote with service: €1500 + VAT for 4 hours of service, serving drinks and food.
+   - Quote without service: €1000 + VAT for a beautiful display table with 8 snacks, all dishes, a beautiful buffet.
+8. Customer feedback: The quoted prices are over the customer's budget and considered expensive compared to dining at a restaurant.

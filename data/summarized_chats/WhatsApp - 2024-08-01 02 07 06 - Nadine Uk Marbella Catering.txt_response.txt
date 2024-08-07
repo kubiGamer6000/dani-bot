@@ -1,0 +1,10 @@
+1. Customer inquiry: Looking to have a meal for 12 people catered for on Thursday 26th September.
+2. Menu inquiry: Please send menu choices.
+3. Beverages inquiry: Do you supply beverages too?
+4. Additional services inquiry: Interested in breakfast baskets.
+5. Three-Course Menu: 120 euros per person plus VAT.
+6. Luxurious Eight-Course Menu: 200 euros per person plus VAT.
+7. Unlimited Drinks Package: 50 euros per person plus VAT, includes cava, a selection of pairing wines, beers, and soft drinks (4 hours).
+8. Premium Drinks Package: Available upon request, featuring high-end labels.
+9. Standard Breakfast (cooked): 60 euros per person plus VAT.
+10. Menu customization: Menu can be customized to suit preferences and dietary requirements.

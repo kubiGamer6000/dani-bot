@@ -1,0 +1,32 @@
+1. Customer inquiry: Order for pickup on Wednesday 13/09 at 9:00 (if possible)
+2. Order details:
+   - 1 unit Picnic Platter
+   - 1 unit Mezze Platter
+   - 2 units Sandwich Platter
+3. Sandwich Platter 1 flavours:
+   - (1) Bacon, Lettuce, Tomato
+   - (2) Mozzarella Cheese, Tomato & Pesto
+   - (3) Coronation Curry Chicken
+   - (4) Roast Pepper & Cream of Hummus
+4. Sandwich Platter 2 flavours:
+   - (1) Feta cheese, cucumber & onion
+   - (2) Signature egg & Homemade Mayo cress
+   - (3) Prawn, lime, mayonnaise
+   - (4) Turkey, Cucumber & Salad
+5. Invoice request: Need to issue an invoice to a company. Customer asks if they should send the details.
+6. Payment inquiry: Can I pay in advance? If you send the invoice, I can send a bank transfer today. I can also pay by card or bizum, as you prefer.
+7. Invoice details for: EL GYM IBERIA, S.L. CIF: B85924132 Calle Ríos Rosas, 11-13 Local. 29007 Málaga.
+8. Catering inquiry for lunch for 20 people on Monday and Tuesday next week.
+9. Customer questions availability of other food options apart from the platters listed on the website.
+10. Order details for Monday 09/10 for approximately 20 people:
+    - 1 Picnic Platter
+    - 1 Mezze Platter
+    - 1 Mini-pitta Platter
+    - 1 Canapes Platter
+    - 1 Sandwich Platter
+    - 1 Sweet Dessert Platter
+11. Request for suggestions: If you have other suggestions, we are happy to consider them.
+12. Total cost for Monday and Tuesday's catering: €742.50 including VAT.
+13. Pickup time for Monday: 12:00; delivery time for Tuesday: around 13:00.
+14. Delivery address: Calle 4, Casa 1, (corner Calle 7) Guadalmina Baja. 29670 San Pedro Alcántara.
+15. Customer inquiry: Are the cheeses pasteurized?

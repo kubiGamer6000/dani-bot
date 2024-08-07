@@ -1,0 +1,29 @@
+1. Customer inquiry: What entertainment do you provide?
+2. Event inquiry: Planning a day at the villa with catering and music/DJ.
+3. Food preference: Looking for late afternoon food/tapas.
+4. Price/packages inquiry: Request for an idea of price/packages.
+5. Quote details for Hen Party:
+   - Date: Sunday, June 30th
+   - Guests: 9 guests
+   - Finger Food Party Package:
+     - Price: €60 per person + VAT
+     - Selections: 8 types per person, additional tapa €5.00/pp + VAT
+     - Features: Buffet setup with elegant decorations and staff for 4 hours
+   - BBQ option cost: Additional €60 per person + VAT
+   - Dessert Addition: Available at €15 per person + VAT
+   - Bar Flair Cocktail Station: Cost €1,000 + VAT, with three unlimited cocktails for 4 hours
+   - DJ: Cost €150 per hour + VAT, with top-tier equipment
+   - Stripper Show: Cost €1,000 + VAT
+   - Fire Show Girls: Cost €500 
+   - Drummer: Cost €500
+   - VAT Rate: 10%
+   - Additional Options: Balloons & Decorations upon request
+6. Deposit inquiry: How much deposit would you need for booking?
+7. Payment information: Full payment required 2 days in advance; temporary booking can be made.
+8. Food detail inquiry: Confirmation of 72 finger foods for the 9 people.
+9. Food service question: Will the finger foods be warm?
+10. Catering service confirmation: Food is served cold, but can be heated upon request.
+11. Inquiry about BBQ/paella option price:
+    - BBQ lunch: €90pp + VAT
+    - BBQ dinner: €120pp + VAT
+12. Cancellation notice: The group decided to change plans and cancel the arrangement.

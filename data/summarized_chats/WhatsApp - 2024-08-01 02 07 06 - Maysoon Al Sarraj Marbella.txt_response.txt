@@ -1,0 +1,41 @@
+1. Customer inquiry: I want to make a party on Tuesday, 30th of August; could you please send me your menu for catering?
+2. Menu inquiry: 
+   - Sandwiches
+   - Croissants
+   - Juice
+   - Sliders (mini burgers)
+   - Chips
+3. Guest count: For 10 kids and 15 adults.
+4. Dietary requirements: All the food should have no ham or bacon.
+5. Event details: 
+   - Event Date: Tuesday, 30th July 2024
+   - Event Time: 7:30 PM - 10:00 PM
+   - Guests: 20 people (15 kids and 5 adults)
+   - Setup: Tables with full plates, cutlery, and other necessary tableware
+   - Cost: €1,500 plus VAT
+6. Party Package Number 2:
+   - Menu: Finger Food (8 types) including sandwiches, croissants, fruits, and other items from the menu
+   - Staff Service: Included
+   - Cost: Please find attached touch menu for detailed pricing
+7. Lemonade Package:
+   - Cost: €50 per jar
+   - Varieties: Four different types recommended
+8. Total Costs Overview:
+   1. Main Event Package: €1,500 plus VAT
+   2. Party Package Number 2: As per attached menu
+   3. Lemonade Package: €50 per jar (recommendation: four types available)
+9. Booking details: If I want only 20-mix sandwiches, 10-mini chicken burgers, 10-beef burgers, and 20 croissants, how much?
+10. Pricing for takeaway: €25 plus VAT for delivery.
+11. Mini burger platter options: 
+   - Chicken slider 
+   - Beef slider 
+12. Sandwich platter options: 
+   - Mozzarella cheese 
+   - Chicken 
+   - Tuna 
+   - Egg
+13. Customer request: How much for the mini burger platter and sandwich platter, and I can come to collect at 7 PM?
+14. Payment inquiry: How you want me to send the money?
+15. Customer confirmation: I confirm that the order has to be made 48 hours in advance.
+16. Order details for collection: Tomorrow will be ready at 19:00 for collection, total of €110 plus VAT for the 2 boxes.
+17. Customer request for future order: Please make my order for next Tuesday; tomorrow's party is canceled.

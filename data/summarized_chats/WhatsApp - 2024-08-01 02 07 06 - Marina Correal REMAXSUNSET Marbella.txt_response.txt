@@ -1,0 +1,38 @@
+1. Customer inquiry: Request for catering quote for the opening of a new office event on Wednesday, May 31.
+2. Event details: The event is expected to have approximately 300 people, from 18:30 to 23:00.
+3. Catering services inquiry: Interest in bringing "picoteo" (snacks/appetizers) only.
+4. Menu items recommended: 
+   - 30-40 boxes of assorted snacks for 300 people.
+5. Specific orders provided:
+   - *4 boxes of sandwiches:* 
+     - 1/2 box of bacon, lettuce, and tomato
+     - 1/2 box of mozzarella, tomato, and pesto
+     - 1/2 box of cream mousse and salmon
+     - 1/2 box of roast beef
+     - 1/2 box of prawns, lime, and mayonnaise
+     - 1/2 box of coronation chicken
+     - 1/2 box of ham, cheese, and salad
+     - 1/2 box of roasted bell pepper and hummus
+   - *6 boxes of tapas:*
+     - 1 box of Serrano and camembert cheese
+     - 1 box of roast beef and red onion
+     - 1/2 box of vegetarian tortilla and 1/2 of chorizo tortilla
+     - 1 box of steak and chimichurri
+     - 1 box of wild mushroom and truffle
+     - 1 box of duck foie gras and quail egg
+   - *7 boxes of canapés:*
+     - 1 box of Thai shredded chicken
+     - 1 box of shredded duck and hoisin sauce
+     - 1 box of shredded pork and horseradish
+     - 1 box of brie cheese and blueberries
+     - 1 box of mini Caprese burrata
+     - 1 box of black salmon blini
+     - 1 box of Russian salad
+6. Presentation request: Need the food presented nicely since no trays are available.
+7. Invoice request: A request for the invoice details, providing fiscal data for the billing.
+8. Payment inquiry: Inquiring about how and when to make the payment.
+9. Delivery time confirmation: Delivery requested for 17:45 on May 31.
+10. Order confirmation: Requesting to increase the original order due to more expected attendees. Specific adjustments to the orders were provided:
+    - Increase to 5 boxes of sandwiches, 7 boxes of tapas, and 9 boxes of canapés.
+11. Payment confirmation: Sending proof of the payment transfer for the order on May 31. 
+12. Delivery confirmation: Final confirmation about the delivery time at 17:45.

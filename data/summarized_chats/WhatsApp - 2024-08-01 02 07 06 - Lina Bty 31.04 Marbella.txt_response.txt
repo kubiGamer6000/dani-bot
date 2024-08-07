@@ -1,0 +1,19 @@
+1. Menu inquiry: Dani's Catering Winter Menu
+2. Service inquiry: Asking about the price for services and details about plates for serving food.
+3. Guest count: Approximately 15-20 people for the party on April 30th.
+4. Vegetarian options proposal: 
+   - Vegetarian sandwiches
+   - Buns
+   - Mini vegetarian burgers
+   - Vegetable sticks and dips
+   - Fruit kebabs
+   - Mini desserts
+   - Homemade lemonades
+5. Pricing for vegetarian options: Based on 20 people - €1000 + VAT.
+6. Staff service charge inquiry: What is included in the price for staff service?
+7. Staff service details: 
+   - Setting up
+   - Serving drinks
+   - Helping with food
+   - Full service included
+   - Alternative service for setup only - €800 + VAT.

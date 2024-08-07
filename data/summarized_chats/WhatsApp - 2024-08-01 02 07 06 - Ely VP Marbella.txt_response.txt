@@ -1,0 +1,24 @@
+1. Customer inquiry: Menu for Easter.
+2. Guest count: 5 adults and 2 young children (2 and 4 years old).
+3. Event type: Family lunch at 1 PM.
+4. Service inquiry: Private chef, barbecue with salad, starter, or takeaway food.
+5. Budget inquiry: Request for a quote for barbecue with salad and starter, and another for takeaway food.
+6. Pricing information: Takeaway BBQ starting from €500 + VAT.
+7. Lead time inquiry: Ask how soon to order for takeaway; response indicates before 12:00 PM.
+8. Inquiry about options: Is it possible to choose more than two options for the plate of tapas and pinchos? 
+9. Options available: Two options for a box; three options are also possible.
+10. Order details: 
+    - Plate of Tapas and Pinchos: 
+        - Duck Foie Gras and Quail Egg
+        - Salmon and Caviar
+        - Roast Beef and Red Onion
+    - Plate of Canapés: 
+        - Roasted Babaghanoush
+        - Mini Shrimp and Tartar Sauce
+        - Goat Cheese and Caramelized Onion (vegan)
+        - Swedish Meatballs
+        - Black Salmon Blini
+        - Russian Salad
+11. Delivery inquiry: Is it only for takeaway or also home delivery?
+12. Delivery fee: €25 for home delivery.
+13. Payment method inquiry: Will pay in cash or bank transfer, with confirmation needed for Monday.

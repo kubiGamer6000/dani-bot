@@ -1,0 +1,32 @@
+1. Customer inquiry: Private chef service for 8 adults on April 26.
+2. Menu inquiry: 
+   - Surf ’n Turf featuring:
+      - Sea Bass
+      - Lobster
+      - Wagyu Beef
+      - Paella
+      - King Crab
+      - Oysters
+3. Pricing: €300 per person + VAT for the private chef service.
+4. Customized Private Chef Menu for a 40th Birthday Party Celebration:
+   - Date: June 27
+   - Guests: 5
+   - Price: €400 per person + VAT
+   - Starters (Choose 2):
+     1. Oysters Rockefeller
+     2. Seafood Ceviche
+     3. Crab Cakes with Lemon Aioli
+     4. Shrimp Cocktail
+   - Main Course (Choose 1):
+     1. Grilled Lobster Tail
+     2. Seared Scallops with Truffle Risotto
+     3. Salmon en Papillote
+     4. Paella Marinera
+   - Dessert (Choose 1 + Bespoke Birthday Cake):
+     1. Lemon Panna Cotta with Berry Compote
+     2. Key Lime Pie
+     3. Chocolate Fondant
+     4. Tropical Fruit Salad
+     5. Bespoke Birthday Cake (€50 per person + VAT)
+   - Beverages: White wine pairing, champagne, and non-alcoholic options available. 
+5. Additional services inquiry: White wine pairing options include Chablis, Sauvignon Blanc, or Chardonnay.

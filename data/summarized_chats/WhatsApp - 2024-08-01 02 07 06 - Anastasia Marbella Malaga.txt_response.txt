@@ -1,0 +1,37 @@
+1. Customer inquiry: Catering for 1,000 to 2,000 people
+2. Event date: December 9, 2023
+3. Event type: Catering for a marathon for the runners
+4. Menu inquiry: Request for montaditos, sandwiches, and Mediterranean food, specifically paella.
+5. Availability confirmation: Dani's Catering has availability for the event.
+6. Budget inquiry: Request for a quote.
+7. Inquiry on services: Asking if drinks, service, and equipment are included.
+8. Price quoted: €50 per person plus VAT.
+9. Event details:
+   - Date: 09.12.2023
+   - Start: 13:00
+   - End: 21:00
+10. Menu details:
+    - Tapas and Skewers (9 types):
+      1. Patatas Bravas: Crispy fried potatoes topped with spicy tomato sauce and garlic aioli.
+      2. Beef Skewers with Chimichurri Sauce: Tender beef skewers marinated in chimichurri sauce, grilled to perfection.
+      3. Stuffed Mushroom Skewers: Mushrooms stuffed with goat cheese, garlic, and herbs, roasted until creamy.
+      4. Spanish Tortilla Skewers: Small portions of traditional Spanish tortilla made with potatoes and eggs, served on skewers.
+      5. Ham Croquettes: Creamy and crunchy ham croquettes.
+      6. Chicken and Chorizo Skewers: Skewers of marinated chicken and chorizo grilled to perfection.
+      7. Smoked Salmon Skewers with Cream Cheese and Dill: Smoked salmon rolled with creamy cheese and a touch of dill.
+      8. Meatball Skewers in Tomato Sauce: Delicious meatballs cooked in a rich tomato sauce served on skewers.
+      9. Roasted Eggplant Skewers with Goat Cheese and Honey: Roasted eggplant slices topped with creamy goat cheese and honey.
+    - Selection of Paella:
+      1. Chicken and Chorizo Paella: Traditional Spanish paella made with saffron-infused rice, tender pieces of chicken and flavorful chorizo.
+      2. Seafood Paella: A delight for seafood lovers with a mix of shrimp, mussels, clams, and squid.
+      3. Vegetarian Paella: A vibrant option with a variety of fresh vegetables.
+11. Included in the price:
+    - All necessary staff for preparation and service
+    - Equipment for cooking and serving
+    - Cooks for dish preparation
+    - Multiple serving stations for efficient service
+    - Disposable plates and cutlery
+    - Napkins for guests
+    - All necessary disposable items for easy cleanup
+12. Customization options: Menu can be further customized to accommodate dietary restrictions or specific guest preferences.
+13. Commitment to memorable events with exceptional food and service.

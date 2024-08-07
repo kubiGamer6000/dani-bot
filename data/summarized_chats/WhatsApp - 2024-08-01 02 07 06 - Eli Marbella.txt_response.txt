@@ -1,0 +1,25 @@
+1. Customer inquiry: Looking for advice for a birthday celebration on Monday the 14th, with Arab guests.
+2. Menu inquiry: Interested in knowing which boxes can be ordered that do not contain any pork.
+3. Delivery area inquiry: Asking if delivery is available to Riviera del Sol or only Marbella.
+4. Delivery confirmation: Confirmed that delivery can be made to Riviera del Sol.
+5. Delivery time inquiry: Requesting delivery around 4 PM.
+6. Food options inquiry: Asking if mini hamburgers and croissants are served cold.
+7. Customization inquiry: Asking if sandwiches and croissants can be mixed in the same box.
+8. Dietary requirement: Confirmed that the guests do not eat pork.
+9. Adjustment inquiry: Asking if the ingredients in the list can be modified if any are disliked.
+10. Guest count: Initially specifying 8 people.
+11. Order composition: 
+   - Sandwiches with tuna, hard-boiled egg, mayonnaise, and cumin (spice)
+   - Chicken sandwich with cheese and mayonnaise
+   - Croissant with turkey, tuna, cheese, lettuce, tomato, and mayonnaise
+   - Mini hamburgers with only beef and/or chicken
+12. Box suggestion: Inquiring if a box with the selected variety of items is possible.
+13. Box quantity inquiry: Asking how many items approximately come in each box.
+14. Suggestion: Confirming that two boxes will be ordered for sufficient quantity.
+15. Hamburgers details: Asking if there are different colors of bread and their condition.
+16. Price inquiry for hamburgers: Mentioning that you get 15 for €50.
+17. Hamburger size confirmation: Confirmed that they are medium-sized.
+18. Inquiry about color: Asking if they must be the same color or can be mixed.
+19. Black bread flavor inquiry: Questioning if the black bread has a special flavor.
+20. Serving recommendation: Confirming it is recommended to eat them cold.
+21. Total price confirmation: Stating the total cost as €60 for 2 boxes and delivery.

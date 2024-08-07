@@ -1,0 +1,16 @@
+1. Customer inquiry: Request for a quote for normal cooking for a group of 10 guys for a 40th birthday from August 23rd - 26th.
+2. Availability inquiry: Asking if Dani's Catering has availability for the specified dates.
+3. Meal details: Inquiry about breakfast, lunch, and dinner services, confirming one dinner off.
+4. Quote for 10 people:
+   - Breakfast/day: 
+     - Cost per person: €60 
+     - Total Breakfast: €660 
+   - Lunch/day: 
+     - Cost per person: €90 
+     - Total Lunch: €990 
+   - Dinner/day: 
+     - Cost per person: €120 
+     - Total Dinner: €1320 
+   - Total includes a private chef, a waitress, and all food for breakfast, lunch, and dinner for 10 people.
+5. Customer follow-up inquiry: Request for when the budget would be sent.
+6. Additional services included: Private chef, waitress, and food provision for the entire group.

@@ -1,0 +1,42 @@
+1. Customer inquiry: Can you do bridal breakfast for 12 people?
+2. Date inquiry: What date?
+3. Date specified: 1 June.
+4. Location specified: In our villa, it’s in Nueva Andalucia.
+5. Inquiry about menu options: Can you send some menu options for a gender reveal dinner for 15 guests?
+6. Dinner type specified: Like a 3 course meal.
+7. Set menu pricing: Price: €120 per person + VAT.
+8. Menu options provided for the sit-down dinner gender reveal:
+   - Starters:
+     1. Lobster Bisque
+     2. Caviar Blinis
+     3. Foie Gras Canapés
+     4. Oysters Rockefeller
+     5. Tuna Tartare
+     6. Beef Carpaccio
+     7. Truffle Arancini
+     8. Crab Cakes
+     9. Smoked Salmon Roulade
+     10. Prosciutto-Wrapped Asparagus
+   - Main Courses:
+     1. Filet Mignon with Truffle Butter
+     2. Chilean Sea Bass with Miso Glaze
+     3. Lobster Tail with Champagne Sauce
+     4. Rack of Lamb with Herb Crust
+     5. Duck Breast with Cherry Port Sauce
+     6. Vegetarian Wellington
+     7. Wagyu Beef Ribeye
+     8. Coq au Vin
+     9. Seafood Risotto
+     10. Roast Pheasant with Juniper Berry Sauce
+   - Desserts:
+     1. Crème Brûlée
+     2. Opera Cake
+     3. Molten Chocolate Cake
+     4. Pavlova
+     5. Macarons
+     6. Tarte Tatin
+     7. Poached Pears in Red Wine
+     8. Hazelnut Dacquoise
+     9. Lemon Soufflé
+     10. Baba au Rhum
+9. Inquiry regarding service inclusions: Do you include plates and cutlery?

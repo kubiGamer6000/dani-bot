@@ -1,0 +1,16 @@
+1. Customer inquiry: Price for informal catering for a communion of about 80 people.
+2. Event details: 80 adults and 30 children, informal buffet style, will take place on Saturday, May 21, at noon.
+3. Venue information: Outdoor kitchen available, limited to a vitro and an oven; no need for plates and equipment.
+4. Catering packages offered:
+   - Sandwich party from €15/person
+   - Cold tapas party for €20/person
+   - Cold and hot tapas from €30/person
+   - Paella party from €35/person
+   - BBQ party from €40/person
+   (children pay half price)
+5. Interested packages: Sandwiches and cold tapas.
+6. Package details: 
+   - Includes 2 staff members for setup and service for 2 hours, a beautiful display table, rental of fountains, napkins, and takeaway plates.
+   - Sandwich party: Select 4 types @ €15/person + VAT (additional €4.00 for each extra type).
+   - Cold tapas party: Select 4 types @ €20/person + VAT (additional €5.00 for each extra type).
+7. Inquiry about mini burgers: Confirmed can be offered but may not taste as good if served cold.

@@ -1,0 +1,10 @@
+1. Customer inquiry: Selection of sandwiches and finger foods for takeout for 7 people, excluding pork, cucumber, and onion.
+2. Pricing: €100 + VAT for sandwiches, croissants, buns, including varieties of salmon, beef, tuna, chicken, vegetable sticks, tortillas, and dips.
+3. Menu inquiry: 
+   - 5 sandwich boxes and 2 kids' sandwich boxes
+   - Sandwich types: Tuna, roast beef, turkey, salmon, vegetarian, cheese
+   - Another box with mini burgers (half with cheese and half without cheese)
+4. Delivery time: Requested on Friday by 11:00 am.
+5. Pricing confirmation: 8 boxes at €25 + VAT per box = €200, plus €10 delivery fee.
+6. Payment options: Cash on delivery or bank transfer; customer prefers cash.
+7. Delivery address: La Reserva de la Quinta, Villa 231 - Casa de la Vida, Calle Hernando de Soto Intersection Avenida Tomas Pascual, 29678 Benahavís.

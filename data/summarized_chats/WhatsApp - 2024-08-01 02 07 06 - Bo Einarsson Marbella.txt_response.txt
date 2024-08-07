@@ -1,0 +1,19 @@
+1. Customer inquiry: 4 platters of charcuterie and 4 platters of tapas pinchos requested for 5 PM.
+2. Pricing details:
+   - €50 per platter + VAT
+   - Total for 4 charcuterie platters and 4 tapas pinchos: €400 + VAT
+   - Delivery charge: €25 + VAT
+   - Total including VAT: €467.50
+3. Payment method: Customer chooses to pay by card.
+4. Additional package offered:
+   - Package for 2 @ €50/pack + VAT, includes:
+     - Ham, cheese, salmon & vegetables sandwiches selection
+     - 1 Greek salad bowl
+     - 1 fresh fruit bowl
+     - Mini brownie bites
+     - Vegetable sticks & dips
+     - Mini charcuterie & cheese platter
+     - 1 bottle of orange juice
+     - 2 mini still water
+5. Customer confirmed an order of 15 packets for the same address, delivery at 8 AM on Sunday morning, payment with card.
+6. Inquiry about potential additional sandwiches: If feeling not filling, customer can bring 2 big boxes of sandwiches to the golf course later as a complimentary offer.

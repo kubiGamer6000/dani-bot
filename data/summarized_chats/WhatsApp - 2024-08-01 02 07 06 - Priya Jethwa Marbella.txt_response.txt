@@ -1,0 +1,13 @@
+1. Customer inquiry: Collection of sandwich platters on the morning of Saturday, 21st October.
+2. Address for collection: The kitchen location provided by Dani's Catering.
+3. Order details: 3 x sandwich platters (€55 each) with the following selections:
+   - Flavour 1 – Ham, Cheese & Salad
+   - Flavour 2 – Mozzarella Cheese, Tomato & Pesto
+   - Flavour 3 - Coronation Curry Chicken
+   - Flavour 4 - Roast Pepper & Cream of Hummus
+4. Total cost: €165.
+5. Order confirmation inquiry: Customer checking if the order is confirmed.
+6. Collection time: 10-11am confirmed for collection on 21.10.
+7. Payment method: Customer inquires if payment is on collection.
+8. Dietary request: Request for some sandwiches on 1 platter without butter; one person does not like butter.
+9. Final confirmation of collection: Customer checks if they can pick up the platters at 10.30 on the morning of 21.10.

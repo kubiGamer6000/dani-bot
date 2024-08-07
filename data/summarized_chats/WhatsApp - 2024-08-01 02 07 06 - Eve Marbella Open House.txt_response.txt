@@ -1,0 +1,10 @@
+1. Customer inquiry: Looking for food bites and snacks for approximately 30 people for an event on Saturday the 22nd.
+2. Pricing inquiry: Request for prices for service and non-service delivery.
+3. Alcohol inquiry: Asking if Dani's Catering provides alcohol service, specifically Cava.
+4. Menu information: 
+   - Party packages without service: €40/person + VAT.
+   - Party packages with service and unlimited Cava: €60/person + VAT.
+5. Takeaway platters: Customer mentions that the takeaway platters are €50 each and they plan to order 3-4 platters.
+6. Alcohol inquiry: Customer interested in pricing for alcohol and asks if Dani's Catering provides it separately.
+7. Delivery fee: If the takeaway platters are delivered, an additional fee of €25 + VAT applies.
+8. Inquiry about party package: Customer asks if the party package of €60/person includes drinks for 20 people and requests an extra platter.

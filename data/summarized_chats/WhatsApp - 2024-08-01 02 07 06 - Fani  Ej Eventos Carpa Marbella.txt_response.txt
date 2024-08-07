@@ -1,0 +1,9 @@
+1. Customer inquiry: Need a tent for 40 people, very nice for Saturday, April 22.
+2. Inquiry about anchoring: Can the tent be anchored? Is the ground grass?
+3. Additional services inquiry: Need for decoration and lighting?
+4. Setup and teardown inquiries: What are the setup and teardown times?
+5. Customer response: Confirmation regarding the tent.
+6. Budget inquiry: Please send me the budget.
+7. Additional services inquiry: Do you want lighting?
+8. Pricing inquiry: The budget will be provided separately for each item.
+9. Lead time inquiry: Need to know something by Monday at the latest to organize the materials.

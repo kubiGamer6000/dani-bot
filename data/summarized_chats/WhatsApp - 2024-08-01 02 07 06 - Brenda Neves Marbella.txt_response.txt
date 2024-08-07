@@ -1,0 +1,50 @@
+1. Customer inquiry: Brenda would like to know prices.
+2. Customer inquiry: Brenda asks about the menu.
+3. Menu details provided: "We just finished an event now - find our menus - as well we do bespoke packages- with service included."
+4. Customer inquiry: Brenda asks to send the menu here.
+5. Brenda requests for a print of what she would like: "2 box of canapés."
+6. Event date: Delivery for canapés on April 29th.
+7. Pricing details:
+   - 2 canapés platters - €100 + VAT
+   - 1 fruit skewer platter - €30 + VAT
+   - Delivery - €25 + VAT
+   - Total: €155 + VAT
+8. Customer inquiry: Brenda inquires if she can pay in cash.
+9. Additional services inquiry: Brenda would like to add various platters including a sushi platter and tacos plate for her delivery.
+10. Final total for food on April 29th:
+    - 2 canapés platters - €100 + VAT
+    - 1 charcuterie platter - €50 + VAT
+    - 1 sushi platter - €50 + VAT
+    - 1 fruit skewer platter - €30 + VAT
+    - Delivery - €25 + VAT
+    - Total: €255 + VAT
+11. Customer inquiry: Brenda asks about the cost for organizing the table with plates and shelves.
+12. Additional decoration and setup costs: €150 + VAT.
+13. Customer inquiry: Brenda asks to confirm cheese platter availability and to change the charcuterie platter for a cheese platter.
+14. Total for event on April 29th, including decoration and setup: €455 + VAT.
+15. Customer inquiry: Brenda confirms her guest count and asks for delivery details for 1 PM.
+
+---
+
+16. Customer inquiry: Brenda inquires about a gender reveal event on November 12th for 20 people and requests information on canapés and salads.
+17. Pricing offered: €60/person + VAT for canapés and salads for 20 people.
+18. Customer inquiry: Brenda asks about specific menu items like spring rolls and prawns tempuras.
+19. Customer inquiry: Brenda inquires how many pieces of sushi are on a platter.
+20. Customer inquiry: Brenda requests invoices details for her fiancé's company.
+
+---
+
+21. Customer inquiry: Brenda asks about ordering food for her 6-month-old child’s birthday.
+22. Customer inquiry: Brenda wants to know if boxes can be ordered for 7 people for delivery.
+23. Pricing details for takeaway boxes:
+    - Greek salad - €50
+    - Sandwich platter - €50
+    - Sushi platter - €75
+    - Mini burgers - €50
+    - Cold taco platter - €50
+24. Delivery fee: €25 + VAT.
+25. Customer request: Brenda confirms she would prefer card payment for the delivery.
+
+---
+
+Additional relevant information extracted throughout the chat includes menu details, pricing inquiries, customization options, specific event date arrangements, dietary accommodations, and payment inquiries.

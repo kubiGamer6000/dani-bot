@@ -1,0 +1,16 @@
+1. Customer inquiry: Celebrating a birthday on Friday, August 25, at 20:30.
+2. Order details:
+   - 12 burgers
+   - 10 tacos
+   - 20 Asian dishes
+3. Pricing: 3 boxes at €50 each + VAT. Total is €175 + VAT, with a grand total of €192.50.
+4. Delivery preference: Home delivery for €25 + VAT.
+5. Payment method preferred: Bank transfer.
+6. Invoice request: Asking if an invoice can be issued.
+7. Invoice details:
+   - To be issued to: Emherson Group S.L
+   - Address: C/ Nosquera 10, 29008 Malaga
+   - Concept: Catering Show Room Villa Virrey
+   - CIF/NIF: B92918135
+8. Delivery address: Urb. Lomas del Virrey, C/ Camino de Santiago, 5, 29602.
+9. Customer confirms delivery time: The party is at 20:30/21:00, requesting delivery either at 20:00 or 20:30.

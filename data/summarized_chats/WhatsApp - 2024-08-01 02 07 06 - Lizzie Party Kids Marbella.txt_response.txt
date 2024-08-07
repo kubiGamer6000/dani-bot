@@ -1,0 +1,6 @@
+1. Customer inquiry: How much would it cost to do the water infusers and the kids party lunch boxes?
+2. Pricing information:
+   - Kids party boxes start from €25 and can be personalized as per requirements.
+   - Water infusers start from €35.
+3. Menu information request: Customer asked for menus for additional information.
+4. Date inquiry: Request for the date of the event.

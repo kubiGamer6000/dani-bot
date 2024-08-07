@@ -1,0 +1,4 @@
+1. Customer inquiry: Order for 3 picnic boxes for Sunday.
+2. Location inquiry: Customer lives in Carib Playa in Marbella.
+3. Drinks preference: No drinks included in the order.
+4. Customer waiting for further information.

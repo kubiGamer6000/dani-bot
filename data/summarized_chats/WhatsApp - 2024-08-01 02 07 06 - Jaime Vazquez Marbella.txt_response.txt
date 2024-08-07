@@ -1,0 +1,20 @@
+1. Inquiry: Drinks options - Will there be cava or champagne only?
+2. Event details: Scheduled for 20:00 (8 PM).
+3. Guest count: Based on 25 guests.
+4. Quotation request: Awaiting a budget proposal.
+5. Pricing for services (translated from Spanish):
+   - Package 1 @ €50/person + taxes
+     - Selection of 8 canapés
+     - Beautiful display decoration
+     - Staffing service for 2 hours
+   - Package 2 @ €80/person + VAT
+     - Selection of 8 canapés
+     - Prestigious cava, sparkling water, soft drinks, ice, all glasses, buckets, etc.
+     - Beautiful display decoration
+     - Staffing service for 2 hours
+   - VIP Package 3 @ €100/person + VAT
+     - Selection of 8 canapés
+     - Oyster opening station
+     - Champagne, sparkling water, soft drinks, ice, all glasses, buckets, etc.
+     - Beautiful display decoration
+     - Staffing service for 2 hours

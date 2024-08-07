@@ -1,0 +1,21 @@
+1. Event details: Reception at home with 8 children and 8 adults on Friday in Marbella
+2. Catering inquiry: Request for catering and possibility of picking up the food
+3. Dietary preference: Healthy food with low sugar for children
+4. Availability inquiry: Customer asks for confirmation of availability
+5. Menu and budget inquiry: Request for an idea of menu and budget
+6. Collection time: Food collection at 2 PM, flexible if earlier pickup is needed
+7. Recommended quantities: Recommendation of 6-8 boxes for 16 people
+8. Menu order:
+   - 1 tray of mini hamburgers (10 fried chicken, 10 fish)
+   - 1 tray of sushi (40 pieces)
+   - 1 tray of tempura shrimp bao (10 pieces)
+   - 1 charcoal-grilled beef burger tray (10 pieces)
+9. Inquiry about bao: Customer asks what the bao is made of
+10. Additional order: Add 1 tray of Korean chicken bao
+11. Payment details: Customer asks if payment can be made via transfer and if an invoice can be provided
+12. Payment options: Payment can be made with card or cash upon pickup
+13. Pricing information: €50 per box, total of 5 boxes for €250
+14. Invoice inquiry: Customer requests a receipt or invoice
+15. Packaging inquiry: Customer asks whether the food comes in dishes for serving or just in boxes
+16. Final confirmation: Customer confirms to meet at 2 PM for pickup
+17. Hamburger meat type: Inquiry about whether the burger meat is beef or pork (confirmed as beef)

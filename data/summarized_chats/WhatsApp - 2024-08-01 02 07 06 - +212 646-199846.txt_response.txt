@@ -1,0 +1,15 @@
+1. Customer inquiry: Buffet catering for 30 people
+2. Event details:
+   - Date: Wednesday 26
+   - Time: In the evening
+3. Services requested:
+   - Food
+   - Tables
+   - Platters
+4. Pricing:
+   - €900+ VAT for 30 guests, including:
+     * Table set-up
+     * Delivery and collection
+     * Platters decoration
+     * Food as per picture provided by customer
+5. No staff service or equipment requested beyond tables and platters

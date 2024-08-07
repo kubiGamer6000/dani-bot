@@ -1,0 +1,38 @@
+1. Inquiry about services: Svetlana confirmed she wants to proceed with catering.
+2. Guest count: 11 adults + 2 kids (ages 4-5) and 2 babies.
+3. Menu request:
+   - Canapés: Smoked salmon Belini, prawn tempura, vegetarian gyoza.
+   - Starters: Buratas, tuna tartare, beef carpaccio, lamb kofta & tzatziki, bread & butter, olives.
+   - Main: Beef chuletón, salmon, king prawn & calamari sticks.
+   - Side dishes: Roast vegetables, salads, mashed potatoes with truffle.
+   - After: Cheese & jamon plates.
+4. Additional dietary request: Grilled avocado with feta for starter.
+5. Inquiry about calamari sticks being fried: Request to omit if they are fried.
+6. Equipment provided: White tables, chairs, tablecloths, jars of lemonade, ice buckets, and all equipment.
+7. Service details: Food and service, plates, and glasses are €150 per person plus VAT (without drinks).
+8. Comment on pricing: Customer requested a lower price of around €100 per person if drinks are not included, mentioned not wanting a cold buffet.
+9. Deposit details: 50% non-refundable deposit required; a quote for balloon decoration was provided totaling €350 for a golden circular structure and a balloon garland.
+10. Decoration request: Inquiry about decorating the area for kids with pillows and possible balloon decorations.
+11. Confirmation of beverage offerings: Included water, soft drinks, and the option for coffee and tea.
+12. Invoice details requested: Customer asked for an invoice for catering services. 
+13. Confirmation of guests: Request to confirm if they need to bring flowers to decorate tables.
+14. Location for the upcoming event was discussed as a possibility: The finca next to Villa Padierna in Benahavis was offered as an alternative venue.
+15. Inquiry about chair options for a modern look was made.
+16. Date and time for the event were finalized, with the need for tables & chairs set up to be confirmed based on guest numbers.
+17. Thought of providing catering services at the new location if the original venue is not selected.
+18. Customer expressed gratitude and requested confirmation on various arrangements.
+
+--------------------------------------------------------------
+1. Inquiry regarding the possibility of decorating a children's play area with pillows and small tables.
+2. Drink preferences: Orange juice, still water with strawberries and mint were specified.
+3. Cake inquiry: Asked if fruits should be brought for the cake.
+4. Confirmation of the arrival time for guests was provided as 12-12:30.
+5. Question about whether balloons can be included in the decorations.
+6. A breakdown of decoration requests and confirmations was detailed, emphasizing customer satisfaction with planned arrangements.
+7. Request for the exact time for bringing balloons and drinks was settled on 10:00-10:30.
+
+--------------------------------------------------------------
+1. VAT confirmation: Customer provided correct VAT number for invoicing.
+2. General feedback: Customer expressed they had an amazing time and mentioned plans for payment.
+
+Overall, the conversation contains extensive inquiries and information related to catering services, menu options, event planning, and additional decoration services, making it highly relevant for training a customer service chatbot.

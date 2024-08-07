@@ -1,0 +1,50 @@
+1. Event inquiry: Children's pool party for 5 children and 8 adults on Monday and Wednesday.
+2. Guest count: 5 children and 8 adults for both parties.
+3. Request for menu recommendations for young children aged 4 and 6.
+4. Inquiry for total price for both events.
+5. Monday Event Details:
+   - Guests: 8 adults, 5 kids
+   - Theme: Pool Party
+   - Duration: 4 hours
+   - Service: Full staff service
+   - Menu includes:
+     - Salads (Choice of 2):
+       - Caesar Salad
+       - Greek Salad
+     - Wraps:
+       - Chicken Caesar Wraps
+       - Veggie Wraps
+     - Bagels: Assorted Bagels with Cream Cheese and Toppings
+     - Mini Burgers: Beef Sliders, Veggie Sliders
+     - Chicken Nuggets
+     - Fries
+     - Vegetable Sticks and Hummus Dips
+     - Fresh Fruit Platters
+     - Homemade Lemonades
+     - Mini Dessert Bites
+   - Inclusions: All equipment included (tables, serving equipment, etc.), beautiful display setup
+   - Cost: €1,000 plus VAT
+6. Wednesday Event Details:
+   - Guests: 8 adults, 5 kids
+   - Theme: Pool Party
+   - Duration: 4 hours
+   - Service: Full staff service
+   - Menu includes:
+     - Salads (Choice of 2):
+       - Caprese Salad
+       - Cobb Salad
+     - Wraps:
+       - Turkey Club Wraps
+       - Hummus and Veggie Wraps
+     - Bagels: Assorted Bagels with Lox and Cream Cheese
+     - Mini Burgers: Cheeseburger Sliders, Black Bean Sliders
+     - Chicken Nuggets
+     - Fries
+     - Homemade Guacamole and Tortillas
+     - Fresh Fruit Platters
+     - Homemade Lemonades
+     - Mini Dessert Bites
+   - Inclusions: All equipment included (tables, serving equipment, etc.), beautiful display setup
+   - Cost: €1,000 plus VAT
+7. Inquiry for smaller or no catering package due to high cost expectations.
+8. Request for finger food options for a more relaxed atmosphere.

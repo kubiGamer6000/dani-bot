@@ -1,0 +1,20 @@
+1. Customer inquiry: Interested in having a private chef experience for the end of the year catering.
+2. Date inquired for private chef service: December 28, 29, 30, and New Year's Eve.
+3. Service options inquiry: Information about in-house chef availability and home delivery of food.
+4. Service details provided: Private chef service including a customized menu; pricing at €150 per person plus VAT, with meals prepared and served by a professional chef.
+5. VAT inquiry: Customer asked how much VAT is.
+6. New Year's Eve pricing: Minimum of 6 guests at €400/person + VAT (VAT = 10%).
+7. New Year's Eve dinner proposal:
+   - Starters:
+     - Prosciutto-Wrapped Asparagus
+     - Tomato Bruschetta
+     - Shrimp Cocktail
+   - Mains (Shared):
+     - Herb-Roasted Lamb
+     - Oven baked Salmon with Lemon Dill Sauce
+     - Gnocchi with Truffle Cream Sauce
+   - New Year's Eve Cake: Champagne Cake
+8. Dietary restrictions: One person allergic to apple; two adults prefer meat, two prefer fish.
+9. Dinner service booked on: December 28, 30, and January 2 for 4 adults.
+10. Total cost for 3 dinners: €1800 + VAT, Total gross = €1980.
+11. Follow-up needed: Customer will specify dinner serving time and expects menu proposals for the first dinner.

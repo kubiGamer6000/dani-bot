@@ -1,0 +1,8 @@
+1. Event inquiry: Organisation of a baptism.
+2. Event date: July 1st.
+3. Budget inquiry: Request for a quote for catering services.
+4. Guest count: 30 people.
+5. Equipment inquiry: Customer has no equipment, only the space available.
+6. Catering style: Buffet is specified.
+7. Pricing information: Barbecue starts at €80 per person plus VAT.
+8. Additional equipment: Required but must be discussed separately regarding prices.

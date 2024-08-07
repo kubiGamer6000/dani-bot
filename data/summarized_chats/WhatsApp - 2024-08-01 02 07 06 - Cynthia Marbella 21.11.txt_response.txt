@@ -1,0 +1,29 @@
+1. Customer inquiry: Organizing a birthday for daughter on Sunday, November 21.
+2. Availability inquiry: Asking if Dani's Catering has availability for the event.
+3. Guest count: 20 / 25 people.
+4. Menu preferences: 
+   - Vegetable food
+   - Fish (salmon)
+   - Meat
+5. Menu requirements: Separate meat from the fish and vegetarian food.
+6. Additional service inquiries: Request for platters, decorations, and staff service packages.
+7. Customer budget: 500 euros.
+8. Menu specifications: 
+   - Need for a vegetarian platter, shellfish platter, and meat platter.
+9. Flavors inquiry: Asking about available flavors of lemonade.
+10. Beverage order: 
+    - 2 flavors of Mojito, 
+    - 1 Watermelon.
+11. Request for rental information: How much for plates and utensils for the buffet setup.
+12. Pricing information: 
+    - Platters 10€/each,
+    - €50 deposit for next day collection.
+13. Presentation requirements: Customer references specific presentation styles from Instagram.
+14. Event setup preference: Buffet setup is desired.
+15. Final order summary:
+    - 6 tapas platters (3 meat, 2 fish, 1 vegetarian),
+    - 3 lemonades,
+    - Cost breakdown including VAT.
+16. Cancellation notice: Event cancelled due to rain.
+17. Rescheduling inquiry: Inquiring about availability for rescheduling, suggesting another Saturday.
+

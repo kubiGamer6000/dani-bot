@@ -1,0 +1,31 @@
+1. Inquiry about availability: "Do you have a chef available for New Year's?"
+2. Response about availability: "Unfortunately not - we are fully booked - we can help with food take away if you have something in mind."
+3. Inquiry about order deadline: "When do you need the order at latest?"
+4. Inquiry about New Year menus or proposals: "Do you have any new year menus or proposals?"
+5. Guest count for catering: "10-12"
+6. Catering proposal details:
+   - Package 1 @ €1000/€1200 + VAT: Includes setup of starters & food, heating and cooking instructions for convenience, and collection of platters the next day.
+   - Package 2 @ €2000/2400 + VAT: Staff service for 3 hours, setup of table, serving drinks and food, personal chef cooking meat, and waiter service.
+   - Menu includes:
+     - Beautiful Graze table style with local & international cheese, cured meats, smoked fish, tempuras, selection of gyozas, nuts, vegetables, and dips.
+     - Mains: Beef tomahawk, Salmon wellington or lobster, Duck roulade.
+     - Sides: Truffle mash potato, Roast vegetables, Spinach sauté.
+     - Dessert: Selection of finger desserts, fresh fruit, Petit fours.
+   - Note: Customization options available as per request.
+7. Inquiry about table setup for the first package: "Will you set the whole table including candles and everything?"
+8. Confirmation of service for Package 1: "Yes if full service- definitely."
+9. Inquiry about wine and drink suggestions based on 9 guests:
+   - 4 champagne (2 on arrival, 2 at midnight)
+   - 4 White wine (Chablis, Sauvignon)
+   - 4 Red wine (good French, Bordeaux or Merlot)
+   - Still and sparkling water, soft drinks, optional Aperol spritz, gin tonic; with ice, lemon, and limes.
+10. Scheduling setup time: "When approx. will you setup the food tomorrow?"
+11. Clarification on the time for the setup: "Sorry, didn’t see your sms. Can you come now?"
+12. Confirmation of delivery time: "Our guests will come at 18pm."
+13. Confirmation of bites/snacks for welcome drinks: "Will you bring bites/snacks to the welcome drink as well?"
+14. Change of arrival time due to guests: "We have to change time one hour because of some of the guests. They will come 19pm."
+15. Invoice details provided by the customer for billing: "Invoicing details: Breed Ventures AB, 559218-9103, Wallingatan 2, 111 60 Stockholm."
+16. Contact method for invoicing: "You can send the invoice here at WhatsApp or my email: anders.torell@breedventures.se."
+17. Final arrangements confirmation for equipment collection: "Is it possible to pass today and collect the equipment?"
+18. Payment process and details for upcoming payments: "My accountant needs a BIC/Swift number for the payment. Can you send it now?" 
+19. Swift code provided for payments: "Swift in Sabadell is BSABESBB."

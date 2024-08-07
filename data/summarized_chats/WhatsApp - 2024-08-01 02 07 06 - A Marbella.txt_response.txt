@@ -1,0 +1,36 @@
+1. Customer inquiry: Catering for son's birthday party on September 24th at 4 pm
+
+2. Event details:
+   - Ninjago theme
+   - 25 adults + 25 kids (maximum)
+   - Location: Zagaleta (specific address provided later)
+
+3. Menu request: Finger food buffet and BBQ
+
+4. Proposed menu package:
+   - €80/adult + VAT
+   - €40/kid + VAT
+   - BBQ & finger party food items listed in detail
+   - Staff service (private chef for BBQ and waitress) for max 4 hours
+   - Beautiful decorated buffet table, all platters and display
+
+5. Additional services:
+   - €300 + VAT for all cutlery, plates, napkins, glasses, and ice buckets
+   - Drinks package: €30/adult, €15/kid for unlimited wine, cava, beer, non-alcoholic cocktail, soft drinks, still and sparkling water for 4 hours
+
+6. Menu customization:
+   - Customer requested to replace ham and cheese sandwiches, fish fingers, potato chips, and vegetable sticks with tuna or salmon tartar
+   - Added tuna tartar, ceviche, and colored lemonades
+
+7. Staff and service:
+   - Confirmation that package includes BBQ chef and waiters
+   - Staff arrives at 2 pm for 4 pm event start
+
+8. Payment: Cash payment to be made after the event
+
+9. Additional details:
+   - Pre-event meeting held to discuss details
+   - Customer provided videos of the venue
+   - Catering company requested and received car registration numbers for entry to the venue
+
+This conversation contains detailed information about a specific catering request, including menu items, pricing, and service details, which are relevant for training the chatbot about Dani's Catering services and procedures.

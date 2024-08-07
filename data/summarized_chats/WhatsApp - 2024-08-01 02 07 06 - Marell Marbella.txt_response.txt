@@ -1,0 +1,12 @@
+1. Customer inquiry: I would like to make an order for April 15th.
+2. Menu inquiry: Asking for something with more items.
+3. Price inquiry: "How much would something like this cost!? With rented plate" for approximately 20 people.
+4. Estimated price: Approx €400.
+5. Payment issue: Customer is trying to make the payment but is encountering an error.
+6. Pickup inquiry: "But can I pick it up on Saturday?!"
+7. Service inquiry: Customer states they can order, and Dani's Catering will do delivery on Saturday.
+8. Pickup time inquiry: "What time do you need it?" for Saturday.
+9. Confirmed pickup time: Customer will pick up at 12:00 pm.
+10. Location inquiry: "Where is it?" regarding the pickup.
+11. Confirmation of pickup: Customer agrees to pick it up and asks for the location.
+12. Notification to call upon arrival: "When you arrive, call me and I will open."

@@ -1,0 +1,13 @@
+1. Customer inquiry: 4-year-old daughter's birthday party
+2. Event date: Dec 16th
+3. Guest count: 
+   - Approximately 10 kids
+   - 18 adults
+4. Service request: Someone to serve drinks and food
+5. Food inquiry:
+   - 2 platters
+   - 38 sandwiches
+   - 36 canapés (referencing online menu)
+6. Event time: 1pm-3pm
+7. Service inquiry: Cleaning and tidying up afterwards
+8. Price inquiry: Request for service price

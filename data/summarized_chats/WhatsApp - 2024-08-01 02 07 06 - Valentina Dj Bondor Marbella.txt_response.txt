@@ -1,0 +1,39 @@
+1. Client inquiry: Request for prices, please.
+2. Pricing details:
+   - Including 6 canapés upon arrival with cava.
+   - Seated dinner of 3 courses with starter, main course, and desserts.
+   - Open bar of cava, wine, beer, juices, etc., for 4 hours.
+   - Round tables and white chairs provided.
+   - All plates, cutlery, glasses included.
+   - Staffing service included.
+   - Venue rental until 2:00 am.
+   - Price €160 per person + VAT.
+3. Inquiry about starters: 
+   - What types of starters?
+   - Main course options: meat or fish?
+   - Request for photos of the starters and main courses.
+4. Menu options provided:
+   - **Starters (Choose 1):**
+     1. Duck Tataki with Truffled Ponzu, Spring Onions, Pickled Cucumber, and Sweet Potato Purée
+     2. Roasted Vegetable Salad with Sesame Yogurt, Hummus, Tapenade, and Rustic Bread Sticks
+     3. Goat Cheese and Fig Crostini with Honey Drizzle
+     4. Shrimp Cocktail with Homemade Cocktail Sauce
+     5. Tomato, Basil, and Balsamic Glazed Bruschetta
+     6. Crispy Crab Cakes with Remoulade Sauce
+     7. Ukrainian Varenyky (Dumplings) filled with Potato and Cottage Cheese, served with Sour Cream and Caramelized Onion
+     8. Borscht (Ukrainian Beet Soup) with Sour Cream and Pork Meatballs
+   - **Main Course (Choose 1):**
+     1. Iberian Cheeks Stewed in Montilla-Moriles Wine with Potato and Carrot Parmentier
+     2. Sea Bass Fillet on Red Lentil Cream with Thai Curry, Green Beans, and Chili Oil
+     3. Eggplant and Roasted Pepper Casserole on Potato Millefeuille
+     4. Grilled Beef Tenderloin with Red Wine Reduction, Garlic Mashed Potatoes, and Sautéed Spinach
+     5. Grilled Chicken Breast with Mushroom Risotto and Roasted Asparagus
+     6. Vegetarian Paella with Saffron Rice, Peppers, Peas, and Artichokes
+     7. Holubtsi (Stuffed Cabbage Rolls) with Ground Meat and Rice, cooked in Tomato Sauce and served with Sour Cream
+     8. Chicken Kyiv - Chicken Breast filled with Herb Butter, breaded and fried, served with Cucumber Dill Salad
+   - **Dessert (Choose 1 option):**
+     - Coconut Rice Pudding with Caramel Crust, Cinnamon, and Lemon Zest
+     - Baked Cheesecake with Fresh Mango and Mint Salad
+     - Pistachio Crème Brûlée, Grilled Nectarine, and Figs with Pistachio Crumble
+     - Chocolate Ganache Cake served in a Chilled Dulce de Leche Soup and Almond Crunch
+5. Client inquiry: The client has not yet confirmed the date and time for visiting the venue for their wedding. We are in contact. Thank you.

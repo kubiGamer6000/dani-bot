@@ -1,0 +1,11 @@
+1. Customer inquiry: Details of power outlets for trucks
+2. Invoice information provided:
+   - Company name: Dani's Catering Marbella
+   - Address: Calle las Aldefas, Urbanización Medina de Banus, Bloque 4 ap 2, 29660
+   - Tax ID: B09904483
+3. Inquiry about the schedule for 5 chefs required.
+4. Chefs' hours confirmed: 17:00 - 02:00
+5. Request for email address to send the invoice.
+6. Email provided: Dani@daniscatering.es
+7. Customer asked for the company's tax information again.
+8. Confirmation to provide requested invoices related to two significant payments made.

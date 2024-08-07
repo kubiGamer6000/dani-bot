@@ -1,0 +1,11 @@
+1. Customer inquiry: Booking of party platters for Sunday July 16 at 6 pm.
+2. Order details:
+   - 1 Sandwich platter: 20 tuna, 20 salmon, and 8 roast pepper/hummus.
+   - 1 Canapés platter: 18 mini shrimp and 18 goat cheese.
+3. Delivery charge: €25 + VAT for takeaway orders.
+4. Location inquiry: Customer asks for the pickup location.
+5. Payment options: Cash on arrival or bank transfers.
+6. Customer address provided for delivery: Avenida Valle del Golf, Urb. Aloha Mirasierra. Bloque 5, Bajo A, 29660 Nuevo Andalucia.
+7. Apology for missed order: Complimentary sushi order is on the way, and the customer is assured of its arrival.
+8. Communication regarding delivery issues: Driver could not find the location, and a pin location was sent by the customer to assist.
+9. Feedback: Customer confirmed receipt of everything and stated it was good, inquiring about the restaurant from where the order was placed.

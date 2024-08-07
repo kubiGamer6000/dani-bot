@@ -1,0 +1,5 @@
+1. Customer inquiry: Takeaway boxes for birthday
+2. Pricing information: Current takeaway boxes priced at €50/box
+3. Order size inquiry: Customer asking for 3 persons
+4. Date inquiry: Customer initially requested for 29th of the month
+5. Menu inquiry: Customer referring to previous menu items seen on Instagram, but informed these were from last year

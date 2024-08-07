@@ -1,0 +1,11 @@
+1. Rental inquiry: Jennifer is asking about a house available for rent for a wedding in June.
+2. Availability inquiry: Asks how much it costs for one day on June 24.
+3. Pricing: The cost provided is €2,500 for one day during the weekend.
+4. Package information inquiry: Inquires about what is included in the rental package.
+5. Tapas and drinks inquiry: Asks how much it will cost for tapas/lunch for approximately 12 people.
+6. Pricing for tapas: The cost provided is €40 per person + VAT when serving only food.
+7. Request for alcohol: Plans to serve alcohol for €50 per person.
+8. Staffing: Confirmation that staff will be included in the tapas and drinks service.
+9. Confirmation of booking: The date and time for the photo shoot and meal during the rental are confirmed (food around 12-1 o’clock).
+10. Connection request for photos: Seeks permission to take photos throughout the venue for content creation.
+11. Overall feedback: Expressed gratitude for the food and venue and appreciation for the service provided after the event.

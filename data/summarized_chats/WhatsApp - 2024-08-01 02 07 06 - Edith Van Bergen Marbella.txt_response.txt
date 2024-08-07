@@ -1,0 +1,16 @@
+1. Customer inquiry: Is it possible to order some platters for Tuesday?
+2. Order confirmation: Yes definitely - let’s confirm tomorrow.
+3. Customer inquiry: Interested to order some platters for tomorrow?
+4. Order details:
+   - Lunch for approximately 7 people.
+   - Considering sandwich platter and another one like pitta or asiatic platter.
+   - Inquiry about whether the platters are warm.
+5. Delivery details: Customer is in Monda and prefers to pick up instead of delivery.
+6. Information on platters: Everything is served cold in the platters. Item options include sandwiches, wraps, and buns.
+7. Recommended order: Order 2 sandwich platters with 8 flavors.
+8. Specific order placed:
+   - 1 x sandwich platter: Serrano, curry chicken, tuna, Egg.
+   - 1 x mini pitta platter: hummus, goat cheese.
+   - 1 x mezze platter.
+9. Pickup time: Can we pick it up around 1 PM?
+10. Payment information: Total cost is €150 + €15 VAT = €165. Payment options are cash or card on arrival.

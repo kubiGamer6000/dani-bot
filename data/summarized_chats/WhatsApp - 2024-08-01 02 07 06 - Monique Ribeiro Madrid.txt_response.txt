@@ -1,0 +1,2 @@
+1. Customer inquiry: Do you make deliveries of boxes to Madrid? 
+2. Response: At the moment, no.

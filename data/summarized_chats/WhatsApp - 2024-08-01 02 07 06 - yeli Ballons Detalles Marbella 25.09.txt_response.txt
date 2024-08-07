@@ -1,0 +1,13 @@
+1. Customer inquiry: Catering for 50 people on the 25th.
+2. Pricing inquiry:
+   - Package 1 @ €60/person + VAT: 8 types of food, beautiful table decoration, trays, light equipment, service staff for 3 hours.
+   - Package 2 @ €100/person + VAT: 8 types of food, beautiful table decoration, trays, light equipment, all drinks (sparkling wine, wine, beers, still water, sparkling water, soft drinks), all glassware rental, ice buckets, service staff for 3 hours.
+3. Customized menu option: Premium drinks and packages available upon request.
+4. Inquiry about inclusion of service in per-person pricing.
+5. Question about adding €5 per person for a profit margin.
+6. Inquiry about a quote without staff service and drinks.
+7. Pricing: €55 per person for catering without service.
+8. Cancellation: The customer reported that the catering was canceled by the client.
+9. Inquiry about delivery service based on quantities.
+10. Customer inquiry: Asking if a specific event can be arranged.
+11. Pricing inquiry: Cost for a half arch decoration, quoted at €320.

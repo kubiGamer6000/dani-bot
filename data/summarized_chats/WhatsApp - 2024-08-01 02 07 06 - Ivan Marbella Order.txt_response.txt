@@ -1,0 +1,49 @@
+1. Customer inquiry: Asking if an order can be made via WhatsApp or if a phone call is required.
+2. Inquiry about product safety: Asking if sauces and similar products are pasteurized due to pregnant guests.
+3. Menu inquiry: Specific interest in the curry chicken sauce.
+4. Inquiry about ingredients: Questioning if the mayonnaise used in curry chicken is pasteurized or homemade.
+5. Ordering details: Request for a box of curry chicken sandwiches, specifying only that flavor.
+6. Additional order: Request for another box of pulled pork bao, asking what it contains.
+7. Ingredient inquiry for bao: Asking what is included in the pork and Korean chicken bao.
+8. Order confirmation: Confirming total of 4 boxes ordered—2 chicken sandwiches and 2 baos.
+9. Inquiry about pickup time: Asking for pickup on Sunday around 6/7 PM.
+10. Payment options: Asking how payment should be made.
+11. Request for location to pay in cash.
+12. Follow-up: Coming by the location to pay in cash.
+13. Follow-up: Request for the location to pick up order.
+14. Additional order: Requesting one more box of baos, specifying half Korean chicken and half pulled pork.
+15. Order summary: Confirming total of 5 boxes—2 sandwiches and 3 baos.
+16. Pickup inquiry: Confirming pickup time for Sunday around 6 PM.
+17. Payment inquiry: Asking about payment schedule—before or on the day of pickup.
+18. Box modification request: Asking to change the croissant box to half exclusive egg and half ham, cheese, and salad.
+19. Confirmation inquiry: Asking if the order is confirmed.
+20. Confirmation response: Order is confirmed.
+21. Inquiry about pasteurization: Asking if everything could be made pasteurized.
+22. Payment inquiry: Asking about the total cost of the order.
+23. Inquiry about the total cost: Asking if the total is 300 and if it's 50 per box.
+24. Confirmation request: Asking if it's okay to pay in cash.
+25. Issue report: Reporting ants in one of the boxes received.
+26. Replacement inquiry: Asking how long it will take to prepare a new box due to the issue.
+27. Order replacement confirmation: Confirming that a new box will be prepared and location will be sent.
+28. Final confirmation of location: Sending the location for pickup.
+29. Thank you message for assistance with the replacement.
+
+---
+
+1. Customer inquiry about placing an order for Saturday.
+2. Menu inquiry: Similar order as a previous order made in June.
+3. New order summary: 2 boxes of baos, 2 boxes of burgers, 1 box of croissants, and 1 box of sandwiches.
+4. Ingredient details for new order: 
+   - 1 box of bao - Korean chicken
+   - 1 box of bao - pulled pork
+   - 1 box of burger - aged beef
+   - 1 box of burger - fried chicken with butter
+   - 1 box of croissant - exclusive egg
+   - 1 box of sandwich - half pulled beef and half curry chicken
+5. Payment inquiry: Asking about payment method for pickup.
+6. Confirmation of order: Customer confirming that the order is prepared the same way as before and asking again about pickup instructions.
+7. Inquiry about confirmation: Asking if the order has been confirmed.
+8. Ordering inquiry: Asking about everything being pasteurized for order preparation.
+9. Issue report: Reporting ants found in one box and confirming they will take the box that had ants back.
+10. Final thank you notes for assistance and confirming the pickup location. 
+

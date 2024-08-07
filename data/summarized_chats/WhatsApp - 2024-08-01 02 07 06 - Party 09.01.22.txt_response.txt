@@ -1,0 +1,15 @@
+1. Customer inquiry: BBQ catering for approximately 25 people on January 9th at 14:00.
+2. Guest count: 25 persons, half adults.
+3. Proposed setup time: Arrive at 12:00 for setup.
+4. Menu inquiry: What can be offered for €40 per person?
+5. Package offer:
+   - €1000 budget based on 25 guests, including:
+     - Selection of 4 tapas
+     - 2 types of mini burgers
+     - 2 salads
+     - Selection of mini desserts and seasonal fruits
+     - 2 types of funky lemonades
+     - Staff service for 4 hours
+   - Additional €500 for a BBQ party or paella show cooking party (served around 6 PM with staff service until 8:00 PM).
+6. Booking procedure: Meeting requested to arrange 50% deposit.
+7. Final confirmation: Customer confirmed 20 persons for the event and requested homemade juices (lemonades) to be included.

@@ -1,0 +1,7 @@
+1. Customer inquiry: Asking for the cost of a wedding reception.
+2. Customer details: The wedding date is February 19.
+3. Event type: Wedding reception dinner, celebrating dinner after the church ceremony.
+4. Customer inquiry: Request for details about catering packages.
+5. Customer inquiry: Asking if the dinner can be celebrated at a specific location.
+6. Customer preference: They want to have a buffet dinner.
+7. Guest count: Uncertain on how many guests can attend but will provide information as soon as possible.

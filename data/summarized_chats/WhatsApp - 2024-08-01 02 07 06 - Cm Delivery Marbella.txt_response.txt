@@ -1,0 +1,24 @@
+1. Delivery date: August 12th
+2. Delivery time: Around 8 PM
+3. Delivery address: Avenida Playas Andaluzas 1, El Rosario - Marbella
+4. Menu items for delivery:
+   - Vegetables and tips
+   - Cheese platter
+   - Sushi platter
+   - Mediterranean salad (large)
+   - Mixed soft leaf salad, tomatoes (large)
+   - Fish platter
+5. Delivery charge: €30 + VAT
+6. Inquiry about total cost: Customer asks if the total is €290
+7. Detailed cost breakdown:
+   - 6 boxes at €50 per box + VAT
+   - Total before VAT: €330
+   - VAT (10%): €33
+   - Grand total: €363
+8. Confirmation of large salad sizes and quantities:
+   - 4 salads of €50 each
+   - 2 salads of €30 each
+9. VAT questioned: Customer asks what VAT is, response indicates it's "Iva" (Spanish for VAT).
+10. Mention of total cost without VAT: Understanding that the previous message's prices are excluding VAT.
+11. Inquiry about delivery time on Saturday: Customer asks what time they will come (20h).
+12. Confirmation of delivery time: Adjusted to 19:00 hrs.

@@ -1,0 +1,46 @@
+1. Customer inquiry: Birthday party on Monday, February 21. 
+2. Guest count: 10 people.
+3. Food inquiry: "What do you propose for food?"
+4. Pricing inquiry: "And how much please?"
+5. Dinner timing: Dinner at around 8 PM.
+6. Service inclusion: Staff included for the dinner.
+7. Cuisine options: Interested in Spanish, Italian, Asian, etc. for the dinner.
+8. Pricing information: Starting from €100/person for a seated 3-course dinner, staff included.
+9. Dietary information: 6 adults and 4 children aged 10 to 13.
+10. Event timeline: Staff will arrive at 7 PM, appetizers served at 8 PM, and finishing by midnight.
+11. Menu options provided:
+   - Starters (choose 1 for individual plated or up to 3 for shared):
+     - Beetroot gazpacho
+     - Coconut curry soup
+     - Prawns pil pil
+     - Beef carpaccio
+     - Fried squid with chili
+     - Andalusian squid
+     - Warm garrucha prawns
+     - Homemade guacamole
+   - Main course (choose 1):
+     - Chicken/Seafood or vegetarian paella
+     - Black linguini with red prawns
+     - Smoked glazed lamb leg for two
+     - Truffle pasta risotto with Galician beef carpaccio
+     - Roasted eggplant pesto, gambas, spaghetti
+     - Homemade potato gnocchi with prawns and zucchini
+     - Tuna steak teriyaki served with stir-fried rice
+     - Mediterranean sea bass with capers and baby potatoes
+     - 3 mini surprise sliders with potato wedges
+     - Aged beef burger with truffle cheese, homemade fries
+     - Thai curry salmon with basmati rice, cauliflower, and broccoli
+     - Duck breast with roasted eggplants
+     - Provençal cod
+   - Dessert: The chef's surprise.
+12. Customization offer: "If you have something else in mind, we can do it according to your tastes."
+13. Customer's interest: Looking for recommended starters, mains, and desserts.
+14. Event type desired: Interested in creating a Spanish or Italian themed evening.
+15. Final confirmation: Customer confirmed the dinner for Monday.
+16. Meeting inquiry: Request to meet to finalize details.
+17. Starter menu proposed for a final dinner plan including Ceviche, Beef carpaccio, Goat cheese with caramel, Bellini with pink caviar, Tuna tartare with mango and avocado, Mini beef burgers with truffle sauce, Risotto with mushrooms and zucchini, Lean steak with sweet corn for main course, and dessert as a fruit platter.
+18. Pricing for dinner: €1000 quoted for 10 guests.
+19. Address confirmation request from the customer: Confirming the address for the dinner preparation.
+20. Additional question from the customer: Inquiry about where to buy Tarama for kids. 
+
+(Note: Spanish content was accurately translated to maintain the full structural information in English while comprehensively capturing all relevant details related to catering services.)

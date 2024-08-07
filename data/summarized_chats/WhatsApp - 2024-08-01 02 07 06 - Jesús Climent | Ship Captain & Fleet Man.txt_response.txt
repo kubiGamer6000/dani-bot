@@ -1,0 +1,26 @@
+1. Customer inquiry: Request for the menu.
+2. Catering order details for Thursday, April 20 at 10:00 A.M. for a charter boat in Puerto Banus:
+   - Canapé platter:
+     - Mini shrimp with tartar sauce
+     - Marinated chicken
+     - Goat cheese with caramelized onion
+     - Shredded duck with sauce
+     - Black salmon blini
+     - Roasted baba ghanoush
+   - Sushi platter
+   - Seasonal fruit platter
+3. Special request: No decorations and preference for wooden plates for fruit and canapés.
+4. Total price: €130.
+5. Delivery fee: €20. Total with VAT included: €165.
+6. Payment inquiry: Can it be paid in cash upon delivery?
+7. Follow-up inquiry: Access inside Puerto Banus.
+8. Request for a location pin.
+9. Invoice request for previous delivery on July 12.
+10. Request to bring a tray of seasonal fruits for the boat.
+11. Order of 48 vegetarian sandwiches for the next day at 13:30 or 14:00 in Puerto Banus.
+12. Delivery fee for the sandwich order: €25.
+13. Confirmation that all sandwiches should be vegetarian.
+14. Invoice request for the seasonal fruit tray order on July 12.
+15. Acknowledgment of payment completed for a total of €60.50.
+16. Request for location of the boat facing the Picasso restaurant.
+17. Customer inquiry: Is the menu still the same for ships?

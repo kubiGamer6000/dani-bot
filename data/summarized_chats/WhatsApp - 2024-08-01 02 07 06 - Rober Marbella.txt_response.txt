@@ -1,0 +1,4 @@
+1. Customer inquiry: Asking for prices for catering services.
+2. Guest count: Would be around 40 people.
+3. Event date: September 23.
+4. Service requirements: Need food and waiter service for dinner.

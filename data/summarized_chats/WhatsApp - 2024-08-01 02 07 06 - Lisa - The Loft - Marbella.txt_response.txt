@@ -1,0 +1,17 @@
+1. Customer inquiry: Interested in having a small catering spread for a salon reopening party on Feb 23rd.
+2. Pricing inquiry: Request for prices for the catering spread.
+3. Menu options shared: Party Menus and Takeaway Boxes.
+4. Additional orders: Interested in ordering 1 sandwich platter and 1 tapas platter, and 1 vegetable & dip platter initially.
+5. Delivery options: Delivery is available for €25 + VAT; collection from Marbella is also an option.
+6. Updated order: Customer decided to remove the vegetable & dip platter and confirmed the order for 1 sandwich platter and 1 tapas platter.
+7. Pricing confirmation: Confirming the prices for the sandwich platter (€50) and tapas platter (€75).
+8. Inquiry about a fruit platter: Confusion regarding the price of the fruit platter (either €30 or €50).
+9. Final order confirmation: 
+   - Sandwich platter
+   - Fruit platter (€30)
+   - Tapas platter
+   - Total price: €155.
+10. Details on platter contents:
+    - Tapas: Pulled chicken, foie gras, goat cheese, salmon, mushroom croqueta.
+    - Sandwich: Ham & cheese, tuna, egg mayo, salmon.
+11. Pickup location requested: Asking for the location for item pickup.

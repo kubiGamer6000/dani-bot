@@ -1,0 +1,31 @@
+1. Customer inquiry: Confirmation for a chef service at the villa on Saturday, 15th June for 8 people.
+2. Pricing inquiry: Is the €550 fee including food, or is food paid separately? 
+3. Menu discussion: The customer wants to discuss the menu options and is considering a BBQ.
+4. Estimated food costs inquiry: Rough budget estimates requested for:
+   - Half day breakfast + dinner
+   - Breakfast + BBQ
+5. Estimated shopping costs: €1500 - €2000 depending on meat selections; all-inclusive food packages prices:
+   - €60 per person + VAT for breakfast
+   - €90 per person + VAT for lunch
+   - €120 per person + VAT for dinner
+6. Dinner confirmation: Confirmed for dinner on Saturday, 15th June.
+7. Menu options inquiry: Customer asks whether there is a selection of menus available.
+8. Menu sharing request: Customer inquires about when menu options will be shared.
+9. Concern expressed: Customer expresses concern that there has been no menu information shared with only 5 days to the dinner event.
+10. Guest count: Clarification that they are now 10 guests for dinner.
+11. Menu details shared:
+   - Starters: Charcuterie and Cheese Platter, Mixed Tapas Platter
+   - Barbecue items: Beef Entrecote, Selection of Chorizos, Lamb Chops, Dorada on the Grill
+   - Salads: Greek Salad, Italian Mixed Salad
+   - Side Dish: Roast Baked Potatoes
+   - Dessert: Chef’s Dessert Surprise
+12. BBQ clarification: Customer asks if all meats are included or if they need to select one per person.
+13. Customer requests BBQ option for dinner and specifically requests Tiramisu for dessert.
+14. Dinner time inquiry: Customer states they want dinner to start at 7:30 PM.
+15. Venue location provided: Calle los Geranios, Marbella, Andalucía 29604, Spain.
+16. Dietary requirements: 3 guests do not eat pork; customer inquires about options to adjust the BBQ menu accordingly.
+17. Total cost confirmation: €120 per person + VAT for 10 guests, totaling €1,320.
+18. Payment inquiry: Customer seeks clarification on payment methods (invoice, bank transfer, or cash).
+19. Preparation time inquiry: Customer asks what time the chef needs to arrive for preparation.
+20. Dessert change request: Customer requests to change Tiramisu to a surprise dessert due to preferences of one group member. 
+

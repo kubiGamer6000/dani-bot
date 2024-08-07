@@ -1,0 +1,29 @@
+1. Event type: Cocktail birthday
+2. Event date: August 21
+3. Guest count: 28 people
+4. Food type: Arabic
+5. Staffing: 2 waiters
+6. Event timing: 1:30 PM - 7:30 PM
+7. Location: Urbanización Torre Real
+8. Menu includes:
+   - Chicken skewers
+   - Meat skewers
+   - Falafel
+   - Couscous
+   - Quibe
+   - Tabouleh
+   - Vegetables and hummus
+9. Pricing: €60 per person + VAT
+10. Desserts: 
+    - Fruit sticks
+    - Baklava (€10 per person + VAT)
+11. Customer requested mini hamburgers to be included.
+12. Payment terms inquiry and customer expressed interest in confirming payment details.
+13. Customer requested a birthday cake or tart.
+14. Customer confirmed they would be 28 guests instead of the initially stated 25.
+15. Total cost: €2000 + VAT
+16. Customer asked for details on how to proceed with payment and whether a bank transfer is needed.
+17. Mentioned needing to see the venue before the event.
+18. Customer provided logistics for arrival at the party location.
+19. Customer inquired about the provision of champagne glasses, whiskey, and wine glasses, as they did not have enough at home.
+20. Customer believed complete dinnerware was included in the service.

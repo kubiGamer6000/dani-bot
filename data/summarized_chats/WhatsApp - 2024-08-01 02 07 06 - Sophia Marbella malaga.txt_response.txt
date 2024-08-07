@@ -1,0 +1,8 @@
+1. Customer inquiry: Catering for daughter's 1st birthday in Málaga with 12 adults and 7 kids on September 5th.
+2. Food ideas inquiry: Looking for food options for the event.
+3. Event type inquiry: BBQ party or finger food.
+4. Menu inquiry: Asking if main dishes like rice are available.
+5. Specific dish inquiry: Interested in seafood paella.
+6. Request for meal details: Looking for a few starters, a main dish, and dessert.
+7. Pricing information: Standard charge is €100/person for a 3 course meal and €50/kid.
+8. Budget inquiry: Customer mentions that the price is above their budget and asks what the budget is.

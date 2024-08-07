@@ -1,0 +1,19 @@
+1. Customer inquiry: Outside catering for Christmas Day. Request for delivery or takeaway.
+2. Catering details requested for 10 people, including:
+   - Roast Turkey
+   - Beef Wellington
+   - Roast potatoes
+   - Gravy 
+   - Cauliflower cheese
+   - Brussels Sprouts
+   - Red Cabbage
+   - Root Vegetable Mash
+   - Pigs in blankets
+   - Mixed green vegetables.
+3. Pricing inquiry for the above menu.
+4. Response: Catering available for €100/person + VAT for a minimum of 10 guests.
+5. Additional option: Staff service throughout lunch for €150/person + VAT.
+6. Change in request: Delivery of food on the evening of December 24th and inquiry about a possible price adjustment for cash payment.
+7. Option for food to be half-cooked for finishing in the oven the next day.
+8. Adjusted price offered: €80/person.
+9. Cancellation of order: Customer decides to cook a dish each for Christmas Day but indicates future interest in catering for dinner parties.

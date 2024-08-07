@@ -1,0 +1,7 @@
+1. Customer inquiry: Request for a quote
+2. Event type: Corporate event
+3. Guest count: Approximately 60 people
+4. Location: Marbella
+5. Date inquiry: May or June
+6. Catering type: Cocktail
+7. Specific needs: Drinks and canapés

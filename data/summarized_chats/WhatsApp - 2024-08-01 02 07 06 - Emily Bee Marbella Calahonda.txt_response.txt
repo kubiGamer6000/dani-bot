@@ -1,0 +1,4 @@
+1. Customer inquiry: Details about takeaway boxes for a party on September 21st
+2. Booking inquiry: How much in advance to place an order - Response: You can order a week in advance for September
+3. Location inquiry: Where are you located? Inquiry about picking up the boxes or delivery to Calahonda
+4. Delivery inquiry: Possibility of delivery to Calahonda and potential extra costs for this

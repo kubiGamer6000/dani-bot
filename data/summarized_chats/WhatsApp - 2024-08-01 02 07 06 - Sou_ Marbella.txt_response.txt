@@ -1,0 +1,19 @@
+1. Customer inquiry: Request for prices of canapé boxes.
+2. Menu inquiry: Asking about all varieties and options available.
+3. Order details: Customer requested to collect 2 boxes of canapés.
+4. Delivery inquiry: Customer inquired if they could collect based on proximity.
+5. Pricing information: €50 per box.
+6. Quantity inquiry: 36 pieces in a box (Page 6 on the menu).
+7. Order confirmation: Customer finalized order for one box.
+8. Additional inquiry: Asking to prepare best sellers or if they could select flavors.
+9. Booking confirmation: Delivery confirmed for 18:30.
+10. Payment inquiry: Customer asked about cash or Bizum payment options.
+11. Delivery price: €25 for delivery.
+12. Customer specified: No ham; all items must be halal.
+13. Order details: 4 boxes of canapés requested for a friend's event.
+14. Customer order information: Order for tomorrow at 13:00, customer requested for an important detail that must be followed.
+15. Delivery confirmation: Delivery agreed for tomorrow at 16:30.
+16. Menu inquiry: Request for beautiful presentation of canapés.
+17. Order specifics: Customer ordered a seasonal vegetables & dips platter, a cheese platter, and a canapés platter including Mini Shrimp & Tartar Sauce, Mini Fish & Chips, Brie & Cranberry, Foie Gras & Quail Egg, Mini Burrata Caprese, and Roast Babaghanoush.
+18. total cost: €150 for 3 boxes plus additional delivery charges.
+19. Payment confirmation: Client confirmed payment by card.

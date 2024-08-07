@@ -1,0 +1,25 @@
+1. Customer inquiry: What types of catering do you offer?
+2. Event details: Needed a tapas and fried fish catering on February 3 for 50 people.
+3. Service inquiry: Availability for the date of February 3.
+4. Additional services inquiry: Asked about personal service, drinks service, equipment, tables, ice buckets, and event duration for quoting.
+5. Menu inquiry: Requested menus or available options.
+6. Catering preferences: Interested in setting up a table with food items for guests to serve themselves, wanting items such as:
+   - Tortilla (Spanish potato omelet)
+   - Croquettes
+   - Mini hamburgers
+   - Sushi
+   - Charcuterie platter
+   - Chicken bao
+   - Empanadas
+   - Russian salad
+   - Chicken fajitas with vegetables
+   - Nuggets
+   - French fries
+   - Olives
+7. Service inquiry: Asked for pricing for the selected menu items.
+8. Total pricing inquiry: Asked about total price for the event menu for 50 people, which included all equipment, glasses, fruits, etc. — quoted as €3000.
+9. Additional service inquiry: Whether DJ and lighting services were available for the event.
+10. Equipment inquiry: Needed clarification on whether Dani's Catering would provide drinks for the dinner or if the customer would bring them.
+11. Equipment transportation: Asked about the delivery of tables and other equipment to check the venue.
+12. Equipment inquiry: Confirmed availability of champagne glasses and ice cooler.
+13. Confirmation of event date: Confirmed the date of the event as Thursday, February 2.

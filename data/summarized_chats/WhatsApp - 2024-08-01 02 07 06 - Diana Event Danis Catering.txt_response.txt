@@ -1,0 +1,8 @@
+1. Customer inquiry: Interested in a quote for a party for my 5-year-old son
+2. Event type: Pool Party
+3. Guest count: 15 children, 30 adults
+4. Food preferences:
+   - For children: Mini hamburgers or hot dogs with fries
+   - For adults: Various tapas, only food
+5. Event date: September 3 at 18:00
+6. Service inquiry: Interested in both options of service, would like suggestions for cold and hot tapas.

@@ -1,0 +1,21 @@
+1. Customer inquiry: Need to organize a BBQ for some clients this Sunday.
+2. Guest count: 18 adults and 3 children.
+3. Event details: Guests arriving at 14:00.
+4. Menu inquiry: Starting with appetizers - could be a platter of cured meats and cheeses, followed by BBQ.
+5. Drinks: Not needed, customer has their own.
+6. Dessert inquiry: Yes, also dessert.
+7. Service style: Standing.
+8. Menu preference: BBQ menu package selected.
+9. Total pricing for BBQ: €1440 plus VAT.
+10. Booking inquiry: Customer asking to come over to discuss details.
+11. Event decoration: Customer inquiring if there will be someone to decorate with balloons.
+12. Additional services: Customer requests DJ service for 4 hours at €150 per hour.
+13. Inquiry about equipment: Customer asks about leaving equipment the morning before the event.
+14. Guest count confirmation for another event: 20 adults and some children for a future event, with a request for a DJ.
+15. Details for another BBQ event: Menu includes a salad bar and various BBQ selections.
+16. Pricing: €90 per adult for a new BBQ event, with children at half price.
+17. Menu changes: Customer requests to remove some salads and add mini pizzas.
+18. Another event confirmation: Customer confirming another BBQ event with 20 adults and 6 children and checking on DJ hours.
+19. Customer's specific request for greenery and decorations for the next event.
+
+20. Inquiry regarding total costs for a prior event: Customer itemizes costs related to food and DJ services totaling €3300.

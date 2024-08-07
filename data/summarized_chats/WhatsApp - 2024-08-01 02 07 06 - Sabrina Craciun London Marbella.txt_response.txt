@@ -1,0 +1,25 @@
+1. Customer inquiry: Birthday party on Sunday the 31st of July in Mardonal.
+2. Availability: Some availability on the evening of the event.
+3. Event start time: 20:00 hrs.
+4. Offered services:
+   - Beautiful buffet with 8 finger food & tapas style bites.
+   - Mini BBQ.
+   - Mini finger desserts and fruit platter.
+   - Beautifully decorated table.
+   - Staff service for a couple of hours serving drinks and food.
+5. Pricing: €80/person + VAT.
+6. Additional service: +€20/person for paella.
+7. Drinks package: Unlimited wine, cava, beer, soft drinks, still and sparkling water for 3 hours service @ €25/person + VAT.
+8. Follow-up inquiry: Request for a menu that would be €80/person with VAT included, and a breakdown of what will be in the menu.
+9. Cake inquiry: Customer asking for the possibility of making a cake.
+10. Menu items included in the €80/person package:
+    - Serrano, brie, and membrillo.
+    - Smoked salmon & cream mousse bun.
+    - Goat cheese profiterole.
+    - Vegetarian gyoza.
+    - Prawn tempura.
+    - Mushroom truffle ball.
+    - Mini cheese ball.
+    - Pita, hummus, and roast pepper.
+    - From the BBQ: mini burgers, beef steak, and chicken skewers.
+11. Personalization inquiry: Customer can request a personalized cake with flavor and design preferences for a quote.

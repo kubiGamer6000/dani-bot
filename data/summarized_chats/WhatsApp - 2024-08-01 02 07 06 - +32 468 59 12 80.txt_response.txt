@@ -1,0 +1,5 @@
+1. Customer inquiry: Catering for a group of 30 people
+2. Event details: Cycling from Marbella to San Pedro
+3. Service inquiry: Picnic organization in an available area between Marbella and San Pedro
+4. Menu inquiry: Some boxes with sandwiches
+5. Pricing inquiry: Request for price for the mentioned services

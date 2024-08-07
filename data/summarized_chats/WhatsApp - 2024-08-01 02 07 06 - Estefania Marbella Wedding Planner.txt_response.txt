@@ -1,0 +1,16 @@
+1. Customer inquiry: Catering for a 1st birthday celebration in Marbella for approximately 15 people on July 9.
+2. Service inquiry: Buffet table with cold and hot canapés, cheese, nuts, and fruits available.
+3. Menu options:
+   - Buffet with cold canapés: Cost of 60 euros per person. Includes:
+     - A tray of cheese and ham, nuts & fruits
+     - 8 types of different cold canapés.
+   - Buffet with cold and hot canapés: Cost of 90 euros per person, plus VAT. Includes:
+     - A tray of cheese and ham, nuts & fruits
+     - 14 types of different cold and hot canapés.
+4. Event details: Starts at 17:00 and lasts for about 3 hours.
+5. Service arrangement: Client wishes to have a buffet where they serve themselves, and the table should be dismantled afterward.
+6. Commission inquiry: Question regarding whether the prices quoted include fees for professionals in the sector and if commission is separate.
+7. Confirmation of commission: 10% included in the price.
+8. Booking of additional items: Inquiry about the possibility of renting tables, chairs, and tablecloths for 11 people in addition to the buffet table.
+9. Selected menu: The client prefers the Buffet option for 60 euros per person.
+10. Final service request: Only setup of the table is required, no serving needed.

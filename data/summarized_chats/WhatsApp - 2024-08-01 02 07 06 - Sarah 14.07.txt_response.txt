@@ -1,0 +1,9 @@
+1. Customer inquiry: Availability for catering on July 14.
+2. Pricing inquiry: Request for the price per person for a tapas concept without alcohol.
+3. Location: Nuevo Andalucia.
+4. Guest count: 20 guests.
+5. Event start time: 8 PM.
+6. Menu preferences: 
+   - Chicken, tomato, meat, lamb, fish, croquettes, pasta, lamb in a pizza oven, cheese balls, Russian salad, truffle mushroom risotto.
+7. Customer preference: Wants a tapas style because there is no sitting arrangement for 20 people.
+8. Follow-up: Request for a meeting to go through details but later informed that the customer made an agreement with another company.

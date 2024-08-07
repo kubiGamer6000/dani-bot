@@ -1,0 +1,32 @@
+1. Customer inquiry: Catering for 3rd September and 4th September
+2. Event details:
+   - 3rd September:
+     - Adult party
+     - Approximately 30 guests
+     - Buffet table:
+       - 5-6 platters of ham
+       - 3-4 platters of cheese
+       - Fried chicken fingers
+       - Fried calamari
+       - Mini burgers
+       - 10 burratas with tomatoes
+     - BBQ at 20:00:
+       - Beef, pork, and chicken
+       - Salad
+       - Fried potatoes
+   - 4th September:
+     - Children's party
+     - Approximately 20 guests
+     - Menu:
+       - Mini burgers
+       - Chicken nuggets
+       - Mini pizzas
+       - Fried potatoes
+3. Pricing:
+   - 3rd September: €80 per adult + VAT, €40 per child + VAT
+   - 4th September: €50 per adult + VAT, €25 per child + VAT
+4. Payment arrangement: Customer is planning to pay €2000 for the first day (3rd September) and arrange pizza for children separately.
+5. Notes on setup: They will arrive to set up equipment the morning before the event.
+6. Ice inquiry: Asking if ice will be available for drinks.
+7. Drone video permission: Customer asks if they can take a drone video for Instagram during the event.
+8. Need for food boxes: Customer requests preparation of boxes with pizza, mini burgers, nuggets, and fried potatoes to be ready by 4 PM on the event day.

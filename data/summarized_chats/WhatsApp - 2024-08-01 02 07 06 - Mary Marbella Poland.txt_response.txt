@@ -1,0 +1,19 @@
+1. Customer inquiry: Catering for tomorrow for 8 kids.
+2. Menu details:
+   - 20 mini burgers (10 beef, 10 pulled chicken)
+   - Sandwiches:
+     - Ham, cheese, salad
+     - Tuna, mayo, sweetcorn
+     - Smoked salmon, cream mousse
+     - Turkey, chickpea salad
+   - Tacos: 20 pieces (chicken, pork pibil, steak & cheese)
+3. Total cost for catering: €200 + VAT
+4. Delivery cost: €25 + VAT
+5. Pickup inquiry: "Where is the pick up point if I want to pick up myself?"
+6. Requested pickup time: 5/6 PM
+7. Pickup confirmation: "You can pick up at 17.00 please as we close at 18.00"
+8. Payment inquiry: "How to make a payment?" 
+9. Payment procedure: "On arrival"
+10. Card payment inquiry: "Can I pay by card?"
+11. Early pickup inquiry: "Can I already come and pick up my order now?"
+12. Order readiness confirmation: "In 15 min will be ready"

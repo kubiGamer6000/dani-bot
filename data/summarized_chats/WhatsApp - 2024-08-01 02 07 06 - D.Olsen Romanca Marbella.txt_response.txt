@@ -1,0 +1,14 @@
+1. Customer inquiry: Waiting for menu
+2. Menu inquiry: Customer confirms they will look at the menu provided by Dani's Catering.
+3. Order details:
+   - 1 Greek salad @ €50/box + VAT
+   - 1 canapés platter @ €50/box + VAT
+   - 1 chicken burger platter @ €50/box + VAT
+   - Delivery @ €25 + VAT
+4. Total amount: €175 (including a 10% VAT and a 10% discount for friends)
+5. Payment options: Customer can pay in cash or card upon delivery.
+6. Delivery time: Scheduled delivery at 12:30.
+7. Customer confirms they will pay all in cash.
+8. Customer feedback: "Thx a lot for delivery was very good."
+9. Customer requests invoice (factura) for the payment.
+10. Apology for payment delay due to administrative issues.

@@ -1,0 +1,18 @@
+1. Customer inquiry: Could I order the following items and pick them up on Wednesday 8.3. around 13:30?
+   - Sandwich platter €50
+     - Tuna, Homemade Mayo & Sweet Corn
+     - Turkey, Cucumber & Salad
+   - Canapés platter €50
+     - Goat Cheese & Caramelised Onion (v)
+     - Mini Fish & Chips
+   - Mega salad €50 x2
+     - Classic Organic Greek Salad
+     - Italian Pesto Pasta Salad
+   - Soft drinks €30
+     - Something that has only very little sugar
+2. Dietary requirements: As little salt and sugar as possible for a children’s birthday party.
+3. Delivery service inquiry: Do you have delivery service?
+4. Delivery service: We can do delivery service for €25.
+5. Total price: €255.
+6. Pick-up date and time confirmed: Wednesday at 13:30.
+7. Address for delivery: Calle Rafael Gomez El Gallo 549, Nueva Andalucía.

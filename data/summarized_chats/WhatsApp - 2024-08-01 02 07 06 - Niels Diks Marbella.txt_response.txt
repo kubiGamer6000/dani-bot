@@ -1,0 +1,39 @@
+1. Customer inquiry: Kids party on May 1st for around 30 people.
+2. Service inquiry: Confirmation of availability for catering.
+3. Menu inquiry:
+   - Request for options and prices.
+   - Disney-themed party with options for both adults and children.
+4. Confirmed menu for adults:
+   - Teriyaki Chicken Stick
+   - Pulled Chicken Bao
+   - Smoked Salmon Brioche
+   - Mini Quesadillas
+   - Tomato Basil Bruschetta
+   - Spring Rolls in Dipping Sauce
+   - Vegetarian Gyozas
+   - Recommendation for a Mini Burger
+5. Confirmed menu for kids:
+   - Chicken Fingers
+   - Spring Rolls
+   - Mini Chicken Burger
+   - Cucumber Maki
+   - Watermelon
+6. Pricing details:
+   - Adults: €60 per person + VAT
+   - Kids: €30 per person + VAT
+7. Inquiry about drinks package and service:
+   - Pricing for drinks package: €30 per person + VAT
+   - Confirmation of 3 staff members for service.
+8. Drinks options:
+   - White Wine: Marqués de Riscal Verdejo
+   - Rosé Wine: Lush Blush Rosé (changed to Minuty)
+   - Red Wine: Marqués de Riscal Reserva
+   - Cava: Freixenet Negro Brut Cava
+   - Beer: Heineken & San Miguel
+   - Homemade lemonade & selection of juices
+   - Still and Sparkling Mineral Water
+9. Guest count: Confirmed 24 adults and 9 kids.
+10. Inquiry about music services: Availability of a DJ at €150/hour + VAT.
+11. Inquiry about availability of parasols and standing tables.
+12. Final confirmation of event: Start at 15:00 on May 1st, at Paseo del Perú 23 Elviria.
+13. Total amount: Net €2495, VAT 10%, Gross €2744.50.

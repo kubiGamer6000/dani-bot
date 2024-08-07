@@ -1,0 +1,8 @@
+1. Customer inquiry: Possibly order a Christmas box for December 24.
+2. Delivery inquiry: Delivery for December 24 between 15:00 and 17:00.
+3. Order details: 2 platters ordered.
+4. Delivery option: Preference for delivery at a cost of €20.
+5. Confirmation of delivery: Delivery will be more convenient for the customer.
+6. Follow-up query: Request for pin location for easier finding on delivery day.
+7. Customer request: Preparation of cas (possibly referring to a specific menu item) for 120, later increased to 200. 
+8. Inquiry about going downstairs for easier access.

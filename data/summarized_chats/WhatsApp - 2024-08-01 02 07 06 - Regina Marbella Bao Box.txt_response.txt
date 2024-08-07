@@ -1,0 +1,13 @@
+1. Customer inquiry: Order of bao's pack of 20 for daughter's birthday.
+2. Specific bao types requested: Korean chicken bao and pulled pork bao.
+3. Delivery date: October 19.
+4. Ordering procedure clarification: Two days in advance is sufficient for small orders.
+5. Confirmed order adjustment: Inquiring if the original order of 20 bao's can be increased to 30.
+6. Inquiry about bao sizes: Noting that white bao's are smaller than black bao's.
+7. Pricing for 30 bao's: €75 + VAT (10%).
+8. Request for color contrast: Preference for 15 white bao's and 15 black bao's, depending on stock availability.
+9. Confirmation of event time: Birthday at 16:00.
+10. Pickup time request: Inquiring about pickup time for bao's.
+11. Confirmed pickup time: Agreed for 15:00.
+12. Location for pickup: Calle Santa Teresa local 2.
+13. Payment to be made at pickup.

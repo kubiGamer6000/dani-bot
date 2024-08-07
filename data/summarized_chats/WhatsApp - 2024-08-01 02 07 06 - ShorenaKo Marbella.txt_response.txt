@@ -1,0 +1,5 @@
+1. Customer inquiry: Catering for a birthday party on June 10, for 10-15 kids and 5-10 adults at a park in Benahavis.
+2. Required catering service: Need to know if it's possible to organize catering from the catering service for the specified number of guests.
+3. Menu inquiry: Request for information about the menu that is allowed in the park along with pricing.
+4. Alternative service offered: Takeaway boxes suitable for picnic parties available due to high workload on that day.
+5. Menu details: Menu will be provided shortly by the catering service.

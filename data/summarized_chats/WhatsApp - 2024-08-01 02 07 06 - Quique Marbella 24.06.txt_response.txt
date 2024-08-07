@@ -1,0 +1,40 @@
+1. Customer inquiry: Catering this Friday for approximately 20-25 people in Marbella.
+2. Service type: Cocktail served passed or left on tables starting from 19:00-19:30.
+3. Pricing inquiry: 
+   - Self-service display for 25 people with 8 types of cocktails: €1500 + VAT
+   - With staff service for 4 hours: €2500 + VAT
+4. Menu options requested: Customer asks for a list of dishes to estimate costs and if they can pay without VAT.
+5. Proposed dishes:
+   - Mini curry chicken bao
+   - Pulled pork bao
+   - Mini pita with hummus and roasted peppers
+   - Duck foie gras lollipops with pistachios
+   - Octopus crostini with purple potato cream
+   - Mozzarella and tomato pesto sticks
+6. Adjusted menu options: 
+   - Ham or sushi instead of some bao
+7. Staff and beverage inquiry: Customer inquires about types of drinks included and how many waiters will be present.
+8. Beverage service details:
+   - Drinks not included; customers must bring their own.
+   - If drinks are provided by catering, extra charges of €40/person for a service of 4 hours, including wine, sparkling wine, beer, soft drinks, glasses, and ice.
+9. Selected dishes confirmed by the customer:
+   - Ham
+   - Mixed sushi
+   - Chicken curry bao
+   - Mini pita
+   - Octopus crostini
+   - Mozzarella and pesto sticks
+   - Croquettes
+   - Fruit skewers
+10. Confirmation of service needing equipment: Customer asks if a fryer can be used for serving hot croquettes.
+11. Final confirmed menu:
+    - Ham
+    - Mixed sushi
+    - Chicken curry bao
+    - Mini pita
+    - Octopus crostini
+    - Mozzarella and pesto sticks
+    - Croquettes
+    - Fruit skewers
+12. Final confirmation status: Customer states they will confirm but later cancels the order. 
+

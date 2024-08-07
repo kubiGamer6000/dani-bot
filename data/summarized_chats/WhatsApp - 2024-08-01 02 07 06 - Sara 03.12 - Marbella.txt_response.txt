@@ -1,0 +1,9 @@
+1. Customer inquiry: A meal at home for 22 adults and 2 children on December 3rd at 1:30 PM.
+2. Event type: Would like to prepare a beautiful buffet table with various tapas and some dishes.
+3. Inquiry for menus and budget: "Could you send me menus and budget please?"
+4. Inquiry about availability: "Is there availability for that date?"
+5. Offering by Dani's Catering: Only takeaway food is available, without staffing service on that day; they can deliver cold dishes for the buffet.
+6. Menu items mentioned: Hamburgers and croquettes.
+7. Customer involvement: Customer asks how to proceed with the catering.
+8. Additional service information: "The hamburgers are made to be eaten cold, and you can heat the croquettes if you wish."
+9. Customer follow-up: Customer decided to host the event outside the home due to the catering options not being suitable this time, but thanks for the help and keeps the contact for future events.

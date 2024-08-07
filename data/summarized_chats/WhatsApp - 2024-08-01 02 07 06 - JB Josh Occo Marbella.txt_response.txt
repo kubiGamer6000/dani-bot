@@ -1,0 +1,34 @@
+1. Customer inquiry: Availability of a portable bar rental for Friday evening.
+2. Customer inquiry: Request for a price on the bar rental.
+3. Equipment details: 
+   - Mobile bar: €250 + VAT
+   - Shelving: €50 + VAT
+   - Large ice cooler: €50 + VAT
+   - Transportation: €120 + VAT
+4. Total cost: €1,296 (including VAT).
+5. Additional customer inquiry: Inquiry about collecting the bar on the same night.
+6. Customer inquiry: Asking if glasses will arrive in trays.
+7. Catering services offered:
+   - Staff assistance inquiry for a wedding: 2 people to assist the chef and 2 waiters, specified from 18:00 to 23:00.
+8. Customer details regarding the wedding: 
+   - Date: June 29
+   - Guest count: 89
+   - Event timings: Setup at 14:00, ceremony at 16:30, dinner service from 20:00-22:00, party from 22:00-02:00.
+9. Customer inquiry: Check-in on the time of delivery for the bar and if staff are available.
+10. Dietary accommodation/services inquiry: Request for canapés for 80 people, served from 18:00-20:00.
+11. Customer acknowledgment of scheduled bar delivery and shelving: 
+   - Delivery time confirmed as 11:00.
+12. Additional offer for high tables and umbrellas for rent.
+
+---
+
+13. Customer inquiry: Dimensions of the bar.
+14. Inquiry about the availability of the portable bar and shelving for a wedding on June 29.
+15. Customer confirmation for bar reservation and inquiry about assistance for the chef for the wedding.
+16. Question regarding arrival time for the bar on the wedding day.
+17. Customer confirmation of the location for bar delivery.
+18. Customer procedure for payment reminders for infrequent invoices.
+
+--- 
+
+(delete)

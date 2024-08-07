@@ -1,0 +1,7 @@
+1. Minimum price inquiry: "Is the minimum price 100€?"
+2. Minimum order confirmation: "50 is the minimum - no problem."
+3. Clarification on order quantity: "50€ is for two boxes?"
+4. Availability inquiry: "Is it possible for tomorrow? Because it says 2 days..."
+5. Request for photos: "Awesome! Can you send photos?"
+6. Interest in catering services: "I’m really interested but I don’t understand much. Since this is my first time organizing, I’m really grateful for the offer and the opportunity. If it’s still possible, I’m interested in the Spanish menu and in the sweet box. If not, that’s fine, thank you for everything. I will definitely come back to count on your services."
+7. Mention of an event: "Today I am very busy organizing a large event for 100 people for tomorrow..."

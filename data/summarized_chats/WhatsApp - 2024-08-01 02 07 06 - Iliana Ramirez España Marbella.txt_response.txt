@@ -1,0 +1,10 @@
+1. Customer inquiry: Interested in ordering several party boxes, is home delivery available?
+2. Event date: Saturday, November 4 at 14:00 (availability was not confirmed for this date).
+3. Customer inquiry: For the date of December 9, would like to order some boxes, do you have availability?
+4. Availability confirmation: Yes, availability confirmed for December 9.
+5. Delivery inquiry: Wondering if the service will deliver to the home or if the customer needs to pick it up.
+6. Delivery fee mentioned: €25 + VAT for delivery within Marbella.
+7. Customer preference: Wants delivery before 15:00 on December 9.
+8. Customer provided location for delivery.
+9. Future inquiry: For Saturday, March 9 (at 2:00 PM), asking if there is availability to select 4-5 party planners.
+10. Availability confirmation: Yes, availability confirmed for March 9.

@@ -1,0 +1,14 @@
+1. Customer inquiry: Prices for flamenco shows for private events.
+2. Show options:
+   - From three to six performers including guitar, voice, and dancers.
+   - All performed live.
+3. Customer service details: The provider will take care of sound, lights, tablao, and provide flamenco chairs.
+4. Performance detail: An hour of show for 100 euros for two additional performers.
+5. Pricing structure:
+   - 500 euros for three performers, an additional 100 euros for a fourth performer.
+   - 600 euros for four performers.
+6. Event specifics:
+   - Private event in Nueva Andalucía.
+   - Request for confirmation regarding availability for an event on February 10.
+7. Booking inquiry: "Do you have availability for a small private event?"
+8. Confirmation request: The customer requests to be notified once they confirm.

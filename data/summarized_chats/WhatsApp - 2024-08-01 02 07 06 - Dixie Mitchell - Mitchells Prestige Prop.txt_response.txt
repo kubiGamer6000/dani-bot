@@ -1,0 +1,22 @@
+1. Customer inquiry: Request for the menu for an estimate.
+2. Event details: Event for a villa in Mijas Golf on proposed date November 3rd, from 10 AM to 2 PM for 30 guests.
+3. Event type: Open house.
+4. Quote provided: Based on 30 guests/€1000 + VAT:
+   - Beef kofta
+   - Chicken mini kebab
+   - Pita & homemade hummus
+   - Veggie spring rolls
+   - Vegetable sticks & dips
+   - Fresh orange juice
+   - Still & sparkling water
+   - 1 staff service
+   - All equipment included
+5. Confirmation of event: Open house on November 3rd.
+6. Setup inquiry: Customer asking about the time needed for setup.
+7. Pre-event visit: Customer asking if a visit to the property is needed prior to the open house.
+8. Visit confirmation: Access the day before was agreed upon to bring some equipment.
+9. Company details request: Customer asked to send company details for invoice purposes.
+10. Company details provided: Iberian Peninsular Properties SL, CIF B92466499, address Avenida Las Gaviotas 3, Local A2, Fuengirola 29640.
+11. Inquiry about setup timing: Customer asking about the planned arrival time for the event.
+12. Confirmation of setup time: Agreed time for setting up at 11:00 AM.
+13. Invoice confirmation: Customer confirmed invoice payment.

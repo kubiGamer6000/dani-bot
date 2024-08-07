@@ -1,0 +1,6 @@
+1. Customer inquiry: Personalized packages available based on customer preferences.
+2. Menu availability: Menus shared for customer review.
+3. Event setup inquiry: Asking if a specific setup can be done.
+4. Event location inquiry: Customer confirmed the setup location is on the beach.
+5. Event date: Scheduled for August 10.
+6. Guest count: For 10 people.

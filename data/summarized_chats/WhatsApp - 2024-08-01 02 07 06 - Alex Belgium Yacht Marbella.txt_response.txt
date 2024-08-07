@@ -1,0 +1,5 @@
+1. Customer inquiry: Total price for today's catering service
+2. Pricing information: If paying cash, the total is 175 euros
+3. Payment inquiry: Inquiries about payment methods, including cash and card options
+4. Service confirmation: Caterers for a yacht party
+5. Customer communication preference: Messages preferred through WhatsApp

@@ -1,0 +1,7 @@
+1. Customer inquiry: Reservation for paella at home on Sunday for about 20 people
+2. Service inquiry: For lunch service, the charge is €90 per person plus VAT.
+3. Menu details included in service:
+   - A delightful selection of tapas
+   - Paella
+   - Dessert
+4. Staffing provided: One private chef and a waitress for a 4-hour service.

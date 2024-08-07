@@ -1,0 +1,13 @@
+1. Customer inquiry: A discount on catering due to a misunderstanding with the charter company; the original price was €1100 + VAT, offered a cost price of €500.
+2. Payment details provided for the transfer:
+   - Beneficiary: Daniela Rosu
+   - IBAN: GB42 REVO 0099 7007 0631 51
+   - BIC: REVOGB21
+3. Inquiry about payment methods: Customer asked if payment could be made via PayPal or Venmo.
+4. Alternative payment suggestion: Dani offered to come with a card machine or accept cash if the customer was in Marbella.
+5. Customer identified that they would be in town until Friday and asked for a suitable time to pick up.
+6. Different account number suggested for payment:
+   - Beneficiary: Daniela Rosu
+   - IBAN: ES06 0081 0676 5000 0263 7975
+   - SWIFT: BSABESBB
+7. Location inquiry for pickup.

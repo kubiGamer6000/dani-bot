@@ -1,0 +1,8 @@
+1. Customer inquiry: Request for a quote for a lunch for 15 people.
+2. Information requested:
+   - Minimum number of people.
+   - Price per person.
+   - Whether the menus include drinks or if they are separate.
+   - If they offer waiter service and the price for that.
+   - Payment methods. 
+3. Event timing: It will be in the afternoon.

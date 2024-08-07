@@ -1,0 +1,32 @@
+1. Customer inquiry: Catering for a boat party for 10 people
+
+2. Menu inquiry and order:
+   - Sandwich platter:
+     - Prawn, lime mayo
+     - Mozzarella, tomato, pesto
+     - Bacon, lettuce, tomato
+     - Cheese and cucumber surprise
+
+   - Canapé platter:
+     - Pulled duck and hoisin
+     - Goat cheese and caramelized onion
+     - Pulled pork and horseradish
+     - Thai pulled chicken
+     - Swedish meatballs
+     - Prawn and tartar
+
+3. Service information:
+   - All items served cold
+   - Collection available from Marbella central location
+   - Collection time arranged for 13:00 (1 PM)
+
+4. Pricing:
+   - Total cost: 100 euros for cash payment
+   - 100 euros + VAT for card payment
+
+5. Delivery option:
+   - Delivery to Fuengirola available for 40 euros + VAT
+
+6. Additional information:
+   - Menu catalog provided to customer (PDF file)
+   - New location in Marbella central (previous location was in Elviria)

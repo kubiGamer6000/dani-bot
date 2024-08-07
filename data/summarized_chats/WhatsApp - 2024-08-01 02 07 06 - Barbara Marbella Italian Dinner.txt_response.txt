@@ -1,0 +1,71 @@
+1. Customer inquiry: Planning a birthday celebration on the 8th of October for 15-20 people.
+2. Theme inquiry: Italian theme night with Capri decorations featuring lemons and candles.
+3. Location: Event taking place in Benhavis.
+4. Services requested:
+   - Menu proposal for Italian themed dinner.
+   - Drinks station inquiry.
+   - Decoration plan with a Capri theme.
+5. Dinner style: Customer requested a sit-down dinner and ambiance decoration.
+6. Suggested menu:
+   - **Italian antipasti station:**
+     - Nocellara olives & focaccia
+     - Buratta caprese salad
+     - Truffle arancini balls
+     - Tomato Bruschetta
+     - Prosciutto & fig bruschetta
+     - Smoked salmon & cheese bruschetta
+     - Italian charcuterie platter
+   - **Main courses:**
+     - Gnocchi gamberi e zucchini
+     - Truffle risotto
+     - Grigliata di carne (mixed grilled meat - chicken, beef, and lamb)
+     - Rucola and parmigiano salad
+     - Oven baked potato
+   - **Desserts:**
+     - Mini dessert bites
+     - Fruit skewers
+7. Pricing: 
+   - Price: €130/person + VAT for the menu.
+   - Unlimited drinks: €30/person + VAT for a 4-hour package (Aperol spritz, Prosecco, Italian pairing food wines, homemade lemonades, San Pellegrino, Limoncello).
+   - Decoration price to follow after agreement on design.
+   - Birthday cake (TBC) personalized as per theme with price to be confirmed.
+8. Menu modifications discussed:
+   - Changing truffle arancini balls to normal arancini balls.
+   - Replacing smoked salmon with raw fish Carpaccio or tuna tartar.
+   - Removing truffle risotto and adding another pasta option (vongole, paccheri with aragosta, rigatoni ragu or bolognese).
+   - Replacing meat with grilled sea bass.
+   - Adding tiramisu for dessert.
+9. Equipment inquiry: Confirming if they can make pizza in the Green Egg for appetizer.
+10. Guest Count: Final count of 12 or 14 guests confirmed prior to the event.
+11. Decoration details: Lemon, floating candles, blue flowers, gold cutlery, and napkins. Estimated decoration cost is €500 + VAT.
+12. Birthday cake request: Pavlova with decoration for 12 people at €150 + VAT.
+13. Entertainment request: Inquiry about a Spanish guitar singer, price and availability approximately €150.
+14. Final menu confirmed for 12/14 guests, with detailed menu items and pricing discussed:
+    - **Updated Italian antipasti station:**
+      - Nocellara olives & focaccia
+      - Buratta caprese salad
+      - Arancini balls
+      - Tomato Bruschetta
+      - Prosciutto & fig bruschetta
+      - Tuna or red shrimp tartar
+      - Italian charcuterie platter
+    - **Updated Main courses:**
+      - Gnocchi gamberi e zucchini
+      - Sea bass
+      - Spaghetti vongole
+      - Rigatoni bolognese
+      - Rucola & parmigiano salad
+      - Mixed vegetables
+    - **Desserts:**
+      - Tiramisu
+      - Fruit skewers
+15. Final pricing:
+    - Price: €160/person + VAT.
+    - Decoration: €500 + VAT.
+    - Birthday cake (Pavlova) updates discussed.
+16. Additional Beverage Inquiry: Customer asking about Gin and tonic availability if someone does not drink Aperol Spritz.
+17. Pasta preference: Customer requested to use a different brand of pasta instead of Barilla, confirming they have Rummo available.
+18. Meeting arrangement for event finalization once the customer arrives in Marbella.
+19. Event day logistics discussed (arrival times, gate access).
+
+This conversation contained numerous inquiries and detailed information regarding event planning and catering services, which are relevant for training the customer service chatbot.

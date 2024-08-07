@@ -1,0 +1,6 @@
+1. Customer inquiry: Wedding packages for a 60th birthday party
+2. Event type: Birthday party
+3. Food inquiry: Snacks and finger food
+4. Availability inquiry: Request for date and guest count
+5. Guest count inquiry: Number of guests for the birthday party
+6. Venue inquiry: Location of the party

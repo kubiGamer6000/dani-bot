@@ -1,0 +1,54 @@
+1. Customer inquiry: Open house catering proposal
+2. Event details:
+   - Date: 25/05/2023
+   - Time: 13:00 - 17:00
+   - Guest count (PAX): 40
+   - Drinks: Cava, white wine, red wine, beer, soft drinks, and water
+   - Food proposal: Selection of tapas
+     - Smoked salmon & caviar tapa
+     - Serano ham, brie & membrillo tapa
+     - Coronation chicken wrap
+     - Mini greek salad bowl
+     - Mini pasta pesto bowl
+     - Fruit skewers
+     - Mini dessert bites
+   - Staffing: One person supporting the drinks
+   - Setup: Table for food and drinks, awning, 4 umbrellas, and 4 high tables
+   - Price: €35/person + VAT 
+   - Total: €1400 + VAT
+
+3. Customer inquiry: If a pre-site visit is needed prior to the event
+4. Updated proposal with different tapas:
+   - Pulled Thai chicken bao bun
+   - Pulled pork & horseradish bao bun 
+   - Pita bread hummus & roast pepper 
+5. New total proposal based on lower price: €1100 + VAT for 40 guests
+6. Customer confirmation for pre-site visit and inquiry about setup access
+7. Customer request for extra food for an additional 30 guests at €200
+8. Menu updates and dietary accommodations for the extra food request.
+9. Customer requesting an invoice with the correct number for the extra food.
+10. Open House inquiry for the 20th of July:
+    - PAX: 80
+    - Drinks: White wine, red wine, cava, beer, water, soft drinks
+    - Food: 6 types of snacks
+11. Quotation for catering:
+    - Price: €60/person + VAT
+    - Menu includes a selection of canapés with unlimited drinks and necessary equipment. 
+
+12. Customer inquiry for ordering platters and establishing location and payment details on October 26, 2023.
+13. Proposal considering dietary requirements and changes for soft drinks. 
+
+14. Open house details for December 14, with a focus on budget under €27 pp:
+    - PAX: 50
+    - Food menu: Canapés, easy-to-eat snacks
+    - Drinks to include mimosas instead of wines.
+15. Final adjustments for event rescheduling and confirmation for January 18 open house:
+    - Confirmed guest count increased to 56
+    - Customer confirms acceptance of previously discussed quote including mimosas.
+16. Proposal for April 18 event including robust cheese and meat offerings, refreshing beverages, and staff inclusions:
+    - PAX: 70
+    - Budget: €1280 + VAT
+17. Customer requests soft drinks and cokes instead of rosé wine.
+18. Final confirmation for accurate setup, equipment drop-off times, and event conclusions including proper closure.
+
+The conversations showcase detailed information about various catering needs, menu options, pricing, and follow-up actions, all crucial for training a customer service chatbot.

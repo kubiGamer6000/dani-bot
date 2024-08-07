@@ -1,0 +1,22 @@
+1. Customer inquiry: Catering services for a group of 22 individuals during their stay in Marbella from April 10th to April 13th.
+2. Catering requirements:
+   - Thursday, April 11th: Evening meal at 7:00 PM.
+   - Friday, April 12th: Catering for both lunch and dinner.
+3. Meal budget:
+   - Thursday evening: 70 euros per person.
+   - Friday lunch: 50 euros per person.
+   - Friday dinner: 30 euros per person.
+4. Proposed plan for catering services:
+   - Thursday Evening Meal:
+     - Menu: BBQ buffet with 3 meats, 1 fish, 1 salad, 1 potato dish, and finger dessert bites.
+     - Price: 70 euros per person + VAT.
+   - Friday Lunch:
+     - Menu: Assortment buffet of 6 types of tapas, 2 types of salads, and a fruit platter.
+     - Price: 50 euros per person + VAT.
+   - Friday Dinner:
+     - Menu: Takeaway platters of mixed sandwiches and mini burgers.
+     - Price: 30 euros per person + VAT.
+5. Confirmation of invoice request and pricing: Total price for meals requested to be 3500 euros including VAT.
+6. Request for invoice details provided.
+7. Coordination for meal delivery and setup: Timing for arrival and setup at the villa discussed, customer provided contact information for the housekeeper.
+8. Follow-up on order confirmation for dinner on April 12th.

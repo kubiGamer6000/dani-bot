@@ -1,0 +1,12 @@
+1. Customer inquiry: Is it possible to order for this Sunday for 5 people?
+2. Dietary requirements: One person is pescatarian; looking for a mix of vegetarian and meat options.
+3. Menu inquiry: What are the different things available?
+4. Delivery inquiry: Do you do delivery?
+5. Bespoke menu request: Would it be possible to create a bespoke menu with 50% vegetarian dishes and 50% popular dishes for approximately 5 people?
+6. Budget inquiry: Customer suggested a budget of 200.
+7. Exact location for delivery provided: https://maps.app.goo.gl/8Z768XBK7MTHJNWt8
+8. Delivery contact: Can call +46709693808 if there are any problems.
+9. Payment inquiry: Can I pre-pay somehow? If you have Revolut, etc.
+10. Pre-payment confirmation: Yes, customer asked if it's possible to pay before.
+11. Delivery cost: €25 for La Quinta.
+12. Total cost: €225 (including delivery).

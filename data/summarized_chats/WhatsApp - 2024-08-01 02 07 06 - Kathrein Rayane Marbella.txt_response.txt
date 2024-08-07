@@ -1,0 +1,8 @@
+1. Customer inquiry: Request for a quote for catering for 8 people
+2. Catering type: Buffet
+3. Service date: Sunday
+4. Location: Cala de Mijas
+5. Proposed menu: A good variety of sandwiches, party food, cold cuts and cheeses, desserts, and fruits
+6. Delivery and collection details: Delivery and collection for €500 + VAT
+7. Customer feedback: "Sounds wonderful," but they already hired another service.
+8. Future communication: Thanking and expressing intent to contact again in the future.

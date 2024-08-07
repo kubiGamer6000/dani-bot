@@ -1,0 +1,15 @@
+1. Customer inquiry: Catering for a brunch after a party for around 15-20 people on Saturday, October 2nd, at 1:00 PM.
+2. Menu request:
+   - A big Greek Salad
+   - Fresh croissants
+   - Fruit smoothies without milk
+   - Chocolate cake
+3. Pricing details:
+   - Big Greek Salad @ €60 (2 salads in 1)
+   - Selection of various croissants for 20 people @ €100
+   - 2 different homemade juices/lemonade jars @ €60
+4. Confirmation of a simple chocolate cake: No birthday decorations requested.
+5. Delivery time constraint: Delivery must be between 11:00 AM - 12:00 PM due to prior bookings.
+6. Cash preparation requested for payment: Asking to prepare cash for the day of the event.
+7. Customer feedback: Food was great and inquiry about the chocolate cake being slightly overbaked.
+8. Invoice request: Customer prefers to receive an invoice for the payment.

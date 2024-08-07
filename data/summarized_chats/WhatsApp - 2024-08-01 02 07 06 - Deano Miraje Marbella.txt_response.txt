@@ -1,0 +1,2 @@
+1. Customer inquiry: Prices for a bulk order of food and drinks to a villa
+2. Request for details: Date of interest and specific requirements for the order

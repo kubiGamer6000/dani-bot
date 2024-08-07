@@ -1,0 +1,27 @@
+1. Customer inquiry: Requesting to place an order for Saturday.
+2. Payment inquiry: Can payment be made upon pickup?
+3. Pickup timing: The party starts at 8 PM; can the customer pick it up Saturday afternoon?
+4. Recommended pickup time: The food should ideally be ready 2 hours before the party; recommended max time is 6 PM for freshness.
+5. Location inquiry: Where is the pickup location?
+6. Delivery option: Delivery available for €25.
+7. Menu items:
+   - Mini burgers platter (20) - Butter fried chicken, Aged beef burger
+   - Funky colours burger (12) - Charcoal burger bun, Truffle mushrooms veggie in green bun
+   - Tacos platter (10) - Steak and cheese
+   - Sandwich platter (48) - Tuna with homemade mayo, Signature egg with homemade mayo, Smoked salmon and cream mousse, Coronation curry chicken
+   - Asiatic platter - Salmon teriyaki bao, Korean chicken bao
+8. Setup inquiry: If the customer wants setup service with platters and decoration, they can receive a quote.
+9. Quote for setup: €500 for food, decoration, equipment, delivery, and pickup.
+10. Guests inquiry: About 30 guests.
+11. Equipment pickup: Equipment will be collected the next day after the event.
+12. Budget update: The customer decided to only pick up the food due to budget constraints; confirmation for Saturday at 6 PM pickup.
+13. Total cost confirmation: Total would be €275 for 5 boxes of food.
+14. Private chef service inquiry: The customer asked if Dani's Catering provides private chef services.
+15. Staffing inquiry: 
+   - Dates requested: 30th June - 4th July
+   - Needs: 1 chef and 4 waitresses for breakfast, lunch, and dinner (20 persons for breakfast; 30/35 persons for lunch and dinner).
+   - Additionally, 1 cocktail girl for one day for a party in the garden.
+16. Pricing for staffing: €3000 per day for female-only staff.
+17. Reservation policy: Full payment required to hold all the dates.
+18. Wait staff pricing inquiry: Can they pay per hour for wait staff?
+19. Commission acknowledgment: The customer confirmed a 10% commission on the total price.

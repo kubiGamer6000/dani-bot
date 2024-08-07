@@ -1,0 +1,37 @@
+1. Customer inquiry: Interested in the party menu package 2.
+2. Event details: Date - June 15th at 8 PM, for 15 guests.
+3. Package information: Package 2 includes cold finger food and a waitress.
+4. Service allowance: Service can be done for 3 hours instead of 4 for an additional €100 + VAT due to the distance.
+5. Inquiry about menu: Will all the served finger food be cold?
+6. Inquiry about hot food: Can hot finger food or a hot buffet be provided?
+7. Pricing for hot service: Hot finger food/buffet will be €120 per person + VAT.
+8. Pricing confirmation: Customer confirms the hot food service works for them.
+9. Request for menu choices: Customer asks for menu options.
+10. Proposed menu provided includes:
+   - Appetizers: Spanakopita, Chicken Satay, Bruschetta Trio
+   - Main Courses: Beef Bourguignon, Chicken Tikka Masala, Vegetarian Moussaka, Teriyaki Salmon
+   - Sides: Truffle Mashed Potatoes, Ratatouille, Nasi Goreng, Greek Salad
+   - Breads: Assorted Artisan Bread Rolls
+   - Desserts: Chef’s Dessert Surprise
+11. Customer inquiry: Interested in a BBQ buffet instead, asks for menu.
+12. Confirmed guest count for BBQ option: 12 people.
+13. Confirmation of BBQ services includes: 
+    - Salad Bar: Greek Salad, Italian Pasta Salad, Mediterranean Couscous, Potato and Chives Salad, Caesar Salad with Parmesan
+    - BBQ Selection: Beef Entrecôte, Mini Beef Burgers, Mini Chicken Burgers, Selection of Sausages, Lamb Chops, Prawn and Calamari Skewers
+    - Desserts: Fresh Fruit Platter, Mini Dessert Bites
+14. Additional services included: All necessary equipment (plates, cutlery, glasses), staff service for 3 hours.
+15. Entertainment option and rate: DJ services at €150 per hour.
+16. Confirmation of menu change request to the first option.
+17. Number of guests: Confirmed as 12 guests.
+18. Allergy notification: Customer has a nut allergy; request to change the peanut satay to Chicken Teriyaki.
+19. Updated menu after allergy accommodation:
+   - Appetizers: Spanakopita, Chicken Teriyaki, Bruschetta Trio
+   - Main Courses: Beef Bourguignon, Chicken Tikka Masala, Vegetarian Moussaka, Teriyaki Salmon
+   - Sides: Truffle Mashed Potatoes, Ratatouille, Nasi Goreng, Greek Salad
+   - Breads: Assorted Artisan Bread Rolls
+   - Desserts: Chef’s Dessert Surprise
+20. Arrival time confirmed: Catering staff will arrive at the villa at 6 PM for preparation.
+21. Customer requests location for easier finding.
+22. Address for the villa provided: 18 calle islas canarias.
+23. Request for full name and NIE for invoice purposes. 
+24. Staff's details provided for invoicing: Miguel Vergara, Passport no. AU204093.

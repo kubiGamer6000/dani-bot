@@ -1,0 +1,12 @@
+1. Customer inquiry: Quote for a catered dinner for an event on September 15th for 7 adults
+2. Dietary requirements: No dietary restrictions aside from not eating pork; they do eat meat, seafood, and fish
+3. Dessert request: Something with apples/honey
+4. Main dish preferences: Chicken, fish, or brisket as the best options
+5. Suggested menu:
+   - Price: €100/person + VAT
+   - Starters: Assorted Tapas Platter with Spanish Tortilla, Garlic Shrimp, and Stuffed Bell Peppers
+   - Main Course: Slow-Cooked Beef Brisket with a Savory BBQ Sauce; additional sharing main course option for +€20/person + VAT
+   - Sides: Roasted Potatoes with Aromatic Herbs
+   - Dessert: Apple Honey Tart served with a Dollop of Vanilla Ice Cream
+6. Customization options: The menu can be further customized based on preferences.
+7. Additional services inquiry: Pairing wine and drinks package can be quoted as well.

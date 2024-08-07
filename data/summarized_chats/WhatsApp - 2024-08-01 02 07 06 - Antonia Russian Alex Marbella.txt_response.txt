@@ -1,0 +1,29 @@
+1. Customer inquiry: Catering for a birthday party on 3rd August for around 10 adults and 3-4 kids.
+2. Availability inquiry: Asking if Dani's Catering is available on 3rd August.
+3. Requested catering style: BBQ party, sit-down meal with finger food.
+4. Menu options inquiry: Customer requests a menu or possible options.
+5. Menu provided:
+   - Package 1 @ €120/person + VAT (kids half price)
+     - Starters: 
+       - Prawn pil pil
+       - Italian bruschetta with prosciutto/salmon/tomato
+       - Meat & cheese platters
+     - Main:
+       - Chicken skewers
+       - Beef Tomahawk
+       - Angus mini burger sliders
+       - Oven baked potato
+       - Avocado mango salad
+       - Fruit skewers
+       - Mini dessert bites
+   - Package 2 @ €150/person + VAT (kids half price)
+     - Same as above with hot seafood platters for starters and half lobster from the BBQ.
+6. Customization request: Customer wishes to change Package 2 by removing Italian bruschetta, salmon, tomato, and hot seafood, and adding 12 oysters.
+7. Confirmed new price: €130/person + VAT for the custom package.
+8. Event details: 
+   - Start time: 19:00
+   - Finish time (for cake): 22:30
+   - Final guest count: 9 adults and 6 kids.
+9. Decoration inquiry: Customer asks if Dani's Catering has decor for the table.
+10. Confirmation of decoration: Dani confirms decorations are available and they will arrive around 4-5 PM to set up.
+11. Location request: Customer provides a Google Maps link for the event location.

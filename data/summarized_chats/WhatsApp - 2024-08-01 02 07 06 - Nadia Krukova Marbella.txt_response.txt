@@ -1,0 +1,25 @@
+1. Customer inquiry: Catering request for Saturday.
+2. Service details: Looking for snacks and bites.
+3. Guest count: 15 guests.
+4. Menu details:
+   - 1 box color burgers: Pulled pork, Beef
+   - 1 box sandwiches: Turkey, Mozzarella, Salmon, Tuna
+   - 1 box canapés: Salmon, Chicken, Caprese, Chicken
+   - 2 mega salads: Quinoa, Roast vegetables
+5. Pricing: Total €250 + VAT for menu; €25 + VAT for delivery.
+6. Payment method inquiry: Customer prefers bank transfer.
+7. Delivery details: Need delivery to 33 Calle Castilla, Estepona by 3 PM.
+8. Confirmation request: Customer asked about delivery time.
+9. Offer of full-service catering including table serving and bespoke menus for a kid's birthday on December 2.
+10. Menu inquiry: Same menu as before.
+11. Additional dietary details: Requested tapas for 15 kids and 8 adults.
+12. Package details: Package 2 at €60/person + VAT (kids at half price).
+13. Decoration inquiry: Customer wants decorations for a Studio Ghibli themed party.
+14. Additional confirmation: Customer confirmed they don't need studio Ghibli figurines but would like a green and wood theme.
+15. Equipment request: Customer inquired about table hire for an event with a guest count of 12 on December 14. 
+16. Service request: Catering needed for 12 people from 10 AM to 3 PM on December 14, including cava, water, and red wine.
+17. Price inquiry: Customer asked how much the catering will cost.
+18. Service confirmation: Customer confirmed they need staff service for the event.
+19. Menu details for December 14: Guests arriving with tea, coffee, fruit platters, and a selection of sandwiches and wraps for lunch.
+20. Pricing details for food & service: €600 + VAT for food & service; €1000 + VAT for food, drinks, service, and all equipment.
+21. Invoice request: Customer requested an invoice.

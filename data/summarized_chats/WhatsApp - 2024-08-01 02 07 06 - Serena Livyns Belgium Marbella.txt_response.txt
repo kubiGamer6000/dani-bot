@@ -1,0 +1,8 @@
+1. Customer inquiry: Ordering takeaway boxes for the 17th of July
+2. Menu items requested: 
+   - Cheese platter for 4-6 persons
+   - Sweet temptation cupcake box for 4-6 persons (inquiry about availability)
+3. Confirmation of order: Cheese platter and surprise dessert box for pickup on 17th of July
+4. Pickup time inquiry: Asking for location and time to pick them up
+5. Pickup location: Marbella International University Centre, Avda. Jaime de Mora, Marbella, Andalusia 29601
+6. Pickup time confirmed: 12:00 on the 17th of July

@@ -1,0 +1,15 @@
+1. Event details: Birthday party on July 27th at approximately 8 PM for around 40 guests.
+2. Menu inquiry: Interested in the party menu (package 2 with waiter) and wants to know cocktail and drinks menu with prices.
+3. Dessert inquiry: What offers for dessert are available?
+4. Availability confirmation: Dani's Catering confirmed availability for the birthday party on the specified date.
+5. Full package party menu: Includes eight pieces of canapés per person at a cost of 60 euros per person plus VAT.
+6. Live cooking paella station: Offers options including seafood, chicken, mixed paella, paella valenciana, beef paella, and rabbit paella, adding an additional cost of 40 euros per person plus VAT.
+7. Unlimited drinks and cocktails package: Includes cava, selection of wines, beers, and three cocktails of choice, priced at 60 euros per person plus VAT for 4 hours, with an additional 10 euros per person plus VAT per extra hour.
+8. Waitstaff inquiries: 
+   - Extra waiters can be provided for serving drinks if customer supplies them, with a 10% surcharge on the final bill.
+   - If drinks and cocktails are taken, there will be 2 waiters for standard drinks and 1 professional cocktail maker.
+   - For the full party package, 2 staff will be present to attend to food service.
+9. Canapés inquiry: Recommendation is 12 pieces per person if no paella is included for a fuller sensation.
+10. Barbecue inquiry: Inquiry about availability for barbecues for around 20 people the following day.
+11. Dessert inquiry: Specific questions about dessert options, including birthday cake.
+12. Cocktail menu inquiry: Request for cocktail menu for the selection of 3 cocktails.

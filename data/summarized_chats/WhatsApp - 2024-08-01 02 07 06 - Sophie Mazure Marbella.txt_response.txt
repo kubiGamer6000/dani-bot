@@ -1,0 +1,32 @@
+1. Customer inquiry: Organizing an event in Mijas-Costa, Saturday 03/08, for approximately 19 adults and 5-6 children.
+2. Menu inquiry: Argentine BBQ style.
+3. Menu details provided:
+   - Starters:
+     - Beef empanadas
+     - Grilled provolone cheese
+     - Chorizo and blood sausage
+     - Mini hamburgers
+   - Main Course:
+     - Argentine entrecote
+     - Short ribs
+     - Grilled chicken
+     - Pork flank
+   - Sides:
+     - Mixed salad
+     - French fries
+     - Grilled vegetables
+     - Chimichurri and salsa criolla
+   - Desserts:
+     - Fresh fruit platter
+4. Pricing for the event:
+   - Price per adult: €120 + VAT
+   - Price per child (half price): €60 + VAT
+   - Estimated total for 19 adults and 5-6 children:
+     - Adults: 19 x €120 = €2280 + VAT
+     - Children: 5.5 x €60 = €330 + VAT
+     - Total: €2610 + VAT
+5. Note: The offer includes food, service, and buffet decoration, but does not include drinks.
+6. Event information:
+   - Start time: To be confirmed
+   - End time: To be confirmed
+7. Request for confirmation on the start and end times of the event.

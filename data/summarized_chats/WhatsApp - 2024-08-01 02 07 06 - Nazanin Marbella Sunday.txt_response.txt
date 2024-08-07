@@ -1,0 +1,14 @@
+1. Customer inquiry: 20 guests on Sunday night.
+2. Inquiry for drink tasting suggestions.
+3. Request for tasting trays.
+4. Desired food setup: Buffet style for 20 people.
+5. Pricing inquiry: "Can you please give me the price?"
+6. Customer requested only food service and no staffing (cleaning and serving).
+7. Foods listed for 20 people:
+   - 2 x vegetables with hummus - €60
+   - 2 x mozzarella sticks - €30
+   - 2 x fruit platters - €60
+8. Total pricing for service: €35 per person * 20 people = €700 including delivery and collection.
+9. Subsequently adjusted number of guests to 15: Total pricing updated to €525.
+10. Thank you message from the customer regarding the service received.
+11. Inquiry about where to buy a specific beautiful dish used during the service.

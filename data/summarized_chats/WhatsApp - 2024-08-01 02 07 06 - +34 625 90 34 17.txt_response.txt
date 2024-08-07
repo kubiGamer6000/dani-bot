@@ -1,0 +1,4 @@
+1. Customer inquiry: Delivery service to Churriana in Malaga
+2. Delivery pricing:
+   - Minimum order of two boxes: 10€ delivery fee
+   - Single box order: 15€ delivery fee

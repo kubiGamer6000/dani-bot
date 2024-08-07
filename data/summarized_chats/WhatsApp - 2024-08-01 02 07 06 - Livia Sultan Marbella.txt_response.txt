@@ -1,0 +1,12 @@
+1. Customer inquiry: Interested in ordering food/catering in the next days. Requested a menu or options available.
+2. Service inquiry: Inquired if it was possible to order for tomorrow.
+3. Menu details: Requested cheese platter, sushi platter, cold burger platter (beef and chicken), cold taco platter with grilled chicken, beef and prawns (2 platters), surprise dessert platter, and cupcakes platter (!,4,5,10,11,12).
+4. Children's food request: Asked for something clear for children like chicken fingers.
+5. Pickup time inquiry: Proposed a pickup time of 19:00.
+6. Response for another time: Offered 16:00 if they could come and pick it up.
+7. Confirmation request: Asked the location for pickup.
+8. Finger food request: Asked if chicken nuggets could be made and preferred them not to be frozen but from normal chicken (like schnitzel).
+9. Payment inquiry: Asked about payment methods (transfer or card) and provided company information for invoicing (SILVER INTERNATIONAL SRL/ CIF: RO16150063, Bucharest Romania).
+10. Bank details request: Inquired for Bic code for bank transfer.
+11. Confirmation of takeaway order: Informed they will send an invoice.
+12. Acknowledgment: Confirmed the order without dessert.

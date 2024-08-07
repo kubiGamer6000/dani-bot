@@ -1,0 +1,24 @@
+1. Customer inquiry: Request for catering quote for a birthday celebration on October 1 for around 40 people.
+2. Event style: Basic buffet style.
+3. Event schedule:
+   - 19:30 arrival with beers, wine, and soft drinks.
+   - Prepared big table with meats and cheese.
+   - 21:00 more filling items put on other tables.
+   - 22:30 start serving stronger drinks (gin, whiskey, etc.).
+4. Additional services inquiry: Request for waiting staff for the evening, as well as soft drinks, glasses, etc.
+5. Estimated end time of the event: Around 4 am; needing waiting staff until then.
+6. Staff requirements: Initially suggested 1 staff member, later increased to 2 for better service.
+7. Package options provided:
+   - **Package 1**: €2000 + VAT for 40 guests, includes:
+     - Selection of meat and cheese platters
+     - Mini sandwiches selection
+     - Mini burgers
+     - 2 staff service until 4 am
+   - **Package 2**: €3000 + VAT for 40 guests, includes:
+     - Selection of meat and cheese platters
+     - Mini sandwiches selection
+     - Mini burgers
+     - 2 staff service until 4 am
+     - All equipment hire, ice, ice coolers, glasses, high tables, etc.
+8. Drinks inquiry: Questions about the inclusion of soft drinks, beers, and wine in the packages.
+9. Confirmation: No drinks included, just food service and equipment.

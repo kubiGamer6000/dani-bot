@@ -1,0 +1,36 @@
+1. Customer inquiry: Ordering party platters for an upcoming party.
+2. Menu inquiry: Requested the following party platters:
+   - Little pita platter
+   - Tapas platter
+   - Bellini canapé platter
+   - Mini burger platter
+3. Tapas platter contents:
+   - Hummus & blue cheese
+   - Thai chili chicken 
+   - Pulled pork 
+   - Goat cheese & fig
+   - Mediterranean vegetables/salmon/feta
+4. Mini burgers contents:
+   - Beef sliders 
+   - Chicken sliders
+5. Bellini canapé contents:
+   - Brie & fig
+   - Mini shrimp & tartar
+   - Swedish meatballs 
+   - Thai pulled chicken
+   - Goat cheese & onion
+   - Mini fish & chips
+6. Mini pita platter contents:
+   - Beef kebab
+   - Babaganoush 
+7. Pickup time inquiry: Asking about when and where to pick up the party platters.
+8. Payment inquiry: Asking how payment should be done.
+9. Pickup time confirmation: Requested pickup time around 14:00/14:30 on Friday.
+10. Pricing details:
+    - Tapas platter: €75 + VAT
+    - Pita platter: €75 + VAT 
+    - Bellini platter: €50 + VAT 
+    - Mini burgers: €50 + VAT 
+    - Net total: €250
+    - VAT (10%): €25
+    - Grand total: €275

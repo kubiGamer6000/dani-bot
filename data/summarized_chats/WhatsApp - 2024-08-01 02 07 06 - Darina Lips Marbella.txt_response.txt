@@ -1,0 +1,4 @@
+1. Customer inquiry: Order for 4 boxes of food for December 17, Italian cuisine possible?
+2. Delivery requirement: Needs delivery before 16:30 on December 17.
+3. Pricing inquiry: 50€ per box, totaling 200€ for 4 boxes.
+4. Customer confirmation: Confirmed time for delivery at 16:00 on December 17.

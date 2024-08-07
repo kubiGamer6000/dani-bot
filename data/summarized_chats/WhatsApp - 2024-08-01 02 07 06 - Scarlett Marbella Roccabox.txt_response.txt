@@ -1,0 +1,16 @@
+1. Customer inquiry: Request for small plates of tapas for around 15 people for filming.
+2. Delivery time inquiry: Need for delivery on Monday at 11:30 AM in Mijas Pueblo.
+3. Pricing: Delivery charge is €40 + VAT.
+4. Menu confirmation: Order for two Spanish platters and one tapas & pinchos platter.
+5. Pricing details:
+   - 2 Spanish platters @ €100 + VAT
+   - 1 tapas platter @ €50 + VAT
+   - 1 big sangria @ €100 + VAT
+   - 15 wine glasses & platters decoration @ €60 + VAT
+   - Delivery @ €40 + VAT
+   - Total net €350, VAT 10%, Total gross €385.
+6. Equipment inquiry: Question about additional requirements for glasses and equipment.
+7. Request for invoice: Customer asked to send the invoice to janice.rowe@itv.com and provide details for payment.
+8. Collection inquiry: Customer asked about picking up the platters and confirmation that they have everything available.
+9. Additional service inquiry: Mention of wanting decor to enhance presentation.
+10. Location request: Need for the address for delivery and confirmation of location details.

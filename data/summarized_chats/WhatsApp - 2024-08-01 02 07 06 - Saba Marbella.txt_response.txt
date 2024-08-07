@@ -1,0 +1,63 @@
+1. Customer inquiry: BBQ menu request to forward to clients.
+2. Menu inquiry: Tailored BBQ menu based on client preferences.
+3. Event date: Changed to Wednesday, April 10, for 13 guests (all men), requesting a lot of meat.
+4. Meal timing: Dinner at approximately 19:00.
+5. Pricing for the comprehensive dinner package: €120 per person + VAT.
+6. Menu details provided:
+   - Starters (3 options choice):
+     1. Antipasto Platter
+     2. Caprese Salad
+     3. Shrimp Cocktail
+     4. Bruschetta with Tomato & Basil
+     5. Stuffed Mushrooms
+     6. Beef Carpaccio
+     7. Mini Crab Cakes
+     8. Spinach and Artichoke Dip
+     9. Bacon-Wrapped Scallops
+     10. Chicken Satay Skewers
+   - Main Course (5 types of meats):
+     1. Grilled Ribeye Steak
+     2. BBQ Chicken Wings
+     3. Pulled Pork Sliders
+     4. Grilled Sausages
+     5. Salmon Fillets
+     6. Lamb Chops
+     7. Teriyaki Beef Skewers
+     8. Honey Glazed Ham
+     9. Turkey Breast
+     10. Vegetarian Stuffed Peppers
+     11. Grilled Shrimp Skewers
+     12. Beef Tenderloin
+     13. Cajun Spiced Chicken Breast
+     14. BBQ Ribs
+     15. Duck Confit
+     16. Beef burgers
+     17. Chicken burgers
+     18. Fish burger
+     19. Beef entrecôte
+   - Sides (10 options):
+     1. Garlic Parmesan Fries
+     2. Grilled Vegetables
+     3. Creamy Coleslaw
+     4. Roasted Potatoes
+     5. Macaroni and Cheese
+     6. Caesar Salad
+     7. Corn on the Cob
+     8. Quinoa Salad
+     9. Roasted Brussels Sprouts
+     10. Mashed Sweet Potatoes
+   - Dessert: Sharing Dessert Platter featuring mini cheesecakes, chocolate brownies, fruit tarts, and assorted cookies.
+7. Additional service confirmation: Private Chef inclusive in the dinner package; alternative service pricing for clients providing their own food (€600 + VAT).
+8. Guest count: Finalized at 14 guests for the event.
+9. Inquiry about customizing meat options for guests: 50% entrecôte and 50% sirloin is acceptable.
+10. Additional sides inquiry: Adding three more sides for €15/pp (+VAT).
+11. Final menu selections confirmed:
+    - Starter: Antipasti platter, Mini crab cakes, Shrimp cocktail
+    - Main: BBQ Ribs, Beef Entrecôte, Beef/Chicken Burgers, Lamb chops, Grilled Sausages
+    - Sides: Garlic Parmesan fries, Grilled vegetables, Creamy Coleslaw, Toasted potatoes, Macaroni and cheese, Caesar salad, Corn on the cob, Quinoa salad
+    - Dessert: Mini cheesecakes, Mini brownies, Assorted fruit, Assorted cookies.
+12. Inquiry about raising an invoice and billing details confirmed for client.
+13. Pin location request for event setup.
+14. Equipment inquiry: Asking if a big wine cooler can be borrowed for catering.
+15. Timeline: Arrival planned around 18:00/18:30 to prepare for a 19:00 start. 
+16. Confirmation of location: San Pedro.

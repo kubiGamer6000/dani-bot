@@ -1,0 +1,34 @@
+1. Customer inquiry: Order for 10-13 people on Sunday (April 17).
+2. Event type: Baby shower.
+3. Menu options proposed:
+   - Oyster platter
+   - Selection of 4 tapas
+   - Smoked salmon belini
+   - Mini pancakes
+   - Mini vegetable sticks and dips
+   - Tomato mozzarella skewers
+   - Selection of macaroons
+4. Price for the menu for 13 people: €500 + VAT.
+5. Customer cancellation for the scheduled event due to guest constraints.
+6. Inquiry about rescheduling the order for Thursday or Friday.
+7. Confirmation from the catering service about the price fitting the customer’s budget.
+8. Guest count updated: Total of 16 (7 adults and 9 children).
+9. Inquiry: Number of oysters per person.
+10. Inquiry: Total number of tapas.
+11. Inquiry: Requirement for drinks, specifically lemonade.
+12. Inquiry: Need for utensils, glasses, and other serving items.
+13. Proposal: 2 oysters per person with additional food options.
+14. Updated quote if the customer wanted to add more food and drinks: €700 + VAT, including platters and collection in the evening.
+15. Confirmation on the availability of glasses for lemonade.
+16. Planned delivery time: Friday at 16:00.
+17. Customer request for champagne glasses.
+18. Total order count: 12 adults, 5 children with the availability of tapas and mini vegetables.
+19. Budget range estimated: €650-750 depending on the type of oysters.
+20. Inquiry: Additional drinks (lemonades) required, 2 more requested.
+21. Confirmation of bringing everything needed, including platters and decoration.
+22. Time of pickup arranged for between 11:30-12:00.
+23. Requirement for larger oysters specified.
+24. Customer request: Can I come in with a car?
+25. Confirmation of location provided by the customer.
+26. Last-minute adjustments noted regarding the number of guests and food requirements.
+27. Customer expressing satisfaction with the food service.

@@ -1,0 +1,23 @@
+1. Customer inquiry: Planning an open house and wants to know the cost of a buffet for the event.
+2. Meal requirements: Need light meals.
+3. Inquiry for visuals and package pricing: Asking if there are pictures and package prices available.
+4. Event details: Date and time for the event - 02.12 from 15.00 to 18.00, for approximately 50 persons.
+5. Pricing inquiry: Request for pricing with and without beverages.
+6. Package details provided:
+   - *Package 1 @ €30/person*
+     - Four selections of tapas
+     - Fruit platters
+     - Staff service, equipment hire, beautiful table display, setup and cleaning
+   - Add €5.00/person for:
+     - Two types of homemade lemonade
+     - Still and sparkling water, all glasses and service
+   - Add €5.00/person for:
+     - Tea, coffee, and cake
+     - All cups and service
+   - Add €25/person for:
+     - Unlimited 3 hours service of cava, wine, beer
+     - All glasses, ice, and service
+7. Clarification question: Inquiring if the drink package includes tapas.
+8. A follow-up regarding a menu sent via PDF: Customer unable to open the menu.
+9. Customer acknowledgment: Confirming they will discuss with colleagues.
+10. Customer follow-up inquiry: Checking if they've decided for Thursday regarding the event due to multiple bookings.

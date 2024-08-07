@@ -1,0 +1,10 @@
+1. Customer inquiry: Can I order for tomorrow some food?
+2. Food order: Pulled Pork, Pulled Chicken, Butter Fried Chicken, Korean Chicken Bao, Pulled Pork Bao, Prawns Tempura Bao.
+3. Order details: 2 platters to be picked up at 5 pm (17:00).
+4. Delivery options: Delivered €25 + VAT or pick up (customer chose pick up).
+5. Specific order: 
+   - 1 x mini burgers: Choose 2 flavours: pulled pork and pulled chicken 
+   - 1 x bao bun: Choose 2 flavours: Chicken & prawns tempura
+6. Invoice inquiry: Do you need anything specific on the invoice like company details?
+7. Payment options: Customer inquired if they could pay by cash and confirmed payment methods as cash or card.
+8. Total cost for the order: €110.

@@ -1,0 +1,7 @@
+1. Customer inquiry: Request for a menu to look at the catering options
+2. Catering options:
+   - Take-away menu designed for easy pick-up and delivery
+   - Variety of dishes suitable for different tastes and dietary preferences
+   - Bespoke catering services for private parties, functions, and staffed events
+3. Customization: Options for creating a customized menu tailored to preferences and event needs
+4. Customer inquiry: How much in advance is an order placed for delivery?

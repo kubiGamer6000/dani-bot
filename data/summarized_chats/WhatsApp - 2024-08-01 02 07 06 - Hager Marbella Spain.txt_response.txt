@@ -1,0 +1,19 @@
+1. Customer inquiry: Order for Wednesday 5th of July 
+2. Menu items ordered:
+   - Canapé platter: shrimp and tartare sauce, black salmon blinis, Brie and cranberry, duck hoisin sauce, goat cheese, Thai pulled chicken
+   - Funky burgers: beef black burger, crispy chicken burger 
+   - 2 Mini burger platter: fried chicken, aged beef burger (total 40 pieces)
+   - Salad: pesto pasta salad (8-10 people)
+   - Mini pita platter: hummus, falafel
+   - 2 jars of juice: lemonade with mint, peach iced tea
+3. Guest count: 10 adults
+4. Quotation requested: Customer asked for a quotation for the order including the chef.
+5. Pricing details provided: Total = €423.50 (including various items and delivery).
+6. Chef's cost: BBQ chef for 10 adults is €200 + VAT.
+7. Customer canceled: Funky burger and pesto salad.
+8. Customer inquiry: Inquiring about the time the chef will arrive and when delivery will take place.
+9. Payment inquiry: Customer asked if they could pay in cash upon delivery.
+10. Booking confirmation: Confirmation received for the order on Wednesday.
+11. BBQ preparation timing inquiry: Asking what time the BBQ should be ready and whether it is gas or wood.
+12. Lunch timing confirmation: Lunch to start at around 2 pm.
+13. Customer requested a pin location for the delivery on the day.

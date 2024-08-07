@@ -1,0 +1,8 @@
+1. Event inquiry: An event for 80 people at a villa for 3 hours.
+2. Menu inquiry: Canapés, soft drinks, wine & beer included.
+3. Service options inquiry: Option for waiters included and another for just a table with the canapés.
+4. Customer request: Please send menu options ASAP.
+5. Menu reference: Menus are available, party packages on page 12 include options with and without service.
+6. Specific package mention: Package no 3 includes BBQ and unlimited drinks for 3 hours as an offer.
+7. Pricing inquiry: Customer queries if package 1 has drinks included.
+8. Clarification: Package 1 includes food and buffet setup decoration only, without drinks.

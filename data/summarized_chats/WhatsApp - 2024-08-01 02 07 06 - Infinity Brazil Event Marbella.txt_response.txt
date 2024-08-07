@@ -1,0 +1,9 @@
+1. Customer inquiry: Need to organize a barbecue for 35 women with a Brazilian music band on March 30th.
+2. Venue question: Do you have a location, such as a villa?
+3. Budget request: Can you provide a budget for this event?
+4. Guest count: 35 people.
+5. Meeting proposal: Suggesting to meet to discuss preferences.
+6. Appointment time: Preferred time for the meeting is at 14:00. 
+7. Venue location provided: Ladyville, Loma Retamar 2, Benahavís. 
+8. Alternative meeting option: Suggesting to have coffee in Nueva Andalucía.
+9. Follow-up: The customer encountered a flight cancellation and couldn't attend the meeting.

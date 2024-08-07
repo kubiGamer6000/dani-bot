@@ -1,0 +1,20 @@
+1. Customer inquiry: Date for the service (June 23-30) when the service provider is unavailable.
+2. Dietary requirements: 
+   - Beef steak for Mr. Javed
+   - Vegetable plates for Mrs. Mara (vegetarian) 
+   - No pork allowed 
+   - Allergic to hazelnuts
+   - Confirms whether wife eats carbs or cheese or wants a super healthy option.
+3. Staff requirements: Three staff needed, simple meal acceptable (basic salads, proteins like chicken and beef, rice, cheeses).
+4. Booking details: Paid trial for service, €150 + VAT for the trial just for one service.
+5. Pricing structure: 
+   - One meal €200 
+   - Two meals €350 
+   - Three meals €450 for up to 7 people 
+   - Food cost to be kept below €500 
+6. Menu proposal: 
+   - Mr. Javed: New York strip steak, steamed vegetables 
+   - Mrs. Mara: Roasted cauliflower and quinoa bowl with romesco sauce, steamed vegetables 
+   - Staff: Bruschetta chicken with burrata, cherry tomatoes, balsamic; Arugula and pesto pasta salad.
+7. Arrival arrangements: Request for Chef's name and car registration number for security clearance.
+8. Service details: Confirmation of a 12:00 PM arrival time for a 2:30 PM service.

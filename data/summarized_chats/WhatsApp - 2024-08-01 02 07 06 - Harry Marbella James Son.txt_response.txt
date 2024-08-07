@@ -1,0 +1,10 @@
+1. Customer inquiry: Organizing catering for a villa in Elviria
+2. Guest count: 8 clients
+3. BBQ inquiry: Looking for BBQ food, asking about options and pricing for 8 people
+4. Pricing for services: €100/person + VAT, can reduce to €90 + VAT
+5. Menu details: Nice tapas, starters, variety of BBQ beef, chicken, fish, salads, and dessert
+6. Booking availability: Available for tomorrow at 8 PM
+7. Follow-up inquiry: Will still be available for tonight at 20:00
+8. Cake inquiry: Do you sell cakes? Request for a quote
+9. Cake service confirmation: Yes, made to order, needs details on what’s required and guest count
+10. Catering inquiry: Client wants to talk about some catering this weekend, shared contact information

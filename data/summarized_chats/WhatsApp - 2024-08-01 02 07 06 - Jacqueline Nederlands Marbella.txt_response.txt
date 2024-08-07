@@ -1,0 +1,39 @@
+1. Customer inquiry: Deluxe catering on June 20 for 14 persons (with table, dinner, drinks, and service).
+2. Meeting inquiry: Request to meet at their house to discuss options.
+3. Menu proposal requested: 8-course tasting menu initially discussed.
+4. Proposal details: 
+   - **Menu Proposal:**
+     1. Amuse-Bouche: Chef's selection of exquisite bite-sized delights.
+     2. Foie Gras Ravioli with velvety truffle foam.
+     3. Cigalas with Miso Beurre Blanc, grilled.
+     4. Lemon Caviar Pasta with lemon-infused emulsion and pearls.
+     5. Wagyu Kogoshima Steak, Joël Robuchon purée, and Bordelaise sauce.
+     6. Sorbet Intermezzo.
+     7. Duck Breast, sous-vide marinated, with roasted asparagus.
+     8. Dessert Symphony featuring various dessert styles.
+   - **Price Structure:** €500 per person + VAT for food; includes staff service, private chef, and management.
+   - **Equipment Hire:** Approximate cost: €5k for equipment including chairs, table covers, flowers, and chandeliers.
+   - Drinks package: €400 per person + VAT for unlimited drinks including champagne and wine pairings.
+5. Menu modification requested: Simpler menu with:
+   - Small bites
+   - Light starters to share
+   - BBQ meat as the main course
+   - Grand dessert
+6. Drink options modified: Replace champagne with Prosecco and wines for dinner.
+7. Budget inquiry: Total budget for the event between €10-12k.
+8. Event timeline: Canapés and drinks at 18:30, sit-down dinner starting at 20:30/21:00.
+9. DJ inquiry: Asking about costs to book the DJ: €150/hour + VAT.
+10. Equipment drop-off: Questions about dropping off equipment before the event.
+11. Payment structure: Payment required a week before the event, with invoice requested.
+12. Ice cubes provision: Inquiry about whether ice cubes will be brought for the event.
+13. Equipment drop-off arrangements for setting up before the event.
+14. Invoice request from client: Required for payment processing.
+
+----------------------------------------------------
+15. Customer confirms they are moving forward with the proposal for June 20.
+16. Music suggestions: Inquiry for suggestions regarding music options includes chillout DJ and potential live entertainment.
+17. Confirmation of drinks provision: Agreement to provide drinks, including Prosecco and wine selection.
+18. Confirmation of event setup time: Setting up at 10:00 AM before the event.
+19. Final details on decorations: Confirmation and negotiation for chandeliers and table setups.
+
+This conversation includes numerous inquiries and confirmations related to catering services, event setup, and menu details, making it relevant for the customer service chatbot training.

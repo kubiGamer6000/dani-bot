@@ -1,0 +1,25 @@
+1. Customer inquiry: Please give us an option for canapés, could it be 36 servings, and offer us two options for the main course, please.
+2. Event specifications: New Year's Eve dinner, for 8 people, at 20:30 in Belair.
+3. Pricing for services: €2500 + VAT for 8 people.
+4. Menu details:
+   **1. Starters:**
+   - Canapés with Foie Gras, Caramelized Goat Cheese with Walnuts, Shredded Chicken, and Prawn Tempura.
+   - Crostini with Smoked Salmon and Caviar: Smoked salmon on crispy crostinis, with crème fraîche and caviar.
+   - Charcuterie Board.
+   **2. Main Course:**
+   - Beef Roast with Herbs: Tender roast beef cooked to perfection, seasoned with aromatic herbs, with red wine reduction.
+   - Grilled Lobster Tails with Lemon Butter: Juicy grilled lobster tails, with butter and lemon sauce.
+   **3. Seafood Dish:**
+   - Grilled Chilean Sea Bass: Fresh Chilean sea bass, grilled, with citrus butter sauce and sautéed spinach.
+   **4. Side Dishes:**
+   - Truffle Mashed Potatoes: Creamy mashed potatoes with truffle oil and Parmesan cheese.
+   - Roasted Vegetables with Honey Glaze: Roasted vegetables with honey and thyme.
+   - Grilled Asparagus with Lemon Zest: Grilled asparagus with lemon zest and olive oil.
+   **5. Sauces:**
+   - Red Wine and Shallots Reduction
+   - Dutch Sauce
+   **6. Dessert:**
+   - White Chocolate and Raspberry Mousse: Light white chocolate mousse with raspberry, decorated with raspberries and chocolate shavings.
+   **7. Cheese Board:**
+   - International Selection of Artisan Cheeses with crackers, fig jam, and grapes.
+5. Additional note: We will prepare the table with appetizers for an elegant presentation; the rest of the dishes will be in the oven and refrigerator.

@@ -1,0 +1,25 @@
+1. Customer inquiry: Quote request for catering services during a stay in Marbella.
+2. Guest count: 21 people.
+3. Event details:
+   - June 14th: Brunch/breakfast served at 8:00 AM.
+   - June 15th: 
+     - Brunch/breakfast served at 9:00 AM.
+     - Pool party at 1:00 PM with grilled food and bartender until 9:00 PM.
+   - June 16th: Brunch/breakfast served at 10:00 AM.
+4. Pricing information:
+   - June 14th: Brunch/breakfast at €60pp + 10% VAT; total €1,386.
+   - June 15th: Brunch/breakfast at €60pp + 10% VAT; pool party at €100pp + 10% VAT; total €3,696.
+   - June 16th: Brunch/breakfast at €60pp + 10% VAT; total €1,386.
+   - Grand total for the events: €6,468.
+5. Menu suggestions for brunch/breakfast:
+   - Cold options: Fresh fruit platter, yogurt parfaits, smoked salmon.
+   - Hot options: Spanish tortilla, chorizo and potato hash, scrambled eggs.
+   - Bakery: Assorted pastries, freshly baked bread.
+   - Beverages: Freshly squeezed orange juice, coffee, and a selection of teas.
+6. Pool party menu suggestions:
+   - Appetizers: Mini sliders, shrimp cocktail, Caprese skewers.
+   - Main course: BBQ station (grilled chicken, beef tomahawk, sausages) and fresh salads.
+   - Sides: Grilled vegetables, corn on the cob, garlic bread.
+   - Dessert: Ice cream bar and fresh fruit platter.
+7. Note on personalization: The suggested menus can be personalized as per customer taste.
+8. Customer inquiry about budget adjustments for catering services.

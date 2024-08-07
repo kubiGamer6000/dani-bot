@@ -1,0 +1,11 @@
+1. Inquiry about gluten-free picnic boxes.
+2. Confirmation that most boxes can be made gluten-free by replacing bread with gluten-free options.
+3. Inquiry about where to pick up the picnic box.
+4. Pricing information:
+   - Valentine's Day box that includes a dessert box is €50.
+   - The second picnic box costs €25.
+5. Inquiry about the capacity of the boxes (for 2-4 persons).
+6. Booking requirement: Need to order a day in advance for next-day collection or can be delivered.
+7. Confirmation that orders are accepted on weekends.
+8. Inquiry about finger foods or mini sandwiches for 10 persons by the next day at 12:00.
+9. Notification that the business is fully booked for the next day and will be on vacation after the weekend.

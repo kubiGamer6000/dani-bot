@@ -1,0 +1,15 @@
+1. Customer inquiry: BBQ catering for a birthday celebration for 10 people.
+2. Date inquiry: Requested BBQ service for the 27th of November.
+3. Available packages:
+   - BBQ Chef Package: 
+     - Price: €100 /person + VAT
+     - Includes assorted grilled meats (tender beef steaks, juicy chicken breasts, succulent sausages), grilled vegetables, mixed green salad, and an assorted bread basket.
+   - Upgraded Menu with Staff Service: 
+     - Price: €150 /person + VAT
+     - Includes all items from the BBQ Chef Package plus appetizers (like bruschetta, stuffed mushrooms, or grilled shrimp), sides (seasoned roasted potatoes, creamy coleslaw, grilled asparagus), and dessert options (like chocolate cake or fruit platter).
+   - VIP Package with High-End Meats: 
+     - Price: €200 /person + VAT
+     - Includes all items from the Upgraded Menu with Staff Service, plus premium cuts of meat (like Tomahawk Wagyu beef steaks and succulent lamb chops), gourmet seafood options (like grilled lobster tails), a specialty salad, and luxurious dessert options (like tiramisu or a personalized birthday cake).
+4. Customization: Menus can be customized based on personal preferences and dietary requirements.
+5. Additional services: Can organize drinks packages, balloon decorations, entertainment (DJ, fire show), and professional mobile cocktail bar.
+6. Customer excitement about the offered packages and expressing intent to respond.

@@ -1,0 +1,26 @@
+1. Customer inquiry: Catering for an event on 01.06
+2. Guest count: Around 20 people 
+3. Menu inquiry: Menu for €40 for 10 persons and couple boxes
+4. Setup time: Requested setup time at 16:00 for an event starting at 18:00 
+5. Questions about ordering: 
+   - Is it possible to select the menu by email or WhatsApp?
+   - Total cost for 10 people with the menu priced at €40 - is the total cost €400 or are there additional fees?
+   - Can you prepare a mini bar for guests, with the cost of setup and glasses?
+6. Mini bar setup inquiry: Glasses and items mentioned (wine glasses, whisky glasses, champagne glasses, ice buckets).
+7. Menu adjustment: Better to take a menu for 10 and couple of additional boxes or a menu for 15 people?
+8. Table setup: Request for a table with food, table with alcohol, and consideration for a cigar spot.
+9. Equipment inquiry: Asking about the possibility of renting tables.
+10. Pricing for mini bar service: Mini bar, all glasses & bartender for 4 hours = €500 + VAT; if without bartender, asking for price.
+11. Price confirmation for tables: €40 per table.
+12. Order confirmation: Confirmation to take mini bar for €500 + VAT.
+13. Cheese platter inquiry: Included in order.
+14. Question about bar details: What is included in the price?
+15. Mini bar description: Set up a beautiful mobile bar with all glasses, garnishes, and staff for €500 + VAT; drinks not included.
+16. Cigar station request: Not proceeding with the cigar station.
+17. Final menu confirmation: Menu for 12 people, mobile bar, 3 cocktail tall tables, cheese platter, and required glasses for types of alcohol (whisky, gin, white wine, red wine, Prosecco, vodka, beers).
+18. Booking procedure: Payment required 3 days before the event by bank transfer.
+19. Invoice request: Asking for invoice and total cost.
+20. Access time for setup: Confirming access to the property starting at 15:30 - 16:00.
+21. Event details: Party starting at 18:00.
+22. Confirmation of payment: Payment confirmation provided.
+23. Follow-up question: Inquiry about time of arrival on site for the event.

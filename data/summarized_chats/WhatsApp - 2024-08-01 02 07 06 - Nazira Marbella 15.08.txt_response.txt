@@ -1,0 +1,4 @@
+1. Customer inquiry: Types of food available for arranging catering.
+2. Guest count: For 50-60 people.
+3. Food type inquiry: Asking if the food is the type to be eaten with cutlery.
+4. Service capability: Menu options include finger food.

@@ -1,0 +1,22 @@
+1. Customer inquiry: Private chef service for a bridal party of 12 for an evening from August 3rd - 5th.
+2. Availability inquiry: Private chef service available for Friday, August 4th.
+3. Guest count: Approximately 11-12 guests for the dinner service.
+4. Service details: Inquiry about server assistant included with the dinner service.
+5. Equipment inquiry: Questions about table setup and availability of plates and utensils.
+6. VAT inquiry: Customer asks for VAT percentage on top of the cost.
+7. Cuisine recommendation inquiry: Customer asks for recommendations on cuisine options or if they can suggest their own.
+8. Booking confirmation: Confirmation that a private chef dinner booking is made for 12 guests on August 4th.
+9. Menu inquiry: Request for what food would be included in the Spanish theme menu.
+10. Pricing inquiry: Customer asks about booking deposit and total cost.
+11. Menu details shared: 
+   - Starters: Prawn tempura, Tapas platter.
+   - Main course: Vegetarian paella, Chicken BBQ skewers, Spanish mix salad.
+   - Dessert: Selection of mini finger desserts, Fresh fruit platter.
+12. Allergy accommodation request: One person has a prawn allergy.
+13. Additional menu request: Customer inquires about adding lamb skewers and adjusting chicken skewers.
+14. Final confirmation: Customer asks for confirmation on menu feedback and next steps.
+15. Booking policies: Payment for the service €100 + VAT, with a total of €1320 including 10% VAT.
+16. Payment method: Customer prefers bank transfer for payment.
+17. Service timeline: Dinner ready by 7 PM and finishing service at 9 PM.
+18. Confirmation of video recording during the event and permission granted by the customer.
+19. Feedback: Customer compliments on the service and food provided during the event.

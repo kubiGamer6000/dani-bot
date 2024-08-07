@@ -1,0 +1,6 @@
+1. Customer inquiry: Order for some finger food for Saturday.
+2. Event details: Party is at 15:00 on Saturday, February 17th.
+3. Pickup recommendation: Suggested pickup time is 14:00.
+4. Payment inquiry: Customer asks how to pay.
+5. Payment options: Can pay directly at collection, with card or cash.
+6. Confirmation of address and payment time: Customer confirms to see at 14:00 on February 17th.

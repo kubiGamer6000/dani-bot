@@ -1,0 +1,10 @@
+1. Customer inquiry: Menu list request for a birthday party
+2. Event details:
+   - Date: Next Monday
+   - Number of guests: 20 people
+   - Type of event: Birthday
+   - Location: Nueva Andalusia
+3. Customer preferences: Something simple and presentable
+4. Service inquiry: Customer asking about available menu options
+5. Catering company information: Offers personalized menus
+6. Follow-up: Catering company suggesting a call in the morning to discuss options

@@ -1,0 +1,13 @@
+1. Customer inquiry: Asking if sweet boxes are available.
+2. Requested date: December 22.
+3. Inquiry about assorted boxes: Wants two assortments.
+4. Questions about presentation: Asking how it is packaged and the payment and delivery process.
+5. Delivery location: Lives in Mijas.
+6. Delivery fee: €25 for delivery in Mijas, free pickup in Marbella.
+7. Inquiry about location: Asking where they are located in Marbella.
+8. Payment methods: Asking how payment is made.
+9. Delivery time: For lunchtime.
+10. Payment preference: Preferring cash for payment.
+11. Order confirmation: Total confirmed as €175 for the order on December 22 at 12:00.
+12. Additional request: Asking for a variety of mini burgers (beef and fried chicken).
+13. Confirmation of cash payment: Will pay in cash.

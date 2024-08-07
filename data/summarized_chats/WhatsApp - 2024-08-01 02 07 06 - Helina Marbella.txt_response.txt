@@ -1,0 +1,6 @@
+1. Customer inquiry: Place an order for pick up tomorrow at 11am.
+2. Order placement: Customer asked if they should place the order online or through WhatsApp.
+3. Delivery inquiry: Customer inquired if delivery has an extra cost.
+4. Delivery cost: €25 + VAT for delivery.
+5. Pick up location: Puerto Banus port; customer confirmed they can pick up at 11:15. 
+6. Cancellation notice: Customer canceled the order.

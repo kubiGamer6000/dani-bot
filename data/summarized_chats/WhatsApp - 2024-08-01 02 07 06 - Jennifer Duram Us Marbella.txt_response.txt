@@ -1,0 +1,26 @@
+1. Customer inquiry: Ordering two takeaway boxes to be delivered on June 19.
+2. Tapas box contents:
+   - Smoked Salmon & Caviar
+   - Goat Cheese, Roasted Walnut & Fig
+   - Pulled Pork & Horseradish Sauce
+   - Avocado, Quail Egg & Chili Flakes
+   - Italian Meatball & Red Pesto Mousse
+3. Indulgence dessert box contents:
+   - Lemon Meringue Cheesecake
+   - Strawberry & White Chocolate
+   - Italian Tiramisu Cup
+   - Raspberry Swirl Brownie
+   - Salted Caramel Truffle
+4. Pricing for services:
+   - Tapas box €75 + VAT
+   - Dessert box €100 + VAT
+   - Delivery €25 + VAT
+   - VAT = 10%
+5. Total for order: €175 + VAT
+   - Total gross = €192.50
+6. Customer asking about delivery times and location for pickup, willing to collect if nearby.
+7. Payment details: Payment can be made at collection.
+8. Confirmation of order for pickup from Marbella requested.
+9. Customer stating pickup time: Between 5 p.m. and 6 p.m. on June 19.
+10. Feedback on order: Customer expressed appreciation for the tapas and brownie dessert received on June 19.
+11. Cancellation request for private chef service (for breakfast & dinner) on July 12 due to trip being shortened.

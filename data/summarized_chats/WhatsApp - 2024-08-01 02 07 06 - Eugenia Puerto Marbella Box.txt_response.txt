@@ -1,0 +1,23 @@
+1. Customer inquiry: Could I order a box of assorted sandwiches for tomorrow?
+2. Delivery location inquiry: For delivery at the Marbella marina or wherever is more convenient for you.
+3. Menu inquiry: The one with 5 different sandwich types.
+4. Delivery time: I don't mind if it's around 11:30 AM or later.
+5. Pricing inquiry: Do I pay now or tomorrow?
+6. Delivery inquiry: It's 10€ more for shipping, or would you prefer I come to Elviria?
+7. Delivery confirmation: Tomorrow is perfect.
+8. Inquiry about number of pieces: How many pieces come with it?
+9. Order details: If I order 5 assorted, it will total 40 small triangles, and the delivery will be between 11:30 AM and 12:00 PM.
+10. Additional order inquiry: Could I add another Gourmet sandwich box and another box of sweets?
+11. Total for additional order: 3 boxes - that’s perfect; 75 + 10 for shipping.
+12. Payment inquiry: Can I send you payment via Bizum?
+13. Payment details: My Bizum doesn't work; sorry.
+14. Delivery location confirmation: Real Club Maritimo Marbella.
+15. Delivery time inquiry: For 12:30 PM?
+16. Payment method inquiry: Is a card possible?
+17. Time accuracy notice: Now that traffic is so difficult, we can't guarantee an exact time, but we can do it between 11:30 AM and 12:30 PM, and if you can transfer to this account, that would be great.
+18. Account details for transfer: Daniela Rosu ES45 0081 0676 5900 0250 6755 thanks.
+19. Order adjustment: Can you divide the sandwiches and sweets into halves, or is that too complicated?
+20. Clarification: Sorry, it would be 4 boxes. 2 of sandwiches and 2 of sweets.
+21. Order adjustment confirmation: Yes, no problem, perfect I’ll do it.
+22. Delivery status: My driver is on the way.
+23. Delivery status follow-up: My driver said he has been waiting for a long time - how long will you be there?

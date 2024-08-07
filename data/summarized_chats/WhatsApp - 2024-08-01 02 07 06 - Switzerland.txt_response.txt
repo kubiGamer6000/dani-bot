@@ -1,0 +1,26 @@
+1. Customer inquiry: Dinner bowl food party starting from €100/person + VAT for 10-12 guests
+2. Menu details: Includes 8 bowls/person, private chef and waitress available for 4 hours
+3. Service requirements: Equipment & decoration, a chef for 3 hours
+4. Pricing inquiry: Total price for specific orders and delivery charges
+5. Order details for March 24:
+   - 1 Spanish dish
+   - 1 Mezze dish
+   - 1 Fish dish
+6. Order details for March 25:
+   - 2 mixed canapés boxes
+7. Order details for March 26:
+   - 3 taco platters (Mushrooms & Roasted Vegetables, Prawns & Lime Tempura, Free Range Grilled Chicken)
+8. Delivery information: 
+   - March 24: lunch delivery to Casa San Bernardo at 12:45 PM
+   - March 25: delivery to Boot station at 4:30 PM
+   - March 26: lunch delivery to Casa San Bernardo at 12:45 PM
+9. Delivery cost inquiries: Asking about delivery cost to Casa San Bernardo
+10. Total pricing breakdown:
+    - Friday: Food €150 + VAT, Delivery €50 + VAT, Total €200 + VAT
+    - Saturday: Boat delivery, 2 canapés boxes €100 + VAT, Delivery €30 + VAT, Total €130 + VAT
+    - Sunday: 3 tacos boxes €150 + VAT, Delivery €50 + VAT, Total €200 + VAT
+    - Gross Total: €530 + VAT (discounted to €500 if paid in cash)
+11. Request for a bill and payment confirmation.
+12. Confirmation of pick-up time for ordered food.
+13. Confirmation of delivery adjustments and specifications for vegetarian options.
+14. Cancellation notice for scheduled delivery.

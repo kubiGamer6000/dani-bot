@@ -1,0 +1,27 @@
+1. Customer inquiry: Invoice request for services including fire show and saxophonist.
+2. Additional services inquiry: Violin possibility as an alternative to the fire show or saxophonist.
+3. Booking/Availability: Confirmation of booking saxophone and DJ; awaiting confirmation from fire performer.
+4. Event services: Booking confirmation for saxophone, DJ, fire show, dancers, and drum show.
+5. Pricing information:
+   - Total food cost: €1500
+   - Balloons cost: €1030
+   - Equipment hire cost: €760
+   - Flowers cost: €500
+   - Photographer cost: €850
+   - DJ & saxophone cost: €1100
+   - Red carpets cost: €360
+   - Subtotal: €6000 + VAT
+   - Staff service charge: €900
+   - Total gross: €7590.00
+6. Schedule: 
+   - 19:30 - Guest arrival
+   - 19:30 - DJ playing until 01:00
+   - 19:30 - Photos with guests
+   - 20:00 - Food service
+   - 20:30 - Saxophonist performance
+   - 21:10 - Fire show
+   - 22:00 - Drummers performance
+   - Additional saxophonist performances planned.
+7. Sound equipment inquiry: Questions regarding sound system and microphone availability for the DJ.
+8. Equipment logistics: Inquiry about bringing equipment the next day.
+9. Customer inquiry: Timing and arrival plans for DJ and other performers.

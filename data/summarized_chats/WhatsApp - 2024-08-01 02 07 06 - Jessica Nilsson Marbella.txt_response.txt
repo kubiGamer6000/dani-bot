@@ -1,0 +1,24 @@
+1. Customer inquiry: Dinner for four people, with specific dietary requirements - one person allergic to milk protein (completely dairy-free), and three persons allergic to walnuts.
+2. Menu suggestion requested for four guests.
+3. Address provided for delivery: Urb. Le Mirage Fase III, Portal 8, Atico A, Loma de Retamar, 25, 29680 Estepona.
+4. Dinner readiness time requested: 20:30.
+5. Confirmed price: €120/person + VAT, total price €528 for four guests.
+6. Menu details provided:
+   - Tapas: Gambas pil pil, Serrano, membrillo, higo, Homemade guacamole & tortilla, Fresh homemade gazpacho.
+   - Main: Beef entrecôte, Spanish chicken skewers, selection of chorizos.
+   - Side: Roast new potato, mixed tropical summer salad.
+   - Dessert: Fruit platter, lactose and nuts free chef's surprise cake.
+7. Payment inquiry regarding card payment option.
+8. Confirmation that chef will bring a card machine.
+9. Delivery planned for two separate locations.
+10. Requests for brunch food options discussed including tasting boxes and a need for food for a wedding event.
+11. Total amount for catering services was set, with discussions around deposits and payment methods.
+12. Menu options explored for brunch and afternoon tea for a future order.
+13. Request for additional services for a wedding: extra tables, chairs, silverware, and glasses, including noted dietary restrictions for guests.
+14. Drink list request provided: Peach Bellini, Whiskey, Gin & Tonic, White wine, Rosé wine, Red wine, Beer, Mojito, Apple Martini, Strawberry Daquiri, with suggestions for soft drinks to accompany.
+15. Specific requests for food options on different days surrounding the wedding including themed and buffet styles.
+16. Inquiry about mini bottles of Cava for guest welcomes.
+17. Ordering procedures and availability updates discussed, with repeat inquiries about items needed for events and specifics on dietary restrictions.
+18. Final confirmations on service details, payment arrangements, and additional logistics for the wedding day including allergy accommodations and drink preferences for the event.
+
+This conversation notably captures a wide array of specific catering requests, including dietary restrictions, menu options, logistics concerning delivery, pricing, service details, and customer expectations, all valuable for preparing a customer service chatbot.

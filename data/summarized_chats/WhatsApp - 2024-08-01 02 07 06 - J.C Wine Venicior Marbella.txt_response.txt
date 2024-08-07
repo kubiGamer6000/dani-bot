@@ -1,0 +1,30 @@
+1. Customer inquiry: Asking if Dani's Catering provides service for events.
+2. Pricing inquiry: "What price do you have?"
+3. Pricing detail: Charges usually range from 240 to 300 euros, including wine and additional table decoration.
+4. Guest count: Event for 150 guests.
+5. Dietary request: Wants to add a Spanish touch to the event.
+6. Equipment inquiry: "Do you have catavinos?" (wine glasses)
+7. Equipment availability: "We do not have catavinos."
+8. Service and pricing inquiry: For a company event, service is 290 euros, which includes canapés, table decoration, and 16 liters of wine.
+9. Event location: "The event would be at Jade Tower, Calle Madrid 79 Fuengirola."
+10. Information request: "How long do the appetizers last?"
+11. Parking inquiry: "Can I park at the hotel?"
+12. Event details: Confirms event starts at 19:00.
+13. Day of arrival: "I will be there around 17:00."
+14. Inquiry about event on a specific date: "Do you have any events this week for venenciador?"
+15. Booking inquiry: "What is firm food for a company?"
+16. Other service request: Customer asks about availability for catering at a birthday party for 30 people with plenty of wine.
+17. Customer confirmation: "I’ll confirm with you as soon as I check."
+
+---
+
+1. Customer inquiry: "Do you have any event for this week?"
+2. Customer response: "No events this week."
+3. Customer inquiry: "How much do you charge for the service?"
+4. Pricing statement: "The charge would be 280 euros until 6:30 pm."
+5. Guest count: 30 guests for a birthday party.
+6. Customer inquiry about Sunday availability for an event.
+7. Customer requests for setup details: "Need a table and the glasses, okay?"
+8. Pricing confirmation: "260 euros for the service, including two free bottles of sweet wine for appetizers."
+9. Customer inquiry about the duration of the event.
+10. Customer acknowledgment: "Perfect, thank you Dani's!"

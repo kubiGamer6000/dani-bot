@@ -1,0 +1,28 @@
+1. Customer inquiry: In need of an Arabic Buffet tomorrow for 8 guests in the Villa.
+2. Event details:
+   - Date: tomorrow
+   - Start time: 13:00
+   - Guests: 8 pax
+3. Pricing details:
+   - Price: €150 per person + VAT
+   - Total: €1200 + VAT
+4. Menu offer:
+   - Starters:
+     1. Hummus: Chickpea dip with tahini, garlic, lemon juice, and olive oil, served with warm pita bread and vegetable sticks.
+     2. Tabbouleh: Fresh salad with parsley, mint, bulgur, tomatoes, green onions, and lemon juice.
+     3. Baba Ghanoush: Smoky eggplant dip with tahini, garlic, lemon juice, and olive oil, served with pita bread and fresh leaves.
+     4. Falafel: Crispy chickpea and herb patties served with tahini sauce and pickled vegetables.
+   - Main Courses:
+     1. Shish Tawook: Marinated grilled chicken skewers served with garlic sauce and rice pilaf.
+     2. Lamb Kofta: Grilled spiced lamb meatballs served with grilled vegetables and flatbread.
+     3. Sfeeha: Lebanese meat pies filled with spiced ground lamb or beef served with mint yogurt sauce.
+   - Desserts:
+     1. Baklava: Layers of filo pastry filled with chopped nuts and honey syrup.
+     2. Mahalabia: Creamy milk pudding flavored with rose water and topped with pistachios.
+     3. Fruit Platter: A selection of fresh seasonal fruits such as grapes, watermelon, and oranges.
+   - Beverage Options:
+     - Fresh mint lemonade
+     - Arabic coffee
+     - Water
+5. Follow-up: Customer stated they will think about the offer and will text if they need it.
+6. Time-sensitive inquiry: Asked for an answer in 20 minutes for planning purposes.

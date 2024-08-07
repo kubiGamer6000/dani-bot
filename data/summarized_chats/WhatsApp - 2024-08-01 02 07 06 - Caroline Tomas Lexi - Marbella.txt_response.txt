@@ -1,0 +1,8 @@
+1. Customer birthday inquiry: Request for boxes for a birthday on Saturday.
+2. Menu inquiry: Mention of having a menu for review.
+3. Request for menu language: Asking for the menu in Spanish.
+4. Menu items mentioned:
+   - Croissants
+   - Sandwiches
+   - Funky Colours Burgers
+   - Mini-Burger Platter

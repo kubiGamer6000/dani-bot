@@ -1,0 +1,10 @@
+1. Customer inquiry: Quotes for a poker event on Saturday 16th September for 50 people.
+2. Service availability inquiry: Asking if Dani's Catering is available on that date.
+3. Pricing inquiry: Request for the approximate total price for the service.
+4. Catering service availability: Confirmed availability for the event.
+5. Pricing details:
+   - Finger food buffet without service: €40/person + VAT.
+   - Finger food buffet with staff service for 4 hours: €60/person + VAT.
+6. Customization offer: Will tailor the buffet options as per the customer's request.
+7. Alternative options: Mention of more economical takeaway platters available, with a reference to the menu provided.
+8. Menu document shared: "Danis Catering v5 EN.pdf."

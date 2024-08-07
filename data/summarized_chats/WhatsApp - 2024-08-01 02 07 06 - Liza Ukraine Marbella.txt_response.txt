@@ -1,0 +1,30 @@
+1. Customer inquiry: Order for July 2nd.
+2. Menu order:
+   - Mini burger platter:
+     - Beef sliders
+     - Chicken sliders
+   - Bellini canape platter:
+     - Mini Shrimp & Tartar Sauce (2 times)
+     - Mini Fish & Chips
+     - Brie & Fig Confit
+     - Salmon Bellini & Caviar (2 times)
+   - Charcuterie platter
+3. Guest count: For 4-6 people.
+4. Delivery inquiry: How to pay and pick up the order.
+5. Delivery cost: €25 + VAT.
+6. Payment options: Cash or card at pickup.
+7. Delivery time: 10:30 AM.
+8. Total order confirmation for July 1st:
+   - One Mini burger platter (Only beef sliders).
+   - Two Bellini canape platters.
+   - Two charcuterie platters.
+9. Total pricing:
+   - €250 + VAT
+   - €25 + VAT delivery
+   - Grand total: €302.50 including 10% VAT.
+10. Payment inquiries: Options to pay cash or bank transfer.
+11. Confirmed payment method: Bank transfer or cash.
+12. Invoice details: Name on the invoice will be Yelyzaveta Bondar.
+13. Customer requested payment receipt.
+14. Customer’s inquiry about a €100 transfer after paying €400 cash for an order.
+15. Clarification: She should have given only €300.

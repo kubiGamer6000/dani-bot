@@ -1,0 +1,18 @@
+1. Customer inquiry: 3 salmon poke, 3 tuna poke, mini hamburger platter, taco platter
+2. Delivery request: Wants delivery between 13h and 13h30 for a charter from 14h to 18h
+3. Pricing inquiry: "Can you please tell me how much it is for the client and how much commission you give?"
+4. Menu availability: "Do you have a sushi platter?" 
+5. Menu confirmation: "Yes sushi platters we do" 
+6. Order details: 1 sushi platter, 1 burger platter, 1 taco platter, Total €175 + VAT; Total gross €192.50; Commission €20
+7. Cash payment inquiry: "No VAT if in cash?"
+8. Client confirmation: "Confirmed! It’s all okay for tomorrow"
+9. Meeting arrangement: "We can meet here at my office just outside the port at 13h30"
+10. Catamaran availability inquiry: "How much is the price of catamaran?"
+11. Guest capacity: "How many passengers are there?"
+12. Alternative yacht option: "We can do a bigger one from Flyblue. I will send you the catalogue now… It costs 4500€ + VAT for 4h."
+13. Payment and cancellation policies shared in PDF format.
+14. Additional services inquiry: "Could I also have 2 Stand up paddle Boards, please?" 
+15. Detailed catering inquiry for a boat: "Can you please send me your menu as I have a client looking for catering on a boat."
+16. Pricing for catering services detailed: "Order Details: 2 x Seasonal Vegetables & Dips: €100 + VAT; 2 x Sushi Platter: €150 + VAT; and others totaling €650 before VAT." 
+17. Delivery schedule confirmation: "Yes anytime from 10h30 to 10h45 is fine"
+18. Equipment inquiry: "Could I also have 2 Stand up paddle Boards, please?".

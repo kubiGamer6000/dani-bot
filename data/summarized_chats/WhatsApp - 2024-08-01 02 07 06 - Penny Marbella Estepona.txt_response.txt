@@ -1,0 +1,6 @@
+1. Customer inquiry: Confirmation for catering on Monday, August 14th.
+2. Payment inquiry: Is cash okay for payment?
+3. Time inquiry: What time does the catering team need to come to the villa?
+4. Equipment return inquiry: What time do you need the glasses back on the day?
+5. Guest count: Final number of guests is 20.
+6. Cost inquiry: 20 * 90 = 1800 (indicating a price of €90 per guest).

@@ -1,0 +1,37 @@
+1. Customer inquiry: Request for a call regarding a catering offer. 
+2. Guest count: 40 people for the event on September 24th starting at 15:00.
+3. Booking details: Temporary booking until more information about the venue is received; plans for a site visit.
+4. Deposit inquiry: Does Dani's Catering require a deposit?
+5. Package options provided:
+   - Package 1: Food only - €35/person + VAT
+   - Package 2: Food and service - €45/person + VAT
+   - Package 3: Food, drinks, and service - €60/person + VAT
+6. Food items included in menu:
+   - Chicken tacos
+   - Mini beef burgers
+   - Mini mushroom burgers
+   - Prawn tempura
+   - Salmon and cream cheese
+   - Serrano ham and fig tapa
+   - Pita bread with roasted pepper and cheese
+   - Vegetable sticks and crudities with dips
+   - Fruit skewers
+   - Mini brownie bites
+7. Description of services:
+   - Setup of food for guests to enjoy.
+   - Collection of equipment after the event.
+   - Beautifully decorated display boards and flowers included.
+8. Service details for food and service package:
+   - Serving drinks and food throughout the event, cleaning, and clearing.
+9. Availability of drinks: Still and sparkling water, fresh orange juice, tea, and coffee station included. Additional charge for wine, beer, and cava @ €10/person + VAT.
+10. Dietary requirements: 2 vegetarians confirmed for the event.
+11. Deposit and invoice: Inquiries about final confirmation and deposit for the event.
+12. Equipment inquiry: The need for glasses, ice buckets, and high cocktail tables; yes confirmed for all.
+13. Confirmation of final guest count: Waiting for final numbers to be confirmed within 2 days of the event.
+14. Additional food inquiry: Asking for a refill or extra food around 19:30 during the event.
+15. Time change request: Requesting to bring food slightly later around 20:30.
+16. Venue availability: Confirmation that the preferred venue is available for the event date.
+17. Inquiry about venue capacity: Asking if space is enough for 50-60 people, confirmed it can fit 200 guests.
+18. Event theme: Casino royal theme wanted for the event.
+19. Venue booking confirmation: Finca/villa is booked for the customer.
+20. New communication number provided: Customer shares a new telephone number for future contact.

@@ -1,0 +1,28 @@
+1. Customer inquiry: Request for a quote.
+2. Event details:
+   - Date: October (Wednesday and Thursday)
+   - Number of guests: 700/800
+   - Event type: Not yet confirmed
+   - Venue: Plaza de toros de Malaga
+3. Pricing options:
+   - Price @ €150 per person + VAT without equipment
+   - Price @ €180 per person + VAT with equipment
+4. Menu:
+   - Welcome Drink: Cava
+   - Selection of Canapés:
+     1. Smoked Salmon Blinis with Dill Cream Cheese
+     2. Caprese Skewers with Balsamic Glaze
+     3. Mini Beef Burgers with Caramelized Onions
+     4. Truffle-Infused Mushroom Crostinis
+     5. Thai Style Shrimp Cocktail
+     6. Crostinis with Goat Cheese and Fig
+     7. Asparagus Wrapped in Prosciutto
+     8. Mini Crab Cakes with Lemon Aioli
+   - Starter: Burrata Salad with Confit Tomato and Truffle Drizzle, served with Ciabatta
+   - Main Course: Beef Tenderloin with Celery Puree and Seasonal Roasted Vegetables
+   - Dessert: Chocolate Cake with Raspberry Coulis
+   - Drinks during dinner:
+     - Soft drinks
+     - Sparkling and still mineral water
+     - Selection of wines
+5. Additional Notes: Staffing service will be included throughout dinner.

@@ -1,0 +1,4 @@
+1. Customer inquiry: Ordering a picnic box today
+2. Service availability: Catering company is fully booked with a wedding
+3. Customer inquiry: Possibility of delivery boxes today
+4. Service availability: Catering company is fully booked

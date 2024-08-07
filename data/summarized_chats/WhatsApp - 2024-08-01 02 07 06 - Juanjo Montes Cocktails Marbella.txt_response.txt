@@ -1,0 +1,22 @@
+1. Customer inquiry: Availability for an event on the 30th.
+2. Event details: Evening event, 50 guests.
+3. Additional services inquiry: Cocktail bar service with the following drinks:
+   - Pornstar Martini
+   - Whiskey Sour
+   - Gin and Tonic
+4. Service duration: 4 hours of service.
+5. Price inquiry: Customer requests a price for the cocktail bar service.
+6. Another event inquiry: Activity involving a barman coming to the office in Fuengirola to prepare cocktails for 45 guests.
+7. Service duration for the second event: Inquiring about 4 hours of service for the second event as well.
+8. Pricing provided: €950 plus VAT for the cocktail bar service for the first event; €880 plus VAT for the second event.
+9. Booking confirmation: Customer confirms booking for both events.
+10. Payment method confirmed: Cash payment on the day.
+11. Service details: Customer will set up stock and glassware at the venue.
+12. Availability request: Customer inquires if Dani's Catering is free at 18:00 for a small event with 1 cocktail person for 20 guests.
+13. Follow-up availability: Inquires about another cocktail event and requests for time and type of cocktails.
+14. Price discussed: €700 plus VAT for a 3-hour cocktail service for the additional event.
+15. Equipment inquiry: Customer asks if Dani's Catering provides bar and glassware.
+16. Final pricing confirmation: Pricing of €800 for a 3-hour service and stock of premium alcohol, glassware, and ingredients for potential event on the same day.
+17. Request for bartender: Customer requests a bartender for an event from 18:00 to 24:00, asking for prices with and without alcohol.
+18. Event details inquiry: 12 guests, confirming glassware and number of cocktails (4 cocktails), and inquiring about portable bar option.
+19. Quotation process: Explains that Customer can attach a quote once the event details are confirmed.

@@ -1,0 +1,16 @@
+1. Customer inquiry: Catering for the opening of their office this Friday in Magna Marbella.
+2. Request for information: What is needed to prepare a quote and finalize the order?
+3. Menu items quoted:
+   - 1 x Couscous Salad: €50 + VAT
+   - 2 x Seasonal Vegetable Platters and Dips: €100 + VAT
+   - 1 x Bagel Box: €50 + VAT
+   - 1 x Sandwich Platter: €50 + VAT
+   - 1 x Gourmet Burgers: €75 + VAT
+   - 1 x Mini Pita Platter: €75 + VAT
+4. Total pricing:
+   - Total Net: €400 + VAT
+   - VAT (10%): €40
+   - Total Gross: €440
+5. Delivery inquiry: Would you like us to deliver this for an additional €25 + VAT?
+6. Request for order timing: What time would you like the order to be ready?
+7. Invoice inquiry: If an invoice is required, please provide necessary details.

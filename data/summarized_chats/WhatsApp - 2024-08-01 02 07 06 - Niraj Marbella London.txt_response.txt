@@ -1,0 +1,16 @@
+1. Order details:
+   - Pita platter: homemade falafel and Greek salad with feta cheese
+   - Sandwich platter: mozzarella cheese, tomato and pesto, ham and cheese (no salad), smoked salmon and cream cheese, Philadelphia and cucumber
+2. Inquiry: Is it possible for the sandwich platter to get 72 pieces rather than 48?
+3. Delivery date and time: July 28th at 9:30 AM
+4. Delivery charge: €25 + VAT
+5. Final order breakdown:
+   - 1 box Pita platter @ €50 + VAT
+     - 18 homemade falafel
+     - 6 Greek salad with feta cheese
+   - 1.5 boxes Sandwich platter @ €75 + VAT
+     - Flavors: mozzarella, tomato and pesto; ham and cheese (no salad); smoked salmon & cream cheese; Philadelphia & cucumber
+   - Delivery charge: €25 + VAT
+   - Grand total: €165 (including VAT)
+6. Payment method inquiry: Customer asked if they could pay cash on the day.
+7. Address for delivery: Finca la Judia, Casa las Lilas, located on Avenida Principe de Salman across from the Dama de Noche complex.

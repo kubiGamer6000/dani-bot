@@ -1,0 +1,10 @@
+1. Customer inquiry: I would like to order some items for 10 people, can you please send me the details? Thank you.
+2. Date inquiry: Initially mentioned date is the 13th, later confirmed as the 11th.
+3. Location inquiry: Puerto Banus.
+4. Updated guest count: Final number is for 15 people.
+5. Service type inquiry: Customer requests takeaway food.
+6. Menu inquiry: Asks for different options for takeaway.
+7. Menu confirmation: Customer received the menu document but initially reports it as unavailable, then confirms it's accessible.
+8. Inquiry about presentation: Do the trays come pre-prepared and decorated?
+9. Availability inquiry: Customer checks for availability for Saturday, the 13th.
+10. Follow-up availability inquiry: Customer checks availability for Monday, 15/08.

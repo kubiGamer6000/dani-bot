@@ -1,0 +1,7 @@
+1. Customer inquiry: Hindu wedding catering.
+2. Pricing for services: €2500/day + VAT, including 10% commission.
+3. Location inquiry: "Is it near the beach?"
+4. Accommodation inquiry: "Does it have a room?"
+5. Request for location: "If you can send the location that would be better please."
+6. Provided location: Ladyville, Loma Retamar 2, Benahavís.
+7. Event date inquiry: "What day are you interested in?"

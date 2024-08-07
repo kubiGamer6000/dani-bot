@@ -1,0 +1,21 @@
+1. Customer inquiry: Chicken kebab station and beef burgers for an event
+
+2. Menu details:
+   - Chicken kebab
+   - Beef burgers
+   - Chicken burgers
+   - Fries
+
+3. Event details:
+   - Date: June 21st (technically early morning of June 22nd)
+   - Time: Food to be ready to serve at 2:00/2:40 AM
+   - Setup time: Catering team to arrive at 1:00/1:30 AM (1 hour setup time)
+   - Location: Near the polígono De San Pedro and el salto del agua
+
+4. Service style: Food truck-style setup with a stand for assembling food
+
+5. Guest count: Approximately 50 people
+
+6. Payment preference: Cash
+
+7. Cancellation: Customer canceled the booking due to receiving complimentary late-night catering from another provider

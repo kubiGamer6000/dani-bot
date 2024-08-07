@@ -1,0 +1,28 @@
+1. Customer inquiry: Menu request for a small meeting at home, lasting approximately 5-6 hours with tapas.
+2. Event details: Date for event is April 21, from 3 PM to 9 PM.
+3. Guest count: Approximately 30 people.
+4. Inquiry about service: Asking if service for the event will be provided.
+5. Inquiry about package: Considering two party packages—number 1 includes only food with buffet setup, while number 2 includes 4 hours of staff service.
+6. Extra hours cost: €10 per person plus VAT for additional service hours.
+7. Payment inquiry: Asking if payment can be made in cash to save on VAT.
+8. Deposit information: €1200 with a 50% non-refundable deposit requirement confirmed.
+9. Inquiry about desserts: Customer asking if desserts are available and requesting the dessert menu.
+10. Event details: Confirmed the number of cocktail tables needed (4 white tables) and desire for gluten-free options.
+11. Menu items: Mini burgers, chicken teriyaki, Italian meatballs, pork bao, shrimp tacos, salmon & caviar brioche, guacamole & tortilla, and a request for gluten-free options.
+12. Confirmed number of takeaway boxes required: Two boxes, each with 36 units and 6 flavors.
+13. Inquiry about timing: Asking what time guests will arrive; indicated they have changed the location to avoid sun exposure.
+14. Inquiry about cheese platter setup during the event; asking if there will be time to set it up before the event starts.
+
+----------------------------------------------------
+
+1. Inquiry about desserts: Customer inquiring if desserts are available.
+2. Request for dessert menu: Customer asking for a list of desserts.
+3. Confirmation of dessert order: Customer expressing desire for a dessert box.
+
+----------------------------------------------------
+
+delete
+
+----------------------------------------------------
+
+delete

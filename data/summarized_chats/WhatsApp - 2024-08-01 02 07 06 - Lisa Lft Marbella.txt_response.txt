@@ -1,0 +1,26 @@
+1. Customer inquiry: Requested options for a takeaway box for Friday.
+2. Order details for Friday:
+   - 1 Charcuterie Box
+   - 1 Sandwich Box with:
+     - Ham & cheese
+     - Bacon, lettuce & tomatoes
+     - Egg mayo
+     - Turkey & cucumber
+3. Delivery details: 
+   - Address: Urbanizacion La Cartuja del Golf Estepona, 29688
+   - Requested delivery time: Around 5 pm on Friday.
+4. Order for Tuesday, June 11th:
+   - 3 Sandwich Boxes:
+     - Box 1: Salmon, tuna, prawn, chicken
+     - Box 2: Veg & Vegan (24 x Roast pepper, 12 x Egg mayo, 12 x Mozzarella)
+     - Box 3: (24 x Ham & cheese, 12 x BLT, 12 x Turkey)
+   - 1 Fruit Box
+   - 1 Charcuterie Box
+5. Delivery address for Tuesday: Villa Las Brisas, Calle Manzano 372B, El Paraiso Alto, Benahavis 29679.
+6. Requested delivery time for Tuesday: 2:30 pm 
+7. Payment inquiry: Can payment be made in cash upon delivery?
+8. Pricing details:
+   - Total cost: €275 
+   - Breakdown: 5 boxes x €50 = €250, Delivery = €25
+9. Additional request for gluten-free bread for some sandwiches for the order on Tuesday.
+10. Request to mark gluten-free sandwiches for a guest who is gluten-free.

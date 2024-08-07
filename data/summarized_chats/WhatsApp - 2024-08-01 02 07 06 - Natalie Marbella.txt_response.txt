@@ -1,0 +1,12 @@
+1. Customer inquiry: Ordering a festive platter for December 24th.
+2. Menu selection:
+   - Brie & Cranberry
+   - Egg Mayo
+   - Shrimp & Tartar 
+   - Duck & Hoisin 
+   - Stuffed Turkey
+   - Pulled Pork & Horseradish
+3. Delivery inquiry: Preferred delivery for the platter with a mention of extra charges depending on the location.
+4. Delivery charge: €25 for delivery mentioned.
+5. Pickup option: Available from Marbella International University Centre.
+6. Payment method: Cash on arrival, total amount €75.

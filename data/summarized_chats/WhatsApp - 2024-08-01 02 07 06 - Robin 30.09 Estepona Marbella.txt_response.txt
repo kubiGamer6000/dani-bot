@@ -1,0 +1,18 @@
+1. Customer inquiry: Request for a budget for an event on Thursday, September 30th in Estepona.
+2. Guest count: 50 guests.
+3. Food inquiries:
+   - Simple buffet with Spanish wine
+   - Platters of ham/iberico
+   - Platters of cheeses
+   - Platters of tortilla
+   - Platters of something recommended by the catering service
+4. Drinks inquiry: Wine, beer, and soft drinks.
+5. Staffing inquiry: 1 experienced waiter for half a day (5 PM - 9 PM).
+6. Response details:
+   - Unlimited drinks package: €10/hour (minimum 4 hours) for Spanish wine, beer, and diluted drinks.
+   - Buffet station: €15/person.
+   - Total food and drink cost for 50 guests from 5 PM to 9 PM = €2750 + VAT.
+   - Included: rental of all glasses, ice, garnishes, consumables, buffet table and bar table, tablecloths, 2 employees, setup, cleanup, etc.
+7. Price inquiry: Customer confirmed that it would be €55/person.
+8. Customer budget mention: They have a budget of around €1000.
+9. Offering alternative: Suggestion that if they buy their own drinks, they can provide food and service for 50 guests.

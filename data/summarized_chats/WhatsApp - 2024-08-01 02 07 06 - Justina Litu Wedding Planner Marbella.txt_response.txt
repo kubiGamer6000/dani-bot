@@ -1,0 +1,21 @@
+1. Customer inquiry: Delivery for takeaway boxes in Casares
+2. Price inquiry: €30 + VAT for delivery
+3. Request for an English menu for the client
+4. Delivery confirmation:
+   - Date: April 26, 2024
+   - Delivery Time: 09:30
+   - Address: 94 Majestic, Casares, 29690 Malaga, AL, Spain
+5. Menu options and pricing:
+   - Canapés platter @ €50 + VAT
+   - Mini burgers platter @ €50 + VAT
+   - Tapas platter @ €75 + VAT
+   - Sushi platter @ €75 + VAT
+   - Delivery @ €30 + VAT
+   - Total net = €280 + VAT
+   - VAT 10% = €28
+   - Grand total = €308
+6. Customer name: Aušra Šikšnyte
+7. Payment inquiry: Asking if a deposit is required or if payment can be made in cash upon delivery
+8. Inquiry about catering for weddings with 30 people, looking to have paella and snacks
+9. Confirmation that Dani's Catering can cater for weddings of all sizes, including those with 30 guests, and can provide necessary equipment.
+10. Preliminary price inquiry for the menu: €120 per person + VAT (equipment and drinks not included).

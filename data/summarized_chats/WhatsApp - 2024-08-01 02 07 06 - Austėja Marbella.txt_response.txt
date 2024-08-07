@@ -1,0 +1,12 @@
+1. Customer inquiry: Booking food for an event on August 5th for 21 persons in Alhaurín el Grande, Málaga.
+2. Inquiry about food delivery and minimally decorated table setup.
+3. Menu inquiry: Attached menus provided, specifically mentioning party packages on page 12.
+4. Order inquiry: Willing to take away food on August 5th, requesting the following items:
+   - 1 Asiatic platter
+   - 1 Canapés platter
+   - 2 Mini burgers
+   - 1 Sandwich
+5. Confirmation of takeaway order: Pick up at 4:00 PM on August 5th.
+6. Delivery charge inquiry: €50 + VAT for delivery to specified location.
+7. Confirmation of pick-up option instead of delivery.
+8. Mention of a misunderstanding regarding the order: Requested 3 boxes but received 5 boxes instead.

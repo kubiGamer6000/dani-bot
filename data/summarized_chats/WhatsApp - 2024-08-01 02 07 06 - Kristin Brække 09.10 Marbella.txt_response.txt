@@ -1,0 +1,18 @@
+1. Customer inquiry: Tapas for 7 people for lunch on the specified date and time.
+2. Menu confirmation: A selection of 8 authentic Spanish tapas at €40/person.
+3. Total price: €280 for the tapas order.
+4. Delivery time: Arriving at the location between 12:30 and 13:00.
+5. Customer provided address details for delivery.
+6. Inquiry for delivery: Customer inquired about the exact location for delivery on a different date.
+7. Menu request: Customer ordered tapas and a salad for 8 people on a specified date and time.
+8. Offer of menu: Dani's Catering shared a menu with the customer for selection.
+9. Delivery concern: Dani's Catering mentioned struggling with delivery due to a high volume of events on the specified day, offering an alternative of pickup from central Marbella.
+10. Confirmation for delivery on a specified date and time.
+11. Payment inquiry: Customer asked about payment options for the food ordered.
+12. Payment details provided by Dani's Catering for the order.
+13. Customer feedback: Customer mentioned that the recent order was good, but preferred the previous one.
+14. Request for payment amount: Dani's Catering specified a payment of €250 for the current order.
+15. Payment account details: Beneficiary name, IBAN, and BIC provided for payment.
+16. Customer asked for the address of Dani's Catering. 
+17. Address provided by Dani's Catering for correspondence.
+18. Inquiry regarding the account type: Customer asked if it was an English account, and account details in Spanish were shared.

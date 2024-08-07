@@ -1,0 +1,20 @@
+1. Date of event: March 13-14
+2. Equipment rental inquiry:
+   - 20 chairs
+   - 4 umbrellas
+3. Location: San Pedro
+4. Pricing details:
+   - 4 white umbrellas: €600 each + VAT
+   - 20 chairs: €400 + VAT
+   - Delivery & pickup: €200 + VAT
+   - Net price: €1200 + VAT
+   - VAT: €240
+   - Gross total: €1440
+5. Inquiry about other colors available for umbrellas.
+6. Inquiry about renting chocolate fountain: €100 + VAT, chocolate included.
+7. Inquiry about size: height is 70 cm.
+8. Client confirmation.
+9. Event time: 17:00, location: Benalmádena.
+10. Request for a meeting on Monday at 13:00 to collect chocolate fountain.
+11. Possible alternative arrangement to bring the fountain to Benalmádena.
+12. Reconfirmation needed about meeting details due to multiple events on Monday.

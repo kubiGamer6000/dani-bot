@@ -1,0 +1,3 @@
+1. Customer inquiry: Request for the budget of everything and the menus. 
+2. Menu document: Sent the Dani's Catering Menu (PDF).
+3. Customer gratitude: Thanked the service.

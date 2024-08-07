@@ -1,0 +1,18 @@
+1. Customer inquiry: Request for a quote for decoration.
+2. Decoration details: Letters "baby" and balloons in white.
+3. Event date options: Saturday 17 or Sunday 18 of February.
+4. Event location: In Marbella.
+5. Guest count: Approximately 12 guests.
+6. Equipment inquiry: Need for a table and chairs in pink and blue.
+7. Additional details for setup: White tableware and a table runner with pink and blue gypsophila.
+8. Inquiry about catering: Asking if catering is needed or just equipment.
+9. Equipment request confirmation: Only needing equipment at the moment.
+10. Request for pricing: Asking for a quote when possible.
+11. Pricing for rental:
+   - "BABY" in lights rental: 280 euros
+   - 2 thick balloon towers: 220 euros
+   - Installation and collection: 80 euros
+   - Subtotal: 580 euros plus 21% tax
+12. Additional information on pricing: The installation price may vary if staff is needed for unloading.
+13. Inquiry about table pricing: Asking for the price of the table.
+14. Follow-up: Customer will check prices and confirm later.

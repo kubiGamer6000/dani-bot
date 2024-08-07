@@ -1,0 +1,9 @@
+1. Customer inquiry: Birthday party catering for daughter
+2. Guest count: 15 kids
+3. Pricing proposal from customer: 80 euros per kid, total 1200 euros
+4. Payment method proposal: Cash payment
+5. Tax consideration: Customer suggests no VAT due to cash payment
+6. Menu request: Same menu as previously offered to wife Amira
+7. Caterer response: Suggests meeting to discuss package and assess equipment needs
+8. Proposed meeting day: Tuesday
+9. Service inquiry: Equipment assessment mentioned by caterer

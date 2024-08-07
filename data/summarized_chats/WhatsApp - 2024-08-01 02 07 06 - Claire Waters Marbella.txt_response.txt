@@ -1,0 +1,32 @@
+1. Customer inquiry: Ordering food delivery for 8.7.24
+2. Menu order: 
+   - Chicken teriyaki skewers (gluten-free)
+   - Pulled chicken Bao (not possible to be gluten-free)
+   - Italian meatballs (gluten-free)
+   - Assorted fish sushi rolls
+   - Shrimp tempura (not possible to be gluten-free)
+   - Vegetable sticks and Hummus (okay)
+   - Avocado and egg tapas (can be made gluten-free)
+   - Salad
+3. Delivery address: Estepona, Malaga.
+4. Guest count: 6.
+5. Ordering information:
+   - Minimum order of 10 for party menus.
+   - Option to choose from takeaway boxes which might be more economical.
+6. Inquiry: Questions about gluten-free options from the takeaway menu.
+7. Gluten-free options available: 
+   - Sandwiches with gluten-free bread (available)
+   - Meat platter, cheese platter, vegetable sticks and dips, fruit platter (gluten-free).
+8. Delivery inquiry: Inquiring if delivery is available or if it’s a takeaway service.
+9. Delivery cost: Usually €25 + VAT for delivery in Marbella.
+10. Additional order for 8th July at 2:30 pm:
+    - Vegetable and Dips Platter - €50 + VAT
+    - Charcuterie Platter - €50 + VAT
+    - Sushi Platter
+    - Mini Burger Platter - €50 (chicken and fish)
+    - Greek Salad - €50 + VAT
+    - Asian Platter - Prawn Tempura & Sweet Chilli and Pulled Pork Bao - €50 + VAT
+    - Delivery cost - €25 + VAT
+11. Total order cost: €225 + VAT (10% = €22.50); Total = €247.50.
+12. Invoice request: Inquiry about needing an invoice and providing company information.
+13. Payment confirmation: Payment transferred for the delivery today.

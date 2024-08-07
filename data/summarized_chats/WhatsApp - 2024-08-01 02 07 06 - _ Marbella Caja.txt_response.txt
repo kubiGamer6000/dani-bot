@@ -1,0 +1,4 @@
+1. Customer inquiry: Information about a gift breakfast box, appetizer, and wine.
+2. Pricing inquiry: Customer asking for price information.
+3. Guest count: 10 people.
+4. Requested date: 20/05.

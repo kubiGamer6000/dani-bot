@@ -1,0 +1,14 @@
+1. Customer inquiry: Date of event: September 12, Time: 10am, Location: Marbella, Andalucía 29604.
+2. Service inquiry: Home cooking private chef experience including Continental breakfast, pancakes, fruits and vegetables, coffees, smoothies, with beautiful decoration table, and a birthday cake at €100/person + VAT.
+3. Dietary requirements: Customer has 2 vegan guests and asks for vegan options.
+4. Inquiry about Continental breakfast: Customer asks what’s included in the continental breakfast.
+5. Decoration inquiry: Customer asks if the decor includes flowers and balloons.
+6. Change of service inquiry: Request to change from breakfast to dinner for 6 on September 13th, with a seafood paella and vegan option.
+7. Inquiry about dinner menu: Customer asks how dinner works and if there is a prefix menu.
+8. Final number of guests: Confirmed as 6 for dinner at 7pm.
+9. Menu selection: Customer selects Gambas pil pil, Italian bruschetta, vegetable rolls; for main course: seafood paella and Greek salad.
+10. Pricing inquiry: Customer asks for the cost of the services.
+11. Cost details provided: €600 for 6 people at €100/person + VAT, total €660.
+12. Payment preferences: Customer prefers cash payment.
+13. Confirmation of dinner timing: Dinner to be ready at 7pm. Address provided: Calle las Adelfas, 222, Marbella, Andalucía 29604, Spain.
+14. Equipment notice: Customer informs that the accommodation may not have enough pots, pans, or utensils.

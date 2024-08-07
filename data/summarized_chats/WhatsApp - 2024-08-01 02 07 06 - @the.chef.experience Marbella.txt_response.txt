@@ -1,0 +1,29 @@
+1. Customer inquiry: Open house catering for 140 people on June 15 and 16, from 17:00 to 22:00
+
+2. Service requirements:
+   - Food and beverage service
+   - Extra standing tables
+
+3. Catering packages offered:
+   Package 1 - Basic @ €50/person:
+   - Unlimited wine, soft drinks & water
+   - 4 canapés choice
+   - Staff service
+   - All equipment necessary, cocktail tables, glasses, bar, etc
+
+   Package 2 - Standard @ €75/person:
+   - Unlimited cava, wine, beer, soft drinks & water
+   - 8 canapés choice
+   - Staff service
+   - All equipment necessary, cocktail tables, glasses, bar, etc
+
+   Package 3 - Premium @ €100/person:
+   - Premium drinks, professional cocktail maker/bar, beer, wine, fizz, water, etc
+   - 12 canapés choices
+   - Staff service
+   - Beautiful buffet presentation
+   - All equipment necessary, cocktail tables, glasses, bar, etc
+
+4. Commission offer: 10% commission for the referring party
+
+5. Contact information: info.the.chef.experience@gmail.com for sending proposals

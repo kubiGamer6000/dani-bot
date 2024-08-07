@@ -1,0 +1,16 @@
+1. Customer inquiry: Catering service for Sunday, June 23.
+2. Guest count: 50 people.
+3. Service request: Appetizers with waiter service and setup.
+4. Proposed services:
+   - Appetizers: A varied selection suitable for the event, including 8 types of appetizers per menu.
+   - Additional appetizer service: For an additional €5 per person + VAT, more appetizers can be included.
+   - Waiter service: Professional staff to serve and attend to guests.
+   - Setup: Includes all necessary installation for the event, glasses, trays, and high cocktail tables.
+5. Pricing: €80 per person + VAT.
+6. Example menus with 8 appetizers:
+   - Classic Elegance: Includes mini Caprese bites, smoked salmon, melon with prosciutto, and more.
+   - Mediterranean Delights: Offers a trio of hummus, Greek salad skewers, mini lamb kebabs, and more.
+   - Modern Fusion: Proposes mini Asian tacos, assorted sushi rolls, Thai chicken satay, and more.
+   - American Classics: Presents mini burgers, Buffalo chicken bites, mini BBQ pork sliders, and more.
+   - Vegetarian Fiesta: Contains avocado toasts, beet and goat cheese arancini, stuffed peppers, and more.
+7. Customization: Available to further personalize the menu and services based on specific preferences and needs.

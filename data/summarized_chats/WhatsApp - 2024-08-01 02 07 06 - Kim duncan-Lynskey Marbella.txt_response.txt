@@ -1,0 +1,9 @@
+1. Customer inquiry: Looking for catering for a party for approximately 25 people.
+2. Date of event: 21st September 2024.
+3. Catering options requested: Buffet or BBQ.
+4. Catering package details:
+   - Includes 6 tapas starters, a selection of 5 BBQ meats, salads, fruit platters, and mini dessert bites.
+5. Equipment rental: Covers standard tables, chairs, plates, glasses, platters, and a mobile barbecue. Rental cost varies based on type and quantity needed.
+6. Staff service: Hiring staff for 4 hours, including chefs, servers, and support staff.
+7. Pricing: €120 per person + VAT.
+8. Mention of flexibility: Can tailor options to any budget.

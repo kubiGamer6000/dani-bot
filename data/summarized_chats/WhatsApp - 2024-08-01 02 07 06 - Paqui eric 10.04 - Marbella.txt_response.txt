@@ -1,0 +1,15 @@
+1. Customer inquiry: Organizing a dinner event
+2. Request for a site visit: "Can I come this afternoon and see the villa or tomorrow, whenever it's best for you?"
+3. Customer asking about availability for a visit: "Is it possible at 11:30?"
+4. Customer confirming the visit time: "Perfect, I am living there, if it's possible, at 5 today perfect."
+5. Location details provided: "Address calle los nardos urbanization la pera house 47."
+6. Preparation for an event: "We plan to come and prepare tables and equipment for the party at 10:30 if that's alright."
+7. Customer confirms their presence for preparation: "I will be there, thank you."
+8. Inquiry about setting up a tent: "Is it possible tomorrow to go there to set up a tent on the terrace?"
+9. Request to leave equipment in the garden: "Is it possible tomorrow to enter the garden to leave equipment?" 
+10. Mention of event support: "I need to ask them about it; I will be there at 10."
+
+----------------------------------------------------
+
+1. Customer inquiry: "Can you open the garage please?"
+2. Reminder: "Just a reminder, thanks."

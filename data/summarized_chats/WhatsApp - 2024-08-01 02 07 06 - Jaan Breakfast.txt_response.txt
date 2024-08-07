@@ -1,0 +1,22 @@
+1. Customer inquiry: Request for breakfast service.
+2. Location provided: Calle Escorial L2B, Villa Vista Mar, 29660, Nueva Andalucia.
+3. Breakfast timing: To be served from 9 am, access to the kitchen agreed at 8 am.
+4. Payment details provided: €320 for two dates. Payment options include Revolut or cash on the day.
+5. Payment request details provided: 
+   - Beneficiary: Daniela Rosu
+   - IBAN: GB42 REVO 0099 7007 0631 51
+   - BIC: REVOGB21
+6. Customer confirms payment via Revolut and mentions cash for other items.
+7. Inquiry about breakfast timing for another day: Confirmation for 9.30 - 10 am serving time.
+8. Guest counts and arrangements: Confirmation of note about changing breakfast to lunch based on fishing results.
+9. Customer preference for seafood for lunch: Suggestion for dorada (sea bream) and seafood tapas.
+10. Customer mentions trying to find seafood items from a local seafood deli.
+11. Follow-up: Customer to stop by a seafood deli for supplies and questions regarding additional grill items.
+12. Customer requested invoice to be sent to specific email: rauno@varskavesi.ee
+13. Company details provided for invoicing:
+   - AS Värska Vesi
+   - Pikk 41
+   - Värska
+   - 64001
+   - Estonia
+14. Offer to create another invoice for company claims if needed.

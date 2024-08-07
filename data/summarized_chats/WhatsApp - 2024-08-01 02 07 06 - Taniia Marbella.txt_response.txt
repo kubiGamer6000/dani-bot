@@ -1,0 +1,7 @@
+1. Customer inquiry: Information for an inauguration event.
+2. Event details: 
+   - Date: Saturday, March 12 
+   - Time: 14:00 
+   - Location: Jerez de la Frontera 
+   - Guest count: 25 to 30 people
+3. Service area: Usually cater events in Marbella/Malaga, unless a minimum order of €3,000 is placed.

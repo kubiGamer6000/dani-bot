@@ -1,0 +1,24 @@
+1. Customer inquiry: Is it possible for you to provide service for two dinners in BelAir?
+2. Event dates: End of the first days of June.
+3. Menu inquiry: The customer requested a menu for the two meals, with dietary restrictions noted for two people (white meat only and fish only), while the rest will eat pretty much anything.
+4. Chef inquiry: Need a chef for two nights, specifically on May 31 and June 3.
+5. Sample menu provided for two meals:
+   - **Dinner 1:** 
+     - Price: €120/person + VAT, kids half price.
+     - Theme: Spanish night.
+     - Starters: Mixed Spanish tapas platter.
+     - Main dishes: Grilled chicken skewers, oven-baked Dorada.
+     - Side dishes: Vegetarian paella, mixed leaf salad.
+     - Dessert: Surprise finger desserts and fresh fruit kebabs.
+   - **Dinner 2:** 
+     - Price: €120/person + VAT, kids half price.
+     - Style: BBQ.
+     - Starters: Charcuterie board with cured meats, cheeses, olives, and crackers.
+     - Main dishes: Beef tomahawk, chicken butterfly, seafood skewers, sausages.
+     - Side dishes: Salads and oven-baked potato.
+     - Dessert: Fresh fruit platter with surprise desserts.
+6. Customization: The menu can be customized to fit preferences and dietary restrictions.
+7. Additional service inquiry: Table decoration with high-end plates and cutlery, price upon request.
+8. Inquiry about food purchasing: The clients are asking if it is possible to buy all the food and pay for the chef's time.
+9. Chef service pricing: €500 + VAT for chef service per night.
+10. Cancellation policy: 50% non-refundable deposit is required before booking, mentioned due to the client's cancellation of services.

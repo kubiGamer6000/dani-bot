@@ -1,0 +1,18 @@
+1. Customer inquiry: Need for an updated takeaway menu that reflects new offerings.
+2. Menu items mentioned:
+   - Bagel Box
+     - Choose 4 flavors (8 half pieces) - €50 + VAT
+     - Choose 6 flavors (12 half pieces) - €75 + VAT
+     - Flavors include Smoked Salmon Delight, Savory Smoked Ham, Egg Mayo Bliss, Caprese Perfection, Mediterranean Medley, Avocado Dream, Classic PB&J, Decadent Nutella Delight, Tuna Sensation, Spicy Chicken Curry.
+   - Breakfast Box for 2 - €50 + VAT:
+     - Includes 2 Smoked Salmon Croissants, 2 Serrano Ham Croissants, Egg Mayo Sandwich, 2 Yogurt Pots with Granola, Seasonal Fresh Fruit, Mozzarella Sticks, Freshly Squeezed Orange Juice.
+3. New dessert options for takeaway boxes:
+   - Indulgence Dessert Pot - €100 + VAT for 25 pieces, customizable with choices like Lemon Merengue Cheesecake, Chocolate Cheesecake Mousse, etc.
+   - Sweet Temptation Cupcake Box - €100 + VAT for 36 pieces, customizable with choices like Lemon Merengue Cheesecake Cupcake, Chocolate Cheesecake Cupcake, etc.
+4. Updated terms and conditions including payment terms, dietary restrictions, and payment methods provided.
+5. Wedding menu items available including various hors d'oeuvres, main courses, desserts, and beverage options, including an open bar service.
+6. Inquiry about the availability of wedding images from the photographer.
+7. Collaboration details for updating the wedding menu and confirming the drinks package.
+8. Request made to suspend the online order button on the website until updated takeaway boxes and menus are available. 
+
+This conversation provides extensive details about menu offerings, pricing structures, and services relevant to Dani's Catering operations, essential for training the customer service chatbot.

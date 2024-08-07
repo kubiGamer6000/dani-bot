@@ -1,0 +1,9 @@
+1. Customer inquiry: Can you do a last minute cake?
+2. Dietary requirements: Sugar-free, gluten-free, healthy cake.
+3. Event details: For tomorrow, for 28 people, birthday for Tomek.
+4. Additional services inquiry: Asking about including a birthday wish on the cake.
+5. Menu inquiry: Chocolate berry cake.
+6. Pricing: The price would be 55€ for the cake.
+7. Delivery information: 60€ total with delivery.
+8. Additional request: Can you bring candles for the cake as well, willing to pay extra.
+9. Candle details: No numbers, just candles and sparkling.

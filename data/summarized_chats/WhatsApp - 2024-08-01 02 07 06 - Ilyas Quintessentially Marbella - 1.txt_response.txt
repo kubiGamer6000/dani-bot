@@ -1,0 +1,4 @@
+1. Customer inquiry: Need a chef at home for this Saturday.
+2. Date inquiry: The customer is looking for a chef on Saturday, 2024-04-20.
+3. Availability inquiry: Asking if there is availability for chef services for take away or delivery at home.
+4. Follow-up inquiry: Could you find a chef for Saturday?

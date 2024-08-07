@@ -1,0 +1,8 @@
+1. Customer inquiry: Collaboration proposal for private events with live pizza events.
+2. Pricing information:
+   - Price per hour: 17 euros/hour (minimum 5 hours).
+   - Price for workshops with children: 25 euros/child, including a pizza workshop and tasting at the end.
+   - Prices for adult Neapolitan pizza masterclasses:
+     - Beginner level: 35 euros/person.
+     - Advanced level: 49 euros/person.
+     - Includes masterclass, pizza tasting, and pairing.

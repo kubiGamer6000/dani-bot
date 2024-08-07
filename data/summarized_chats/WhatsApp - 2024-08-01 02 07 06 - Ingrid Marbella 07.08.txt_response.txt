@@ -1,0 +1,25 @@
+1. Customer inquiry: Order for tomorrow
+2. Menu selection:
+   - 1 small cheese box
+   - 1 big sandwich platter
+   - 1 seasonal vegetables and dip platter
+   - 1 big meat platter with chicken lollipops
+   - 1 small meat box
+3. Total cost inquiry: The quoted total is €155 + delivery.
+4. Delivery details: Typically €10 for Marbella or free pick-up from Elviria.
+5. Payment inquiry: "How do we pay you? I think it is 205 + delivery?"
+6. Sandwich selection: Customer can choose 4 types of sandwiches in the big sandwich platter.
+7. Final cost breakdown: €210 including delivery for 15 guests, delivered at 18.00hrs.
+8. Menu items for 15 guests:
+   - Sandwich platter: BLT/turkey/salmon/houmous & roast peppers
+   - Vegetables station with 3 dips
+   - Homemade tortilla
+   - Mini salmon brioche
+   - Crispy chicken lollipops
+   - Italian meatballs
+   - Cheese platter
+   - Meat platter
+   - Vegan salad bowls
+9. Change request: Swap salmon sandwich for coronation chicken.
+10. Additional order request: Plate of mini burgers, with types available: pulled pork, beef, chicken, or mushroom.
+11. Confirmation of burger cooking: "Yes," the burgers will be well done.

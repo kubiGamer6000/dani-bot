@@ -1,0 +1,22 @@
+1. Customer inquiry: Request for a catering quote for a birthday party for 15 to 20 people
+2. Event date: Saturday, July 1st
+3. Event location: A private residence located in Urbanización Real de la Quinta
+4. Included services inquiry: Custom party package available (as mentioned on page 12 of the provided menu)
+5. Menu items and pricing:
+   - Seasonal vegetables & dips platter = €50 + VAT
+   - Spanish platter = €50 + VAT
+   - Chorizo & Caramelized onion platter = €50 + VAT
+   - Mini burger platters = €100 + VAT (requires one platter to be plain with no cheese, salad, or sauce for children)
+   - Canapés platter = €50 + VAT (includes mini fish & chips, pulled duck & hoisin sauce, Swedish meatballs, and sweet & sour chicken)
+   - Mega size potato salad = €50 + VAT
+   - Dessert platter with kid-friendly cookies and donuts = €50 + VAT
+   - Seasonal fruit platter with strawberries and chocolate dip = €60 + VAT
+6. Total estimated cost: €460 + VAT
+7. Delivery fee: €25 + VAT
+8. Grand total: €533.50
+9. Additional services: If setup is required with decoration and presentation on a buffet table, the cost is €300 + VAT
+10. Tax information for invoicing provided: MANIFESTO DESIGN, C.C. Guadalmina, Blq. 4 Local 62, 29670 San Pedro Alcántara, Marbella - Málaga, CIF: B 92400977
+11. Confirmation of the booking for Saturday, July 1st, at 4:00 PM
+12. A reminder about the specific requirements for mini burgers (half to be plain)
+13. Delivery address directions provided for the event location
+14. Customer acknowledgment of invoice payment completion

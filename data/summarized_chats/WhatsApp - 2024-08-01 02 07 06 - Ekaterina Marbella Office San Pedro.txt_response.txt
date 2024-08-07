@@ -1,0 +1,5 @@
+1. Customer inquiry: Request for a catering commercial offer for 40 people on July 15th with a couple of waiters.
+2. Available services inquiry: Inquiry about availability for catering and request for a quote.
+3. Menu inquiry: Need for canapés, finger food, and drinks.
+4. Staffing requirements: Request for staff service.
+5. Event duration: 2-3 hours for a salon opening.

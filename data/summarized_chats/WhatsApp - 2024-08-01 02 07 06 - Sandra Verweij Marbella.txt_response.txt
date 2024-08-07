@@ -1,0 +1,10 @@
+1. Customer inquiry: Planning annual party for September 22nd.
+2. Venue inquiry: Interested in using Finca La Catalina.
+3. Menu inquiry: Cost of a cocktail menu for approximately 200 adults.
+4. Kids menu inquiry: Cost of a kids menu for around 150 children.
+5. Drinks inquiry: Inclusion of soft drinks, beers, and wines.
+6. Additional services inquiry: Request for a cash bar for other alcoholic drinks.
+7. Event details: Event will start at 18:00 and finish at 23:00.
+8. Equipment inquiry: Need for all equipment including high tables, normal tables, and chillout areas.
+9. Guest count: Previous year's event had a total of 400 persons, including both adults and children.
+10. Budget inquiry: Request for the budget of the previous year’s event.

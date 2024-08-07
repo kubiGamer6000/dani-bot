@@ -1,0 +1,14 @@
+1. Customer inquiry: Order for pickup on Saturday at 12:00pm
+2. Ordered items:
+   - Canapés:
+     1. Mini shrimp and tartar
+     2. Salmon and caviar
+     3. Foie gras and quail
+     4. Thai pulled chicken
+     5. Eggplant babaganoush
+     6. Pulled pork
+   - Sandwiches:
+     1. Turkey and cucumber
+     2. Tuna, Mayo and sweetcorn
+     3. Coronation chicken curry
+     4. Ham, cheese and salad

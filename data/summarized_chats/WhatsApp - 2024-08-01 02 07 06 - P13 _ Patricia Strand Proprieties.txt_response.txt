@@ -1,0 +1,13 @@
+1. Customer inquiry: Prices for approximately 50 people.
+2. Menu options provided:
+   - Package 1 @ €10/person + VAT (delivery service only):
+     - 2 canapés/person: 
+       - Smoked salmon belini
+       - Caramelised onion and goat cheese
+     - Vegetables crudities and dip
+     - Fruit platters including cherries
+   - Package 2 @ €20/person + VAT:
+     - 6 canapés/person (Menu TBC)
+     - Vegetables crudities and dip
+     - Fruit platters including cherries
+3. Follow-up inquiry about catering arrangements: Checking if sorting out catering was accomplished.

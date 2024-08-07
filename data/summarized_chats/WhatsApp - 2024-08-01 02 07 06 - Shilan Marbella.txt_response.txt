@@ -1,0 +1,18 @@
+1. Customer inquiry: Celebrating daughter's birthday on the 23rd
+2. Guest count: 10 adults and 8 children
+3. Request for takeaway boxes for the party
+4. Menu inquiry:
+   - Sandwich platter €50 + VAT
+   - Croissant platter €50 + VAT
+   - Mini pita €50 + VAT (ordered two)
+   - Hamburgers €50 + VAT
+   - Tapas platter €75 + VAT
+   - Cupcake box €100 + VAT
+5. Delivery charge: €25 + VAT
+6. Total estimated cost: €440 (including VAT)
+7. Payment inquiries: Can I pay by card? Can I pay by bank transfer?
+8. Confirmation of payment option: Payment by cash confirmed
+9. Inquiry about "Glovo number 16" (a type of cake or decoration)
+10. Requests for location and invoice details
+11. Follow-up request for an additional mini pita box
+12. Revised total with added item: Total = €495 (including VAT)

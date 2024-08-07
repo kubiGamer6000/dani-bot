@@ -1,0 +1,8 @@
+1. Customer inquiry: Pricing for the catering for the upcoming Sunday.
+2. Menu details:
+   - Vegetarian mini burgers
+   - All other items without pork
+3. Additional services inquiry: Possible coffee station.
+4. Location inquiry: Where and what time is the event?
+5. Confirmation that they will confirm the location: They mentioned possibly doing it in Elviria, in the Amazonia park.
+6. Customer feedback: They love the work of Dani's Catering and are interested in organizing for another time due to venue restrictions.

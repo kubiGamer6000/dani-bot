@@ -1,0 +1,7 @@
+1. Menu inquiry: Received the menus from Dani's Catering.
+2. Order request: Customer asked if they could order a specific item to pick up on the 29th at 17:00.
+3. Confirmation of order: Yes, the order can be fulfilled.
+4. Customer name: Jasmine Levestone.
+5. Payment details: Total cost is €110 including VAT; payment options available are cash or card on pickup.
+6. Payment method: Customer indicated they will pay with card.
+7. Inquiry about readiness: Customer asked if they can come to pick up their order.

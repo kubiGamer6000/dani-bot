@@ -1,0 +1,22 @@
+1. Event type: Birthday party
+2. Date: Sunday, 20th March 2022
+3. Guest count: 35 guests
+4. Event time: 20:00 - 24:00
+5. Catering package: Canapes and drinks package at €50 per person + VAT
+6. Canapes menu:
+   - Salmon belini and black caviar
+   - Foie gras lollipops
+   - Serrano & camembert
+   - Mini bao pulled pork
+   - Chicken mini pot
+   - Goat cheese, caramelised onion
+   - Beef carpaccio tart
+   - Pink caviar tarmasalad
+7. Bar service: Unlimited bar until 24:00 (includes house red wine, water, juice, cava)
+8. Included services: All glasses, ice, equipment, and staff service
+9. Calculation for catering cost: 35 * €50 = €1750.00
+10. Extras:
+    - 4 cocktail tables with table cloths at €50 each = €200 + VAT
+    - Birthday cake (happy birthday) = €300 + VAT
+11. Total cost: €2250 + VAT
+12. Inquiry: Let me know if this is what you had in mind

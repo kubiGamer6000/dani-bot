@@ -1,0 +1,25 @@
+1. Customer inquiry: Asking about the breakfast services offered.
+2. Service inquiry: Interested in providing breakfast services for their villa clients as a hotel would.
+3. Inquiry about breakfast options and pricing: "I wanted to see what options you have and prices so that I can order when requested."
+4. Inquiry about breakfast packages: "Do you have set breakfast packages too?"
+5. Inquiry about pickup vs delivery: "In the first PDF you send me, is all this for pickup or do you bring it? How much does it cost to bring it?"
+6. Delivery pricing: "€25 + VAT for delivery."
+7. Customized breakfast menu pricing: "€50 per person + VAT."
+8. Dinner availability inquiry: Asking for availability for a dinner for two.
+9. Request for both options: "Can you send me info for both options and I'll ask them?"
+10. Preference for information in English.
+11. Tasting Menu details provided for a private dinner for two: 
+   - Price: €1000 + VAT.
+   - Includes services of a private chef and waitress, set table, and high-end service.
+   - Menu includes:
+     - Amuse-Bouche: Truffle-Infused Oyster Shooter
+     - Appetizers: Seared Foie Gras with Balsamic Reduction, Crispy Lobster Dumplings with Ginger Soy Dip
+     - Soup: Velvety Butternut Squash Bisque with Sage Foam
+     - Fish Course: Saffron-Infused Scallop Ceviche with Mango Salsa
+     - Main Course: Wagyu Beef Medallions with Black Truffle Jus, Herb-Crusted Lamb Rack with Rosemary Demi-Glace
+     - Palate Cleanser: Champagne Sorbet with Fresh Mint
+     - Dessert: Decadent Chocolate Fondant with Raspberry Coulis
+     - Petit Fours: Assorted Handcrafted Chocolates and Macarons
+     - Beverage Pairing: Personalized Wine Pairing or Craft Cocktail Selection.
+12. Event service request: For 9 people on 20/5 at 13:30, asking for assistance with service.
+13. Full service pricing: "It is possible to offer our full service for €600 + VAT, which includes 9 types of appetizers, dedicated staff service, and a beautifully decorated presentation table."

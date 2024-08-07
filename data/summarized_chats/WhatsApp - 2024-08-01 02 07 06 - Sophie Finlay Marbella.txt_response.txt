@@ -1,0 +1,11 @@
+1. Customer inquiry: Group of 14 people for a 60th birthday on Friday 6th September.
+2. Booking process inquiry: Wondering about the process of booking.
+3. Cuisine preference: BBQ style cuisine.
+4. Pricing for BBQ:
+   - €90 per person plus VAT for lunch BBQ.
+   - €120 per person plus VAT for dinner BBQ.
+5. Included services: Private chef, a waitress, and a beautiful table setup.
+6. Customer confirmed interest in booking the evening BBQ.
+7. Discussion for later: Menu requests to be discussed. 
+8. Confirmation of details: Customer checking in to see if anything is needed from their side.
+9. Payment procedure: Confirmation of payment a week before the event.

@@ -1,0 +1,22 @@
+1. Customer inquiry: Is Dani's Catering available for catering on July 8th for my daughter's birthday?
+2. Confirmation of availability: Yes, definitely available.
+3. Menu inquiry: Customer requests to add chicken nuggets, french fries, and ketchup for 25 children.
+4. Service type inquiry: Customer specifies that the meal should be takeaway.
+5. Additional menu inquiries:
+   - Request to add the Spanish platter.
+   - Request for mini burgers (3).
+   - Request to increase the chicken nuggets and fries to serve 30 people.
+6. Dietary requirements: Customer specifies no pork in the order.
+7. Order details: 
+   - After confirmation, the order for July 8th includes: 
+     - 2 x tapas platter 
+     - 1 x canapés platter 
+     - 1 x sandwich platter 
+     - 2 x croissant platter 
+     - 3 x mini burgers platter 
+     - 3 x nuggets & chips 
+     - 1 x Spanish platter
+8. Pricing: Total of 13 platters at €50 per platter + VAT, delivery €25 + VAT, with a gross total of €742.50 and VAT at 10% €67.50.
+9. Payment method: Customer chooses to pay in cash.
+10. Delivery inquiry: Customer asks what time the order will be ready and delivered, specifying 15:00 as the delivery time for the birthday.
+11. Location request: Customer asks for the location to be shared.

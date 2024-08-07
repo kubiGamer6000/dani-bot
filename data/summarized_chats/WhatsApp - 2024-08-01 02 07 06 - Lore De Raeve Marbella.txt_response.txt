@@ -1,0 +1,8 @@
+1. Customer inquiry: Looking for a chef at home in Marbella for Tuesday night.
+2. Guest count: 12 people for dinner.
+3. Menu inquiry: Interested in a menu for about €40 per person.
+4. Proposed menu options:
+   - Tapas party: 8 hot and cold tapas, chef's choice of dessert, 2 interactive staff for 4 hours, helping serve drinks.
+   - BBQ party: 4 types of meat cuts, 3 super salads, chef's choice of dessert, 1 staff only, with an option to add extra staff for service and setup drinks service at €100.
+5. Booking details: Dinner planned for around 7:30 PM at Urb Golf Rio Real.
+6. Location confirmation: Villa 12-17, with initial confusion about location clarified.

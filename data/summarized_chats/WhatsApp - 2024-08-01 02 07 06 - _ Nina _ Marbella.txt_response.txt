@@ -1,0 +1,38 @@
+1. Customer inquiry: I would like to order some stuff for Tuesday if possible.
+2. Order details: 
+   - Small hamburgers: 1 package total 20 pieces
+   - Butterfried chicken + aged beef
+   - Sandwich platter: 2 platters
+3. Sandwich platter options:
+   - Ham, Cheese & Salad
+   - Turkey, Cucumber & Salad
+   - Mozzarella Cheese, Tomato & Pesto
+   - Tuna, Homemade Mayo & Sweet Corn
+   - Prawn, Lime & Mayonnaise
+   - Cress
+   - Cheese & Cucumber surprise
+   - Babaganoush & Salad
+   - Roast Beef
+   - Choose 4 options, 48 pieces for €50.00
+4. Delivery request: Good morning, I need it delivered by Tuesday if possible please.
+5. Pricing details:
+   - 2 boxes of sandwiches at €50 each + VAT
+   - Delivery €25 + VAT
+   - Total net = €125 + VAT
+   - VAT = €12.50
+   - Total gross = €137.50
+6. Additional details about the order:
+   - U charge €25 for delivery + VAT?
+7. Updated order: 
+   - 2 boxes sandwiches and 1 box of chicken and beef mini burgers
+   - 3 boxes at €50 each + VAT
+   - Delivery €25 + VAT
+   - Total net = €175 + VAT
+   - VAT = €17.50
+   - Total gross = €192.50
+8. Delivery address: Las Dunas, 36°30′7″N 4°49′46″W
+9. Delivery timing request: I will be here all day, but at the latest at 4 if possible?
+10. Updated order request: Can we make it 2 boxes of hamburgers and not 1? 
+11. Final order confirmation: 2 boxes of mini burgers and 2 boxes of sandwiches, total of 4 boxes at €200 + VAT, Delivery €25 + VAT, Total net = €225 + VAT, VAT = €22.50, Gross = €247.50
+12. Payment inquiry: Is it possible to pay cash without VAT?
+13. Payment confirmation: I’ll pay €225 cash upon delivery.

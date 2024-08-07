@@ -1,0 +1,48 @@
+1. Customer inquiry: Takeaway boxes for an event including:
+   - 1 sandwich
+   - 2 Bellini canapés
+   - 1 croissant
+
+2. Inquiry about reducing the number of sandwiches to 30 and adding one croissant.
+
+3. Price inquiry: How much would it be for the adjusted order?
+
+4. Confirmation of order details:
+   - 30 sandwich pieces
+   - 2 Bellini canapés
+   - 1 croissant
+   - Price: €30 + VAT each for the sandwiches.
+
+5. Date and time of event: July 4th at 1 PM.
+
+6. Price clarification:
+   - 30 sandwiches = €30 + VAT
+   - 2 Bellini canapés = €100 + VAT
+   - 1 croissant = €50 + VAT
+   - Delivery charge: €25 + VAT.
+   - Total estimated cost: €248 including VAT.
+
+7. Inquiry about table rental: High tables at €50 + VAT, including either white or black tablecloth.
+
+8. Customer decided to rent one black table.
+
+9. Inquiry from customer: Do the tables come with a tablecloth?
+
+10. Orders confirmed for:
+    - 30 sandwich pieces €30 + VAT 
+    - 3 boxes of Bellini canapés = €150 + VAT 
+    - 1 croissant = €50 + VAT 
+    - Delivery = €25 + VAT.
+
+11. Confirmation: The order is to be delivered the following day at 12 PM.
+
+12. Location for delivery: Calle República Checa nave 19, polígono san Pedro Alcántara.
+
+13. Payment confirmation request with invoice.
+
+14. Company details shared by the customer for invoicing:
+    - Arte del Lusso Marbella S.L
+    - Calle Tauro 131, 29650 Mijas Costa
+    - NIF: B93396539.
+
+15. Inquiry if the table will be picked up today at 12 PM.

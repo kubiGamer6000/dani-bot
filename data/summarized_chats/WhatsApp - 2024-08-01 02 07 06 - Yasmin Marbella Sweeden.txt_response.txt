@@ -1,0 +1,10 @@
+1. Customer inquiry: Information about catering services.
+2. Event details: Party in Benahavis for around 20 people.
+3. Date of event: January 8th.
+4. Customer inquiry: Options for catering for the birthday party on January 15th for about 15 people.
+5. Menu options inquiry: Looking for mix of tapas and finger food.
+6. Service style: Just a buffet table.
+7. Price inquiry: What’s the price?
+8. Quoted price: €500 for a selection of tapas, finger food, vegetable soldiers and dips, platters hire, decoration, a couple of homemade lemonades, beautiful table display, and delivery.
+9. Follow-up on availability: Inquiry about interest in catering for Saturday due to other requests.
+10. Cancellation noted: Customer has decided to go with another firm but expressed future interest in hiring Dani's Catering.

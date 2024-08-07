@@ -1,0 +1,23 @@
+1. Customer inquiry: Catering for 25 people on June 8th from 20:00 to 22:00 on a catamaran.
+2. Service requirements: Delivery of food, plates, assistance distributing drinks for 2 hours, and cleanup after the event.
+3. Availability confirmation: The service is available for the requested date and time.
+4. Menu offered:
+   - Selection of Appetizers:
+     - Sushi
+     - Mini beef burgers
+     - Mini vegetarian burgers
+     - Foie gras tapas
+     - Shredded chicken bao buns
+     - Smoked salmon blinis
+     - Cheese platter
+     - Cold cuts platter
+     - Vegetable sticks and sauces
+     - Selection of miniature dessert bites
+5. Standard Drinks Package:
+   - Cava
+   - Selection of wines
+   - Selection of beers
+   - Soft drinks
+   - Sparkling and still water
+6. Pricing: €100 per person plus VAT for the standard drinks package; €150 per person plus VAT for the premium drinks package.
+7. Included services: All necessary equipment and staff service during the event, including food delivery, assistance with drink distribution for two hours, and cleanup after the event.

@@ -1,0 +1,11 @@
+1. Customer inquiry: Attempted to place an order for the 30th, preferred the 31st instead.
+2. Order confirmation: Can do the order on the 31st in the morning.
+3. Menu inquiry: Requested "the funky colors all flavors" (specific menu item not detailed).
+4. Menu detail: Only black chicken and beef funky burgers available.
+5. Pickup time inquiry: Customer inquired about pickup time and was confirmed for 12:00 hrs.
+6. Delivery option: Offered delivery for €25 + VAT.
+7. Payment methods: Customer asked about payment methods, confirmed that cash is acceptable or could use Bizum, Revolut.
+8. Pricing information: Total of €175 for 3 boxes.
+9. New pickup time request: Requested to collect the order later at 13:00, or later.
+10. Final confirmation: Confirmed new pickup time of 13:00.
+11. Query about location: Customer asked if the pickup is right inside "miuc".

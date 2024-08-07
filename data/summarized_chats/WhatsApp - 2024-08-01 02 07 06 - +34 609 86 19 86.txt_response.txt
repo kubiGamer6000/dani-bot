@@ -1,0 +1,7 @@
+1. Customer inquiry: Catering for 25 people on Saturday, September 24 at 21:00
+2. Menu inquiry: Passed finger food or buffet-style table service
+3. Guest count: 25 people
+4. Customer providing: Wine, plates, and cutlery
+5. Service style options mentioned:
+   - Passed finger food
+   - Buffet-style table service where guests serve themselves

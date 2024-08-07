@@ -1,0 +1,4 @@
+1. Customer inquiry: Interested in catering services
+2. Service type: Just takeaway platters
+3. Date uncertainty: Customer does not know the date yet
+4. Menu shared: Dani's Catering Winter Menu (file shared but not included in analysis)

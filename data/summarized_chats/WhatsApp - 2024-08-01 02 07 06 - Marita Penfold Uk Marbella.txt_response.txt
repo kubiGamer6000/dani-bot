@@ -1,0 +1,21 @@
+1. Customer inquiry: Lunchtime catering for wedding day on June 8th, requesting 3 boxes—2 for the bride and bridesmaids, and 1 for the groom and his friends.
+2. Box pricing: €25 + VAT for delivery in Marbella.
+3. Payment options: Cash or card, with prepayment required based on order volume. Customer confirmed they could pay in card if needed.
+4. Pickup inquiry: Customer asked if they could pick up their order.
+5. Business location: Based in Marbella central, with location sent closer to the date.
+6. Order details:
+   - Sandwich box x 2:
+     - Prawn
+     - Tuna
+     - Mozzarella
+     - Turkey
+   - Seasonal vegetables and dips x 1
+7. Event confirmation: Customer confirmed orders and payment details will be finalized one week before the event.
+8. Final order summary: 
+   - Total for 3 boxes: €50 + VAT.
+   - Delivery charge: €25 + VAT.
+   - Total net: €175 + VAT.
+   - VAT amount: €17.50.
+   - Final total: €192.50.
+9. Cash payment confirmation for the day of pick up: Customer confirmed they would pay cash.
+10. Pickup time: 11:30 AM requested initially, later changed to 12:30 PM.

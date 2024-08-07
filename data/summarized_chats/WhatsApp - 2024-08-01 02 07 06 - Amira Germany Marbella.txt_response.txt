@@ -1,0 +1,43 @@
+1. Customer inquiry: Do you need a food & drinks package for your daughter's birthday?
+2. Birthday celebration packages details:
+   - Menu items:
+     - Mini beef burgers
+     - Mini Thai chicken burgers
+     - Prawn tempura
+     - Thai noodles
+     - Stir-fry rice
+     - Sushi platter
+     - Vegetable spring rolls
+     - Selection of gyozas
+     - Personalized cake
+     - Homemade lemonades
+     - Non-alcoholic cocktails
+   - Price: €120 + VAT per child for an all-inclusive package covering menu and staff service for 3 hours.
+3. Customer confirmation: Sounds good, asking about total price.
+4. Total estimation: €1620 depending on final guest numbers, including decoration, staff service, all food & drinks.
+5. Booking confirmation request: Fix the package for next Saturday.
+6. Customer inquiry: Do you need my address or prepayment?
+7. Communication regarding pre-site visit: Hoping to pass by early next week to see the space and discuss setup.
+8. Venue address provided: Calle Verdi 38, Porta 5, Casa 207, 29602 Marbella.
+9. Updated birthday party package inquiry: 
+   - Theme: American movie-style birthday party for 12-year-old daughter.
+   - Menu items:
+     - Mini Beef Burgers
+     - Mini Chicken Burgers
+     - Mini Chicken Hot Dogs
+     - American mac & cheese
+     - Nachos & guacamole
+     - Vegetable Spring Rolls
+     - Prawn tempura
+     - Popcorn Machine
+     - Chocolate Machine with fruits & marshmallows
+     - Cake Pops
+     - Homemade Lemonades
+     - Non-Alcoholic Cocktails
+   - Package price: €1500 + VAT (for 14-16 guests) for 3 hours of staff service and the menu.
+10. Customer confirmation: Everything will remain the same as discussed.
+11. Total price acknowledgment: €1500 for the services rendered. 
+12. Customer request: Please bring still water (Evian, Volvic, or Voss).
+13. Further details on setup logistics shared: Instructions regarding garage and key access.
+
+Overall, this conversation contains extensive information about menu options, pricing, booking details, and preparations for the event, making it relevant for training a customer service chatbot.

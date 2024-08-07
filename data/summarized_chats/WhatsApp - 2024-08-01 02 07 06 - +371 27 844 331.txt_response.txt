@@ -1,0 +1,8 @@
+1. Customer inquiry: Selling salads and finger food
+2. Menu inquiry: Party platter box, cool tapas style
+3. Salad options:
+   - Greek salad
+   - Italian mix salad
+4. Pricing: Big salad boxes for €20
+5. Customer requesting types, ingredients, and prices for salads
+6. Meeting request: Customer asking to meet at the restaurant to discuss order

@@ -1,0 +1,28 @@
+1. Customer inquiry: Order for delivery on Friday, May 24.
+2. Menu order:
+   - 1 x Charcuterie platter @ €50pp + VAT
+   - 1 x Sandwich platter with ham, cheese & salad, coronation curry chicken, smoked salmon, and roasted peppers & cream of hummus @ €50 + VAT
+   - 1 x Spinach strawberries salad @ €50 + VAT
+3. Delivery fee: €25 + VAT
+4. Total net: €175 + VAT
+5. VAT: 10% = €17.5
+6. Total gross: €192.50
+7. Question about payment: "How do I pay?"
+8. Customer provided NIE number: y4173485-b
+9. Confirmation of dessert platter addition: Customer asked to add a surprise dessert box.
+10. Cash payment option agreed for the dessert platter.
+11. Customer inquiry about delivery location: "Can you kindly send location?" for delivery.
+12. Customer inquiry for delivery on Saturday, July 27 at 3 pm:
+   - 1 x Surprise Spanish cold platter
+   - 1 x Caesar salad
+   - 1 x Surprise dessert platter
+   - 1 x Tapas platter with various items listed
+13. Delivery fee confirmation: Charges €25 + VAT for delivery.
+14. Customer confirmed bank transfer payment.
+15. Inquiry for invoice details: "What information do you need for the invoice?"
+16. Customer provided invoice details:
+   - Full name: Saifan Hsu
+   - Address: Avenida Cartagena 152, 29604 Marbella, Spain
+   - NIE: y4173485-b
+17. Delivery request for the next day at 5 pm.
+18. Customer's delayed payment update: "I just transferred."

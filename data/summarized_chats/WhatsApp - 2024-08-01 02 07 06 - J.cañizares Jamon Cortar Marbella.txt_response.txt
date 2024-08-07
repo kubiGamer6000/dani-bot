@@ -1,0 +1,17 @@
+1. Customer inquiry: Asking about the price for ham cutting with and without product for an event on 30/7 in Sotogrande.
+2. Service pricing:
+   - Just ham cutter: 120 euros.
+   - Ham prices depend on quality.
+3. Ham options provided:
+   - Joselito Gran Reserva: 590 euros.
+   - 5 Jotas: 750 euros.
+   - Maldonado: 705 euros.
+4. Ham specification: 100% acorn-fed Ibericos hand-selected by a quality certifier.
+5. Inquiry: Asking about pata negra availability.
+6. Confirmation: All hams available are pata negra, from cebo to bellota.
+7. Inquiry about availability: Requesting availability for 18/07 at 19:00 with an affordable ham for cutting.
+8. Location confirmation: The event is in Marbella.
+9. Inquiry for a quote: Requesting a quote for the service.
+10. Customer inquiry: Asking if the customer can cut ham tomorrow at 18:00.
+11. Location for tomorrow's event: Inquiring if the location is in Marbella.
+12. Update: Unable to change a date for events but apologetic about it.

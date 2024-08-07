@@ -1,0 +1,23 @@
+1. Customer inquiry: Event for 50 people at the end of July from 14:00 to 20:00 with a request for healthy food menus.
+2. Menu options proposed:
+   - Appetizers:
+     1. Quinoa Salad: Cooked quinoa with fresh vegetables (cucumber, cherry tomato, red bell pepper) dressed with lemon and olive oil.
+     2. Avocado and Tomato Bruschetta: Toasted whole grain bread with mashed avocado, diced tomato, and fresh basil.
+     3. Cucumber and Hummus Rolls: Cucumber slices rolled with chickpea hummus and grated carrot.
+   - Main Courses:
+     1. Grilled Chicken with Vegetables: Chicken breast marinated in herbs and olive oil, grilled and served with roasted vegetable medley (zucchini, eggplant, bell peppers).
+     2. Baked Salmon with Dill: Baked salmon fillets with dill and lemon served with brown rice and steamed broccoli.
+     3. Lettuce Tacos with Turkey: Romaine lettuce as the base filled with ground turkey, guacamole, tomato, and cilantro.
+   - Side Dishes:
+     1. Spinach and Strawberry Salad: Fresh spinach, strawberries, walnuts, and feta cheese with balsamic vinaigrette.
+     2. Cauliflower Tabbouleh: Grated cauliflower, parsley, mint, tomato, and onion with lemon and olive oil dressing.
+     3. Roasted Sweet Potatoes: Cubed sweet potatoes roasted with rosemary and olive oil.
+   - Desserts:
+     1. Fruit Skewers: Pineapple, strawberries, grapes, and melon on skewers.
+     2. Greek Yogurt with Honey and Nuts: Natural Greek yogurt with a touch of honey and chopped nuts.
+     3. Chia Coconut Mousse: Chia seeds hydrated in coconut milk served with fresh fruits.
+   - Drinks:
+     1. Infused Water: Water with slices of lemon, mint, and cucumber.
+     2. Natural Iced Tea: Green or black tea lightly sweetened with honey.
+     3. Fruit Smoothies: Blend of fresh fruits (strawberry, banana, mango) with almond milk.
+3. Inquiry about pricing: Customer asks for prices and request for a quote.

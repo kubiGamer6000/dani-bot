@@ -1,0 +1,19 @@
+1. Customer inquiry: Information on the menu and availability for a gathering in Malaga for 12 people on Saturday.
+2. Cuisine inquiry: Interest in the type of cuisine or specific dishes for the menu.
+3. Availability inquiry: Confirmation of availability for Saturday.
+4. Event timing: Requesting availability for between 17:00 and 21:00.
+5. Dinner option inquiry: Inquiry about whether to choose a sit-down dinner or finger food.
+6. Menu preference: Preference for finger food but openness to exploring both options.
+7. Service pricing: Acknowledgment of a price of €60 + VAT per person for the party menu.
+8. Guest count: Total of 13 people for the event.
+9. Finger food quantity inquiry: Asking if 8 pieces per person is enough.
+10. Recommended quantity: Suggestion of 12-14 pieces per person for finger food.
+11. Service details: Confirmation of staff service for 4 hours, including serving drinks and food, cleaning, and clearing after the party.
+12. Alcohol provision: Clarification on whether they provide their own alcohol and how the service will work.
+13. Cleaning inquiry: Inquiry about the specifics of cleaning after the event.
+14. Chef option inquiry: Interest in the chef option with an assistant.
+15. Pricing for chef and assistant: Confirmation that the price is €600 + VAT + groceries shopping or €120 per person inclusive.
+16. Dish inquiry: Inquiry about the cost of food for two paellas.
+17. Grocery budget inquiry: Discussion about potentially reducing costs if they provide basic ingredients for the paellas.
+18. Paella type specification: Specification of types of paella: seafood paella and chicken (meat) paella.
+19. Paella cooker inquiry: Inquiry about the availability of a paella cooker for the event.

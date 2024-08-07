@@ -1,0 +1,23 @@
+1. Customer inquiry: Ordering 2 box platters for delivery on the morning of May 25th.
+2. Box platter details:
+   - 1 box of croissants
+   - 1 box of fruit with yogurts
+3. Delivery charge: €25 + VAT in Cancelada.
+4. Delivery time: Requested at 9 AM.
+5. Croissant flavors requested:
+   - Scrambled egg
+   - Smoked salmon
+   - Ham & cheese
+   - Bacon & egg
+6. Pricing breakdown:
+   - 1 box of croissants @ €50 + VAT
+   - 1 box of fruit and yogurts @ €50 + VAT
+   - Delivery @ €25 + VAT
+   - Total gross: €137.50
+7. Payment methods: Inquire about payment options, specifically cash on delivery and bank transfer/Revolut.
+8. Revolut payment details provided for bank transfer:
+   - Beneficiary: Daniela Rosu
+   - Account: 51523086
+   - Sort Code: 04-00-75
+   - Bank Name: Revolut Ltd, 7 Westferry Circus, E14 4HD, London, United Kingdom
+9. Confirmation of payment: £1 sent for trial and full amount sent after confirmation.

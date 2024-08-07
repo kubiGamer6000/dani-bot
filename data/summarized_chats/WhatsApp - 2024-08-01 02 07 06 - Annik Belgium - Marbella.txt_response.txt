@@ -1,0 +1,8 @@
+1. Customer inquiry: Ordering 2 food sandwich boxes for Thursday.
+2. Service availability: Customer wants the order for Thursday at 14:00.
+3. Online ordering: Customer informed about the website for online ordering.
+4. Customization request: Customer requests two boxes with specific items.
+5. Mix box contents: Request for items like "bao b breath" in the boxes.
+6. Event potential: Customer indicates potential future events with Dani's Catering.
+7. Confirmation of timing: Customer confirms the order for the next day at 14:00.
+8. Location inquiry: Customer asks for the location.

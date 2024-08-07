@@ -1,0 +1,15 @@
+1. Customer inquiry: Order for 2 boxes for tomorrow
+2. Inquiry about delivery or pick up: "What box you like, what time and you wanted delivered or pick up?"
+3. Pick up time: 2 pm for the initial order
+4. Payment inquiry: "Can I pay by card please?"
+5. Total cost for order: €110 including VAT
+6. Inquiry about pick up location: "how much will I pay please, and where do I find you?"
+7. Confirmation of location: "yes still at university"
+8. Additional order: "is it ok to order one more please? for tomorrow"
+9. Total boxes: 3 boxes in total
+10. Menu items for the order: sandwiches, Asiatic platter, and canapés
+11. Invoice request for the order
+12. Customer email for invoice: Mirka.krommerova@gmail.com
+13. Invoice total mentioned: 165€
+14. Company name for invoice: MiraSol s.r.o.
+15. VAT number for invoice: SK2121846650

@@ -1,0 +1,9 @@
+1. Customer inquiry: Vegan box delivery
+2. Delivery time inquiry: Delivery for a vegan box wanted for tomorrow morning, could also be delivered today around 2 PM
+3. Delivery address: Calle Cipreses, Calahonda, Málaga, Spain
+4. Delivery charge: 10€ for delivery; delivery free if two boxes are ordered
+5. Payment method: Bank transfer
+6. Menu inquiry: Interested in a box with a mix of snacks such as hummus and sandwiches
+7. Dietary requirements: Vegan box, not strict; can include some vegetarian items like brioche bread
+8. Personalized message request: Write on the box "To Maria, Get well soon and rest up and most importantly eat well!!! Lots of love Nom"
+9. Customer feedback: Customer expressed satisfaction with the delivered box; the recipient was pleased and surprised.

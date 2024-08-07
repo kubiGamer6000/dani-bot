@@ -1,0 +1,9 @@
+1. Customer inquiry: Request for name, date of the event, and guest numbers to send party packages.
+2. Package options: 
+   - Finger food/canapés selection of 8: Beautiful buffet display set-up, no staff @ €40/person.
+   - With staff service for 4 hours helping serve drinks and food @ €50/person + VAT.
+   - BBQ party and tapas @ €100/person + VAT (includes all equipment, plates, cutlery, staff service for 4 hours).
+   - Unlimited drinks package for 4 hours (cava, wine, beers, soft drinks, organic homemade lemonades) @ €40/person for 4 hours, extra hour €10 extra.
+3. Customer inquiry: Request for pictures of food.
+4. Inquiry about venue options: Customer asking about venue for kids' party and decorations based on boy/girl themes or specific cartoon stars.
+5. Guest count: Approximately 30 or more for the kids' party.

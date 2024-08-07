@@ -1,0 +1,33 @@
+1. Availability inquiry: Availability for 10.03.24.
+2. Catering service: Custom menus possible.
+3. Dietary accommodation: Halal food is available.
+4. Inquiry about children's menu options.
+5. Children's package cost: €25/child + VAT. Guests can choose 5 from a list of options including:
+   - Mini Beef Burgers
+   - Chicken Burgers
+   - Fish Sticks
+   - Chicken Nuggets
+   - Ham Sandwiches
+   - Cheese Sandwiches
+   - Veggie Sticks with Dips
+   - Mini Pizzas
+   - Mini Hot Dogs
+   - Chicken Skewers
+   - Mini Quesadillas
+   - Macaroni and Cheese
+   - Popcorn Chicken
+   - Brownies
+   - Fruit Skewers with Yogurt Dip
+6. Total counts:
+   - 25 children, selecting Mini Beef Burgers, Mini Hot Dogs, Nuggets, Mini Pizza, and Fruit Skewers.
+7. Pricing breakdown:
+   - 3 Picnic Boxes: €150 + VAT each
+   - 3 Croissant Boxes: €150 + VAT each
+   - Children's Pack for 35 people: €40 each = €1400 + VAT
+   - Children's Pack for 25 children: €25 each = €625 + VAT
+8. Additional services inquiry: Popcorn Station €300 + VAT, Cotton Candy Station €400 + VAT, Ice Cream Station €500 + VAT, Crepe Station €500 + VAT, Lemonade Station €500 + VAT.
+9. Lemonade Station details: Includes 5 types of lemonade, 8 liters each, customizable based on preferences or dietary requirements.
+10. Inquiry about reservation and payment: Asking if payment can be made without VAT and in cash. 
+11. Guest requirements: Total meal request including 2 Asian boxes, bagels, mini pitta, cheese boxes, sandwiches, croissants, desserts.
+12. Important dietary note: All food should be halal, no pork.
+13. Deposit paid: €500.

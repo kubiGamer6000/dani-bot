@@ -1,0 +1,10 @@
+1. Customer inquiry: Breakfast for 15 to 17 people on 2 September.
+2. Service inquiry: Full chef service including grocery shopping, preparations, table service, and cleanup. An assistant included for 7+ guests.
+3. Pricing inquiry:
+   - Price up to 7 guests: €160/day + VAT + groceries receipts.
+   - Price for 8 to 15 guests: €320/day + VAT + groceries receipts.
+4. Food inquiry: Request for estimated food costs for breakfast for 17 people (14 adults and 3 children).
+5. Pricing for breakfast service: €350 + VAT for 17 guests, estimated food cost around €400 + VAT for standard Continental breakfast.
+6. Inquiry about Continental breakfast contents.
+7. Request for pricing of pancakes and eggs.
+8. Inquiry for a list of items that can be included in a Continental breakfast for ideas.

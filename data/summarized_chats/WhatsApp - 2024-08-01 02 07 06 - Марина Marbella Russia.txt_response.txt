@@ -1,0 +1,11 @@
+1. Customer inquiry: Asking for an approximate cost for a birthday event for 15 people at the beginning of August.
+2. Venue inquiry: Asking if a venue is provided for the event.
+3. Language inquiry: Inquiring if there is a Russian speaker on the team.
+4. Event date: The event is scheduled for July 8th.
+5. Pricing quote for venue: €2500 for the venue.
+6. Pricing quote for food and drinks: Approximately €1000 for food and drinks.
+7. Russian speaker confirmation: Yes, there is someone who speaks Russian.
+8. Rental inquiry: Asking if they can stay overnight if a villa is rented.
+9. Follow-up inquiry: Confirming the rental cost of €2500 per day.
+10. Catering preferences inquiry: Asking preferences for catering (BBQ, buffet, or seated dinner) to prepare an accurate quote.
+11. Additional services inquiry: Asking if a bar, drink package, DJ services, or entertainment program is needed.

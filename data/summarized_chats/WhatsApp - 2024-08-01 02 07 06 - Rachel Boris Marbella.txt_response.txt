@@ -1,0 +1,30 @@
+1. Menu inquiry: 
+   - Sushi platter
+   - Tacos:
+     - Chicken
+     - Prawns and Lime Tempura
+     - Mushrooms and Roasted Vegetables
+   - Mixed platter
+   - Fish dish
+   - Dessert platter
+2. Packaging inquiry: Customer asking how the food is packed and if it can be taken to the beach.
+3. Pickup location: Marbella International University Centre.
+4. Pickup time: Tomorrow at 10:00 am, confirmed by the business.
+5. Payment method inquiry: Customer asking if they can pay cash.
+6. Order cancellation inquiry: Customer asking if it is possible to cancel the order after their mother canceled.
+7. Future planning: Customer plans to order the same items for the next weekend with friends.
+8. Order for July 31st:
+   - Sushi platter 
+   - Mezze platter 
+   - Canapés:
+     1. Thai pulled chicken
+     2. Sweet & sour chicken
+     3. Mini burrata caprese
+     4. Russian salad 
+     5. Mini shrimp & tartar
+     6. Coronation chicken 
+   - Dessert platter
+9. Payment inquiry for July 31st order: Customer asking if they can pay with card.
+10. Confirmation of location for pickup: Inside the university cafeteria.
+11. Order fulfillment confirmation: Order for July 31st is confirmed and noted.
+12. Appreciation for staff: Customer thanking for the service and tipping the staff.

@@ -1,0 +1,35 @@
+1. Customer inquiry: 16 pax consisting of 10 adults and six teenagers.
+2. Menu inquiry: 
+   - Sushi platter for a starter
+   - Beef, fish, and chicken options on the barbecue
+   - Salads and a hot potato option
+3. Pricing inquiry: Customer asks for prices and menu options.
+4. Updated menu proposal provided to the customer includes:
+   - **Starter:**
+     - Sushi Platter with assorted sushi rolls and sauces.
+   - **Main Course - Barbecue Selection:**
+     - Beef Option: Grilled ribeye steaks with sauces.
+     - Fish Option: Grilled salmon fillets marinated in lemon and herbs.
+     - Chicken Option: BBQ chicken skewers with marinades.
+     - Hot Potato Option: Grilled baby potatoes with garlic and rosemary.
+   - **Salads:**
+     - Garden Salad and Caesar Salad.
+   - **Surprise Dessert Platter**: Chef's selection of mini desserts.
+   - **Fruits**: Fresh seasonal fruit platter.
+   - **Pricing**: €120 per person for adults and €60 for teenagers.
+5. Customer requests changes to the menu:
+   - Remove sashimi, just do sushi rolls.
+   - Change salmon to prawns.
+   - Substitute garden salad for coleslaw.
+6. Updated menu proposal provided:
+   - Pricing: €110 per person for adults and €55 for teenagers.
+7. Special dietary request: One guest requires wild organic salmon.
+8. Additional inquiry: Request for a birthday cake for around 8 pax.
+9. Customer confirms payment arrangement, mentioning she can visit the office.
+10. Customer provides full address for setup.
+11. Customer inquires about payment by card.
+12. Confirmation of sauce choices for the barbeque: Pepper with ribeyes and barbecue with chicken skewers.
+13. Inquiry for a sushi box for 7 pax with a delivery request on 30th May.
+14. Customer requests freshly made sushi rolls only.
+15. Confirmation that Dani's Catering is fully booked on the 30th May but will check availability and let the customer know on Wednesday.
+16. Customer offers to collect the sushi if delivery isn't possible.

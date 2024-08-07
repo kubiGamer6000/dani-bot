@@ -1,0 +1,22 @@
+1. Customer inquiry: Request for the catering brochure with prices.
+2. Delivery inquiry: Do you offer catering where you deliver the food (without waiting staff)?
+3. Event details: Customer's daughter’s birthday party on July 22nd, in Estepona.
+4. Delivery charge: For delivery in Estepona, the charge is €30 + VAT.
+5. Food order list:
+   - 1 x cheese platter
+   - 1 x charcuterie platter
+   - 1 x seasonal fruit platter
+   - 1 x canapés platter (includes Thai pulled chicken, duck & hoisin sauce, mini shrimp, Brie & cranberry, sweet & sour chicken, mini burrata caprese)
+   - 1 x sandwich platter (includes mozzarella tomato pesto, bacon lettuce tomato, tuna sweetcorn, prawn lime mayo)
+6. Pricing inquiry: Final price including delivery to Estepona.
+7. Pricing breakdown:
+   - 4 platters at €50 each + VAT
+   - 1 platter at €30 + VAT
+   - 1 delivery at €30 + VAT
+   - Total excluding VAT: €260
+   - VAT: €26
+   - Total gross: €286
+8. Booking confirmation: Customer confirms and books for delivery on July 22nd at 14:00 to Urbanización Altos de Guadalobon, Calle Clavelinas number 6, Estepona.
+9. Payment inquiry: Does the full payment need to be transferred or do you accept part cash?
+10. Payment confirmation: Full payment to be done via transfer.
+11. Customer provides full name and NIE number for the invoice: Alicia Rodriguez Lewis - DNI: 08923508Z.

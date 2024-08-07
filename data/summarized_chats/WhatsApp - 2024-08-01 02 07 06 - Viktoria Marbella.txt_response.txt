@@ -1,0 +1,11 @@
+1. Customer inquiry: Breakfast event for January 13, asking about ordering sandwich and sweet platters.
+2. Pickup inquiry: Confirming pickup time at 8:30, whereas website states earliest is 10:00.
+3. Order details: Initial request for 2 boxes of sandwiches and 1 or 2 boxes of sweets; later increased to 3 boxes of sandwiches and 1 box of sweets.
+4. Guest count: Approximately 20 persons.
+5. Recommendation: Suggested to order a minimum of 4 boxes, with breakdown of 3 savory and 1 sweet.
+6. Customization options: Mentioned bespoke options including yogurts and pancakes.
+7. Invoice inquiry: Asked if payment can be made upon pickup or via bank transfer, requesting an invoice.
+8. Order confirmation: Order placed, confirmed pickup at 8:15.
+9. Confirmation of the location for pickup: Noted it would be at MIUC university cafeteria.
+10. Follow-up for an invoice: Customer inquired about missing invoice for an order from last year.
+11. Billing address provided: Requested an invoice for past services with billing address details.

@@ -1,0 +1,21 @@
+1. Customer inquiry: Looking for a chef for a dinner party and asking about options.
+2. Date of event: September 1st.
+3. Guest count: Approximately 20-25 people.
+4. Menu options provided:
+   - Gourmet Multi-Course Meal (appetizer, salad, main course, dessert)
+   - Italian Feast
+   - Seafood Extravaganza
+   - Vegetarian Delight
+   - Asian Fusion
+   - Mexican Fiesta
+5. Pricing inquiry: Asking about the price per person for specific menus (number 1 and number 5).
+6. Pricing for buffet style dinner: Usually charges €120 per person + VAT, but flexible to accommodate budget constraints.
+7. Budget inquiry: Customer's budget is around €70-80 per person.
+8. Menu customization: Inquiry about having different options for starters and mains, and whether guests can choose individually.
+9. Serving style: Prefers buffet style with sitting down for guests.
+10. Equipment and decoration services inquiry: Asked for a quote for long table and chairs setup (fully set up with cutlery, glasses, etc. for €2000 + VAT including delivery, setup, and breakdown).
+11. Additional decoration costs: 
+    - Chandeliers setup and collection: €1000 + VAT for three chandeliers.
+    - Candle setup: €500 + VAT.
+12. Final food arrangement: Customer confirms they will arrange the table themselves but would like to book the food buffet.
+13. Deadline for guest count: Needs the exact number of guests three days before the event.

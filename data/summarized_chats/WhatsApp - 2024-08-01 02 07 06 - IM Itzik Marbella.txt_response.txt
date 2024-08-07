@@ -1,0 +1,13 @@
+1. Customer inquiry: Catering for a company Halloween party on the 31st of October for approximately 45 persons.
+2. Availability: Confirmed availability on the 31st of October.
+3. Location: Event will be held in El Madroñal.
+4. Service options requested: 
+   - Canapés
+   - Finger food
+   - Drinks and service
+   - Buffet (hot and cold)
+5. Staffing options requested: 
+   - Barman
+   - Waiters
+6. Additional equipment inquiry: Possible need for tables.
+7. Package customization: Interested in personalizing a package based on preferences.

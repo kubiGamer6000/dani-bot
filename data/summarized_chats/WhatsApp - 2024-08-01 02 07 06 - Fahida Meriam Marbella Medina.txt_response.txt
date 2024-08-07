@@ -1,0 +1,8 @@
+1. Customer inquiry: Takeaway food for 10 people needed by tomorrow at noon.
+2. Menu for takeaway:
+   - Lamb Tagine: Slow-cooked lamb stew with Moroccan spices, apricots, and almonds.
+   - Couscous: Fluffy couscous infused with saffron, turmeric, and vegetables like carrots, zucchini, and chickpeas.
+   - Kofta: Meatballs made of lamb or beef with Moroccan spices, grilled or baked, served with yogurt or tahini sauce.
+   - Moroccan Rice Pilaf: Fragrant basmati rice cooked with onions, raisins, almonds, and a blend of Moroccan spices like cumin, coriander, and cinnamon, garnished with fresh parsley.
+3. Price agreed: €200.
+4. Delivery time: To be picked up at 12:30 PM next Sunday.

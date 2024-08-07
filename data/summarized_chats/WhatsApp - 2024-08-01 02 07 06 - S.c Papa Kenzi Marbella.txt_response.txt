@@ -1,0 +1,17 @@
+1. Customer inquiry: Order for 6 boxes costing €300.
+2. Delivery time: Requested at 19:00.
+3. Menu items included in the order:
+   - 2x mini burgers (beef/chicken)
+   - 2x sandwich platter
+   - Turkey cucumber salad
+   - Ham cheese salad with egg mayo, peppers, and hummus
+   - 2x tapas platter
+   - Duck foie gras
+   - Salmon and caviar
+4. Inquiry about delivery costs: "If any extra cost come on it for delivery let me know?"
+5. Delivery location: Villa near Puerto Banus.
+6. Free delivery: "Free delivery on this occasion, no problem."
+7. Time adjustment for delivery: "Can we do between 6/7 I need organizing delivery slots."
+8. Food allergies inquiry: "Let me know if you know any food allergies."
+9. Inquiry about freshness: "Will they stay fresh?"  
+10. Confirmation of food preparation: "We just done them now."

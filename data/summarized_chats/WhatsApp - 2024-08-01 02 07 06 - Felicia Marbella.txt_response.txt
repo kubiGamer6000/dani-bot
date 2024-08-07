@@ -1,0 +1,22 @@
+1. Customer inquiry: Booking for November with 6-8 people for a birthday celebration from 17-22 Nov.
+2. Service inquiry: Looking for a private chef for the stay.
+3. Specific meal requests for the stay:
+   - Day 1: Brunch BBQ
+   - Day 2: Breakfast and dinner
+   - Day 3: Breakfast 
+   - Day 4: Breakfast and dinner 
+   - Day 5: Breakfast
+4. Quote request: Asking for a quote for the specified meals for 8 people.
+5. Quotation provided:
+   - Day 1: Brunch BBQ = €600
+   - Day 2: Breakfast & dinner = €1200
+   - Day 3: Breakfast = €400
+   - Day 4: Breakfast & Dinner = €1200
+   - Day 5: Breakfast = €400
+   - Total before VAT: €3800
+   - VAT: €380
+   - Grand total: €4180.00
+6. Pricing breakdown:
+   - Breakfast per adult: €50 + VAT (all groceries included)
+   - Lunch per adult: €75 + VAT (all groceries included)
+   - Dinner per adult: €100 + VAT (all groceries included)

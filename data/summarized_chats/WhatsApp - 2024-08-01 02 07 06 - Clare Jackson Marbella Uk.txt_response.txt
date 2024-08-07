@@ -1,0 +1,10 @@
+1. Customer inquiry: Interested in a night of cocktails and buffet/canapés type food for 8 people.
+2. Price inquiry: Request for a price list, menus, and different services provided.
+3. Availability inquiry: Asks about availability for the dates 22nd July - 25th July.
+4. Menu details:
+   - Finger Food Options: Standard price for 8 canapés is 60 EUR per person plus VAT. Each additional finger food option is 5 EUR per person plus VAT.
+   - Mobile cocktail bar service: Approximate cost for a 2-hour service for 8 people is 600 EUR plus VAT, including unlimited 3 types of cocktails.
+5. Staff inquiry: Asks if additional payment for staff is required for the €60 per head menu paid for the minimum 10 people.
+6. Confirmation: No staff will be included for 4 hours.
+7. Cost inquiry: Asks for the exact cost with VAT for the €60 per head menu for 10 people and the cocktail service for 8 people.
+8. Additional cost request: Inquires about the cost for €40 per head for 10 people and the cocktail stand for 8 people, and whether there would be a cost for staff with this option.

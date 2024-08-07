@@ -1,0 +1,16 @@
+1. Customer inquiry: Picnic/sandwiches/brunch for 6 Dutch people
+2. Inquiry for recommendations: "Can you suggest us what to order for 6 people?"
+3. Menu suggestion:
+   - Picnic box with a bit of everything
+   - Charcuterie mix cheese platter
+4. Confirmation request: "this included sandwiches?"
+5. Price inquiry for the order including drinks: "can you send me a price of how much this will be included drinks?"
+6. Price details provided: 
+   - 2 boxes of mixed @ €100 + VAT
+   - 1 jug of fresh orange juice @ €50 + VAT
+7. Total pricing: 
+   - Initial total: €150
+   - Final total including VAT: €165
+8. Inquiry about serving size: "and that bottle of juice is enough for 6 people?"
+9. Sandwich quantity inquiry: "My boss asked me about how many sandwiches are in the box"
+10. Sandwich details: "1 box has 40 little sandwiches, 4 flavours"

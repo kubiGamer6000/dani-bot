@@ -1,0 +1,38 @@
+1. Customer inquiry: What price do you have for cutting ham in Marbella?
+2. Service inquiry: The cost for ham cutting is €180.
+3. Quality options and pricing:
+   - Bellota 100%: €380
+   - Cebo campo: €280
+   - Cebo: €180
+4. Availability inquiry: Need for this Friday at 8 PM.
+5. Confirmation of availability: Available for Friday without issue.
+6. Total cost with discounts applied: 
+   - Bellota 100%: €530 (€380 + €150 for cutting - €30 discount).
+7. Additional service inquiry: Do you need ham for Saturday?
+8. Pricing for services offered:
+   - Cebo: €290 (including cutting).
+   - Cebo de campo: €360 (including cutting).
+9. Pricing options with discount applied:
+   - Cebo with 50%: €140 + €150 (cutting) = €290
+   - Cebo de campo with 75%: €210 + €150 (cutting) = €360
+   - Bellota 100%: €350 + €150 (cutting) = €500
+10. Service area inquiry: Event is in Jade Tower, Calle Madrid 79 Fuengirola.
+11. Payment methods discussed: Ability to use Bizum or bank transfer for payment.
+12. Invoice issued for services: Including the company details with VAT mentioned. 
+13. Event timing: The event is set from 12:00 to 20:00 on Saturday. 
+14. Request for event location: Need the location or address of the event for the next day.
+15. Total agreed price for services: €300 with invoice requested for transfer payment. 
+
+---
+
+1. Customer inquiry: Do you have time tomorrow afternoon? 
+2. Quality options and pricing:
+   - Cebo (the cheapest): €290
+   - Cebo de campo: €360
+3. Total pricing conversation continued regarding the ham services, including options discussed earlier. 
+4. A request from the customer to confirm the service was at Jade Tower, Calle Madrid 79 Fuengirola. 
+5. Service confirmation from Fran indicating he can also find a colleague to accommodate a scheduling conflict.
+
+---
+
+All relevant details concerning service inquiries, offerings, pricing, and availability extracted from the conversations analyzed.

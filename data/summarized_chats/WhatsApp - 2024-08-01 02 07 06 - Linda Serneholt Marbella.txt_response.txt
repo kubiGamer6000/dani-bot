@@ -1,0 +1,26 @@
+1. Customer inquiry: Renting glasses and the cost.
+2. Event details: Opening during 3 days, 3-5 April (between 11:00-18:00 each day).
+3. Food request: Finger food and cheese/fruit platter for approximately 30 people/day.
+4. Food storage concern: Need food that doesn’t get bad too fast.
+5. Birthday party inquiry: Small birthday party for turning 45 on June 23.
+6. Bartender inquiry: Availability of a bartender for approximately 2 hours from around 18:00-18:30.
+7. Guest count: Approximately 15-20 people for the birthday party.
+8. Food preference: Interested in package 3 with everything served at the same time like a buffet, without dessert or coffee.
+9. Quote request: Request for quote for the party.
+10. Package details: 
+   - Package 3 @ €80.00 / person + VAT includes:
+     - Selection of any 4 tapas (suggestions provided).
+     - BBQ premium cuts meat and fish.
+     - Organic salads and grilled vegetables.
+     - Fruit skewers and mini dessert bites.
+     - Beautiful display and table decoration.
+     - Staff service for 4 hours.
+     - Option for drinks package @ €30/person + VAT.
+     - Options for entertainment and personalized birthday cake (additional costs).
+11. Booking request: Want to book food for the event on June 23 for 15 people.
+12. Query: Inquiry about the guitar player's music style (covers or Spanish music).
+13. Bartender availability: Asked if there is a bartender available for approx 2 hours.
+14. Drink preferences: Decided on serving mojitos, strawberry daiquiris, and gin tonics.
+15. Final guest count: Confirmed final number of guests as 15.
+16. Equipment drop-off: Arriving in the morning (9/10) to drop off equipment for the event.
+17. Event readiness: Request for the setup to be ready by 18:15 for guests arriving at 18:30.

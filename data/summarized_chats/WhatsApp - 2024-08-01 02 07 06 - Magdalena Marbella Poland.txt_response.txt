@@ -1,0 +1,43 @@
+1. Customer inquiry: Need help with catering for a small party this Sunday.
+2. Order inquiry: Interested in ordering from the party menu or boxes for snacks for 10 adults and 8 small kids.
+3. Number of boxes: 6-7 boxes would be perfect.
+4. Menu order:
+   - CHARCUTERIE PLATTER
+   - SUSHI PLATTER
+   - TAPAS PLATTER 
+     - 6 Smoked Salmon & Caviar
+     - 8 Mushroom Truffle Croquet
+     - 9 Pulled Pork & Horseradish’s Sauce 
+     - 10 Avocado, Quail Egg & Chili Flakes 
+     - 11 Hummus Pickle Cabbage & Carrot 
+   - MINI BURGER PLATTER 
+     - 1 Beef Sliders
+     - 5 Vegetarian Sliders
+   - ASIAN PLATTER 
+     - 2 Pulled Pork Bao
+     - 3 Prawn Tempura & Sweet Chilli
+   - SALAD TAKE AWAY (4 Quinoa Salad & Slaw VEGAN PLEASE)
+   - SURPRISE DESSERT PLATTER
+5. Delivery details: Delivery to Urb. Reserva Alcuzcuz 8 (casa woodside) between 10-11:30 on Sunday, 2nd of June.
+6. Confirmation request: Customer requests confirmation to avoid trouble.
+7. Delivery confirmation: Confirmed delivery time between 10-11:30.
+8. Payment inquiry: Customer asks if payment is made in advance or on delivery.
+9. Pricing detail:
+   - CHARCUTERIE PLATTER @ €50 + VAT 
+   - SUSHI PLATTER @ €75 + VAT 
+   - TAPAS PLATTER @ €75 + VAT 
+   - MINI BURGER PLATTER @ €50 + VAT 
+   - ASIAN PLATTER @ €75 + VAT 
+   - SALAD TAKE AWAY @ €50 + VAT 
+   - SURPRISE DESSERT PLATTER @ €50 + VAT 
+   - Net total = €425 + VAT
+   - Delivery = €25 + VAT
+   - 10% VAT = €45
+   - Grand total = €495
+10. Payment options: Can pay cash on delivery or via bank transfer.
+11. Payment method inquiry: Customer asks if Revolut is accepted.
+12. Revolut payment details provided:
+    - Beneficiary: Daniela Rosu
+    - IBAN: GB42 REVO 0099 7007 0631 51
+    - BIC / SWIFT code: REVOGB21
+    - Bank Name and Address: Revolut Ltd, 7 Westferry Circus, E14 4HD, London, United Kingdom.

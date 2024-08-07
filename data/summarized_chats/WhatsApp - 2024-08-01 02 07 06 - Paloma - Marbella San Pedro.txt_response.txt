@@ -1,0 +1,10 @@
+1. Customer inquiry: Reservation for a picnic box for dinner tomorrow at 21:30.
+2. Pricing confirmation: Total cost of 35 euros (25 euros for the picnic box + 10 euros for delivery).
+3. Sandwich options inquiry: Asking if she can choose Deluxe and gourmet sandwich types.
+4. Gourmet sandwich selections:
+   - Egg, mayonnaise, and lamb’s lettuce
+   - Crostini with chicken curry and raisins
+5. Deluxe sandwich selections:
+   - Salmon, cream cheese mousse, and caviar
+   - Goat cheese wrap, sun-dried tomatoes, and lamb’s lettuce
+6. Time adjustment: Initially asking to change the time to 21:00, but later confirmed to retain original time of 21:30.

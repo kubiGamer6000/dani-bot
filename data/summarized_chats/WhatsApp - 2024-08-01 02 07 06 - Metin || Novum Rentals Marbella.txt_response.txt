@@ -1,0 +1,23 @@
+1. Customer inquiry: Guest staying at a villa from July 23 to August 14, requiring dinner 2 times a week, totaling 6 dinners.
+2. Weekly guest counts: 
+   - Week 1: 8 people 
+   - Week 2: 16 people 
+   - Week 3: 8 people
+3. Pricing: €25 per hour for 6 hours each dinner, confirming a total of €936.
+4. Confirmation of 5 dinner dates: 
+   - July 25 (8 people)
+   - July 30 (9 people)
+   - August 2 (16 people)
+   - August 6 (11 people)
+   - August 9 (10 people)
+5. Dietary requirements: 
+   - 2 pescatarians (only eat vegetables and fish - no meat)
+   - 1 person allergic to all fin fish (includes fish stock), can eat shellfish.
+   - In the following weeks, 1 pescatarian and 2 people allergic to all fin fish (can eat shellfish). One of these sons is also allergic to sesame seeds and nuts.
+6. Booking arrangements: Confirmation of chef service for specified dates and dietary restrictions provided to the chef.
+7. Inquiry about taking over the booking from Gianluigi; confirmation that the quoted prices from Gianluigi are below their rates.
+8. Request for breakfast and dinners daily from tomorrow to August 22, serving 6 persons.
+9. General schedule for meals: Breakfast from 8 to 10 am and dinner from 8:30 to 10:30 pm.
+10. Quoted rate: €1500 per day including breakfast & dinner, as well as 10% commission.
+11. Follow-up on total pricing: Clarification on daily versus weekly costs for meal service.
+12. Request for chef service priced at €40 per hour, with food and groceries as additional costs; unable to accommodate this request.

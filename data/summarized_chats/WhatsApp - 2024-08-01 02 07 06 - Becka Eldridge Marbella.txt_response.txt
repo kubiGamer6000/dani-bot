@@ -1,0 +1,16 @@
+1. Customer inquiry: Request for menu options and details.
+2. Menu inquiry: Asking if there is a section for gluten-free, dairy-free, and vegan options.
+3. Customization inquiry: Asking if customization is possible.
+4. Order details: 2x mini burger platters, 2x cold taco platters, and 1x tapas platter, with gluten-free options specified.
+5. Pricing inquiry: Asking if the total for the platters would be €275.
+6. Confirmation of pricing: €275 + VAT = €302.50 total.
+7. Booking details: Delivery fee of €25 + VAT if the customer opts for delivery.
+8. Payment details: Preference for card payment and inquiry about pickup or delivery.
+9. Collection details: Customer asks about collection times and whether they can collect in the morning.
+10. Delivery option inquiry: Customer requests delivery instead of pickup due to a prior engagement.
+11. Delivery time confirmation: Requesting to schedule delivery for 5 PM on June 21st.
+12. Payment timeline: Payment needed 2 days in advance.
+13. Final payment method: Customer requesting to pay cash or via bank transfer due to card machine not working.
+14. Bank transfer details provided: Account information for payment in British pounds.
+15. Total payment confirmed: £300 discussed as a payment option.
+16. Delivery confirmation: Confirmation of delivery time at 5 PM and location provided.

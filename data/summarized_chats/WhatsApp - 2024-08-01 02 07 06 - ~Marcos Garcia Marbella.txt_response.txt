@@ -1,0 +1,9 @@
+1. Customer inquiry: Requesting a box for Friday, June 14 in the afternoon, to be picked up between 5-6 PM.
+2. Menu order: Tapas Platter with the following items:
+   - Thai Chilli Chicken
+   - Med Vegetable with Feta
+   - Goat cheese, walnut & fig
+   - Mushroom truffle croquettes
+   - Pulled pork with horseradish
+3. Pricing: €75 + VAT.
+4. Confirmation: Ready by 5:00 PM on June 14.

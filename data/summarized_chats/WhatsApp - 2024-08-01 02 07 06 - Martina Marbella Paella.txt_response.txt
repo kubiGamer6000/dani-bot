@@ -1,0 +1,11 @@
+1. Customer inquiry: Questions about paella for an event on February 28th for approximately 25 people.
+2. Service availability: They do not need live cooking; only the paella is required.
+3. Pickup option: The customer can pick up the paella.
+4. Pan rental: The catering service provides the pan for the paella, which can be returned after the event.
+5. Pricing: A large pan of paella suitable for 10-12 guests costs €200 + VAT per pan. For 25 people, the recommendation is to order two pans.
+6. Paella types available:
+   - Paella Valenciana (traditional paella with chicken, rabbit, and vegetables)
+   - Seafood Paella (with shrimp, clams, and mussels)
+   - Mixed Paella (combining meat and seafood)
+   - Vegetable Paella (with seasonal vegetables)
+   - Black Paella (made with squid ink)

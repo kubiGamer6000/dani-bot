@@ -1,0 +1,22 @@
+1. Customer inquiry: Availability for June 18th.
+2. Catering offer: Selection of 8 finger foods delivered for 8 people at €250 including delivery.
+3. Drink options inquiry: 
+   - Homemade organic lemonade for €40.
+   - Strawberry mojito mix for €100.
+   - Blush rosé wines starting from €20.
+   - Premium cava for €30.
+   - Champagne from €80.
+4. Request for meeting details: Discussion of food and drink possibilities.
+5. Dessert inquiry: Desserts available, including personalized birthday cakes, fruit skewers, and mini dessert platters.
+6. Updated guest count: Increased from 8 to 9 guests.
+7. Menu selection request: Mini hamburgers requested along with fresh summery foods, veggies with dips.
+8. Drink request: 6 bottles of blush rosé wine, request for specific type of rosé.
+9. Cost breakdown provided for 9 guests: 
+   - Mini burgers, pulled pork bao, pulled chicken bao, langostinos and sweet and sour, vegetarian gyoza, Serano, camembert and membrillo, goat cheese profiteroles, 1 mega salad bow, vegetable sticks and dips, fruit skewers, mini selection of desserts, 1 jug of homemade lemonade, and 6 bottles of blush rosé.
+   - Total cost: €500 + VAT for takeaway platters; €600 + VAT with setup.
+10. Payment inquiry: Options for cash or invoice.
+11. Invoice requested for bank transfer payment.
+12. Total amount confirmed: Food total €660 including VAT. 
+13. Payment method inquiry: Revolut payment possible.
+14. Notification of delay: Customer informing about being delayed returning home after 17:00. 
+15. Final confirmation: Confirmation of arrival time for setup at 5 PM.

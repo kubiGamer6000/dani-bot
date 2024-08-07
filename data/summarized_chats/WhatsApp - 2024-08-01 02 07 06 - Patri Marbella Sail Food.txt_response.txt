@@ -1,0 +1,8 @@
+1. Customer inquiry: Request for catering quote for oysters, caviar, and seafood.
+2. Pricing information:
+   - Package for 4 guests: 
+     - 2 rock oysters per person
+     - 100g Russian beluga caviar 
+     - Belini & cream cheese 
+     - All ice, lemons, sauces, beautiful display platter
+     - Price: €250

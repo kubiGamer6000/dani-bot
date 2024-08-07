@@ -1,0 +1,16 @@
+1. Customer inquiry: Possible to order 1 Christmas box for €50 with 36 canapés for the evening of 24/12.
+2. Collection inquiry: Where can this be collected?
+3. Menu items listed:
+   - Mini shrimp tartar
+   - Sweet sour chicken
+   - Mini burrata
+   - Black salmon bellini
+   - Goat cheese caramel
+   - Mini fish & chips
+4. Payment inquiry: Do you want me to pay first?
+5. Payment and collection details:
+   - Free collection point in Marbella or a delivery charge of €25.
+6. Collection timing inquiry: Where can we collect on Saturday 24/12?
+7. Customer specifies collection time: Around 6pm or later for fresh and crispy bites; suggested 5:30pm.
+8. Collection confirmation: Customer asks if it's possible to pick up in 10 min, later adjusts to 15 min.
+9. Customer is in front of the gate and inquires if they need to come in by the brown door.

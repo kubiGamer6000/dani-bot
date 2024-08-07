@@ -1,0 +1,58 @@
+1. Customer inquiry: Which items are available from the list to take-away and total price?
+2. Available items for take-away:
+   - 1 x Seasonal vegetables & dips
+   - 1 x Spanish platter
+   - 2 x Charcuterie platter
+   - 1 x Cheese platter
+   - 1 x TAPAS & PINCHO PLATTER
+     - Caramelised onion & goat cheese
+     - Salmon & caviar
+   - 1 x CANAPES PLATTER
+     - Thai pulled chicken
+     - Mini fish & chips
+     - Black salmon blini
+     - Roast duck & pickled onion
+     - Mini buratta caprese
+   - 1 x MINI-BURGER PLATTER
+     - Aged beef burger
+     - Butter fried chicken
+   - 1 x Mezze platter
+   - 3 x MEGA SALAD
+     - Fig, walnut, mozzarella & rocket
+     - Classic organic Greek salad
+     - Italian pesto pasta salad
+3. Pricing for 12 platters: €600 + VAT
+4. Total price (including VAT): €660
+5. Delivery inquiry: Would you be able to deliver this as well?
+6. Confirmation that delivery is available.
+7. Revised order details and costs for 14 platters:
+   - 1 x Seasonal vegetables & dips
+   - 1 x Spanish platter
+   - 2 x Charcuterie platter
+   - 1 x Cheese platter
+   - 1 x TAPAS & PINCHO PLATTER
+     - Caramelised onion & goat cheese
+     - Salmon & caviar
+   - 1 x CANAPES PLATTER
+     - Thai pulled chicken
+     - Mini fish & chips
+     - Black salmon blini
+     - Roast duck & pickled onion
+     - Mini buratta caprese
+   - 1 x MINI-BURGER PLATTER
+     - Aged beef burger
+     - Butter fried chicken
+   - 1 x Mezze platter
+   - 3 x MEGA SALAD
+     - Fig, walnut, mozzarella & rocket
+     - Classic organic Greek salad
+     - Italian pesto pasta salad
+   - 1 x dessert platter
+   - 1 x fruit platter
+8. Pricing for 14 platters: €700 + VAT
+9. Total price for 14 platters (including VAT): €770
+10. Delivery date: Saturday 29 July
+11. Delivery time: 14:00
+12. Packaging policy: Packaging is disposable.
+13. Payment options: Cash transfer or cash on arrival; customer chooses cash on arrival for €770.
+14. Confirmation of delivery time at 2pm.

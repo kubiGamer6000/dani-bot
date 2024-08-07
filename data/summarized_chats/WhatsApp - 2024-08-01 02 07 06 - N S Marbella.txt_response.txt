@@ -1,0 +1,18 @@
+1. Customer inquiry: Availability on February 26 for a dinner gathering
+2. Guest count: 10
+3. Dietary requirements: No dietary requirements
+4. Package inquiry: Interested in the party package two at €60/person
+5. Menu choices:
+   - From the meat menu: 1, 4, 8
+   - From the fish menu: 2, 3, 7, 9
+   - From the vegetable menu: 2
+6. Event start time: Guests arriving at 6:30 PM
+7. Arrival time for catering: They will be there at 5:30 PM
+8. Location shared via link
+9. Inquiry about photos of platters: Customer asked for photos to get an idea about quantity
+10. Information about platters: 10 pieces of each from the chosen menu, totaling 80 pieces of canapés/tapas
+11. Pricing: €600 + VAT, total €660 (including 10% VAT)
+12. Payment inquiry: Customer asked if payment can be made cash or bank transfer, and an invoice can be prepared
+13. Confirmation on platter quantity: Each platter has 10 pieces
+14. Inquiry about plate size: Customer asked about the size of the plates
+15. Additional service inquiry: Need for glasses, ice buckets, etc., for the guests

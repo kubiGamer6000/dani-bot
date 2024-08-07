@@ -1,0 +1,21 @@
+1. Meeting inquiry: Request to schedule a meeting with the chef.
+2. Location inquiry: Asking for the meeting location.
+3. Confirmation of office location: The office is located in Puerto Banus.
+4. Confirmation of partnership: "We have decided to start working with you."
+5. Pricing inquiry: Request for a quote for dinner for 26 people.
+6. Event inquiry: Mentioning a company dinner for the team.
+7. Setup inquiry: Inquiring about a buffet-style setup where employees can serve themselves.
+8. Proposal request: Requesting a proposal for dinner services.
+9. Menu proposal: 
+   - Package 1:
+     - Selection of 8 different styles of appetizers
+     - Choice of cheese, charcuterie, fish, or vegetarian plates
+     - Fruit skewers and mini desserts
+     - Beautiful display and table decoration setup
+     - Collection of plates and decoration after the event
+     - Price: €40.00 per person + VAT
+10. Discount offer: Can offer a 10% discount.
+11. Confirmation of date: Confirming the event is on Friday, November 10.
+12. Beverage inquiry: "Are drinks included?" 
+13. Clarification: "Do sweet items count among the 8 dishes?" 
+14. Confirmed inclusion of desserts: Yes, mini desserts and fruits are included.

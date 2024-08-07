@@ -1,0 +1,12 @@
+1. Customer inquiry: 3 mini burger boxes, 1 sandwich box, requested delivery on 9th of March at 10:00 am.
+2. Delivery inquiry: Confirmation that delivery is available for €25 + VAT.
+3. Order details:
+   - 3 mini burger boxes at €150 + VAT
+   - 1 sandwich box at €50 + VAT
+   - 1 fries at €50 + VAT
+   - Delivery fee at €25 + VAT
+   - Total cost: €225 + VAT (€247.50 including VAT)
+4. Payment method: Customer chose to pay by card.
+5. Additional food inquiry: Customer inquired about fries for kids, confirmed they can have fries or fries & nuggets.
+6. Delivery confirmation: Delivery scheduled for 10:00 am on 9th of March. 
+7. Customer confirmation: Checked if everything is ready for the event on 9th of March.

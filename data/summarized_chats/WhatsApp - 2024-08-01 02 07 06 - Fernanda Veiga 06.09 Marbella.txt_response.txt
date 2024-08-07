@@ -1,0 +1,34 @@
+1. Customer inquiry: Birthday party for approximately 50-70 people on August 6th at 20:00 at their house in Marbella.
+2. Availability: Dani's Catering confirms that they have availability for the event.
+3. Budget inquiry: Customer asks when they can receive a budget for the party.
+4. Event details:
+   - Event date: Saturday, August 6th
+   - Start time: 20:00 hours
+   - Estimated guests: Approximately 70 (to be confirmed).
+5. Package options:
+   - Package 1: 
+     - Price: €50/person + VAT
+     - Includes: Selection of 8 finger food, cheese and meat platters, beautifully decorated buffet table, equipment hire (plates, cutlery, glasses, ice buckets, 4 high tables), staff service until 23:00 (extra €250/hour after).
+   - Package 2:
+     - Price: €75/person + IVA
+     - Includes: Selection of 8 finger food, cheese and meat platters, hot BBQ (mini burgers, beef steak, mini hotdogs, chicken skewers), all non-alcoholic drinks (water and homemade lemonades, ice, etc.), beautifully decorated buffet table, equipment hire (plates, cutlery, glasses, ice buckets, 4 high tables), staff service until 24:00 (extra €250/hour after).
+     - Kids under 10: Free.
+6. Sample finger food items included in packages:
+   - Crudities and dips
+   - Smoked salmon belini
+   - Beef carpaccio crostini
+   - Salmon tartar croute
+   - Tuna tartar spoon
+   - Pulled chicken mini taco
+   - Goat cheese profiterol
+   - Shrimp tempura
+   - Cambembert & cranberry stick
+   - Mozarella boconcini skewers
+   - Serano, brie membrillo
+   - Foie gras lollipop
+   - Vegetarian gyoza
+   - Duck gyoza
+   - Spanish tortilla stick
+   - Pulled pork bao
+   - Italian bruschetta
+   - Vegan caponata

@@ -1,0 +1,31 @@
+1. Customer inquiry: Is it possible to customize the boxes that cost 25 euros, or are they exactly as shown?
+2. Menu inquiry: Would like to know what can be included in mini sandwiches and croissants.
+3. Available options: 
+   - Milk bread with beef and horseradish mousse
+   - Baguette with steak and caramelized onion
+   - Crostini with serrano ham and cream cheese
+   - Ham, gouda cheese, and salad
+   - Bacon, lettuce, and tomato sandwich
+   - Turkey, cheese, and tomato sandwich
+   - Mozzarella and pesto chicken wrap
+   - Crostini with curry chicken and raisins
+   - Crostini with anchovies, cheese, and roasted peppers
+   - Milk bread with smoked salmon, cream cheese mousse, and caviar
+   - Homemade Greek salad wrap
+   - Tuna sandwich with homemade mayonnaise and sweet corn
+   - Prawn sandwich with homemade lime mayonnaise
+   - Egg sandwich with homemade mayonnaise and lamb's lettuce
+   - Surprising cheese and cucumber sandwich
+   - Hummus wrap with roasted pepper and cream cheese
+   - Mozzarella, tomato, and pesto sandwich
+4. Event-specific inquiry: The box is for Father's Day, to be collected as early as possible.
+5. Customization: Customer specified preferences for savory and sweet items, indicating a mix.
+6. Custom box details: 
+   - Preferred flavors: Prawn and lime sandwich, mozzarella and chicken wrap, milk bread with beef and horseradish mousse
+   - More salty than sweet
+   - Requested items: Cookies, palm pastries, and chocolate oatmeal cookies for sweet items.
+7. Pricing: The custom box will cost 25 euros.
+8. Booking and pickup: Customer asked what time the box is available for pickup, was informed it could be anytime after the morning.
+9. Payment method: The customer asked if payment is done there during pickup and whether cards or Bizum are accepted.
+10. Payment agreement: Customer confirmed payment would be in cash on Friday.
+11. Location: Blanco Bar Marbella, Urb. Parque Elviria Local 1, Marbella, Andalusia 29604.

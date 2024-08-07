@@ -1,0 +1,9 @@
+1. Customer inquiry: Cost for a simple cocktail for 50 people.
+2. Duration inquiry: For how many hours?
+3. Event details: 3 hours from 19:00 to 22:00.
+4. Pricing information: Basic package for €25/person + VAT.
+5. Menu details: 
+   - 4 types of tapas
+   - Unlimited cava, wine, and water
+   - Including staff and equipment
+6. Customer response request: Let me know if this is what you had in mind.

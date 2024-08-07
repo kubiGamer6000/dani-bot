@@ -1,0 +1,10 @@
+1. Customer inquiry: Need more information for availability for 12 people on the boat.
+2. Date and time inquiry: Tomorrow from 14:00-15:00.
+3. Menu items mentioned: Bread, salmon, prawns, Philadelphia cheese, grapes, blueberries, ham.
+4. Pricing information: €30 per person, including fruits and tapas.
+5. Inquiry about portion sizes: Customer asks how many tapas are included.
+6. Special dietary consideration: A bodybuilder tends to eat a lot.
+7. Inquiry about service provisions: Customer asks if trays are available.
+8. Details about catering options: Variety of small hamburgers, tapas, prawns, and sandwiches mentioned.
+9. Customer confirmation status: Inquiring if the order is confirmed.
+10. Cancellation inquiry: Customer asks if the order is canceled due to waiting for a response.

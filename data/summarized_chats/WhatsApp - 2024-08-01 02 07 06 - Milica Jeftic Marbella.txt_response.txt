@@ -1,0 +1,30 @@
+1. Order details:
+   - **Event date and time:** December 1st at 20:00
+   - **Address:** Playa Del Duque, Casa Cordoba 1 planta 2 apartment 2.4
+   - **Menu:**
+     1. Canapés platter: mini shrimp and tartar sauce, mini burrata caprese, coronation chicken, Swedish meatball, mini fish and chips, pulled pork and horseradish sauce (1 portion)
+     2. Mini-burger platter: aged beef burger, butter fried chicken (2 portions)
+     3. Sandwich platter: ham cheese salad, roast beef, smoked salmon cream mousse, turkey cucumber salad (2 portions)
+     4. Croissant platter: ham cheese salad, mozzarella cheese tomato pesto, prawn lime mayo, bacon lettuce tomato (1 portion)
+
+2. Service request: Please serve with decoration plates which will be taken after.
+
+3. Payment inquiry: Customer asks how to pay.
+
+4. Pricing details: 
+   - 4 platters at €50/platter = €200 + VAT
+   - Delivery = €25 + VAT
+   - Platters, setup decoration, pickup = €150 + VAT
+   - **Total = €375 + VAT**
+   - **Grand total = €412.50**
+
+5. Payment method: Customer can pay by card on delivery.
+
+6. Order confirmation: Customer confirmed the order for December 1st at 20:00.
+
+7. Arrival time on the event day: Customer inquires if they should arrive at 19:30 to get ready for 20:00.
+
+8. Request for full address: The customer asks for the complete address again.
+
+9. Address clarification:
+   - Final address provided: Avenida Playa Del Duque Casa Cordoba 1 Apartamento 2.4 (later corrected to Apartamento 2.5).

@@ -1,0 +1,25 @@
+1. Customer inquiry: Delivery address provided: Calle del Fresno, 8, 49, 36°29′18″N 4°44′28″W.
+2. Delivery time: Requested delivery around 10:00 in the morning on April 11th.
+3. Menu options provided:
+   - SURPRISE SPANISH COLD PLATTER 1 box = €50 + VAT
+   - TAPAS PLATTER 1 box = €75 + VAT
+     - Hummus, Blue Cheese, Cucumber, & Quail Egg
+     - Smoked Salmon & Caviar
+     - Goat Cheese, Roasted Walnut & Fig
+     - Mushroom Truffle Croquet
+     - Pulled Pork & Horseradish’s Sauce 
+   - BELLINI CANAPÉ PLATTER 1 box = €50 + VAT
+     - Mini Shrimp & Tartar Sauce
+     - Thai Pulled Chicken
+     - Goat Cheese & Caramelized Onion
+     - Pulled Pork & Horseradish Sauce
+     - Foie Gras & Quail Egg
+     - Eggplant Babaganoush
+   - GOURMET COLD BURGERS 1 box = €75 + VAT
+     - Beef Burger
+     - Pulled Pork
+   - SALAD TAKE AWAY 2 boxes = €100 + VAT
+     - Rocket Parmesan & Figs Salad
+     - Caesar Salad
+4. Total cost: Total boxes = €350 + VAT, Delivery = €25 + VAT, Net total = €375 + VAT, VAT 10% = €37.5, Total gross = €412.50.
+5. Invoice confirmation: Invoice was prepared and user confirmed that everything is okay for delivery, indicating the intent to pay the invoice.

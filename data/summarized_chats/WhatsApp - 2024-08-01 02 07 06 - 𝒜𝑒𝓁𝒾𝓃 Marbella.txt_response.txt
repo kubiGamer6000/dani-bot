@@ -1,0 +1,10 @@
+1. Customer inquiry: Can I order these two boxes for this Saturday?
+2. Customer question: Can I choose the sandwiches myself or how does it work exactly?
+3. Menu offer: New menus available with different packages.
+4. Customer inquiry: Do you also make smaller/mixed platters for a few guests (6) and want to have some cheese, meat & sandwiches?
+5. Recommendation request: What can you recommend me?
+6. Delivery inquiry: Where do you want it delivered and what time?
+7. Customer message: Amazing! I can also pick it up on Saturday. 
+8. Delivery address given: Calle del Priorato 34, Belfry Villa 5, 29688 Estepona, Málaga.
+9. Customer question: So what do you propose to put on a platter? And what will the price be for 6 persons?
+10. Pricing information: A good mix for €15/person; if you wanted to add finger desserts and fruits, it will be €20/person.

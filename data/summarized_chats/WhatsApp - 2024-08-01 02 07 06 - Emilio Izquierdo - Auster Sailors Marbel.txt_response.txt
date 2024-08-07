@@ -1,0 +1,10 @@
+1. Customer inquiry: Order for mini set of tapas for 5 people.
+2. Food request: Is there a chance to combine tapas and Thai set in one box?
+3. Transportation request: Delivery to Pantalan 4 Puerto Banús.
+4. Pricing inquiry: "Can you give me the price?"
+5. Purchase confirmation: A large box for €70 and transportation for €25.
+6. Order details: Order confirmed for 1 Big Box combined of Tapas + Thai for Sunday, May 26, at 3 PM, with a pickup time of 1 PM.
+7. Payment options inquiry: "How do I pay, with card or cash without VAT or invoice?"
+8. Location request: "Are we picking it up here?" (Regarding pickup location).
+9. Last-minute location confirmation: Sending a new pickup location.
+10. Pickup arrangement: Confirming pickup time as 2 PM.

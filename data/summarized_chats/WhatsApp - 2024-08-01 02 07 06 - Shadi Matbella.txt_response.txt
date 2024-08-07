@@ -1,0 +1,14 @@
+1. Customer inquiry: Request for information about food and prices for a celebration.
+2. Menu inquiry: "Can you send me a menu?"
+3. Event details: Looking for a large patio to hold a celebration for 30 people on April 2, with a request for food for guests on Saturday.
+4. Catering inquiry: Request for tapas and pinchos tray for Saturday.
+5. Booking procedure: The customer is inquiring about order deadlines and expresses interest in picking up the order.
+6. Customer inquiry: "Can I order something for tomorrow?"
+7. Deadline confirmation: "Can we pick it up tomorrow at 12?"
+8. Delivery inquiry: Request to order for July 29 at 16:00 and asking if delivery is possible.
+9. Delivery terms: Delivery for orders to Benalmádena is €50 plus VAT.
+10. Event cancellation notice: "I'm very sorry, but my party for tomorrow is canceled because my father was taken to the hospital."
+11. Current availability: Request to order specific items for today at 16:00.
+12. Collected items inquiry: Inquiring about colored hamburgers and if they can provide 12 in total (6 of one color and 6 of another).
+13. Product inquiry: Asking about the contents of a certain image and confirming if it is a "Wrap platter & mini jamon croquettes."
+14. Customer inquiry: Confirmation of specific food items for the day.

@@ -1,0 +1,11 @@
+1. Customer inquiry: Availability for a mariachi band for May 20, need for a maximum of 1 hour.
+2. Pricing inquiry: Receives prices for mariachi services from the provided PDF.
+3. Budget inquiry: Looking for 3 mariachi members for 30 minutes on October 22 in Marbella, asking for a quote.
+4. Pricing information: Quoted €180 for a solo mariachi including travel expenses for a short performance.
+5. Pricing discussion: For May 20, asking how many will be there for the mariachi booking.
+6. Pricing details: For an event on June 24, the customer requests prices for 4 or 5 members, also sends draft prices for various mariachi setups.
+7. Pricing confirmation: For the event on June 27:
+   - 3 members for half an hour costs €330.
+   - 4 members cost €440.
+   - Additional €20 transportation fee.
+8. Booking confirmation: Needs confirmation for Saturday at 7 pm due to scheduling with another event.

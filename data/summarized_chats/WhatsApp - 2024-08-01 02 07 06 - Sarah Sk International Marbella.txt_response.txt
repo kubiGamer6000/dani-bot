@@ -1,0 +1,12 @@
+1. Inquiry about catering packages for approximately 100 guests.
+2. Pricing for catering packages:
+   - Package 1: Just food and service starting from €15/person + VAT.
+   - Package 2: From €20/person + VAT.
+   - Package 3: From €25/person + VAT (non-alcoholic drinks).
+   - Package 4: From €35/person + VAT with wine, beer, and cava.
+3. Request for menus and ideas for catering options.
+4. General menu options provided:
+   - **Menu 1**: 4 sandwiches/buns/wraps selection, vegetable sticks and dips, light equipment hire, service staff.
+   - **Menu 2**: 4 sandwiches/buns/wraps selection, vegetable sticks and dips, mini finger dessert, fruit platters, light equipment hire, service staff.
+   - **Menu 3**: 4 sandwiches/buns/wraps selection, vegetable sticks and dips, mini finger dessert, fruit platters, tea, coffee, fruit juice, light equipment hire + glasses, service staff.
+   - **Menu 4**: 4 sandwiches/buns/wraps selection, vegetable sticks and dips, mini finger dessert, fruit platters, wine, cava, beer, soft drinks, light equipment hire + glasses, service staff.

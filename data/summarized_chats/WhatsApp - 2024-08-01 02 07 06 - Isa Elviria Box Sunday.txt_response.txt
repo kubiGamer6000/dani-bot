@@ -1,0 +1,5 @@
+1. Customer inquiry: Order requested for delivery on Sunday at 13:00
+2. Delivery confirmation: Yes, this is perfect for the order.
+3. Final order details: Confirmed 2 boxes to be delivered.
+4. Location shared by customer: 36°29′52″N 4°47′2″W (geographical coordinates)
+5. Customer feedback: "Sandwiches were so nice, thank you so much."

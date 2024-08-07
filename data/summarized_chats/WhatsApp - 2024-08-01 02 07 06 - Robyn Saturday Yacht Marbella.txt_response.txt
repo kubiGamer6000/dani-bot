@@ -1,0 +1,24 @@
+1. Customer inquiry: Are you available to provide food for a boat on Saturday?
+2. Guest count: Over 40 guests.
+3. Service inquiry: Can you leave the food on the boat or do you have to come on?
+4. Service options: Can bring takeaway platters or be on the boat all day at your service.
+5. Budget inquiry: Do you have a budget I can work with?
+6. Servicing drinks inquiry: Will you be serving drinks too?
+7. Pricing inquiry: What are average prices as I’m not sure?
+8. Service description: For 20 people, service includes 1 staff member for €1000 plus receipts for the day; total with food and drinks service and cleaning is €1500.
+9. Food inquiry: If we were just to have food left on the boat, what is the price for food?
+10. Menu recommendation: Super salad bowls and mini burgers.
+11. Customer feedback: They are concerned the food will be cold by the time everyone eats.
+12. Service suggestion: Recommend having a private chef for nice lunches and snacks throughout the day; offer a 15% discount if helping staff is on board.
+13. Food order:  2x sandwich platter - ham and cheese salad, egg mayo, tuna sweet corn, smoked salmon cream mousse; 2x wrap platter - coronation chicken (without fruit), tuna sweet corn, prawn mayo; 2x slider platter - beef, pork, chicken; 2x slider platter - beef, chicken, truffle mushroom.
+14. Pizza inquiry: What pizza do you do?
+15. Pizza options: We don’t have a pizza menu per se, but we offer cold pizza bread with any choice of toppings as per clients' requests.
+16. Delivery inquiry: Need to be delivered before the boat leaves at 1.
+17. Payment inquiry: Can pay cash on delivery or transfer before.
+18. Customer complaint: The food delivered was wrong; the tuna sweet corn had egg in it, the prawn had egg in it, and every burger had cream cheese on.
+19. Apology and discount offer: Apology for the issue with food; offers a discount to ensure customer satisfaction.
+20. Customer requirement: If the ingredients are eggs, it should state on the menu.
+21. Reflection: The provider expresses distress over the complaint, indicating care in food preparation.
+22. Refund discussion: Customer agrees to a half refund to compensate for the issues, while allowing the provider to cover costs.
+23. Payment arrangements: Offer to meet or transfer the refund to the customer's bank account.
+

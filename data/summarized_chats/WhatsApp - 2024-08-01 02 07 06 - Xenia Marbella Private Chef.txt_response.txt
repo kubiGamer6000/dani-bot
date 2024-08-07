@@ -1,0 +1,18 @@
+1. Inquiry about private chef experience and prices.
+2. Offer details for Dani’s Catering Private Chef:
+   - Full day service: 
+     - Personalized meals throughout the day accommodating dietary restrictions.
+     - Chef selects ingredients based on budget and culinary preferences.
+     - Full service includes grocery shopping, meal preparation, table service, and cleanup.
+     - Pricing: 
+       - Up to 7 guests: €400/day 
+       - Over 8 guests: €750/day + VAT (IVA) 
+       - VIP all-inclusive package: €1500/day + VAT.
+   - Half Day Package:
+     - Includes lunch or dinner based on agreement with the chef.
+     - Pricing: 
+       - Up to 7 guests: €300/day 
+       - Over 8 guests: €550/day + VAT 
+       - VIP all-inclusive package: €1200/day + VAT.
+3. Inquiry about VAT (IVA): "What is it?" 
+4. Explanation provided for VAT (IVA): 10% for invoice tax purposes.

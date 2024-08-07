@@ -1,0 +1,2 @@
+1. Customer inquiry: Inquiry about availability for an order for Sunday.
+2. Mention of sold out items: Some boxes are sold out.

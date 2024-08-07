@@ -1,0 +1,18 @@
+1. Customer inquiry: BBQ party on August 10 for 150 pax.
+2. Catering inquiry: "I need catering."
+3. Menu inquiry: Customer provided a similar menu reference and asked if interested.
+4. Pricing inquiry: "How much would it cost?" and "Are you available on this date?"
+5. Guest count: 150-200 guests for BBQ on August 10 and 150-200 guests for gala dinner on August 11.
+6. Event details: "6-11pm" for the BBQ, "18.00-23:00" for the gala dinner.
+7. Service details inquiry: "Do you need any extra equipment?"
+8. Equipment request: "High cocktail tables, BBQ, plates, cutlery, glasses, etc."
+9. Overall quote: "We can do this for €100/person + VAT."
+10. Special requests: Customer mentioned needing a decor for August 11 event and requested a quotation including food, service, table setup, drinks, and decorations.
+11. Entertainment details request: Confirming on booking for a DJ or entertainment options.
+12. Specific inquiries: Customer requested "cocktails at the event" and information about "cocktail service availability."
+13. Menu specifics: Detailed quote for food stations including Italian, Lebanese, Thai, and dessert stations.
+14. Deposit policy: Confirmation of needing a 50% non-refundable deposit.
+15. Booking timelines for larger groups and event types, including private chef experiences and full-service planning.
+16. Dietary accommodations: "Gathering menus that include vegetarian and vegan options."
+
+*Note: Only relevant catering-related details have been included.*

@@ -1,0 +1,3 @@
+1. Customer inquiry: I want a picnic box for pickup tomorrow at 12:00.
+2. Customer asking for location: When you can, send me the location, thanks.
+3. Customer feedback: Everything was delicious, thank you!

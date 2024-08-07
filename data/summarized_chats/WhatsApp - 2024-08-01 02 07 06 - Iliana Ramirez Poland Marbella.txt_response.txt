@@ -1,0 +1,15 @@
+1. Customer inquiry: Request for a seasonal vegetable platter and dips, a Spanish dish, and a cheese platter.
+2. Menu items:
+   - A mega salad with figs/nuts/mozzarella and arugula.
+   - 5 platters in total.
+3. Inquiry about dish: Is this skewer platter different from the one I chose?
+4. Inquiry about dish comparison: Is it the same as the Spanish dish?
+5. Delivery request: Ideal to bring to the specified location before 19:00.
+6. Pricing inquiry: 
+   - €25 for delivery + VAT.
+   - Total: €325 cash + VAT = €357.50 bank transfer.
+7. Payment method inquiry: Preferred payment by card; if not possible, then cash.
+8. Payment timing: Asking if payment is made before or at the time of delivery.
+9. Confirmation of payment method: Payment will be taken at delivery time.
+10. Inquiry about substituting item: We don’t have roast beef - can we swap with something else?
+11. Replacement item noted: Onion and goat cheese.

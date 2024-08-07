@@ -1,0 +1,28 @@
+1. Customer inquiry: Christmas dinner for 8 people on December 24th
+2. Pickup inquiry: Customer can pick up the dinner in Elviria
+3. Menu request: 
+   - Starters like smoked salmon, foie gras, tapas, and small pieces
+   - Main course: roasted poultry
+4. Detailed menu proposed: 
+   - €50 per person
+   - 4 types of Selection of tapas:
+     - Smoked salmon
+     - Foie gras
+     - Goat cheese & Serrano ham
+     - Charcuterie and cheese board
+   - To be cooked:
+     - Stuffed turkey breast roll
+     - Salmon pastry tart
+     - Gravy & white sauce
+     - Roast vegetables
+     - Mashed potato (truffle or beetroot)
+5. Booking confirmation: Menu booked for 8 people on December 24th under the name of Christophe Renneboog
+6. Pickup time inquiry: "At what time can we pick up the food the 24th?"
+7. Deposit inquiry: "Do you need a deposit to confirm?"
+8. Deposit details: 50% deposit (200€) required
+9. Payment options: Cash only for this occasion; bank transfer with VAT added as an alternative
+10. Requested pickup time: Around 6 or 7 PM
+11. Event details: Delivery and setup for tapas and turkey is possible
+12. Notification of hostess introduction: Veronique is the hostess for the evening and lives near la Cala Golf
+13. Coordination for delivery: 5-6 PM requested instead of 7 PM for food delivery
+

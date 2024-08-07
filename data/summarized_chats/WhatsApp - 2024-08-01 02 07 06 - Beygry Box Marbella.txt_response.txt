@@ -1,0 +1,7 @@
+1. Customer inquiry: Interested in getting a quote for catering services.
+2. Event details: A meeting for 30 people on April 7.
+3. Meal type: Looking for food, brunch.
+4. Menu inquiry: Interested in a barbecue, cold dishes, salads, etc.
+5. Menu customization: Can choose between meat, fish, and vegetarian options for Menu 1; total of 8 types can be selected.
+6. Additional inquiry: Asking if it is possible to have 9 menu items and aware of extra cost.
+7. Additional costs: Extra €5.00 for each additional menu item beyond the standard amount.

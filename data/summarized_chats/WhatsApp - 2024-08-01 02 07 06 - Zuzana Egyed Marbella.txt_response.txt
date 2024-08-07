@@ -1,0 +1,44 @@
+1. Customer inquiry: Price list for chandeliers depends if they want garland or if they arrange it themselves.
+2. Discount information: You always get 10% off the total price of booking.
+3. Chat about chandelier pricing:
+   - Chandelier price for pole and chandelier: 150€ each, plus delivery 120€, total 1020€ for 6.
+4. Inquiry about chandeliers: Zuzana asked if Dani managed to talk to her clients about them.
+5. Event details: Client confirmed needing chandeliers for the wedding on 21.10.
+6. Payment inquiry: Can I pay cash?
+7. Additional service inquiry: Delivery cost for chandeliers.
+8. Pricing for 3 chandeliers: 450€ plus delivery 60€, total 510€.
+9. Customer inquiry: How much for 3 including delivery?
+10. Customer request: Need to confirm if event is on grass or concrete.
+11. Customer asked about commission: I get 10% commission correct?
+12. Customer elaboration: Reducing from 3 chandeliers to 2 due to budget constraints.
+13. Customer inquiry: Can I book chandeliers for 21.10?
+14. Detailed quote for 3 chandeliers: 450€ less 15% = 382.50€, plus 20€ setup for each chandelier = 60€, plus delivery 60€, total 502.50€.
+15. Customer inquiry about quotes for a wedding setup for 30 pax including tables, chairs, glasses, cutlery, etc.
+
+14. Mentioned event set up time: Need to know what time to set up the event.
+15. Request for payment confirmation: Total for event is 1008€, want to confirm payment method.
+16. Customer inquiry about availability of chandeliers for next week.
+17. Inquiry regarding whether black or gold chandeliers are available for an event.
+18. Customer asked for a quote for chandeliers and additional event items for two days.
+19. Customer stated: They will only approve chandeliers for the moment.
+20. Customer detailed request for setup time and location for equipment dropoff.
+
+----------------------------------------------------
+21. Customer requested: Can you make me a quick quote for Saturday, including the 3 chandeliers?
+22. Detailed request for additional equipment for an event on Saturday.
+23. Customer asked: Can you send me location for pickup?
+24. Customer inquiry: Can I make cash payment?
+25. Customer requests timing for collection and drop-off for equipment setup.
+
+----------------------------------------------------
+26. Date available: Need to confirm event timings for setup.
+27. Customer mentioned: She will confirm addresses for both events.
+28. Need to verify if the payment method is cash on the day of pickup.
+
+----------------------------------------------------
+29. Customer initiated request about availability of chandeliers for following events.
+30. Pricing inquiry: Total amount for wedding arrangements including chandeliers, tables, etc.
+31. Summary request: Send invoice for the services rendered, including the VAT.
+
+----------------------------------------------------
+32. Customer mentioned: Sending invoices to clients and quotes for event services.

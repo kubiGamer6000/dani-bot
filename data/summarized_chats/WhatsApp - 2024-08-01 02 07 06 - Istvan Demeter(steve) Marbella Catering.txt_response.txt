@@ -1,0 +1,3 @@
+1. Customer inquiry: Asking for a price list.
+2. Menu information: Attached menus included in the chat.
+3. Customization options: Note that personalized menus and served staff packages are available.

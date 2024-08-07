@@ -1,0 +1,50 @@
+1. Customer inquiry: Dinner on May 31st and possibly breakfast on June 1st
+2. Menu inquiry: Request for a menu to share
+3. Guest count: 8-9 people
+4. Sample menu request: Interested in a sample menu
+5. Inquiry about paella: Do you ever make a large pan for paella?
+6. Additional service prior to dinner: Request for a charcuterie board or small plates setup
+7. Pricing details provided:
+   - Dinner: €120 per person + VAT
+   - Breakfast: €60 per person + VAT
+8. Sample dinner menu:
+   - **Selection of Spanish Tapas:**
+     - Prawn Pil Pil
+     - Serrano Ham & Fig
+     - Tomato Spanish Bruschetta
+     - Spanish Tortilla
+     - Patatas Bravas
+     - Manchego Cheese with Quince
+   - **Main Course:**
+     - Live Cooking: Mixed Paella with Chicken & Seafood
+   - **Pairing Salad:**
+     - Fresh Mediterranean Salad with Olive Oil and Balsamic Vinegar
+   - **Dessert:**
+     - Chef's Surprise Spanish Dessert
+9. Sample breakfast menu:
+   - **Continental Breakfast:**
+     - Assortment of Freshly Baked Pastries and Bread
+     - Selection of Jams, Butter, and Honey
+     - Fresh Fruit Platter
+     - Variety of Cheeses and Cold Cuts
+     - Yogurt and Granola
+     - Freshly Squeezed Juices
+     - Coffee and Tea
+   - **Egg Station:**
+     - Made-to-Order Eggs (Scrambled, Fried, Omelettes)
+     - Variety of Toppings (Cheese, Ham, Vegetables, etc.)
+   - **Pancake Station:**
+     - Freshly Made Pancakes with Various Toppings
+10. Inquiry about Spanish tapas: Request for a list of available Spanish tapas
+11. Inquiry about salad options: Do you have any other options for salad?
+12. Inquiry about main course alternatives: If paella is not chosen, what is another option for the main course?
+13. Request to discuss specifics and payment: Request to discuss via WhatsApp call for an event on May 31st.
+14. Inquiry about breakfast menu selection: Are we choosing only one option for breakfast?
+15. Additional breakfast menu request: Inquiry about including pancakes with options for eggs, sausage, bacon, etc.
+16. Payment inquiry: How to pay for the invoice and reminder of payment needing to be made 2 days prior
+17. Final menu confirmation request: When will the final menu be sent?
+18. Payment method inquiry: Inquiry about alternative payment methods (suggested PayPal)
+19. Food allergies noted: Customer has allergies to banana and pistachios.
+20. Arrival time: Confirmation that the team will arrive at the villa by 4 pm for paella cooking at 6 pm.
+21. Service duration inquiry: Request for quote if needing to extend service by 1-2 hours. Pricing for extension: €100/hour + VAT.
+22. Final decision on team arrival time: Confirmation to have them arrive at 3:30 pm for setup, with service extended to 8:30 pm.

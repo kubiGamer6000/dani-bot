@@ -1,0 +1,7 @@
+1. Customer inquiry: Request for the menus of the boxes.
+2. Question about children's party box: "Do I choose the flavors?"
+3. Confirmation: "Yes - perfect."
+4. Inquiry about the international canapé menu for 10 people: "If I order for 10 people, do I get one of each so that everyone can try?"
+5. Response: "Yes, there are 8 pieces per person, but they are small; I wouldn't recommend it for a buffet station unless there is more food."
+6. Guest count: "We will be 10 adults; I will add more things."
+7. Follow-up: "Tomorrow I will confirm and then you tell me how to make the payment."

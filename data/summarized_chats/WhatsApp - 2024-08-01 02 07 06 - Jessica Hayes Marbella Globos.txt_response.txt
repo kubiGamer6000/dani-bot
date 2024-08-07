@@ -1,0 +1,10 @@
+1. Customer inquiry: Full table setup for 16 guests
+2. Menu inquiry: Prices for paella and sangria
+3. Delivery options: Delivery of paella and sangria in jars, without waiter service
+4. Canapé options: Inquiry about canapés for delivery
+5. Guest count: Approximately 16 guests
+6. Canapé pricing: 6 types of canapés at 50/person + VAT
+7. Additional setup inquiry: Full table setup including table, chairs, tablecloth, plates, etc.
+8. Decoration theme: Champagne gold color theme
+9. Additional services: Customer can provide candles and flowers 
+10. Total cost: €1000 + VAT

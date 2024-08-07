@@ -1,0 +1,21 @@
+1. Customer inquiry: Last minute catering on Wednesday for around 20 people.
+2. Time inquiry: Customer needs catering from 5 PM.
+3. Food options: Inquiry about what kind of food is available, and if drinks and service are needed.
+4. Pricing for staff: Staff charge at €20/hour for a minimum of 4 hours.
+5. Service and package details: Availability of package options that include food, drinks, equipment, and service.
+6. Cake options: Various cake types available including red velvet, carrot, chocolate, fruit cake, without fondant.
+7. BBQ service inquiry: BBQ available for an extra €15/person including 3 types of meats, total €1000 for 20 people.
+8. Guest count revised: 24 guests mentioned.
+9. Confirmation of required items: Customer confirms the need for ice, fruit, lemon lime, and mentions issues with colored burger bread.
+10. Menu details provided:
+    - Selection of canapés
+    - 3 types of super salads
+    - Mini burgers (choose 2 from: beef, vegetarian, chicken, or pulled pork)
+    - Homemade nachos
+    - Hummus and babaganous
+    - 2 types of homemade lemonade
+11. Additional service inquiry: Customer requests an extra person for oyster service during the party.
+12. Inquiry about tablecloths: Customer asks for tablecloths for cocktail tables.
+13. Service equipment: Mention of providing cocktail tables and decorations.
+14. Customer confirms needing additional services: Wine glasses requested.
+15. Payment inquiries: Confirmation of deposit amounts and remaining balances discussed.

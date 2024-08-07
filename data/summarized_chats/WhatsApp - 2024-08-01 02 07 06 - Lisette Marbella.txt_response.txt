@@ -1,0 +1,23 @@
+1. Customer inquiry: Questions regarding the meeting setup and location with Dani's Catering.
+2. Event date: Sunday, May 28, 2023.
+3. Guests count: 40 people.
+4. Package inquiry: Package 1 @ €40 per person, can choose 8 different items.
+5. Menu options:
+   - Mini burgers
+   - Sandwiches
+   - Croissants
+   - Fruit platters
+   - Tacos
+   - Mixed cheese and charcuterie platters.
+6. Customer inquiry: Pricing for the coffee/tea corner - €2.50 per person + VAT, total €100 + VAT for 40 guests.
+7. Inclusions inquiry: Inquiry about whether plates, cutlery, glasses, and high tables are included in the package.
+8. Additional services: High bar table rental @ €30 + VAT including tablecloth.
+9. Customer inquiry: Interest in mixing and matching items for the event order, and requesting samples.
+10. Dietary requirements: Customer likes meat but does not prefer fish or cheese.
+11. Confirmation of shop visit: Option to pick up food from their cafeteria in Marbella.
+12. Request for samples: Customer asking to try a mix box of different food items.
+13. Additional items for order: Requesting cutlery, plates, glasses, and ice buckets for the event.
+14. Final order summary:
+    - Total: 40 x €40 = €1600 + VAT.
+    - Itemized list including a variety of sandwiches, croissants, finger food, and other specifics mentioned.
+15. Equipment collection inquiry: Arrangements for returning the catering equipment post-event.

@@ -1,0 +1,20 @@
+1. Customer inquiry: Interested in catering for a family meal/buffet on July 24th in La Zagaleta at a private house.
+2. Guest count: Approximately 30 people.
+3. Event details:
+   - Date: July 24
+   - Location: Zagaleta
+   - Number of Guests: 30
+4. Proposed menu:
+   - A variety of different types of meats
+   - Five different types of salads
+   - A variety of tapas
+   - Various side dishes
+5. Pricing:
+   - Lunch buffet: €90 per person plus VAT
+   - Dinner buffet: €120 per person plus VAT
+6. Included in the quote: All food, preparation, service, and all necessary equipment for the event.
+7. Dietary accommodations: Willing to accommodate specific dietary requests.
+8. Inquiry about tasting: Is there a way to try the food beforehand?
+9. Mention of takeaway service: They have a menu available for takeaway. 
+10. Inquiry about availability of the menu in English: Yes, the takeaway menu is available in English.
+11. Delivery charges: Will be applied if requested.

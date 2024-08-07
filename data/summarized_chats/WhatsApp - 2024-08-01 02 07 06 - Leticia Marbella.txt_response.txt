@@ -1,0 +1,3 @@
+1. Customer inquiry: Asking about the contents of a takeaway box, specifying they only want takeaway without service.
+2. Request for information: Inquiring if a photo of what is contained in a box can be sent.
+3. Customer acknowledgment: Confirming receipt of information and showing appreciation.

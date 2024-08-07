@@ -1,0 +1,22 @@
+Based on the conversation, here is the relevant information for Dani's Catering:
+
+1. Event Details:
+   - Type of event: Birthday party
+   - Date: Sunday, June 16th
+   - Time: 16:30 (4:30 PM)
+   - Location: 36°25'6"N 5°10'28"W
+
+2. Catering Order:
+   - 1 Bao box (€75 + VAT)
+   - 1 Sandwich platter (€50 + VAT)
+   - 1 Mini pita platter (€75 + VAT)
+   - 1 Mini hot dog order (€50 + VAT)
+   - Delivery fee: €25 + VAT
+
+3. Pricing:
+   - VAT: 10%
+   - Total: €300
+
+4. Delivery Details:
+   - Delivery time: 15:30 (3:30 PM)
+   - Delivery is needed as the event starts at 16:30 (4:30 PM)

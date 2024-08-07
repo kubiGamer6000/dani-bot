@@ -1,0 +1,16 @@
+1. Customer inquiry: Is it possible to have a small catering for 12 people on a boat in Banús? It would only be the prepared food for when we leave.
+2. Delivery inquiry: €25 + VAT for delivery, depending on the location.
+3. Confirmed date for service: May 25.
+4. Menu selection confirmation:
+   - 1 box of mini hamburgers: beef and chicken.
+   - 1 sandwich board:
+     - Ham, cheese, and salad
+     - Bacon, lettuce, and tomato
+     - Smoked salmon and cream mousse
+     - Tuna, mayonnaise, and corn.
+   - 1 surprise dessert platter.
+5. Inquiry about a charcuterie board: Confirming if it comes with the order.
+6. Delivery schedule: Delivery in Banús at 14:20.
+7. Payment options: Options to pay via bank transfer or in cash upon delivery. Total cost confirmed as €225 + VAT, with VAT at 10%, leading to a gross total of €247.50.
+8. Location provided for delivery: Google Maps link.
+9. Confirmation of recipients' willingness to pay in cash at the time of delivery.

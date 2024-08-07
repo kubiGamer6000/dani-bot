@@ -1,0 +1,9 @@
+1. Customer inquiry: Looking for help regarding a party.
+2. Venue inquiry: "Im looking for a venue can you help x"
+3. Venue preference: Preferably a pool venue.
+4. Date inquiry: Looking for a venue for the 26th of June or the 1st of July.
+5. Type of party: Day event.
+6. Venue pricing: "We have this venue for 2k but will need to check availability."
+7. Additional venue information: "Maybe you can rent a villa but will be difficult to find someone to rent only for 1 day especially on the weekend usually its a minimum of 3 days."
+8. Question about rental service: "Do you know anywhere that rents villas for 3 days?"
+9. Suggestion to check: "as well fid you had a little look on - air b&b or booking.com."

@@ -1,0 +1,20 @@
+1. Customer inquiry: Interested in having a dinner for 5 guests on Thursday.
+2. Pricing: €100 per person + VAT.
+3. Booking details: Dinner scheduled for Thursday from 20:00 to 23:00 for 5 guests.
+4. Menu:
+   - *Starters*: 
+     - Sharing tapas platter:
+       - Prawn tempura
+       - Duck gyoza
+       - Serrano, brie & membrillo tapa
+       - Pulled chicken bao
+       - Homemade guacamole & tortilla
+   - *Main*: 
+     - BBQ:
+       - Beef entrecôte
+       - Chicken skewers
+     - Selection of sandwiches
+     - Summer salads
+     - Potato & chive salad
+   - *Dessert*: Chef surprise 
+5. Services included: Staff service, table setup & clearing.

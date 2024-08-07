@@ -1,0 +1,14 @@
+1. Customer inquiry: Interested in catering for a stay in Marbella from the 7th to the 11th of August for 10 adults, 3 children, and 1 baby.
+2. Catering services offered: Private chef menus that can be customized.
+3. Booking inquiry: Request for lunch and dinner on August 9th.
+4. Guest count: 10 adults and 5 children.
+5. Pricing information:
+   - Lunch: €90 per person + VAT
+   - Dinner: €120 per person + VAT
+   - Kids: Half price
+   - Lunch cost breakdown: (10 adults x €90) + (5 kids x €45) = €900 + €225 = €1125 + VAT
+   - Dinner cost breakdown: (10 adults x €120) + (5 kids x €60) = €1200 + €300 = €1500 + VAT
+6. Menu suggestions:
+   - Lunch: A selection of tapas, paella with salads, and a fresh fruit platter.
+   - Dinner: Barbecue party with two starters, three types of meats, two sides, and a chef’s surprise dessert.
+7. Customer consideration for alternative dining options: Some group members prefer not to stay in the villa to eat, leading to a potential change in plans for dining arrangements.

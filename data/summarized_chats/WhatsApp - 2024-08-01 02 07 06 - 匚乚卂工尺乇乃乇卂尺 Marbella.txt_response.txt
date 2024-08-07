@@ -1,0 +1,23 @@
+1. Customer inquiry: A platter for 5 people this week.
+2. Delivery inquiry: Delivery cost €25 + VAT.
+3. Booking notice: 24 hours minimum request required.
+4. Menu inquiry: 
+   - Selection of sandwiches and salad for tomorrow.
+   - Specific items ordered:
+     - 1 x bao bun
+     - 1 x mega salad (4 people).
+5. Pricing:
+   - 1 mega salad = €50 + VAT.
+   - 1 sandwiches box = €50 + VAT.
+   - Total price = €110 (including VAT at 10%).
+6. Delivery service capability: Delivery is available for an additional charge.
+7. Dietary inquiry: Questions about the mega salad options and sandwich flavors.
+8. Sandwich options provided:
+   - Egg mayo
+   - Coronation chicken
+   - Salmon & spinach
+   - Ham & cheese
+   - Additional options: Tuna sweetcorn, Hummus roast pepper, Pulled chicken, Pulled pork & horseradish.
+9. Customer query: Do you offer a half size sandwich platter?
+10. Apology for late notice of collection: Expressed willingness to compensate.
+11. Inquiry for future service: Interested in catering on Boxing Day, requesting takeaway with delivery to Guadalmina for food and drinks for a group of 12 (4 adults and 8 children) including mixed sweet and savory platters.

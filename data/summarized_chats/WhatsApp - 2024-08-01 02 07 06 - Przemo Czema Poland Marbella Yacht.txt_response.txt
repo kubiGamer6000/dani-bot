@@ -1,0 +1,6 @@
+1. Customer inquiry: Request for 72 pieces of catering canapés.
+2. Event details: Charter on 17/07 for yacht Nina.
+3. Delivery charge: €25 for delivery, with a total of €125 + VAT for 2 boxes of canapés.
+4. Payment: Client to pay on the spot.
+5. Additional inquiry: Request to confirm catering for the yacht.
+6. Location inquiry: Customer asking for the location of the yacht.

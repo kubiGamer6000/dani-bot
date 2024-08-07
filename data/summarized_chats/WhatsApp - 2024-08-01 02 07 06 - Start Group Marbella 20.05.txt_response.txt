@@ -1,0 +1,16 @@
+1. Customer inquiry: Canapés and drinks package.
+2. Package details:
+   - Based on 60 guests.
+   - Unlimited Cava, wine, beer, selection of homemade lemonades for 3 hours service (extra hour +€10/person).
+   - All glasses, ice, ice buckets included.
+   - Selection of 6 canapés.
+   - Beautiful decoration table.
+   - Staff service charge.
+   - Price: €50/person + VAT (minimum of 50 guests).
+3. Inquiry about canapé options: "What would be the canapés?"
+4. Canapé options provided:
+   - Smoked salmon belini & caviar.
+   - Duck foie gras.
+   - Goat cheese, caramelised onion.
+   - Pulled pork bao & horseradish.
+   - Sweet and sour chicken bao.

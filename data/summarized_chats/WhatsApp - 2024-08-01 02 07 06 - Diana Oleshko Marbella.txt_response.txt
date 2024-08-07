@@ -1,0 +1,6 @@
+1. Customer inquiry: Birthday on August 12th, seeking food for 9 people on a yacht.
+2. Menu inquiry: Request for the menu.
+3. Food preferences: Interested in sushi, burgers, vegetables with chopsticks and sauce, carrots, celery, cucumber, sandwiches, appetizers, kebabs, and fruits.
+4. Payment inquiry: Asking if payment can be made by card.
+5. Service request: No need for waiters, requesting snacks and food in a food box.
+6. Availability inquiry: Asking for the confirmation of availability for the requested time.

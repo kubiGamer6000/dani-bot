@@ -1,0 +1,18 @@
+1. Customer inquiry: Information about catering services for a private party at home.
+2. Event details: Private party for 20 to 25 people planned for the first week of August.
+3. Budget inquiry: Request for information on budget.
+4. Event date: Requested for either August 11 or 12.
+5. Menu options requested: Informal canapés for the celebration.
+6. Special occasion: This event is for the customer's 51st birthday.
+7. Menu details:
+   - 3 selected canapés:
+     - Smoked salmon Bellini
+     - Beef tartar crostini
+     - Caramelized onion profiterole with goat cheese
+   - Styled tapas party food: 8 types, including:
+     - Fruit skewers
+     - Mini desserts
+   - Staffing: 2 waiters
+   - Equipment provided: Plates, equipment, decoration, ice
+   - Pricing: €80 per person + VAT
+8. Additional service inquiry: Option to add a mini barbecue for €20 per person + VAT, including mini hamburgers, mini entrecôte, and chicken skewers.

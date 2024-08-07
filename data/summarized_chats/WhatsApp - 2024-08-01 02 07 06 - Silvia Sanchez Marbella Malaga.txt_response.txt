@@ -1,0 +1,6 @@
+1. Customer inquiry: Interested in takeaway menu for an event on Sunday, August 18 at home in the El Olivar urbanization in Malaga.
+2. Home delivery request: Needs the order to be delivered to their house.
+3. Delivery fee: €50 + VAT for delivery.
+4. Minimum order requirement: Minimum order of 2 boxes.
+5. Confirmation of delivery time: Asking if there is a problem with delivery in the afternoon at a scheduled time.
+6. Order lead time: Order needs to be placed 5 days before the event.

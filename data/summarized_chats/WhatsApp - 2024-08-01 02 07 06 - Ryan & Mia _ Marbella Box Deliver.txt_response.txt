@@ -1,0 +1,8 @@
+1. Customer inquiry: Request to order a delivery for November 30th, asking for a change in the order from anchovy bites to something with Iberico jam.
+2. Order details: Two takeaway boxes party platter at €50 per box, with €10 delivery charge in Marbella, or free pickup from the cafeteria. Total cost: €110 plus IVA.
+3. Delivery confirmation: Customer confirmed the order with delivery and expressed a preference for blue burger.
+4. Change request: Customer requested to change something in the order after seeing something delicious on Instagram.
+5. Delivery time inquiry: Asking if the delivery would be by 11:30 a.m.
+6. Payment options: Inquiry about payment options: cash on arrival or bank transfer.
+7. Delivery location: Customer provided delivery address details: Patrik Alushi, Urb. Gran Bahia, Portal 16, 3B.
+8. Payment confirmation: Customer confirmed they would pay cash on arrival.

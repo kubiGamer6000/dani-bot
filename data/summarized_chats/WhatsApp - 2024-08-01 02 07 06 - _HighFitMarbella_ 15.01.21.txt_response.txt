@@ -1,0 +1,18 @@
+1. Customer inquiry: Finalized catering budget request
+2. Catering package: €50 per person, including:
+   - 8 types of canapés (4 cold, 4 hot)
+   - White and red wine
+   - Beer bottle
+   - 4 types of lemonade
+   - Sparkling/non-sparkling water
+   - Staff service for 4 hours
+   - Wine glasses, water cups
+   - Ice, napkins
+   - Food trays and buffet decoration
+3. Additional services: 
+   - Red carpet - €100
+   - Cocktail table + tablecloths = €50 per table
+4. Wine brand inquiry: Request for the wine brand to be served
+5. Specific wine request: Option to choose a specific wine if desired
+6. Event confirmation inquiry: Confirmation needed for the event scheduled for January 15
+7. Cancellation notice: Event canceled due to COVID precautionary measures

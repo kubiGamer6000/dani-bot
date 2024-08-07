@@ -1,0 +1,31 @@
+1. Customer inquiry: Quote for a birthday party for approximately 70 guests.
+2. Event details:
+   - Date: Friday 10 November 2023
+   - Event type: Birthday party
+   - Guest count: Approximately 70
+   - Start time: 18:00
+3. Menu proposal:
+   - Selection of 8 types of finger food:
+     - Mini beef burgers
+     - Chicken skewers
+     - Prawn tempura
+     - Gyozas selection
+     - Vegetable spring rolls
+     - Pork bao & horseradish
+     - Pulled chicken wrap
+     - Pita & babaganoush
+4. Staffing and equipment:
+   - All staff service
+   - Beautiful boho style equipment
+   - 8 cocktail tables
+5. Pricing:
+   - Price: €60/person + VAT
+   - Dessert station: €15/person + VAT
+   - Ham & cheese buffet station: €15/person + VAT
+   - Drinks package: €40/person + VAT (unlimited from 18:00 - 24:00; includes cava, white, rose, red, beer, all soft drinks, still & sparkling water; includes all glasses, ice, ice buckets)
+   - Cocktail bar station: €2500 + VAT (unlimited until 24:00; includes 4 cocktails of your choice, 6 types of spirits included of your choice, garnishes, 2 bartenders, all glasses, professional bar station)
+   - Extra DJ equipment hire: €400 + VAT
+6. VAT inquiry: Customer asked about the VAT amount.
+7. VAT rate: 10%
+8. Pricing preference inquiry: Customer asked if Dani preferred with or without VAT (cash or invoice).
+9. Customer confirmation: Customer confirmed the change of date for the garden party to Thursday, November 2nd.

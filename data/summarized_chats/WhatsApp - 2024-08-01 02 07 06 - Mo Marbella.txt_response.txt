@@ -1,0 +1,13 @@
+1. Customer inquiry: Selection of sandwiches platter for tonight
+2. Menu details: 
+   - Selection of sandwiches platter @ €50/platter including:
+     - Salmon buns
+     - Chicken and avocado
+     - Tuna
+     - Turkey
+3. Additional menu details: 
+   - Mixed meat and cheese platter @ €50/platter
+   - Crudities and hummus, and couscous salads & babaganoush @ €50/platter
+4. Delivery charge: Only €10
+5. Confirmation of order: Box with sandwiches for €50
+6. Guest count: Good for 8 people

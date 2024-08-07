@@ -1,0 +1,10 @@
+1. Customer inquiry: A table with different items for a birthday party on Saturday, the 22nd in Malaga.
+   - Menu items requested:
+     - Mini burgers
+     - Nuggets
+     - Croquettes
+     - Meat baos
+     - Paella
+2. Guest count: Approximately 50 guests, confirmation to be provided next week.
+3. Pricing inquiry: Request for budget information.
+4. Pricing provided: €80 per person + VAT for the menu with service.

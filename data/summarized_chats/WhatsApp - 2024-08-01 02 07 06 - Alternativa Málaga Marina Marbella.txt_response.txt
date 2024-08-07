@@ -1,0 +1,37 @@
+1. Customer inquiry: Order for catering services for an office inauguration on November 29.
+2. Catering order details:
+   - 4 boxes of sandwiches:
+     - Bacon, lettuce, and tomato
+     - Mozzarella cheese, tomato, and pesto
+     - Cream mousse and smoked salmon
+     - Grilled beef
+   - 6 boxes of tapas/pinchos:
+     - Cheese, serrano and camembert
+     - Salmon mousse and lemon
+     - Tortilla (half vegetarian and half chorizo)
+     - Battered cod and caramelized onion
+     - Wild mushroom and truffle
+     - Steak and chimichurri
+   - 8 boxes of canapés:
+     - Swedish meatballs
+     - Marinated chicken
+     - Mini fish and fries
+     - Pulled pork sauce and horseradish
+     - Foie gras and quail egg
+     - Mini caprese burrata
+     - Roasted baba ghanoush
+     - Russian salad
+3. Change policy: Changes can be made until Monday, 2 days before the event.
+4. Delivery inquiry: Delivery is needed in Fuengirola.
+5. Delivery address: Avenida Torreblanca 7, Piso 1 - 29640 Fuengirola (Málaga).
+6. Invoice details requested: Customer asks if their fiscal data is needed for the invoice.
+7. Delivery charge: €40 + VAT for delivery in Fuengirola.
+8. Inquiry about delivery charges: Customer mentions differences in charges from a previous order.
+9. Payment method inquiry: Customer asks how to proceed with the payment (transfer or cash on delivery).
+10. Event specifics: Catering should arrive by 17:30 on the day of the event.
+11. Modification for order: Reducing the quantity to:
+    - 3 boxes of sandwiches
+    - 5 boxes of tapas/pinchos
+    - 7 boxes of canapés
+12. Confirmation of billing: Customer inquires about the invoice after the order is fulfilled.
+13. Request for delivery confirmation: Confirmation that the event went well and invoice received promptly.

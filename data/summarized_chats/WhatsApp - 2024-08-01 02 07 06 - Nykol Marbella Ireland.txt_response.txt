@@ -1,0 +1,8 @@
+1. Customer inquiry: Third birthday party on 13th July.
+2. Menu inquiry:
+   - Fruit platter
+   - Sandwich platter
+   - Mini burgers
+3. Food service timing: Party starts at 2 pm, food may be needed at 2:30 pm.
+4. Pricing inquiry: How much would a fruit platter be?
+5. Customer mentions: Decided to throw the party together themselves but will keep Dani's Catering in mind for the next event.

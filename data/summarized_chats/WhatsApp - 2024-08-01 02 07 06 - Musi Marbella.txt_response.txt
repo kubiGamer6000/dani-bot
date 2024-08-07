@@ -1,0 +1,37 @@
+1. Customer inquiry: Total of 5 people for an event.
+2. Dietary requirements: One person does not eat fish, seafood, or pork; the rest eat everything.
+3. Date and time: Dinner on December 24 at approximately 20:30.
+4. Service inquiry: Request for someone to serve food alongside the chef.
+5. Proposed menu for Christmas dinner for 5 guests at €2500 + VAT:
+   - Appetizers:
+     - Lobster Cream Shots: Creamy lobster soup served in shot glasses, with a touch of truffle oil and chives as decoration.
+     - Smoked Salmon and Caviar Crostini: Fine slices of smoked salmon served on crispy crostinis, accompanied by a dollop of crème fraîche and a touch of caviar.
+   - Main Courses:
+     - Herb Roast Beef: Tender roast beef perfectly cooked, seasoned with a mix of aromatic herbs, served with a red wine reduction.
+     - Grilled Lobster Tails with Lemon Butter: Juicy lobster tails grilled and served with a rich lemon butter sauce.
+   - Fish Dish:
+     - Grilled Chilean Sea Bass: Fresh Chilean sea bass, grilled to obtain a golden crust, served with a citrus butter sauce and sautéed spinach.
+   - Side Dishes:
+     - Truffle Mashed Potatoes: Creamy mashed potatoes infused with truffle oil and topped with freshly grated Parmesan cheese.
+     - Honey-Glazed Roasted Vegetables: A mix of colorful roasted vegetables, such as carrots, parsnips, and baby potatoes, glazed with honey and thyme.
+     - Grilled Asparagus with Lemon Zest: Tender grilled asparagus lightly seasoned with lemon zest and a drizzle of extra virgin olive oil.
+   - Sauces:
+     - Red Wine Reduction and Shallots
+     - Hollandaise Sauce
+   - Dessert:
+     - White Chocolate and Raspberry Mousse: Light and airy white chocolate mousse infused with raspberry, served in individual shot glasses, decorated with fresh raspberries and chocolate shavings.
+   - Cheese Board:
+     - International Selection of Artisan Cheeses: A curated selection of fine cheeses from different parts of the world, accompanied by artisan crackers, fig jam, and grapes.
+6. Service details: Includes 4 hours of staff service, impressive Christmas table decoration with luxurious elements and trays, 1 chef and 1 waiter.
+7. Additional dietary requirement: Changing fish appetizers for one guest who prefers legumes due to fish allergy.
+8. Dessert preference: Request for tiramisu instead of mousse.
+9. Inquiry regarding whether the chef will prepare the dishes at the customer’s home or bring them already made.
+10. Customer offers access to both indoor and outdoor kitchens if a barbecue is needed.
+11. Request for a visit to the house for organization before the event.
+12. Inquiry about the cost for extending chef and waiter services for an additional hour: €100 + VAT.
+13. Request for bank details to make a reservation.
+14. Booking requirement: Initial 50% non-refundable deposit required.
+15. Customer confirms they would like to extend the service by two hours after receiving the chef's and waitress's service. 
+16. Payment inquiry: Asking if they need to pay the full amount or just the 50% up front and the remaining 50% after the service.
+17. Invoice information: Client provided their N.I.E number and address for invoicing.
+18. Follow-up on arrangements for collecting forgotten equipment (cups and plates) by the customer.

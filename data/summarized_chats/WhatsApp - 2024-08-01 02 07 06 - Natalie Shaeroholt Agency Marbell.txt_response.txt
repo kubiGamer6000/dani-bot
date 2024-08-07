@@ -1,0 +1,50 @@
+1. Customer inquiry: Request for prices from Dani's Catering.
+2. Proposal inquiry for a standard open house based on 3 hours of service:
+   - Basic Package 1: €25/person
+     - Selection of 6 types of finger food
+     - Vegetable sticks and dips
+     - Mini finger desserts
+     - Fresh fruit mini kebabs
+     - Tea and coffee station
+     - Orange juice
+     - Still and sparkling water 
+     - All equipment hire (glasses, decoration, etc.) and ice
+     - Staff service
+   - Package 2 with alcohol beverages: €35/person plus VAT
+     - Food: Selection of 6 types of finger food, vegetable sticks and dips, mini finger desserts, fresh fruit mini kebabs.
+     - Drinks: Tea and coffee station, still and sparkling water, cava, wine & beer, soft drinks. 
+     - All equipment hire (glasses, decoration, etc.) and ice included, staff service.
+3. Inquiry about staff extras: Customer asks what extras for the staff.
+4. Confirmation that staff service is included in the price.
+5. Inquiry about inclusivity: A customer asks if everything, including china, is included in the price.
+6. VAT inquiry: Customer asks if the first alternative is including VAT.
+7. VAT rate: Customer is informed that VAT is 10%.
+8. Inquiry about food order: Customer confirms they are looking for food for around 30 people for a morning open house.
+9. Customer expresses concern about over-ordering food: They express nervousness about having too much food for the first open house.
+10. Customer asks if it’s too much trouble to order for only 30 people and inquires if there is a minimum order requirement.
+11. Catering acknowledgement: Dani's Catering confirms they can accommodate 30 guests but suggests they might run out of food quickly.
+12. Confirmation about restocking food: Dani's Catering assures that they will top it up as needed.
+13. Question about music and entertainment: Customer inquires about singing services and pricing for a two-hour performance on a specific date.
+14. Pricing for singing services shared: Standard price for the evening performance is €300.
+15. Confirmation of a booking: Customer confirms the reservation with timing and expresses appreciation.
+16. Cancellation notice: Customer informs about a scheduling change for the previous engagement, suggesting a replacement entertainer.
+17. Referral: Customer recommends another singer as a replacement for an engagement on 12/4.
+18. Inquiry about available dates for an event: Inquiry for the 20th June availability.
+19. Request for equipment: Follow-up question about equipment availability for the event on the 20th.
+20. Inquiry about starter options: Customer requests to see starter options for a planned dinner event. 
+
+----------------------------------------------------
+1. Customer inquiry: Inquiry about extra waiters and waitresses for New Year’s Eve.
+2. Customer asks for potential candidates to work at Caos on New Year’s Eve.
+3. Inquiry about singing service: Customer inquires how much Dani charges for a singing video for potential clients, with a standard pricing of €300 for an evening.
+4. Availability notification: Customer informs Dani about being booked for New Year’s Eve but available for other days.
+5. Inquiry about availability: Customer checks for June and July availability.
+
+----------------------------------------------------
+1. Customer confirms double booking error for a singing engagement.
+2. Replacement suggestion: Customer suggests an alternative singer for an upcoming event.
+3. Inquiry for last-minute gigs: Customer asks if Dani is available for a last-minute request on a specific date. 
+
+----------------------------------------------------
+1. Customer inquiry: Customers are checking on availability and details for potential gigs.
+2. Follow-up for confirmation: Customer checks back for clarification on the event status. 

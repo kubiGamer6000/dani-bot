@@ -1,0 +1,10 @@
+1. Customer inquiry: Personalized boxes for delivery
+2. Product inquiry: Box filled with chocolate-covered strawberries
+3. Quantity requested: Initially 18 strawberries, then updated to 20 strawberries
+4. Pricing:
+   - Customer initially asked about 25€ boxes
+   - Dani's Catering quoted 60€ + delivery for a box of 20 chocolate-covered strawberries
+5. Delivery date requested: Thursday, April 28
+6. Additional details:
+   - Customer wants the box to be beautiful and decorated
+   - The order is intended as a gift

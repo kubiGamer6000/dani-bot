@@ -1,0 +1,17 @@
+1. Customer inquiry: Quote for son's first birthday on August 17th, requesting to add dessert boxes.
+2. Menu inquiry:
+   - Bagels: 3 boxes (each box serves 10) - smoked salmon/egg mayo/caprese/tuna.
+   - Sushi platter: 3 boxes (each box serves 10) - sushi rolls (tuna/salmon/yellowtail, no shellfish).
+   - Salads: 3 large boxes (each box serves 6-7) - rocket parmesan & fig salad/cous cous Mediterranean salad/greek salad.
+   - Surprise dessert platter: 2 boxes.
+3. Full quote provided:
+   - Bagels: €75 each, total for bagels: €247.50.
+   - Sushi platter: €75 each, total for sushi: €247.50.
+   - Salads: €50 each, total for salads: €165.
+   - Surprise dessert platter: €50 each, total for desserts: €110.
+   - Delivery: €25, total with VAT: €27.50.
+   - Grand Total: €797.50 including 10% VAT.
+4. Guest count confirmation: Sufficient quantities for 20 people.
+5. Deposit inquiry: Customer asking if they can pay a deposit to confirm the booking and what the next steps are.
+6. Deposit requirement: 50% non-refundable deposit required.
+7. Booking confirmation: Everything confirmed in the schedule, finalizing details one week before the event.

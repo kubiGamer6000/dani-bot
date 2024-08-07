@@ -1,0 +1,24 @@
+1. Customer inquiry: Small dinner for 6 people on Tuesday.
+2. Menu inquiry:
+   - Canapés
+   - Mini burgers
+   - Tacos
+   - Dessert selection
+3. Equipment inquiry: Customer needs to hire plates.
+4. Delivery request: For Tuesday at 7:30 PM.
+5. Final menu confirmation includes:
+   - Sandwich platter (Turkey, Curry chicken, Egg, Roasted pepper with cream of hummus)
+   - Mini shrimp, salmon, burrata, Brie cheese, foie gras, baba ghanoush
+   - All aged beef burger
+6. Pricing inquiry: Total will be 350€, payment method confirmation (cash or card).
+7. Additional service inquiry: Customer inquires about staff service for drinks.
+8. Booking requirements: Prior notice of at least one day needed for takeaway orders.
+9. Special dietary requirement: No cheese in mashed potatoes for the son.
+10. Customer confirmed a full Christmas dinner for 6 people, including:
+    - 1 whole turkey (3-4 kg)
+    - Stuffing, cranberry sauce, gravy sauce, mac and cheese.
+11. Delivery request for Christmas Eve dinner at 9 PM.
+12. Customer inquires about dessert options available.
+13. Final confirmation regarding the order is priced at €500 + VAT for Christmas dinner package. 
+14. Additional inquiry about extra cranberry sauce and non-cheesy mashed potatoes.
+15. Customer expressed interest in children's meals and dessert bites for future events.

@@ -1,0 +1,22 @@
+1. Customer inquiry: Request for a quote for a BBQ party for 25 people at Sierra Blanca Country Club on Sunday, August 4th.
+2. Availability: Confirmed availability for the requested date, August 4th.
+3. Event details:
+   - Staff services: BBQ chef and one server will be provided.
+   - Equipment needs: All necessary BBQ equipment included.
+   - Tables and chairs: No need for tables and chairs.
+   - BBQ time: 2:30 PM to 5:30 PM.
+   - Dietary requirements: One vegetarian option.
+4. Proposed menu:
+   - Event date: Sunday, August 4th
+   - Time: 2:30 PM to 5:30 PM
+   - Guests: 25 people
+   - Pricing: €90 per person plus VAT, includes staff service, buffet decoration, plates, and cutlery.
+   - Starters: Choose 3 from options including Chicken Pull bao, Prawn Tempura, Vegetable Spring Rolls, etc.
+   - Salad Bar: Choose up to 5 from various salad options.
+   - BBQ Meats: Choose 5 types from options including Beef Burgers, Chicken Skewers, Salmon Fillets, etc.
+   - Dessert: Mini Finger Desserts and Fresh Fruit Platter.
+5. Finalized pricing: €120 per person + VAT for additional services, including two staff members, BBQ chef, and buffet setup.
+6. Optional Cocktail Station: Price €1000 + VAT, includes mobile bar setup, professional cocktail maker, all types of glasses, ice, garnishes, soft drinks, still and sparkling water, and three cocktails of choice.
+7. Equipment requests: Inquiry about additional equipment such as high tables and umbrellas.
+8. Drinks inquiry: Questions regarding drinks included in the price (cava, wine, soft drinks, water, cocktails).
+9. Confirmation of drinks and additional staff requirements.

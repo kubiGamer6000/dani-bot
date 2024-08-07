@@ -1,0 +1,35 @@
+1. Customer inquiry: Approximately how many canapés and salads needed for the event, and requesting a quote.
+2. Canapés request: 4-6 options for canapés required for 15:00-15:45.
+3. Salads request: 3-4 types of salads needed for 16:00 - 18:00.
+4. Menu request: Customer asks for vegetarian and vegan options for canapés and salads.
+5. Pricing details:
+   - Canapés: @ €2.50/person + VAT
+   - Salads: @ €5.00/person + VAT
+6. Canapés options provided:
+   - Goat cheese, caramelised onion profiterol (v)
+   - Italian tomato bruschetta (vv)
+   - Truffle mushroom ball
+   - Baked Zucchini bites (vv)
+   - Spinach, artichoke stuffed mushrooms
+   - Sun-dried tomato & mozzarella arancini
+   - Vegetarian croquetas 
+   - Tzatziki cucumber cup
+   - Onion patties (vv)
+7. Salads options provided:
+   - Mediterranean couscous salad (vv)
+   - Italian pesto pasta salad
+   - Mozzarella, boconcini caprese
+   - Goat cheese salad
+   - Tropical mango, papaya avocado (vv)
+   - Rocket salad with sundried tomato and parmesan
+   - Organic Greek salad
+   - Poke bowl vegan or vegetarian (vv)
+8. Event specifics: Confirmed salads for the event - Mediterranean couscous salad, tropical mango salad, and organic Greek salad.
+9. Staffing request: Customer needs 2 waitstaff for the event to pick up plates and replenish salads if necessary.
+10. Meal service time: Set for 15:30 - 17:00.
+11. Invoice details provided for billing.
+12. Customer inquires about equipment for a potential outdoor event, such as tents.
+13. Collaboration inquiry: Customer inquires about a possible partnership for future events.
+14. Additional request: Customer mentions needing setup for an indoor terrace with high-end decor for a New Year's Eve event accommodating 30 people. 
+
+This detailed conversation provides comprehensive insights into menu options, pricing, staffing needs, and event specifics that can be beneficial for the training of a customer service chatbot for Dani's Catering.

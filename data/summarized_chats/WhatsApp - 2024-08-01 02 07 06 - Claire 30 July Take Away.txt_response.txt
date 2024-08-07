@@ -1,0 +1,8 @@
+1. Customer inquiry: Takeaway order for 1 Spanish platter, 1 mezze platter, 1 charcuterie platter, 1 fruit platter, and 1 mega salad for Saturday.
+2. Delivery inquiry: "What time your event starts?" - Event starts at 4 PM.
+3. Payment inquiry: Checking delivery time and payment for the order.
+4. Delivery options:
+   - Pickup price: €210 from Marbella.
+   - Delivery price: €240, with delivery time between 2-3 PM.
+5. Payment method: Customer will have cash ready for delivery.
+6. Service offered: Preparing plates or platters for a nice display.

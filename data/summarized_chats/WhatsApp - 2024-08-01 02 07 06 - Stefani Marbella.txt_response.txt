@@ -1,0 +1,9 @@
+1. Customer inquiry: Interested in catering for a birthday party on Saturday 28/01, serving cold and hot appetizers for about 30 people.
+2. Event details: The event is for a 40th birthday party for mostly adults, starting at 13:30.
+3. Service inquiry: Requesting waiter service and equipment for the event.
+4. Pricing inquiry: Asking for the price per person for food only, and a separate price with food and drinks (beer, wine, soft drinks).
+5. Menu options: Customer received a menu proposal and mentioned deciding to select food trays instead.
+6. Delivery inquiry: Asking if Dani's Catering delivers the trays or if they need to be picked up.
+7. Delivery fee: Delivery is possible for €25; pickup can also be arranged.
+8. Customer confirmation: Will send the selection of trays later.
+9. Cancellation notice: Customer canceled the order but expressed interest in saving the contact for future events.

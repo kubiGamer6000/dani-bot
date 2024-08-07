@@ -1,0 +1,27 @@
+1. Customer inquiry: Request for wedding services on July 4th in Zagaleta.
+2. Offerings requested: Request for information on work and offerings from Dani's Catering.
+3. Wedding details:
+   - Buffet-style wedding party.
+   - Price: €160 per person + VAT.
+4. Canapés options: 8 types of canapés listed from meat, fish, and vegetarian categories.
+5. Additional food stations: Selection of 4 stations from a list including Taco Station, Oyster Oasis, Caviar Corner, Jamón Haven, Cheese Paradise, Croqueta Carnival, Sushi Sanctuary, Italian Station, Mini Burger Station, Seafood Station, Paella Station, Middle Eastern Shawarma Station, Flame-kissed Fare, Mediterranean Mezze Magic.
+6. Extra station charge: €30 per person + VAT.
+7. Additional services offered: Bar service, cocktail stations, equipment, decoration, tables, chairs, flowers, entertainment.
+8. Customer inquiry about staff: "How many staff members will be?"
+9. Customer specifies wedding size: Expecting 200 people; all-female staff requested.
+10. Staff confirmation: 15-20 female staff will be provided.
+11. Customer inquiry: Request for bread and cheese station with pricing.
+12. Venue visitation request: Inquiry about visiting the venue or obtaining pictures.
+13. Budget inquiry: "Do you have a budget in mind for the wedding?"
+14. Proposed schedule: 
+   - 18:30: Guests Arrive, Mocktails & Drinks Served
+   - 19:00: Chocolate with Arabic Tea and Coffee Service by external catering
+   - 22:00: Buffet Service Available
+15. Cheese & Bread Station details: 
+   - Assorted cheeses listed (Gouda, Cheddar, Havarti, Gruyere, Edam, Emmental).
+   - Jams, garnishes, and bread selection described.
+16. Vegetarian Pasta Station details: Options for filling including mushroom, ricotta, pesto, tomato sauce, and arrabiatta.
+17. Salad Bar details: Options including Italian Caprese Salad, Avocado-Based Salad, Greek Salad, and Quinoa Salad.
+18. Dessert Station details: Themed Green & White desserts including churros, ice cream squares, macarons, and mini cheesecakes.
+19. Beverage package: Lavender Lemonade, Virgin Mojito, and Berry Blast Mocktail; additional beverage options listed.
+20. Staff service details: 18 female staff members, including lady chefs, management, and service staff.

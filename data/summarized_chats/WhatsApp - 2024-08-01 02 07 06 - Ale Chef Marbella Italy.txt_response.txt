@@ -1,0 +1,3 @@
+delete
+
+This conversation is not related to Dani's Catering services. It appears to be a personal discussion between an Italian chef named Ale and someone else about the chef's availability for work, updating his CV, and potentially working for Dani's Catering during the Christmas season. There are no mentions of Dani's Catering's services, menus, pricing, or other relevant business information. Therefore, this conversation does not contain any useful information for training a customer service chatbot for Dani's Catering and should be classified as 'delete'.

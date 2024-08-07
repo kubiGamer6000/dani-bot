@@ -1,0 +1,49 @@
+1. Customer inquiry: BBQ/grill for lunch on Friday, 21 June for 13 people at a house in Casanis.
+2. Event details:
+   - Date: Friday, 21 June 2024
+   - Time: Lunchtime
+   - Number of Guests: 13
+   - Location: To be confirmed
+   - Price: €90 per person + VAT
+3. BBQ Menu:
+   - Choose 3 from the following (Additional choice available for €10 per person + VAT):
+     1. Grilled Beef Entrecote Steaks with Garlic Herb Butter
+     2. Grilled Chicken Skewers with Honey Mustard Glaze
+     3. Beef Burgers with Caramelized Onions and Cheddar Cheese
+     4. Grilled Vegetable Kebabs (zucchini, bell peppers, cherry tomatoes, mushrooms)
+     5. BBQ Pork Ribs with Tangy BBQ Sauce
+     6. Grilled Salmon Fillets with Lemon Dill Butter
+     7. BBQ Shrimp Skewers with Garlic Butter
+4. Salad & Side Selection:
+   - Choose 3 from the following (Additional choice available for €5 per person + VAT):
+     1. Classic Caesar Salad with Crisp Romaine Lettuce, Parmesan Cheese, and Homemade Caesar Dressing
+     2. Caprese Salad with Fresh Mozzarella, Cherry Tomatoes, Basil Leaves, and Balsamic Glaze
+     3. Mixed Green Salad with Strawberries, Feta Cheese, and Balsamic Vinaigrette
+     4. Grilled Corn Salad with Avocado, Black Beans, Red Onion, and Cilantro Lime Dressing
+     5. Mediterranean Pasta Salad with Sundried Tomatoes, Olives, and Feta Cheese
+     6. Garlic Parmesan Potato Wedges
+     7. Grilled Corn on the Cob with Herb Butter
+     8. Fresh Bread Rolls and Condiments (ketchup, mustard, mayo)
+5. Dessert:
+   - Choose 1 from the following (Additional choice available for €5 per person + VAT):
+     1. Fruit Platter with Seasonal Fresh Fruits
+     2. Assorted Mini Desserts (brownies, cheesecake bites, fruit tarts)
+     3. Chocolate Fondue with Assorted Dipping Items (strawberries, marshmallows, pretzels)
+     4. Tiramisu Cups
+     5. Lemon Bars
+6. Customer inquiry: Asking about the pricing of the services, particularly regarding the chef and groceries.
+7. Pricing clarification: 
+   - Chef service available for €500 + VAT + groceries.
+   - Customer questions an €800 grocery cost.
+   - Total for the service as mentioned is approximately €1400.
+8. Booking confirmation:
+   - Date: Friday, 21 June
+   - Time: 13:30
+   - Number of people: 14
+   - Address: Av Jose Ribera 27, Marbella (near Plage Casanis)
+   - Total: €1,200 (cash)
+9. Menu confirmation:
+   - Smash burgers with cheese, chicken honey mustard skewers, shrimp skewers, caprese salad, Parmesan potato wedges, green salad, fruit platter.
+10. Customer asks about timing for setup: Requesting a 1pm arrival to set up for a 1:30 - 2pm lunch. 
+11. Agreement on setup time: Caterers to arrive at 12:30 for setup. 
+12. Customer confirms location coordinates and address for the event setup.

@@ -1,0 +1,19 @@
+1. Customer inquiry: Prices for a small open house event
+2. Inquiries about catering: 
+   - Timing for the open house
+   - Expected number of people 
+   - Request for pricing information
+3. Mention of takeaway menus: Request to review for choices
+4. Staffing inquiry: How much would it cost to hire one staff member for two hours?
+5. Pricing information: €100 + VAT for the staff member
+6. Inquiry about service details: Confirmation of whether the staff person will serve and help to clean afterward
+7. Order details: Ordering three boxes of sandwiches
+8. Delivery inquiry: €30 delivery charge; free pick-up available
+9. Sandwich order specifics: Request for sandwich fillings
+10. Dietary accommodation: One vegetarian option recommended
+11. Event postponement: Request to postpone the order to December 20th due to weather
+12. Price confirmation: €700 + VAT for the catering services provided on December 20th
+13. Location inquiry: Request for the location of the event
+14. Delivery logistics: Access timing on December 20th at 10 AM, water provision arrangement
+15. Invoicing request: Request for invoice with details to be sent
+16. Change in invoice description: Request to change the concept to "catering services for real estate event"

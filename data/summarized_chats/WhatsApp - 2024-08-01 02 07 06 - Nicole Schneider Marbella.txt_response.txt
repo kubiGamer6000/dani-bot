@@ -1,0 +1,5 @@
+1. Customer inquiry: Need a box of cocktail bites for Sunday.
+2. Catalog request: Please send the catalog.
+3. Quantity inquiry: How many are in the box?
+4. Time inquiry: What time do you need it?
+5. Dinner details: Dinner is at 5 PM on December 24th, I can adapt to what you tell me.

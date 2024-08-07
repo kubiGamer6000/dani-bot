@@ -1,0 +1,19 @@
+1. Customer inquiry: Order for December 14th at 12 am.
+   - Order includes:
+     - Funky colours burgers (12 pcs) x 2 - all 4 varieties
+     - Tapas & Pincho Platter (30 pcs) x 3 - as many varieties as possible
+     - Tacos Platter (10 pcs) x 1 with free-range grilled chicken and chili beef
+     - Mini burgers Platter (20 pcs) x 1 - fish burger and mushrooms & truffles
+2. Pricing information: Total of 7 boxes at €50/box + VAT & delivery €25 + VAT.
+   - Total: €375 + VAT.
+3. Inquiry for proper invoice request.
+4. Customer inquiring about an order for April 4th at 13:30.
+   - Order includes:
+     - 1 sushi platter
+     - 1 mini burger box - chicken and beef
+     - 1 surprise dessert box.
+5. Payment method: Customer intends to pay with a card upon delivery.
+6. Delivery time modification to 1 pm.
+7. Order change: Removal of the dessert platter from the order.
+8. Invoice request for timely payment processing.
+9. Confirmation of payment completion.

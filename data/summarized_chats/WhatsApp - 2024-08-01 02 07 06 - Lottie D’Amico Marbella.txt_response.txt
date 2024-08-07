@@ -1,0 +1,43 @@
+1. Customer inquiry: Prices and info for a private dinner at home.
+2. Standard dinner package: 
+   - Includes private chef and waitress service starting from €100/person + VAT.
+3. Event details: 
+   - Saturday 8th April, dinner at 8/8:30pm, with a typical Spanish food theme and 3-course meal—paella as the main.
+   - Guest count: 9 adults.
+4. Menu provided:
+   - Price: €100/person + VAT.
+   - *Sharing tapas starters:*
+     - Gambas pill pill
+     - Selection of croquettes
+     - Spanish charcuterie & cheese board
+   - *Main:* Vegetarian Spanish paella
+   - *Add hot seafood platter for €100 + VAT.*
+   - *Add beef tomahawk for €100 + VAT.*
+   - *Add chicken & chorizo for €100 + VAT.*
+   - *Add Spanish dorada for €100 + VAT.*
+   - *Desserts:* Selection of mini finger desserts & fruit kebabs.
+   - Add cava, pairing wine & sangria for €30/person + VAT.
+   - Additional charge for a beautiful table setup: €200 + VAT.
+5. Customer inquiry: Other options for a Spanish menu.
+6. Customer inquiry: Suggestions for an Italian menu.
+7. Italian menu provided:
+   - Price: €150/person + VAT.
+   - *Sharing Starters/Antipasti:*
+     - Burrata caprese salad on a caponata bed.
+     - Selection of mini bruschettas.
+     - Italian cured meat & cheese board served with olives & crostini.
+   - *Sharing main course:*
+     - Rigatoni pasta with slow cooked beef ragu.
+     - Porcini mushroom risotto pasta & truffle.
+     - Succulent Italian Florentine steak & baby rosemary new potatoes.
+   - *Sharing desserts:*
+     - Homemade Italian tiramisu.
+     - Limoncello gelato.
+8. Customer confirmed desire for the Italian menu.
+9. Payment method inquiry: Payment will be in cash.
+10. Confirmation that cash payment excludes VAT.
+11. Customer gratitude for the service after the event.
+12. Availability inquiry for Saturday 10th August for 6 adults.
+13. Price for private chef for dinner: €120 per person + VAT, including 5-star service, private chef, a waitress, table setup, and food.
+14. Confirmation of no deposit required; full payment requested two days before the event.
+15. Customer confirmed the booking for the later event.

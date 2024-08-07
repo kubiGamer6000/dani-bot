@@ -1,0 +1,6 @@
+1. Customer inquiry: Breakfast service for this morning in Zagaleta.
+2. Location inquiry: Request for the location to be sent.
+3. Inquiry about meeting: Asking if it’s possible to meet beforehand to discuss details.
+4. Breakfast menu inquiry: Request to send the breakfast menu.
+5. Breakfast timing: Inquiring if breakfast is available until 10 or 11.
+6. Work inquiry: Asking if there is work available for this week.

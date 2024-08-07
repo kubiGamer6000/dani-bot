@@ -1,0 +1,33 @@
+1. Customer inquiry: Interested in food for a party on 27/10 for 100 people.
+2. Requested menu items:
+   - Meat station
+   - Salad station (hummus etc.)
+   - Paella
+   - Mini burgers
+   - Mini hotdogs
+   - Pizza 
+3. Service timing: To serve around 15:00 and return around 20:00 for additional items.
+4. Pricing inquiry for the above service on 27/10.
+5. Takeaway inquiry: Interested in ordering boxes for Sunday 23/6.
+6. Asked about the procedure for ordering takeaway boxes.
+7. Order details for 9 takeaway boxes for Sunday around 12-13:00:
+   - 2 sushi (no seafood, more tuna and salmon)
+   - 1 mini beef burger
+   - 1 mini burger (half beef/half chicken)
+   - 1 mini chicken pita
+   - 1 mini pita (half chicken/half beef)
+   - 1 Bellini
+   - 1 tapas
+8. Order confirmation for pickup at 12:30 on Sunday.
+9. Pricing for Sunday order:
+   - 2 sushi: €150 + VAT
+   - 1 mini beef burger: €50 + VAT
+   - 1 mini burger (half beef/half chicken): €50 + VAT
+   - 1 mini chicken pita: €50 + VAT
+   - 1 mini pita (half chicken/half beef): €50 + VAT
+   - 1 Bellini: €50 + VAT
+   - 1 tapas: €75 + VAT
+   - Total = €475 + VAT
+   - VAT = €47.50
+   - Grand total = €522.50
+10. Delivery inquiry: Can come around 13:00-13:15 on the pickup day.

@@ -1,0 +1,13 @@
+1. Customer inquiry: Order catering with service for Saturday 30.04 to a private villa for approximately 20 people, specifically requesting finger food, tapas, and easy-to-eat meals.
+2. Date and time of event: Saturday, April 30, from 16:00 to 21:00.
+3. Menu inquiry: Customer asks for available menu options to choose from.
+4. Booking requirements: Inquiry about needing to make a prepayment.
+5. Payment method request: Customer asks if they can prepare cash upon arrival as their mobile card machine is not functioning properly and later inquires if they can do a bank transfer.
+6. Pricing information: Finger food and service priced at €1300 + VAT, and additional BBQ service for €700 + VAT, totaling €2000 + VAT, with the total including VAT at €2400.
+7. Bank transfer details provided:
+   - Beneficiary: Daniela Rosu
+   - IBAN: GB42 REVO 0099 7007 0631 51
+   - BIC: REVOGB21
+8. Customer expresses satisfaction: Describes the party as calm, complimenting the food as tasty, and mentions that they should have ordered more.
+9. Food and service adjustments: Inquiry about preparing more food and bringing a BBQ or paella for an estimated 10-15 people.
+10. Service feedback: Customer thanks for the service, describes it as great, and expresses their appreciation for the catering service.

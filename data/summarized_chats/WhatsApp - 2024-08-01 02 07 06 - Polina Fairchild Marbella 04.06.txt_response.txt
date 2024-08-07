@@ -1,0 +1,41 @@
+1. Customer inquiry: Looking for a catering service for a son's 4th birthday party on Saturday, 4th of June.
+2. Menu inquiry: Request for canapé options and prices for adults and children.
+3. Event details: Availability confirmed for the event from 12-3, hosting around 20 people.
+4. Services inquiry: Asking about services offered by Dani's Catering.
+5. Catering details: Buffet table with mixed food for adults and children; prices start from €50/person, kids under 14 at half price, including 8 types of finger food selection, decoration table, and staff service for 3 hours.
+6. Takeaway inquiry: Interested in takeaway platters for adult serving.
+7. Request for kids' lunch: Asking for a kid-friendly lunch for 10 children.
+8. Staffing request: Requested two staff members to serve drinks and food on the day of the event.
+9. Adult platters selection:
+   - Seasonal vegetables and dips
+   - Spanish platter
+   - Mezze platter
+   - Cheese board
+   - Tapas and pinchos platter
+10. Inquiry about board similarity: Asking if the cheese board and charcuterie board are similar; does the charcuterie board have cheese?
+11. Cuts and modifications: Cutting out the charcuterie board from options.
+12. Salad options inquiry: Asking for options for three salads.
+13. Salad options provided:
+   - Greek salad
+   - Italian salad
+   - Mediterranean couscous, orange, toasted nuts
+   - Roasted Mediterranean vegetable salad with basil oil
+   - Mixed summer beans with toasted sesame
+   - Caprese with bocconcini, cherry tomatoes, and basil oil
+   - Fig, walnut, mozzarella & rocket salad
+   - Mixed baby leaves with heritage tomatoes, black olives & Feta cheese
+   - Red quinoa salad with bean shoots, spring onions, and lemon & honey dressing
+   - Baby gem, apples, celery, walnuts, honey, yogurt.
+14. Salad presentation inquiry: Asking about the presentation of salads (big bowls or individual finger food pieces); confirmed they come in takeaway platter bowls.
+15. Request for pizzas: Inquiring if pizzas could be made for the kids.
+16. Quote request: Asking for a quote on the following:
+   - Seasonal vegetables and dips
+   - Spanish platter
+   - Mezze platter
+   - Cheese board
+   - Tapas and pinchos platter
+   - Roasted Mediterranean vegetable salad, mixed summer beans salad, mixed baby leaves salad, and red quinoa salad
+17. Staffing request: Requesting two staff members for 3 hours.
+18. Additional pizzas request: Request for pizzas for 10 kids.
+19. Clarification on follow-up: Asking for the possibility to get back regarding the quote tomorrow.
+

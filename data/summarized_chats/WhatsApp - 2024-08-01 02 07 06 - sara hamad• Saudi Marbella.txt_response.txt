@@ -1,0 +1,35 @@
+1. Customer inquiry: Catering for 10 people without ham.
+2. Service inquiry: BBQ with staff and finger food.
+3. Salad requirement: With salads.
+4. Event date: July 18-20.
+5. Menu inquiry: Attached menus for BBQ parties.
+6. Pricing for BBQ parties:
+   - Lunch: €90 per person plus VAT.
+   - Dinner: €120 per person plus VAT.
+7. BBQ party details: Salad bar, selection of starters, three types of meats, two types of fish, and a chef’s dessert.
+8. Customer confirmation: Wants it for the 16th.
+9. Menu choices for finger food:
+   - Salmon poke bowl
+   - Rocket fig salad
+   - Toast box takeaway (without ham or bacon)
+   - Chicken skewers or chicken teriyaki
+   - Chicken fingers
+   - Shrimp cocktail shooters
+   - Shrimp tempura
+   - Shrimp taco
+   - Smoked salmon brioche
+   - Falafel
+   - Tuna grilled sandwich
+10. Customer request: Good price to order frequently.
+11. Package confirmation: From party package no. 1.
+12. Minimum booking notice: Usually a minimum of 10 people for this package.
+13. Pricing confirmation: €550 + VAT for food and setup.
+14. Payment inquiry: Bank account details for transfer.
+15. Event details: Set up one hour before guest arrival.
+16. Customer reminder: No pork required.
+17. Final quantity confirmation: Ensure it's for 10 guests.
+18. Client inquiry: Equipment collection timing and payment of €600.
+19. Final bill inquiry: Previous quote was €550; VAT information provided.
+20. Inquiry about live cooking and private chef services for next time.
+21. Request for service staff: 2 people for Friday.
+22. Cake inquiry: Types of cakes available.

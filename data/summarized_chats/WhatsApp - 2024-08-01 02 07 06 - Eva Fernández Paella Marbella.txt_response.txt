@@ -1,0 +1,7 @@
+1. Customer inquiry: Cost for 10 people for a paella?
+2. Availability inquiry: Asking if there is availability for tomorrow at 1 PM.
+3. Availability response: Yes, availability for tomorrow.
+4. Menu options:
+   - Simple paella: 50 € per person.
+   - Paella with starter and dessert: 75 € per person.
+5. Additional services: Beverage service and prepared table included.

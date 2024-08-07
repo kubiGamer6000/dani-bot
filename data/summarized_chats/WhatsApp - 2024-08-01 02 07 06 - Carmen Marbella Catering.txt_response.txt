@@ -1,0 +1,15 @@
+1. Event inquiry: Catering event on 14th March
+2. Menu inquiry: Interested in canapé menu + drinks
+3. Customer inquiry: Request for a list of possible appetizers
+4. Appetizers selection: 8 appetizers to choose
+5. Service type inquiry: Confirming if it will not be a buffet
+6. Buffet pricing: 
+   - €40 per person + VAT (no drinks, no staff service)
+   - €60 per person + VAT (food and staff service)
+7. Canapé menu pricing: 
+   - €60 per person + VAT (without drinks)
+   - €80 per person + VAT (with cava/wine/soft drinks/still and sparkling water)
+   - €100 per person + VAT (for premium drinks such as champagne)
+8. Confirmation: Adding drinks to the second buffet option would be €80 per person
+9. Confirmation of buffet setup: Beautiful setup with staff serving around the food from the buffet
+10. Status update: The event on 14th March was cancelled due to overwhelming costs.

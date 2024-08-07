@@ -1,0 +1,5 @@
+1. Customer inquiry: Would like to order 6 platters from catering for the 29th of May.
+2. Delivery request: Customer requests delivery to the Pearl B&B Marbella.
+3. Delivery time: Requests delivery by the afternoon at 6 or 7 PM.
+4. Inquiry about order: Asks if it is possible to make the order for the 29th of May since it is not open on the website.
+5. Payment note: Prepare €20 cash for delivery.

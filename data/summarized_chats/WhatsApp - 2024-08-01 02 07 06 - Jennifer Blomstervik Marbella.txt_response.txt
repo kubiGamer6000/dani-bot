@@ -1,0 +1,27 @@
+1. Customer inquiry: Catering for a celebration for 20 persons on 11/7.
+2. Menu inquiry: Looking for a menu for the celebration.
+3. Order details:
+   - Total order = €300 + VAT
+   - Order includes: 
+     - 2 box burgers (beef & pulled pork)
+     - 1 sandwiches platter
+     - 1 tapas platter
+     - 1 mega salad
+     - 1 mezze platter
+4. Delivery request: Asking for delivery for €25 + VAT.
+5. Guest count: 20 persons.
+6. Additional request: Adding seasonal vegetables & dips to the order.
+7. Payment inquiry: Questions about payment method - cash on delivery.
+8. Change request: Inquiring about adding a charcuterie plate.
+9. Final order details:
+   - New total = €375 + VAT
+   - Final order includes:
+     - 2 box burgers (beef & pulled pork)
+     - 1 sandwiches platter
+     - 1 tapas platter
+     - 1 mega salad
+     - 1 mezze platter
+     - 1 vegetables platter
+     - 1 delivery
+   - Total gross = €412.50 (including VAT of €37.50).
+10. Delivery time: Requested delivery between 14:00-15:00 on 11/07.

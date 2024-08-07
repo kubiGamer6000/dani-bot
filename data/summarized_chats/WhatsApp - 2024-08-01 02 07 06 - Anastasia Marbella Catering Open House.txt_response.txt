@@ -1,0 +1,21 @@
+1. Customer inquiry: Catering for open house on May 24, 2024, in Elviria
+2. Guest count: 200 guests
+3. Timing inquiry: Event is from 12:00 to 19:00
+4. Catering proposal details:
+   - Event Date: May 24, 2024
+   - Location: Elviria
+   - Timing: 12:00 - 19:00
+   - Package 1 - Basic:
+     - 4 Types of Finger Food
+     - 1 Finger Type Dessert
+     - Charcuterie and Cheese Platter
+     - Staff Service Throughout the Event (12:00 - 19:00)
+     - All Necessary Equipment Provided
+     - Unlimited Still and Sparkling Water
+     - Fresh Orange Juice
+   - Price: €30 per person + VAT
+   - Optional Add-ons:
+     - Tea and Coffee Station: Additional €5.00 per person + VAT
+     - Cava, Selection of Wine & Beers: Additional €15 per person + VAT
+     - DJ Services: €150 per hour + VAT
+5. Follow-up inquiry: How many people do you usually cook for in an open house?

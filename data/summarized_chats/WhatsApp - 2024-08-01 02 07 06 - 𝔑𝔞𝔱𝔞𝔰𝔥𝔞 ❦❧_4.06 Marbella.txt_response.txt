@@ -1,0 +1,12 @@
+1. Customer inquiry: Interested in catering info for son's birthday on June 4th.
+2. Party details: Approximately 12-13 kids aged 11/12 years old.
+3. Catering options inquiry: What options do you have for kids?
+4. Suggested kid-friendly menu items:
+   - Mini burgers
+   - Fries
+   - Nuggets
+   - Fish fingers
+   - Hot dogs
+   - Cold sandwiches
+5. Service inquiry: Do you want service or just take away platters?
+6. Service preference: Customer prefers service and inquires about how it works.

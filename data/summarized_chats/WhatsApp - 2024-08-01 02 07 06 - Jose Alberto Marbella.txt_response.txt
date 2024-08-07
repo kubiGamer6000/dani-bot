@@ -1,0 +1,18 @@
+1. Customer inquiry: Request for 1 sandwich box for the next day.
+2. Sandwich options requested:
+   - Pan de elche with smoked salmon, cheese mousse, and caviar
+   - Tuna sandwich with corn and sweet onion
+   - Croissant with Serrano ham and blue cheese cream
+   - A wrap suggested by Dani's Catering
+   - Small brioche hamburgers suggested by Dani's Catering 
+3. Additional request: A bit of potato as decoration.
+4. Delivery issues: Delivery in Malaga at 3 PM causes a conflict for the customer; they proposed a pickup around 6 PM instead.
+5. Payment inquiry: Asking how to pay - cash preferred.
+6. Pricing confirmation: Customer inquires if 25 euros is the price.
+7. Additional inquiries: Can payment be made via PayPal?
+8. Order confirmation: Confirming order for the sandwich box option at 25 euros.
+9. Payment method confirmation: Confirmed payment will be in cash.
+10. Customer provides location coordinates for pickup.
+11. Notification to inform when the person arrives to pick up the order.
+12. Customer’s representative: Information on who will pick up the order - person named Danna.
+13. Contact number for the person picking up the order: 642284882.

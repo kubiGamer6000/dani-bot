@@ -1,0 +1,29 @@
+1. Customer inquiry: Menu for Christmas dinner on the 24th for 6 people
+2. Proposed menu with price: Christmas dinner for 6 guests at €2000 + VAT (service not included)
+3. Menu details:
+   - Appetizers:
+     - Lobster Cream Cups: Creamy lobster soup served in cups, with a touch of truffle oil and chives.
+     - Smoked Salmon Crostini with Caviar: Thin slices of smoked salmon served on crispy crostinis, accompanied by a dollop of crème fraîche and a touch of caviar.
+   - Main Course:
+     - Herb-Crusted Roast Beef: Tender roast beef seasoned with a mix of aromatic herbs, served with a red wine reduction.
+     - Grilled Lobster Tails with Lemon Butter: Juicy grilled lobster tails, served with a rich lemon butter sauce.
+   - Seafood Dish:
+     - Grilled Chilean Sea Bass: Fresh Chilean sea bass cooked to a golden crust, served with a citrus butter sauce and sautéed spinach.
+   - Sides:
+     - Truffled Mashed Potatoes: Creamy mashed potatoes infused with truffle oil and topped with freshly grated Parmesan cheese.
+     - Honey-Glazed Roasted Vegetables: A mix of colorful roasted vegetables, such as carrots, parsnips, and baby potatoes, glazed with honey and thyme.
+     - Grilled Asparagus with Lemon Zest: Tender grilled asparagus lightly seasoned with lemon zest and a drizzle of extra virgin olive oil.
+   - Sauces:
+     - Red Wine and Shallot Reduction
+     - Hollandaise Sauce
+   - Dessert:
+     - White Chocolate and Raspberry Mousse: Light and airy white chocolate mousse infused with raspberry, served in individual cups, decorated with fresh raspberries and chocolate shavings.
+   - Cheese Board:
+     - International Selection of Artisan Cheeses: A carefully curated selection of fine cheeses from around the world, accompanied by artisanal crackers, fig jam, and grapes.
+4. Additional details: Includes impressive Christmas table decoration with luxurious elements and trays.
+5. Customer preference inquiry: Ask if proposed menu meets expectations or if there are specific requests.
+6. Follow-up call: Customer intends to call on Monday to discuss details.
+7. New service option inquiry: Customer is informed about two service options; first option for €2500 includes table setup and food placement in the fridge for the next day. The second option for €3000 offers the same services but with the flexibility of setting the table again the next day.
+8. Confirmation of selected option: Customer chooses the first option and requests to keep it at €2000 instead of including additional decoration costs.
+9. Appreciation: Customer expresses gratitude for the service provided and requests to recover cutlery and glasses after the event.
+10. Inquiry on production: Customer asks if large "roscones" can be made for an event.

@@ -1,0 +1,57 @@
+1. Customer inquiry: Catering service for a party.
+2. Event details:
+   - Date: December 25, 2021, for 15 people aged 18-20 years.
+   - Requested service: Buffet style.
+   - Menu preferences: Tuna tartare and Mediterranean dishes.
+3. Additional event details:
+   - Date: December 27, 2021, for 20 adults and 16 children (ages 9-10).
+   - Adults: Buffet, no sandwiches.
+   - Children: Kid-friendly food.
+4. Menu options provided:
+   - Buffet 1: €50 per person + VAT
+     - Selection of 4 tapas
+     - Tuna tartare, chicken gyozas, prawn rolls, cheese bites
+     - Decoration and table display.
+   - Buffet 2: €75 per person + VAT
+     - Selection of 4 tapas (same as above)
+     - Mini dessert trays, fruit platter
+     - Staff assistance for 2 hours
+     - Decoration and table display.
+5. Inquiry for child menu: Hamburger, mini pizzas, etc.
+6. Confirmation of event details: 
+   - December 25 confirmed for 20 people at 17:00.
+7. Communication preference for WhatsApp.
+8. Customer inquired: 
+   - Whether waiter service and dishware are included in the buffet price.
+9. Confirmation of service inclusion: Waiter service included in Buffet 2.
+10. Request for additional child's menu on December 27.
+11. Inquiry on the price for adding 15 children's menus.
+12. Location for the event: Villa del Mar.
+13. Date and time for setup: December 26 at 14:00.
+14. Booking confirmed for December 27 at 13:00 for 20 people.
+15. Customer asked about the time and confirmation for another meeting on December 23.
+16. Customer inquiry about the possibility of adding a bar service, decoration options, and entertainment.
+17. Wedding inquiry: Cater for a wedding on June 8 for 50 people.
+18. Menu request: Cocktail hour with various canapés and a seated dinner including starters and a main course with options for vegetarian meals.
+19. Pricing inquiry: Expected pricing and details for the wedding services.
+20. Inquiry about sauces and dessert options for the menu.
+21. Confirmation of adult meal pricing for March 31 for an assortment of appetizers and kids' menu.
+22. Pricing details: €80 for adults and €40 for children for March 31 event.
+23. Inquiry about menu options and setup for a boat party, priced at €40 per person.
+24. Decision on buffet options for a private house event with a budget consideration.
+25. Confirmation request for ice cream or a dessert option.
+26. Request for detailed quotes and assistance with invoices.
+27. Assurance provided for no pork in any canapés.
+28. Inquiry regarding the capability to provide a complete buffet service including setup, decorating, and breakdown.
+29. Pricing confirmed for event services including a 10% commission.
+30. Menu customization options discussed including the selection of canapés.
+31. Customer subject: Huge event planned with a Gatsby theme and various entertainment options.
+
+---
+
+1. Customer inquiry: Asking about the availability of two waiters for a specific date and event.
+2. Customer inquiry for the restaurant or event location.
+3. Inquiry details about catering for a specific date, specifically mentioning food preferences and guest counts for two separate events.
+4. Confirmation asked about special requests for diverse appetizers, cheese boards, and child-friendly meal options.
+5. Pricing inquiry for providing catering services on a large yacht versus at a private house, along with a request to discuss preferences and options.
+6. Request for quotes reflecting additional service and equipment procurement.

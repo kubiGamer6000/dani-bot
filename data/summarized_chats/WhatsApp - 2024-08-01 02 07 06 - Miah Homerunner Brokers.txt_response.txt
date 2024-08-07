@@ -1,0 +1,13 @@
+1. Customer inquiry: Need canapés for 60 people for an Open House event in Nueva Andalucia on Thursday.
+2. Services inquiry: Request for suggestions of canapés for the James Bond themed event.
+3. Event details:
+   - Event type: Open House
+   - Event date: Thursday 14th October 2021
+   - Event duration: 14:00hrs-17:00hrs
+   - Guest count: 50
+4. Catering services offered:
+   - Dani’s Catering to arrive at 12:00 for preparation and setup of a James Bond themed table, including canapés and finger food (minimum 4 types).
+   - Provision of 2 service staff ("Bond girls") dressed in black silk dresses.
+   - Equipment includes: 2 buffet tables, tablecloths, 4 cocktail high tables, disposables, cleaning and clearing services.
+5. Total cost for the event: €1000.00 + VAT.
+6. Follow-up: Customer asks if the proposal works and will send canapés choices the next day.

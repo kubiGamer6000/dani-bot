@@ -1,0 +1,12 @@
+1. Customer inquiry: Costs and availability for an event at Yours studio next week.
+2. Event details: Casual event with about 60/70 people dropping in across a couple of hours, starting at 6pm on Friday, July 19th.
+3. Menu options inquiry: Customer suggests a mix of bowls and canapés.
+4. Cost inquiry: Customer requests the cost of accommodating 60 people, based on each guest having 2 bowls and 2 canapés.
+5. Pricing provided: €40 per person + VAT for 2 bowls and 2 canapés.
+6. Customer confusion: Customer expresses confusion over the calculation leading to a total of €1,600 based on the website's costs for 8 canapés at €40 pp.
+7. Inquiry about service costs: Customer asks how much service adds to the food pricing.
+8. Pricing for service: For 8 bowl food with service included, the price is €80 per person + VAT.
+9. Inquiry about canapés: Customer reconfirms wanting 2 bowls and 2 canapés.
+10. Pricing for canapés: For cold-only canapés, the price is €30 pp + VAT, inclusive of service.
+11. Inquiry about cost without servers: Customer asks for the cost with no servers, just to leave the platters for the evening.
+12. Pricing breakdown: €40 * 30 pax = €1200 + VAT (10%), with all beautifully set up included.

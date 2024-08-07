@@ -1,0 +1,31 @@
+1. Customer inquiry: Do you do halal food?
+2. Inquiry about delivery: Do you delivery at Sevilla?
+3. Event details: Confirmed order for Sunday at 13:30, with 5 adults and 6 kids.
+4. Menu order:
+   - 1 sandwich platter
+   - 1 burger platter
+   - 1 cheese platter
+   - 1 vegetable platter with hummus and babaganoush
+   - Couscous salad
+   - Fruit platter
+   - Brioche with salmon
+   - Mini pancakes
+   - Mini strawberries dipped
+5. Dietary requirements: All meat to be halal and no pork.
+6. Final total for order: £335, with a breakdown:
+   - 1 sandwich platter: £50
+   - 1 burger platter: £50
+   - 1 cheese platter: £50
+   - 1 vegetable platter: £30
+   - Couscous salad: £30
+   - Fruit platter: £30
+   - Brioche with salmon: £30
+   - Mozzarella sticks: £20
+   - Dessert mini platter: £30
+   - Halal meat purchase: £15
+7. Delivery inquiry: What time do you want us to deliver the food?
+8. Inquiry regarding bread for the cheese platter: Do you bring bread for the cheese platter?
+9. Request for a detailed bill: Can you send me a bill with detailed information? 
+10. Flexibility regarding delivery location: Definitely, all depends. If it's a big order, we can do private chef, preparing food in the house.
+11. Lead times for bookings: Food for takeaway platters must be selected and communicated by the customer. 
+12. Customization options: Customer can select types of sandwiches and burgers from provided pictures.

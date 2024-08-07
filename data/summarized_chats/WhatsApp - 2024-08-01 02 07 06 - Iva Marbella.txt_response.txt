@@ -1,0 +1,15 @@
+1. Event date: July 17 in the afternoon starting at 19:00 until midnight.
+2. DJ inquiry: Customer requested DJ services.
+3. Lighting services inquiry: Customer asked about lighting services.
+4. Food inquiry: Customer requested food for the event.
+5. Equipment rental inquiry: Customer asked if tables and chairs are included in the service.
+6. Equipment provision: Tables and chairs are rented, not included in the service; confirming what is needed.
+7. Customer invited a visit to their house to check the garden and organize the setup.
+8. Confirmation of guest count: 22 adults, maximum 24.
+9. DJ pricing: Known DJ charges €150/hour.
+10. Entertainment inquiry: Customer refers to children's entertainment with music.
+11. Event confirmation: Customer confirmed they want everything ready for the event at 7:30 PM.
+12. Timing for entertainment: Children's entertainment will be present for 2 hours, music will be until 10 PM.
+13. Final DJ confirmation: DJ to arrive at 10 PM, playing until 1 AM for a total of 3 hours.
+14. Customer's request for location: Customer asked for location for a balloon decoration service.
+15. Drone video request: Customer asked for a drone video after the event.

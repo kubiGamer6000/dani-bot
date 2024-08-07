@@ -1,0 +1,21 @@
+1. Customer inquiry: Planning an open house on June 28th for approximately 100-150 people.
+2. Quote request acknowledgment: Request for a quote for the open house event.
+3. Event details:
+   - Event type: Open house event
+   - Date: June 28, 2023
+   - Time: 12:00 - 15:00
+   - Number of guests: 100-150
+4. Package options:
+   - **Package 1 @ €20/person + VAT**
+     - 4 bites/person of finger food (Menu to be confirmed)
+     - Drinks: Organic tea/coffee capsules station, fresh squeezed orange juice, still & sparkling water
+     - All equipment hire (glasses, high tables, decoration, platters, etc.), ice
+     - Staff service charge
+   - **Package 2 @ €25/person + VAT**
+     - 6 bites/person of finger food (Menu to be confirmed)
+     - Includes fruits, desserts, and vegetable sticks with dips
+     - Drinks: Organic tea/coffee capsules station, fresh squeezed orange juice, still & sparkling water
+     - All equipment hire (glasses, decoration, platters, etc.), ice
+     - Staff service charge
+5. Personalized options: Willing to personalize the package if it does not fit the budget.
+6. Follow-up inquiry: Following up to check if there is a budget set to work with.

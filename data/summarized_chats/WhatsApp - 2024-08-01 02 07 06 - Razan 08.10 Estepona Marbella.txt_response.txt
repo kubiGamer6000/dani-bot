@@ -1,0 +1,11 @@
+1. Customer inquiry: Interest in catering for an event on October 8, 2021.
+2. Menu inquiry: Reference to current menus and bespoke packages with special pricing tailored for requests.
+3. Event details: Cost breakdown for 150-200 people at €20/person + IVA.
+4. Service details:
+   - Unlimited bar with wine, beer, and homemade lemonades.
+   - Two buffet stations with a selection of mini burgers.
+   - Includes all service staff, tables, ice buckets, ice, disposable plastic glasses and cups, clearing, and cleaning.
+5. Total pricing: 
+   - Net total for 180 people: €3600.
+   - Gross total including IVA: €3960.
+6. Offer for a meeting: Suggestion to meet for coffee to discuss the event further.

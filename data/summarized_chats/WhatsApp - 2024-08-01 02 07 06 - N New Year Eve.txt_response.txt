@@ -1,0 +1,21 @@
+1. Customer inquiry: Catering services for New Year's Eve
+2. Finger food options inquiry: Asking about available options for finger food.
+3. Guest count: 10 people.
+4. Takeaway inquiry: Options available for takeaway platters need to be picked up from Marbella at max 14:00 hrs.
+5. Menu request: Customer requests to see the menus for takeaway options.
+6. Final order timeline: The customer will need the final order by December 27 to proceed.
+7. Order details provided:
+   - 1. Sandwich platter (items 3, 4, 5, 10)
+   - 2. Tapas platter (items 1, 7, 4, 12, 15)
+   - 3. Surprise dessert platter
+8. Inquiry about sufficiency of food: Customer asks if the food ordered will be enough for 20 people.
+9. Recommendation for additional food: Suggested 3 savory platters and 1 dessert platter for 20 people; recommendation of 2 tapas platters due to their popularity.
+10. Pickup confirmation: Customer confirms pickup time at 14:00 hrs on December 31.
+11. Pricing details: 
+    - 2 tapas platters at €75/box + VAT 
+    - 2 sandwich platters at €50/box + VAT 
+    - 10% VAT 
+    - Grand total = €275
+12. Payment inquiry: Customer asks if they can pay cash without VAT; confirmation given for cash payment.
+13. Invoice request: Customer asks for an invoice; company details provided as YouPic AB, Navid Razazi.
+14. Final confirmation of pickup time: Customer confirms interest in picking up on January 1 at 14:00 hrs.

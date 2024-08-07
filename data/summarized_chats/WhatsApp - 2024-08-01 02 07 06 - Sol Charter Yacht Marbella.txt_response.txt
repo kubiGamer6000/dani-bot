@@ -1,0 +1,47 @@
+1. Customer inquiry: Request for a list of available food and prices for an order.
+2. Order timing inquiry: Customer asks if they can place an order for the next morning at dock 1.
+3. Menu items from customer:
+   - Sandwich platter 
+     - Ham and cheese
+     - Bacon, lettuce & tomato
+     - Egg mayonnaise
+     - Turkey, cucumber & salad
+   - Tapas platter
+     - Pesto & tomato mozzarella
+     - Thai chili chicken
+     - Avocado, egg & chili
+     - Italian meatball and pesto
+     - Hummus, carrot, cabbage
+   - Seasonal vegetables platter with a variety of hummus not the selection dips.
+4. Additional services: Delivery for €25 + VAT.
+5. Total inquiry: Customer asks for the total cost.
+6. Pricing for order: €200 + VAT (approximately €240) for the entire order.
+7. Customer's concern: Is it too much food for 7 people?
+8. Delivery time confirmation: Delivery needed at 11-12 in the morning.
+9. Customer confirmation: Delivery will be at dock 1, mooring 36.
+10. Inquiry about discount on delivery: Customer asks if there is a €20 discount.
+11. Location confirmation request: Customer asks for the location for pickup.
+12. Order for another date: Request to place another order for the following Sunday at 9:30 AM with specific menu items listed:
+    - Tapas Box No: 3, 6, 9, 10, 12
+    - Croissant Platter No: 2, 3, 4, 6
+    - Seasonal Vegetables & Dips
+    - Cheese Platter
+    - Surprise Spanish Platter.
+13. Total pricing inquiry for the Sunday order: Customer asks how much the order will be.
+14. Pricing details provided for an order on another day: €275 + VAT, plus delivery €25 + VAT, with a total of €330, confirming a €10 discount.
+15. Order summary for another request on May 24 at 9 AM:
+    - Spanish Tapas Surprise Platter
+    - Platter of tapas (3, 7, 8, 10, 14)
+    - Mini beef and chicken burgers
+    - Bellini canapé platter (mini prawns, goat cheese with caramelized onion, salmon bellini with caviar, brie with fig jam, Swedish meatballs)
+    - Croissant platter (1, 2, 3, 5)
+    - Sandwich platter (1, 3, 7, 8)
+16. Total pricing provided: Total €375, with a discount applied resulting in €337.50.
+17. Inquiry about picking up the food due to high demand: Customer confirms if they can pick up instead of delivery.
+18. Clarification on VAT for a non-invoiced order: Customer asks if VAT can be eliminated since they don't need a receipt.
+19. Order request confirmation for 11:30 AM the next day: Customer asks about the delivery time.
+20. Inquiry about payment type: Customer asks if invoice or cash is needed, confirming cash payment.
+21. Food unavailable: Notification that ham sandwich, salmon, and tuna are unavailable.
+22. Customer dietary restrictions mentioned: Needs food that children can eat, asks about chicken slices and salchichas (sausages).
+23. Menu adjustments for children suggested by customer: Customer requests specific sandwich option from the menu, turkey with cucumber and salad.
+24. Urgency in order fulfillment: Customer acknowledges challenges in fulfilling the order due to time constraints and stock issues.

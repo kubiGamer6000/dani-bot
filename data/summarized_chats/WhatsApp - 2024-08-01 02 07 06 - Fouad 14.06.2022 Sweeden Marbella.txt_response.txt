@@ -1,0 +1,35 @@
+1. Customer inquiry: Interested in having an event on June 14th for 30 people
+2. Event type inquiry: Corporate lunch
+3. Date: Tuesday, June 14th, 2022
+4. Guest count: 30 people
+5. Setup time: 17:00
+6. Dinner served at: 18:00
+7. Summer Package:
+   - Starters: Selection of 6 tapas & finger food
+   - Mega salads: 
+     - Fresh Greek salad with heritage tomato and organic cucumbers 
+     - Summer mango, avocado, carrot and toasted seeds salad 
+     - Mozzarella, tomato, pesto pasta summer salad 
+     - Summer couscous with roasted Mediterranean vegetables
+   - BBQ selection:
+     - Aged Beef entrecot 
+     - Mini beef burgers
+     - Mini veggie burgers
+     - Chicken skewers 
+     - Seafood skewers
+   - Includes all pairing sauces, breads, and chimichurri
+   - Fruit selection
+   - Mini finger desserts
+   - Beautiful display table
+   - Service included
+8. Package price: €75/person 
+9. Package price with drinks: €100/person + IVA; drinks include soft drinks, beer, wine, sangria, organic homemade lemonade, glasses, ice, and ice buckets
+10. Note: No pork, vegetarian and vegan options available
+11. Confirmation inquiry: Need a deposit to proceed with purchasing from butchers and organizing staff
+12. Payment details: €75 * 30 = €2250 + IVA
+13. Invoice request: Customer asked for invoice details to organize payment
+14. Full package with drinks inquiry: Customer initially asks if they want a full package with drinks but confirms only food later
+15. Additional drink details: Ordered 50 bottles of Moët, 2 cases of water, 3 bottles of vodka, soft drinks, juice, and ice
+16. Last confirmation: Customer confirms for food only, no drinks
+17. Payment method inquiry: Customer confirms they can pay with a card, noting that VAT will be added
+18. Deposit and confirmation of event details in texts exchanged prior to the event

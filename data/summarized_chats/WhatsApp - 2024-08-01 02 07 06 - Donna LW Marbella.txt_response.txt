@@ -1,0 +1,21 @@
+1. Customer inquiry: Looking for caterers for a birthday party on the evening of Friday 8th September.
+2. Event details: Approximately 60 guests, canapé type food.
+3. Staffing inquiry: Availability of waiters/waitresses.
+4. Cocktail service inquiry: Interested in hiring someone to make and serve cocktails.
+5. Menu reference: Mention of party packages with staff service on page 12 of the menu.
+6. Follow-up inquiry: Asking for a quote based on specific requirements for canapés for 60 people and cocktail service from 7pm until 11pm.
+7. Recommendations: Suggestion of 8 to 10 canapés per person.
+8. Proposed package details:
+   - Date: Friday 8th September 2023
+   - Time: 19:00-23:00
+   - Guest count: 60 pax
+   - Offer includes: 
+     - 8 canapés per person
+     - Mobile cocktail service
+     - Professional bartender
+     - 4 unlimited cocktails
+     - All staff service and equipment
+     - All glasses and serving plates
+     - Decoration
+     - Unlimited soft drinks, cava, wine, and beer
+9. Pricing: €90/person + VAT for the package with 5 cocktails.

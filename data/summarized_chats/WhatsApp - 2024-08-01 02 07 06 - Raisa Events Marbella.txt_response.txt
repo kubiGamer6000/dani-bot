@@ -1,0 +1,9 @@
+1. Customer inquiry: Interested in catering for August
+2. Service inquiry: Buffet, basic dishes, and a bartender
+3. Cost inquiry: What are the costs for the requested services?
+4. Decoration inquiry: What can you offer from decorations? Is balloon installation possible?
+5. Menu options: Request for menu offerings and possibility of bespoke menu
+6. Date inquiry: Request for availability check based on event date
+7. Event details: A request for all decorations, a drinks buffet, and a food buffet to match the decor
+8. Budget inquiry: What could be the budget for 6 people?
+9. Quotation: Total cost quoted for the requested services: €3000 + VAT including equipment, food, drinks, staff, and decoration.

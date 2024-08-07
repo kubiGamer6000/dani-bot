@@ -1,0 +1,46 @@
+1. Customer inquiries regarding the wedding:
+   - Inquiry about the cake and desserts: "Can I make them with you?"
+   - Inquiry about a good photographer in the area: "Do you know any?"
+   - Inquiry about music (saxophonist and DJ).
+   - Inquiry about makeup and hairdressers (if known in the area).
+   - Inquiry about the food menu.
+
+2. Booking specifics:
+   - Date: October 21, 2023, at 17:00.
+   - Guest count: 22 adults and 4 children.
+   - Inquiry about how many kilograms for the cake.
+   - Catering costs discussed:
+     - DJ and equipment: €1,000.
+     - Tort: €500.
+     - Bridal bouquet and buttonhole flower: €500.
+     - Price per adult: €200 (22 adults= €4400), price per child: €50 (4 children = €200).
+     - Total estimated cost €6,600 plus VAT.
+     - Deposit required: €500.
+
+3. Cake inquiry:
+   - Options for cake weight:
+     - 6 kg for around €370.
+     - 5 kg for around €330.
+     - 4 kg for around €290.
+     - Plus delivery charges.
+   - Grand total calculation discussed.
+
+4. Additional services:
+   - Various flower arrangements needed (altar, bridal bouquet, etc.) specified as cream roses and additional centerpieces.
+   - Confirmation that most prices include VAT, and discussions on cash payment to avoid VAT.
+
+5. Event details:
+   - DJ to start at 19:00 and end at 02:00.
+   - Saxophonist scheduled to perform at midnight.
+   - Address details for the villa provided for the event.
+
+6. Visual references:
+   - Several images shared to communicate flower and decoration preferences. 
+
+7. Confirmation of arrangements:
+   - The customer confirms all arrangements and discusses logistics about the delivery of the equipment.
+
+8. Customer requests for floristry:
+   - Specific flower types for the wedding and arrangements requested.
+
+This conversation contains numerous inquiries and specific details that can greatly assist in shaping a customer service chatbot tailored toward wedding and catering services.

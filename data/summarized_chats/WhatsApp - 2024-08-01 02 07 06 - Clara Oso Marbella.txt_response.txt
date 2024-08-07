@@ -1,0 +1,34 @@
+1. Customer inquiry: Would I be able to order some food from you for Saturday? 
+2. Order confirmation: Yes, we can still take orders.
+3. Collection inquiry: To collect on Saturday?
+4. Menu inquiry: Is this different to the menu I usually use?
+5. VAT inquiry: Is it VAT on collection as well as delivery?
+6. Recommendation request for a party: What would you recommend for a party of 10 children and 5 adults please?
+7. Recommended items for the party:
+   - 2 Mini burgers platter (all types)
+   - Sandwich platter
+   - Tapas platter
+   - Canapés platter
+   - Recommended 4-5 boxes for the event
+8. Sweet option recommendation: Which sweet one would you recommend?
+9. Sweet item details: The cupcakes are amazing. How many is in the box? The answer provided was 36.
+10. Inquiry for smaller option: Is there a smaller option at all?
+11. Customer order confirmation: Ok sold. Can I please order:
+    - Cupcakes 
+    - 1 sandwich
+    - 1 burger
+    - 1 tapas
+12. Order details and timing: I’d like it by 1:30.
+13. Payment breakdown:
+    - Cupcakes: 100€ + VAT
+    - 1 sandwich: 50€ + VAT
+    - 1 burger: 50€ + VAT
+    - 1 tapas: 75€ + VAT
+    - Total net: 275€
+    - VAT: 10%
+    - Total gross: 302.50€
+14. Payment method confirmation: I can pay on card there still?
+15. Feedback: There were not 36 cupcakes in the box; there are 25. 
+16. Feedback regarding VAT: Lisa says that VAT wasn’t charged on collection for her. 
+17. Explanation on extra boxes: I have given you 2 extra boxes free of charge as the girl baked bigger cupcakes than usual. 
+18. Acknowledgment of understanding the VAT charge and commitment to proper billing for future transactions.

@@ -1,0 +1,7 @@
+1. Customer inquiry: A party in Girona for 250 people.
+2. Event date: July 8th.
+3. Food options: Canapés and buffet.
+4. Additional services inquiry: Do you need equipment, tables, chairs, plates, etc.?
+5. Price per person: €120 + VAT.
+6. Confirmation of canapés only, no buffet. 
+7. Final price after confirmation: €100 per person.

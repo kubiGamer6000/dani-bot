@@ -1,0 +1,13 @@
+1. Customer inquiry: In the canapés, do I have to choose 8 from the group or can they be mixed between Spanish and international?
+2. Confirmation: They can be mixed.
+3. Food order inquiry: I would like a fruit platter, mini burgers - if possible 1/2 beef, 1/2 crispy chicken (7+8 if they are 15), if they have to be from the three variants, then the third of pork, and canapés for 10 people:
+   - Gazpacho shots
+   - Iberian ham croquettes
+   - Marinated octopus
+   - Chicken lollipops
+   - Goat cheese lollipops
+   - Salmon tartare
+   - Smoked salmon and caviar
+   - Fried prawns
+4. Guest count: Canapés for 10 guests.
+5. Booking inquiry: You will let me know if you will be passing by the house.

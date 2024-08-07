@@ -1,0 +1,61 @@
+1. Customer inquiry: Delivery of 4 portions at 19 today.
+   
+2. Customer inquiry: Request for breakfast for four people at 9 tomorrow.
+   - Items requested: Sandwiches, sweets/pastries.
+
+3. Menu inquiry: 
+   - Breakfast style requested for Beirons birthday.
+
+4. Inquiry about delivery time: Request to deliver at 8:30 tomorrow morning.
+
+5. Customer confirmation: Delivery of breakfast for five people from June 23 to 27.
+
+6. Customer inquiry: Request for BBQ for Swedish midsummer on June 23.
+   - Guest count: Approximately 20 people.
+   - Request for BBQ menu with salads, finger food, and desserts.
+
+7. Customer inquiry: Food requirements for a dinner for 10 people on March 25.
+   - Menu suggestions provided:
+     - Sharing starters: Buratta caprese salad, selection of mini bruschettas, Italian cured meat & cheese board.
+     - Sharing main course: Rigatoni pasta, porcini mushroom risotto, Italian florentine steak.
+     - Sharing desserts: Tiramisu, Italian brownies.
+   - Price: €150/person + VAT.
+
+8. Customer inquiry: Requirements for food for a photo shoot on January 24-25.
+   - Request for beautiful looking breakfast for staging.
+   - Confirmation of food delivery at 9 on January 24.
+
+9. Customer inquiry: Request for healthy breakfast options with oatmeal and pancakes for a morning delivery.
+
+10. Customer notification of cancellation: Need to cancel catering due to bad weather for the photo shoot.
+
+11. Customer follow-up: Confirmation to deliver breakfast and food for the photo shoot on June 18 at 8:00-8:30.
+
+12. Customer inquiry: Can deliver some healthy breakfast with low sugar content.
+
+13. Customer request: Breakfast for three people with particular items on August 9.
+    - Items requested: Croissants, pancakes, yogurt, fruit, healthy bread, juice, cheeses.
+
+14. Customer feedback: Appreciation for service during the family/friends midsummer event, stating the food was great.
+
+15. Inquiry regarding food preparation for a photo shoot on a given date with proposed budget of €400 + VAT.
+
+16. Customer inquiry about equipment pickup following the event.
+
+17. Customer complaint: Issues regarding service quality and arrangements during a recent event, offering constructive feedback.
+
+18. Inquiry about arranging drinks and food for a specific event on June 23, including guest numbers and beverage details.
+
+19. Customer confirmation: Approval of catering arrangements and payment details for the June event.
+
+20. Inquiry: Check if it is possible to drop drinks at the location ahead of an event.
+
+21. Customer confirmation: Agreement for final food arrangements including menu details for the event on June 23.
+
+22. Customer request: Confirmation of whether breakfast delivery can be made for 12 people next Saturday.
+
+23. Confirmation: Breakfast delivery for three people at 9 in the morning on August 9 with specific dietary requests.
+
+24. Inquiry: Request for breakfast delivery for three persons with particular items discussed earlier.
+
+This captures all pertinent information derived from the chat messages regarding inquiries, requests, menus, and event details related to Dani's Catering services.

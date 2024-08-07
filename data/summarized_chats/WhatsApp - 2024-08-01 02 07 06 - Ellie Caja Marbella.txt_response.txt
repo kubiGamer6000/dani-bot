@@ -1,0 +1,8 @@
+1. Customer inquiry: Interested in takeaway boxes and self-pickup options.
+2. Pickup availability: Customer inquiring about collecting on Sunday or Saturday.
+3. Pickup time inquiry: Customer flexible around 11 am.
+4. Pickup location: Customer asks where in Marbella they can collect.
+5. Takeaway order inquiry: Customer specifies a Croissant box with the order numbers 2, 3, 4, 6.
+6. Payment inquiry: Customer asks for the total for the box after tax and payment options (cash or transfer/Bizum).
+7. Total price: The box costs €55 including tax.
+8. Payment methods: Customer can pay by cash or card upon collection since it’s a small order.

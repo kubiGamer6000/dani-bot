@@ -1,0 +1,8 @@
+1. Customer inquiry: Request for menu
+2. Catering inquiry: "How far in advance do I need to book catering?"
+3. Booking procedure: For takeaway, a request can be made 2 days in advance; for bespoke menus and parties, more time is needed due to high demand.
+4. Delivery inquiry: Customer asking if delivery on the boat is available.
+5. Pickup option: Customer inquiring if they can come and pick up the catering.
+6. Delivery pricing: Delivery available for €25.
+7. Pickup inquiry: Customer asking about the location of the shop in Marbella.
+8. Location information: Confirmed that the shop is in Marbella and sent a link with delivery information.

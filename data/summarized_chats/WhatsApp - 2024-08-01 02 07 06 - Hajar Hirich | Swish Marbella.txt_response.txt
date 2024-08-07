@@ -1,0 +1,28 @@
+1. Customer inquiry: Request for a bartender for an event tomorrow from 6 PM to midnight.
+2. Pricing for bartender services:
+   - €1500 + VAT for unlimited 4 types of cocktails, all equipment, mobile bar, all alcohol, all types of glasses, professional cocktail bartender (no flair) for 12 guests.
+   - €2500 + VAT for the same service with cocktail flair show for 12 guests.
+3. Customer inquiry: Last-minute request for a chef for dinner tomorrow.
+4. Menu preferences: Fish and seafood, including baked fish and grilled prawns.
+5. Special request: Fresh local products and simple cooking.
+6. Customer request for pricing: Asking if it's possible to provide chef services and the associated costs.
+7. Guest count: 11 guests for the dinner service request.
+8. Customer inquiry: Request for a chef for brunch tomorrow at 12/1 PM with specified menu items:
+   - Scrambled eggs
+   - Turkey bacon
+   - Beans
+   - Pancakes/Waffles
+   - Fruit platter
+   - Hash browns/Potatoes
+   - Chicken sausages
+   - Orange juice
+9. Pricing for brunch service: €500 + VAT, including grocery costs for 4 guests.
+10. Customer inquiry: Asking for the best price due to the last-minute request for daily chef service.
+11. Confirmation that the chef service for brunch is scheduled for the following day at the villa.
+12. Customer inquiry: Asking if food can be ready by 1 PM or 1:30 PM.
+13. Confirmation of service schedule: Chef service confirmed for tomorrow.
+14. Customer inquiry: Asking if chef service is requested again for breakfast. 
+15. Inquiry about payment status: Questioning whether payment has been received for the services.
+16. Customer inquiry: Asking if chef service can be provided on a boat with a focus on cooked food, specifically halal options.
+17. Confirmation that chef services can be provided on a boat and mention of the chef's yacht cooking license.
+18. Customer inquiry: Request for menus and more or less pricing for the private chef service.

@@ -1,0 +1,17 @@
+1. Customer inquiry: Order for Friday, April 26th.
+2. Menu items ordered:
+   - Tapas platter:
+     - No. 1: Pesto mousse with tomato & mozzarella
+     - No. 4: Thai Chili chicken
+     - No. 7: Goat cheese
+     - No. 12: Chicken and coriander
+     - No. 14: Italian meatball
+   - Charcuterie platter
+   - Cheese platter
+3. Allergy notification: Avocado.
+4. Payment inquiry: Customer would like to pay by card or provides the option for bank transfer.
+5. Delivery time requested: Before 17:00.
+6. Invoice request: Customer asks for the invoice to be sent and inquires about payment options.
+7. Delivery confirmation: Delivery scheduled for around 16:00.
+8. Order type: Private event.
+

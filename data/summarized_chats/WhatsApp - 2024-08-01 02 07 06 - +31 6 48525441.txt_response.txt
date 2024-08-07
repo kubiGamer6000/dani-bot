@@ -1,0 +1,3 @@
+1. Customer inquiry: Options for a 'picnic' box
+2. Customer request: Reserve a box for Saturday
+3. Company response: Unable to take orders on Saturday due to a wedding commitment

@@ -1,0 +1,27 @@
+1. Customer inquiry: Available for an event on Saturday.
+2. Service inquiry: Interested in a bespoke package, mentioned that tapas parties are popular and delicious.
+3. Order details: Tapas buffet for 35 people at €30 per person + VAT.
+4. Additional service inquiry: Oyster girl opening service at €350 for 50.
+5. Menu selection request: Choose 8 tapas options from the following:
+   - Serrano & camembert cheese
+   - Caramelized onion & goat cheese
+   - Salmon & lemon mousse
+   - Russian salad & prawn
+   - Roast beef & red onion
+   - Vegetarian or chorizo tortilla
+   - Babaganush & homemade mayonnaise
+   - Salmon & caviar
+   - Coronation chicken
+   - Smoked sweet and sour chicken
+   - Cod fried fish & caramelized onion
+   - Pull porked & horseradish sauce
+   - Devil egg & olive tapenade
+   - Wild mushroom & truffle
+   - Beefsteak & chimichurri
+   - Egg & homemade mayonnaise
+   - Duck foie gras & quail egg.
+6. Confirmation request: Confirmation of the time of the event and location.
+7. Location inquiry: Mentioned wanting to visit the villa to discuss food.
+8. Deposit and payment confirmation: €1500 as per budget.
+9. Payment follow-up: Inquiry about whether payment was made.
+10. Payment confirmation: Acknowledged that payment was done.

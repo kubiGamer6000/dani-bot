@@ -1,0 +1,13 @@
+1. Customer inquiry: Appointment to see Dani after May 25th.
+2. Meeting confirmation: Confirming a meeting on Tuesday at 16:00.
+3. Meeting logistics: Location details provided for the meeting at Hotel del Golf Las Brisas.
+4. Package inquiry: Reference to "Package no 1" for an event with 20 guests on September 13th.
+5. Menu selection for an event:
+   - Fig & Brie skewers
+   - Pulled pork bao buns (requesting not the black bun, if possible)
+   - Salmon blinis
+   - Crab cakes with lemon
+   - Mini quesadillas
+   - Truffle mushroom balls
+   - Extra: Chicken burgers
+6. Pricing inquiry: Asking if VAT can be knocked off if payment is made in cash for the order.

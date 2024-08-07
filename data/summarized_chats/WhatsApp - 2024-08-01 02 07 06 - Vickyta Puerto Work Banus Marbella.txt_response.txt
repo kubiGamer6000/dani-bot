@@ -1,0 +1,23 @@
+1. Customer inquiry: Event requirements for E01 taking place on May 31, June 1, and June 2.
+2. Buffet setup request: 
+   - 10 boxes of 10 people
+   - 5 boxes of 30 people
+   - 5 boxes of 40 people
+   - 1 box of 76 people
+3. Daily canapé requirement: 200 canapés per day for the Ocean Club. 
+4. Staffing requirements: 35 waiters needed for the event.
+5. Pricing inquiry: Request for quotes divided for both the boxes and the Ocean Club.
+6. Sandwich pricing inquiry: Asking for the price of sandwich boxes or bulk sandwiches by piece.
+7. Pricing details provided:
+   - 10 boxes of 10 people: €4000 + VAT
+   - 5 boxes of 30 people: €6000 + VAT
+   - 5 boxes of 40 people: €8000 + VAT
+   - 1 box of 76 people: €3040 + VAT
+   - Ocean Club canapés without service: €40 per person + VAT
+   - Ocean Club canapés with service: €60 per person + VAT
+   - Total Ocean Club without service: €8000 + VAT
+   - Total Ocean Club with service: €12000 + VAT
+8. Staffing rates: Staff rates between €20 and €30 per hour depending on specific requirements.
+9. Need for custom menu discussions based on selected options for sandwich boxes.
+10. Customer appreciation and follow-up regarding the quotes. 
+11. Offer of additional catering support: Request for consideration of "extras" for catering support.

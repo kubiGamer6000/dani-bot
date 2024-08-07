@@ -1,0 +1,20 @@
+1. Customer inquiry: Request for a quote and information for an event on June 15 for 50 people.
+2. Event type: Corporate event.
+3. Guest count: 50 people.
+4. Service inquiry: Need for waitstaff and equipment?
+5. Menu inquiry: 8 canapés per person.
+6. Online ordering mention.
+7. Beverage requirement: Needs drinks.
+8. Dietary inquiry: Confirmation of service availability for waitstaff.
+9. Booking confirmation: Need to check how much time is needed in advance for the event.
+10. Menu selection price: €60 per person for the event on June 15.
+11. Drink inclusion inquiry: Asking if wine is included in the €60 package or if it’s extra.
+12. Request for a budget for a subsequent event on November 23 for around 40 people (details may change).
+13. Budget mention: Last time’s package - €60 per person + VAT.
+14. Food options: Offer of canapés, cheese & charcuterie platter, fruit skewers and mini desserts, with setup and decoration of tables included.
+15. Beverage list for catering:
+    - Champagne: Provided by partner.
+    - Wine: Provided by partner.
+    - Beer, Martini Blanco, water (sparkling and still), juices, ice, glasses.
+16. Mention of discount offer: 10% discount provided for bringing a portion of the alcohol.
+17. Invoice mention for service confirmation.

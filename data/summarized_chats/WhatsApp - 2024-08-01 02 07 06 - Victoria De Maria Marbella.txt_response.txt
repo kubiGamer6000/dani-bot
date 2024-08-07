@@ -1,0 +1,18 @@
+1. Customer inquiry: Order catering sandwiches and croissants for Friday morning 10:30-11 to Puerto Banus for the boat.
+2. Ordering method inquiry: "Can you please let us know how can we do - because your website is freezed."
+3. Order confirmation request: Requesting to order specific items for "Femme Club."
+4. Order details:
+   - 1 platter of tapas
+   - 1 platter of canapés
+   - 1 dessert platter
+   - 1 fruit platter
+   - €180 + VAT / €25 + VAT delivery
+   - Total: €205 + VAT
+   - VAT: 20.5%
+   - Grand total: €225.50
+5. Payment methods: Invoice or cash on arrival, inquiries about payment options (Revolut, Bizum, bank transfer).
+6. Delivery location: Puerto Banus, in front of boutique Royal House, PANTALAN 3.
+7. Delivery time confirmed: 10:45.
+8. Subsequent order inquiry: Requesting snacks for Friday evening and asking about latest pickup time, confirmed as 18:00.
+9. Confirmation of order details: Inquiry about specific order item confirmation.
+10. Payment confirmation: Confirming total €110 for Friday at 18:00, asking if paying by card is possible.

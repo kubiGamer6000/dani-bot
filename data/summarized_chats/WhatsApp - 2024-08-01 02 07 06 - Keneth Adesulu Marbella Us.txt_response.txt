@@ -1,0 +1,18 @@
+1. Customer inquiry: Interested in booking on Thursday and Friday.
+2. Event details: Breakfast and lunch for 5 people. 
+3. Pricing inquiry: Private chef service for breakfast and lunch at €500/day + VAT + shopping cost, or all-inclusive for €150/pp + VAT/day.
+4. Deposit requirement: €1000 + VAT deposit required for groceries with receipts provided.
+5. Menu options offered: Standard continental options, Spanish, Italian, international, or personalized menu based on customer preferences.
+6. Customer inquiries: Asking about pictures of services and options for drinks (orange juice, coffee).
+7. Invoice creation: Asking for full name and address to create an invoice.
+8. Payment inquiry: Questions about payment procedures and methods.
+9. Menu choices for breakfast: Eggs, bacon, pancakes, waffles. 
+10. Menu choices for lunch: Tacos (hard and soft), burgers, turkey sandwich.
+11. Breakfast serving time: Requested for 10:00 AM.
+12. Lunch serving time: Requested for 1:00 PM.
+13. Inquiry about photographer and videographer availability.
+14. Customer inquiry: Request for mimosas.
+15. BBQ inquiry for the next day and setting up lunch for a boat trip.
+16. Breakfast time confirmed for 9:00 AM. 
+17. Confirmation of BBQ time at 1:00 PM.
+18. Inquiry for photographers for the evening.

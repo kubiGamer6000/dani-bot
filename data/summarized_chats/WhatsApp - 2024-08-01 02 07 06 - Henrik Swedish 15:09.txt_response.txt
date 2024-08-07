@@ -1,0 +1,11 @@
+1. Customer inquiry: Quote on catering for dinner on 15/9 for 10 adults and 6 kids in Nueva Andalucia.
+2. Entertainment inquiry: Interest in entertainment options, specifically fire performers or a saxophonist to play with house music.
+3. Availability: Confirmed availability for the event on 15/9.
+4. Dinner type options: Inquiry about sit-down dinner or casual BBQ party & finger food.
+5. Entertainment pricing:
+   - DJ & sound system: €150/hour + VAT
+   - Saxophonist: €450 + VAT
+   - Fire performers: €400 + VAT
+6. BBQ party estimate: Casual BBQ party with salad bar and tapas starters, including staff service and some equipment.
+7. Pricing for adults: €100 + VAT per adult.
+8. Pricing for kids: Half price for kids.

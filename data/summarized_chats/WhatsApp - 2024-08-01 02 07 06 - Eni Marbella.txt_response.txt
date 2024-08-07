@@ -1,0 +1,16 @@
+1. Customer inquiry: Inquiry about services for BBQ for 9 guests on 6th May and brunch on 8th May.
+2. Inquiry request: Request for packages/prices.
+3. Service detail: Private chef experience recommended for the group.
+4. Meal details: Lunch (BBQ) on 6th May at 3/4 pm and late breakfast at 11 am on 8th May.
+5. Pricing inquiry: Breakfast €50 per person and BBQ €75 per person.
+6. Breakfast timing: Prices for breakfast applicable from 07:00-11:00, after which it is considered brunch/lunch.
+7. Menu inquiry: Request for a list of the menu for both BBQ and breakfast.
+8. Customization inquiry: Question about whether the menu can be tailored.
+9. VAT inquiry: Total cost including VAT and request for any discounts.
+10. Preparation inquiry: How long will cooking and preparation take?
+11. Booking procedure: Inquiry on how to go ahead with the booking.
+12. Booking confirmation: Confirmation that booking has been made and a request for full payment 5 days before the event.
+13. Email request: Customer provides email for confirmation and details.
+14. Confirmation inquiry: Request for confirmation of booking status.
+15. Menu option inquiry: Inquiry if French toast is an option for brunch.
+16. Cancellation notification: Customer informs about the cancellation of the booking due to changes in trip plans.

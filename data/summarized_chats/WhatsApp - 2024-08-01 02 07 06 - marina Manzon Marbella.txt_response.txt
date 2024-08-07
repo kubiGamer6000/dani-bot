@@ -1,0 +1,43 @@
+1. Customer inquiry: Organizing a birthday party for a 5-year-old daughter for about 20-25 kids and about 20-25 parents.
+2. Event date: June 17, 2023, starting at 16:00-16:30, for about 4 hours.
+3. Location: On a terrace in urbanization La Trinidad.
+4. Inquiry about food and drinks service: "How to calculate the price? How do you work?"
+5. Menu inquiry: Requested party packages and menu information (menus were shared).
+6. Interest in appetizers and food tastings for adults: "I want it to be beautifully served and my guests... not be left hungry."
+7. Question about drinkware included in package: "In pack 1 are glasses for drinks included?"
+8. Confirmation of glasses provision: "Yes definitely we can bring no problema."
+9. Tentative guest count: "I think we will have 20 people."
+10. Inquiry about equipment setup: "Will the installation of your folding tables be included in the price?"
+11. Inquiry about favorite table setup location based on shade: "Where is more shadow, as food will stay more fresh."
+12. Payment arrangements: Discussion about invoicing or cash payment methods.
+13. Final menu including various food items such as:
+    - Extra Beef burgers
+    - Extra Chicken burgers
+    - Coronation chicken tapa
+    - Goat cheese caramelized onion
+    - Serrano, brie & membrillo
+    - Truffle mushroom burger
+    - Pulled pork bao 
+    - Selection of samosas & gyoza
+    - Vegetable sticks & dips
+    - Fruit platter 
+    - Brownie bites 
+    - Cheese platter
+14. Extra food request: "Is it possible to take an additional box for children of burgers?"
+15. Inquiry about tempura shrimp as a menu option.
+16. Confirmation of food delivery setup timing: "We will arrive around 14:30 with all food and equipment."
+17. Inquiry about rental tables: "Usually we hire... this will be another 100 €."
+18. Final confirmation of a cash payment amount: "€600 for food, €150 for equipment. €750 if pay cash."
+19. Communication of food setup requirements for a subsequent event including plates, glasses, and cutlery.
+
+---
+
+20. Follow-up inquiry about catering for June 16, 2024, asking if availability will be possible.
+21. Menu request for the June 16, 2024 event, covering estimation of 10-20 people.
+22. Confirmation of saved date and acknowledgment of potential catering options.
+23. Menu selection for the upcoming event, confirming food items including chicken skewers, shrimp tempura, assorted sushi rolls, and more.
+24. Inquiry about the number of guests confirmed and setup requirements for serving.
+25. Confirmation of rental equipment including plates, glasses, and cutlery for the event.
+26. Confirmation about payment arrangements and locations for exchanging cash post-event. 
+
+(Note: Each request for catering details, confirmations, inquiries about the menu, equipment, and logistical arrangements was captured to aid in training the customer service chatbot.)

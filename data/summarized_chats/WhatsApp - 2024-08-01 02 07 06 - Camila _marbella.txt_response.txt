@@ -1,0 +1,25 @@
+1. Customer inquiry: Budget for a birthday catering for approximately 15 people, will not need waiters as the venue is a restaurant.
+2. Date of the event: September 28.
+3. Customer inquiry: Final guest count is 7.
+4. Menu items mentioned:
+   - Mini hamburgers (aged beef)
+   - Grilled corral tacos
+   - Pork bao
+   - Tempura shrimp bao
+   - Goat cheese and caramelized onion canapé
+   - Shredded duck canapé with hoisin sauce
+   - Ham, cheese, and salad sandwich
+5. Confirmation of the birthday on September 26 at 17:00.
+6. Price inquiry: €280 + VAT.
+7. Final price confirmation: €308.
+8. Customer inquiry: How to make the transfer for payment.
+9. Payment procedure discussion: Confirm everything one day before and proceed with payment in case of more guests.
+10. Customer inquiry: Will you bring tablecloths when setting up the table?
+11. Confirmation: They do not provide tablecloths, just trays for food and minimal decoration.
+12. Final guest count change: Now 11 people.
+13. Selection: Customer chooses a charcuterie dish.
+14. Customer inquiry: Do you need my location now?
+15. Location provided: Av. Julio Iglesias 69, Puerto Banús.
+16. Confirmation of setup time: Event starts at 17:00, they will arrive at 16:30 for setup.
+17. Equipment pickup discussion: Customer offers to clean and return equipment.
+18. Confirmation of time needed for cleaning and pickup: 20 minutes.

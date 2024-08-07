@@ -1,0 +1,22 @@
+1. Customer inquiry: Asking for DJ service and sound equipment availability for Saturday.
+2. Requested service timing: 18:00 - 22:00.
+3. Booking inquiry: Customer needs to check their schedule due to work commitments.
+4. Equipment inquiry: Request for information about speakers and mixers for DJ setup.
+5. Equipment details:
+   - Speaker: Mackie SRM650
+   - Mixer: Pioneer XDJ RX1
+6. Pricing inquiry: Customer asking if the rental for equipment is confirmed for Saturday.
+7. Equipment pricing: 
+   - DJ front with microphone: €70
+   - Tower lights: €20 additional.
+8. Confirmation of availability for December 31st: Inquiry about equipment availability without a mixer.
+9. New Year's Eve setup: 
+   - DJ and equipment availability confirmed for December 31st, priced at €680 including DJ setup and lighting.
+   - Total for a 5-hour rental mentioned (€700 with additional options).
+10. Additional services: Inquiry about bringing extra lights for decoration.
+11. Setup arrangements: Asking about the time to setup the equipment before the event on December 31st.
+12. Pickup arrangements: Customer confirming pickup time for equipment after the event on January 1st.
+13. Request for pricing: 
+    - DJ service with sound and lights for 6 hours: €450. 
+    - Negotiation for a better price.
+14. Alternative offer: Customer mentions working with another company that provides DJ and full equipment but at a higher cost.

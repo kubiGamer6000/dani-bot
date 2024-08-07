@@ -1,0 +1,38 @@
+1. Customer inquiry: Interested in catering for an event on June 27th in Marbella for 24 people in a private villa.
+2. Availability confirmation: Yes, they have availability.
+3. Event Details:
+   - Date: June 27
+   - Venue: Villa in Sierra Blanca
+   - Number of Guests: 24
+   - Age: 30+
+   - Allergies: No dairy food, one kosher guest
+   - Start Time: 5 PM
+   - Presentation Style: Fusion
+   - Cocktails: 3-4 types of cocktails.
+4. Initial Menu Proposal:
+   - Appetizer: Asian-Inspired Gazpacho.
+   - First Starter: Sushi Rolls (ensure kosher options available).
+   - Second Starter: Grilled Vegetable Salad.
+   - Hot Starter: Miso-Glazed Cod.
+   - Sorbet: Lemon-Basil Sorbet.
+   - Main Course (Choice of):
+     1. Teriyaki Chicken.
+     2. Herb-Crusted Lamb.
+     3. Vegan Mushroom Risotto.
+   - Cocktails: Mojito, Margarita, Cosmopolitan, Pina Colada.
+5. Pricing for dinner: €120 per person + VAT (inclusive of 4 hours staff service).
+6. Pricing for cocktail station: €80 per person + VAT (unlimited for 4 hours).
+7. Customer request for menu changes and new suggestions:
+   - Proposed changes include croquettes with kimchi sauce and jamon, crab & langoustine open ravioli, cheese and spinach-filled raviolis, tuna tartare, vitello tonnato, and a preference for grilled steak instead of chicken for the main course.
+8. Updated Menu Proposal incorporating changes:
+   - Appetizer: Asian-Inspired Gazpacho.
+   - First Starter: Tuna Tartare.
+   - Second Starter: Grilled Vegetable Salad.
+   - Hot Starters: Croquette with Kimchi Sauce and Jamon; Crab & Langoustine Open Ravioli; Cheese and Spinach Filled Raviolis; Vitello Tonnato.
+   - Sorbet: Lemon-Basil Sorbet.
+   - Main Course (Choice of):
+     1. Herb-Crusted Lamb.
+     2. Grilled Steak.
+     3. Vegan Mushroom Risotto.
+   - Cocktails: Mojito, Margarita, Cosmopolitan, Pina Colada.
+9. Bar confirmation: Yes, a bar will be available with a professional bartender to prepare cocktails throughout the party.

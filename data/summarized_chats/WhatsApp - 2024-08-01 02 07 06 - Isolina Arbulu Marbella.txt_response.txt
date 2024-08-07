@@ -1,0 +1,4 @@
+1. Customer order: 2 platters for pickup tomorrow afternoon around 6pm.
+   - Mini burgers fried chicken (20 pieces)
+   - Mini pitta platter (hummus and goat cheese) (24 pieces)
+2. Pickup time confirmation: Closing at 15:00 is acceptable for the pickup.

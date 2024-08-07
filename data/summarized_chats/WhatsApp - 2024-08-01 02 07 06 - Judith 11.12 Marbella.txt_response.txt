@@ -1,0 +1,39 @@
+1. Customer inquiry: Request for a budget for a child's birthday on December 11 for 40 adults and up to 25 children.
+2. Inquiry for a list of services available for the event.
+3. Inquiry about the cost of waiter service and drink options.
+4. Request to arrange a meeting on Friday at 10 am in Puerto Banús.
+5. Menu inquiry:
+   - Package 1 @ €1000 + VAT
+     - Based on 40 adults & 20 kids
+     - 2 types of sandwiches or tapas
+     - 2 types of mini burgers
+     - Selection of vegetable soldiers and dips, chicken nuggets
+     - 2 selections of funky lemonades
+     - Beautiful table display & platters hire
+     - 2 staff from 12:00 - 17:00
+   - Package 2 @ €1500 + VAT
+     - Based on 40 adults & 20 kids
+     - 2 types of sandwiches
+     - 2 types of mini burgers
+     - 2 types of tapas
+     - Chicken strips & fish fingers
+     - Charcuterie and cheese platters
+     - Selection of croquettes
+     - Selection of vegetable soldiers and dips, chicken nuggets
+     - Fruit platters and mini desserts
+     - 4 selections of funky lemonades
+     - Still and sparkling water
+     - Beautiful table display & platters hire
+     - 2 staff from 12:00 - 17:00
+6. Customization requests for Package 1 including:
+   - Swapping 1 type of mini burger
+   - Replacing lemonades with more food, specifically croquettes
+   - Adding mini desserts
+7. Inquiry about dips available, specifically hummus.
+8. Confirmation that hummus and babaganoush will be available.
+9. Confirmation that the payment needs to be made a minimum of 2 days before the event, with options for cash or bank transfer.
+10. Final package confirmation of Package 1, including details about the muffin order for kids.
+11. Request for serving arrangements for drinks to determine what to purchase.
+12. Inquiry about the addition of glasses for spirits, wine, ice, and soup spoons for 40 adults.
+13. Response that glasses must be rented from an external company.
+14. Acknowledgment of the change of plans to go with another option for the event.

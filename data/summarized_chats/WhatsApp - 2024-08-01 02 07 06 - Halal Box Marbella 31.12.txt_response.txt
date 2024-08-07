@@ -1,0 +1,28 @@
+1. Customer inquiry: Order for 31 December with halal options.
+2. Inquiry about takeaway options.
+3. Inquiry about salad sizes and pricing:
+   - Medium salad: €30 + VAT
+   - Large salad: €50 + VAT
+4. Order details for sandwich platter:
+   - 4 mozzarella cheese, tomato, pesto
+   - 6 smoked salmon & cream mousse
+   - 8 prawn, lime & mayonnaise
+   - 7 tuna homemade mayo and corn (changed from roasted pepper and cream of hummus)
+5. Pickup or delivery option for the order.
+6. Inquiry about sushi platter quantity: around 50 pieces.
+7. Customer order for Sunday 16th, including:
+   - 2 salads: 
+     - Pasta salad @ €50 + VAT
+     - Greek salad @ €50 + VAT
+   - Sandwich platter @ €50 + VAT
+   - Croissant platter with:
+     - Avocado cheese croissant
+     - Salmon caviar croissant
+   - Inquiry about option without egg and ham/meat.
+   - Desserts inquiry for 15 pieces.
+8. Confirmation of desserts for 25 pieces @ €100 + VAT.
+9. Total order cost: €300, delivery charge: €25 + VAT.
+10. Confirmation of pickup time at 10:00 am.
+11. Delivery option confirmed at 12:00 pm.
+12. Customer request for earlier delivery due to guests arriving early.
+13. Pin drop request for easier location identification.

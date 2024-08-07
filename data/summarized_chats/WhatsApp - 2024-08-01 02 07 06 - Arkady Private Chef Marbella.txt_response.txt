@@ -1,0 +1,12 @@
+1. Customer inquiry: Inquiries about the menu for a catering event on Friday.
+2. Menu items provided:
+   - Salad tabbouleh
+   - Roasted potatoes with garlic and rosemary
+   - Nigiri tuna
+   - Salmon tartar
+   - Gyoza (chicken/beef)
+   - Steak ribeye with chimichurri
+   - Fish fillet with butter sauce
+   - Roasted chicken with hummus and cranberry sauce
+   - Mixed roasted vegetables
+   - Mini burgers

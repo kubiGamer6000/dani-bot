@@ -1,0 +1,26 @@
+1. Customer inquiry: Ordering party platters for a picnic (14 people).
+2. Menu inquiry:
+   - Sandwich Platter (48 pieces): 
+     - Bacon, lettuce, tomato 
+     - Mozzarella, tomato, pesto 
+     - Smoked salmon & cream 
+     - Signature egg & mayo
+   - Mini Burgers (20 pieces): 
+     - Beef 
+     - Pulled pork
+   - Croissant Platter (20 pieces): 
+     - Ham & cream cheese 
+     - Turkey cucumber salad 
+     - Salmon cream cheese 
+     - Egg mayo cress
+   - Asiatic Platter (20 pieces): 
+     - Korean chicken 
+     - Pulled pork
+   - Canapés Platter (36 pieces): 
+     - Mini shrimp 
+     - Swedish meatballs 
+     - Thai chicken 
+     - Goat cheese
+3. Customer confirmed order: Those 5 platters.
+4. Pickup time: 4-4:30 PM.
+5. Payment inquiry: Customer asked for the total amount and options for payment via Bizum or card on collection.

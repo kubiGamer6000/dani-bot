@@ -1,0 +1,13 @@
+1. Customer inquiry: Request for a menu idea for a Christmas dinner on 24.12 for 21 persons.
+2. Menu options provided:
+   - Menu 1 @€120/person + VAT:
+     - Starters: 4 types of tapas
+     - Main: family style with 2 types of meat roasts & 4 garnishes
+     - Dessert: Santa surprise
+   - Menu 2 @€150/person + VAT:
+     - Oysters and caviar service
+     - Starters: 4 types of tapas
+     - Main: family style with 3 types of meat roasts & 6 garnishes
+     - Dessert: Santa surprise
+3. Guest count: 21 persons
+4. Inquiry about pricing and details for menu options.

@@ -1,0 +1,11 @@
+1. Customer inquiry: Interested in food for 8 people this Saturday evening.
+2. Service offered: Tapas party platters at €50 per person. Includes 8 types of hot and cold authentic tapas.
+3. Additional service inquiry: Pairing wine and cava for €25 per person.
+4. Customer request: Dessert and cheese platter.
+5. Delivery inquiry: Asking if delivery is possible in the evening.
+6. Delivery confirmation: Chef's choice of dessert and cheese platter for €100; delivery scheduled around 18:00.
+7. Pricing inquiry: Asking for clarification on total cost, confirming it’s €500 including setup and delivery.
+8. Booking confirmation: Total cost confirmed as €500; includes setup and delivery.
+9. Guest arrival time: Guests will arrive at 19:00 to start the party with cava.
+10. Dietary requirements: Asking if some dishes are without meat, as two guests do not eat meat but do eat fish.  
+11. Dietary confirmation: Confirming that there will be options without meat.

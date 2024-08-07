@@ -1,0 +1,22 @@
+1. Customer inquiry: Catering for a casual lunch for 7 adults and 4 children on Thursday.
+2. Availability inquiry: Question about availability for the specified date.
+3. Menu options inquiry: Options for BBQ, finger party food, or sit down lunch.
+4. Dietary requirements: Request for halal options.
+5. Proposed menu: 
+   - Smoked salmon bun
+   - Vegetarian gyoza
+   - Prawn tempura
+   - Mini beef burgers
+   - Mini vegetarian burgers
+   - Mini pita, feta & hummus
+   - Camembert cheese bites
+   - Vegetable sticks and dips
+   - Fruit skewers
+   - Mini finger dessert
+6. Pricing information:
+   - Delivery and setup for €500 + VAT
+   - Serving and cleanup for €700 + VAT
+7. Inquiry about food temperature: Question about whether the food would be delivered hot or if it needs to be warmed up.
+8. Customer's requested changes: Replacing vegetarian burgers with chicken options, sandwiches, and wraps for the children.
+9. Confirmation of food preparation: Assurance that food would be delivered warm and could be reheated.
+10. Cancellation: Customer no longer needs services for this week but expresses intent to contact in the future.

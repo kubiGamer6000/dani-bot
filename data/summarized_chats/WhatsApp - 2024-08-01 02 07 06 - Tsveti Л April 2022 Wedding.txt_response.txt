@@ -1,0 +1,6 @@
+1. Customer inquiry: For the wedding of 45 people, the price is €4,500, which includes beer and wine. The customer asks how many drinks are included per person.
+2. Food inquiry: Customer asks how long the catering staff will stay at the party and how long they can have fresh food. They inquire if BBQ is the only option provided.
+3. Villa inquiry: The customer requests photos of the villa in La Cala that were previously mentioned.
+4. Additional cost inquiry: The customer asks if €100 per person includes tables, cutlery, etc. 
+5. Drinks clarification: The customer wants to know how much beer and wine is allocated per person, inquiring if it is a certain number of beers and glasses of wine or if it is one bottle per two people.
+6. Menu options inquiry: The customer asks what other menu options are available in case they do not want BBQ.

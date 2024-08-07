@@ -1,0 +1,25 @@
+1. Customer inquiry: Request for a catering quote for a boat party.
+2. Event options:
+   - Option 1: Saturday 19th October 2024, 160 people, catering (food and drink) required.
+   - Option 2: Sunday 20th October 2024, 220 people, catering (food and drink) required.
+3. Availability: Confirmed availability for both days.
+4. Suggested catering package:
+   - **Canapés:** 8 types including hot, cold, and sweet options.
+   - **Drinks Package:** Unlimited cava, wine, beer, soft drinks, still & sparkling water for 4 hours, including standard basic house wines and cava; exclusive brands available upon request; extra hour at €10/person + VAT.
+   - **Staff Service:** Included throughout the event; all cooking and serving equipment (glasses, plates, trays, etc.) provided.
+   - **Price for package:** €120/person + VAT.
+5. Live Cooking Stations: 
+   - Sushi
+   - Spanish
+   - Croquetas
+   - Asian Fusion
+   - Hot Bao Buns
+   - Cold Smoked Fish
+   - Oysters
+   - Caviar
+   - Charcuterie & Cheese
+   - Moroccan
+   - International
+   - Italian
+   - **Cost for each station:** €50/person + VAT in addition to the whole package.
+6. Customization: Offers and menus can be customized based on customer requests.

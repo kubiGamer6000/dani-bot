@@ -1,0 +1,8 @@
+1. Customer inquiry: I would like to quote for a small banquet.
+2. Event date: May 14.
+3. Guest count: 30 people.
+4. Food preferences: Canapés, sandwiches.
+5. Event location: Los Boliches.
+6. Event time: 18:00 (6 PM).
+7. Quotation for a selection of canapés, beautiful table decoration, and service assistance for 4 hours: €1500 + VAT.
+8. Additional proposal to meet for coffee to discuss menus/prices/quotes.

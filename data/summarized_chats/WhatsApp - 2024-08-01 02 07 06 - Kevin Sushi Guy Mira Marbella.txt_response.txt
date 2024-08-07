@@ -1,0 +1,30 @@
+1. Customer inquiry: Sushi preparation for approximately 34 guests for New Year's Eve event.
+2. Menu inquiry: 
+   - Assorted sushi rolls
+   - Prawns
+   - Uramaki
+   - Vegetarian rolls
+3. Customer inquiry: BBQ availability for an event on a specified date.
+4. Price inquiry: €10/hour for service, customer offering €15/hour.
+5. Booking details:
+   - Event 1: 17 guests for a BBQ dinner at 18:30, with a menu including:
+     - Aged Beef Entrecôte
+     - Tomahawks
+     - Seafood platter
+6. Customer mentions: Catering for 30 adults and 40 children.
+7. Pricing for sushi: €220 per kilo.
+8. Event details: 
+   - Date: July 28, 2024
+   - Time: Setup at 10:00 AM
+   - Dinner Served: 6:00 PM
+   - Menu includes:
+     - Sushi and Sashimi Live Cooking
+     - Teriyaki Chicken
+     - Prawn Tempura
+     - Assorted Gyoza
+     - Vegetarian Spring Rolls
+     - Desserts including Mochi Ice Cream and Fruit Platter
+9. Customer inquiry: Required ice for an event and confirmation of a pick-up time.
+10. Customer preparation: Confirming menu items and logistics for an event on July 28.
+11. Customer confirms payment via bizum for services rendered. 
+12. Customer mentions an event requiring 1 kg of sushi for a gathering of 16 adults.

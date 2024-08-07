@@ -1,0 +1,19 @@
+1. Customer inquiry: Request for prices to forward to someone else.
+2. Additional services inquiry: Client asking about videos to promote Dani's Catering services.
+3. Booking inquiry: James wants to book for 28th June for 10 guests.
+4. Menu inquiry: Client asking for food recommendations and cocktail service for an event.
+5. Confirmation of BBQ party with detailed pricing:
+   - BBQ Package 1 @ €80/person + VAT
+   - Customizable menu options: 
+     - Starters: Various options including Bruschetta, Spring Rolls, Mini Caprese Skewers, etc.
+     - Main Course: Options like Beef Brisket, Grilled Chicken, Stuffed Portobello Mushrooms, etc.
+     - Sides/Salads and Desserts listed.
+6. Guest count: Initially 10 guests confirmed for 28th June.
+7. Booking confirmation for another event on 15th June for 5 people.
+8. Inquiry on whether to include bar service.
+9. Payment inquiry for services: Averaging €100/person with a 10% discount.
+10. Dietary inquiry: James confirms kids will be present, asking for a BBQ catering for 8 adults initially, later specifying the full details including menu.
+11. Birthday cake inquiry: Client asking if Dani's Catering does birthday cakes.
+12. Guest accommodation inquiry regarding breakfast, lunch, and dinner prices for an event between 13th to 18th June for 7 to 9 people.
+
+This chat contains relevant inquiries and information regarding Dani's Catering services and potential bookings.

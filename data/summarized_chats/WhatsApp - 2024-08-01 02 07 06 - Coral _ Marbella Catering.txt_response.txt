@@ -1,0 +1,7 @@
+1. Customer inquiry: Asking for a lunch for the upcoming Saturday.
+2. Pricing inquiry: "How much would it be?"
+3. Response request: "Could you provide a budget for everything, cold and hot food, and sit-down lunch?"
+4. Guest count: Approximately 16 people.
+5. Venue information: The location is between Tesorillo and Jimena, called Retiro Sambana.
+6. Service area concern: The customer inquires if catering can be provided for a location that is a bit far since they are primarily catering in Marbella.
+7. Customer understanding: "It's a very small catering - I hope you understand."

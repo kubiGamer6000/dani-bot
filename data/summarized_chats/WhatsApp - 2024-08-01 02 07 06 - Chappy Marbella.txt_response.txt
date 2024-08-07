@@ -1,0 +1,21 @@
+1. Customer inquiry: Interested in having a private chef dinner for 7 adults at an apartment in Puerto Banus on 28 May 2023, asking for rates and types of services provided.
+2. Menu inquiry: Requested a dinner reservation for 6 on Saturday 27 May.
+3. Deposit query: Inquired about making a deposit payment.
+4. Payment information: €100 deposit required.
+5. Confirmation request: Asked for a confirmation email to share with their group.
+6. Booking confirmation: Confirmed the booking for dinner on 27 May. 
+7. Final payment inquiry: Asked if they could make the final payment.
+8. Guest count: Final guest count for dinner specified as 5.
+9. Cuisine choices: Offered cuisine options: Spanish, Italian, Thai, Indian. Asked if a mix of 2 cuisines could be arranged.
+10. Menu preferences: Requested a menu creation; one guest has a shellfish allergy, no pork, and is lactose intolerant.
+11. Proposed menu:
+    - Starters: Mixed seafood platter, Italian Bruschetta, homemade guacamole & tortilla.
+    - Mains: Grilled beef with Spanish patata bravas.
+    - Sides: Grilled vegetables, pasta salad, Caesar salad.
+    - Desserts: Fresh Fruit Salad, selection of finger desserts.
+12. Pricing and balance: Total of €550 gross for 5 guests, with a remaining balance of €450 after the deposit.
+13. Access time inquiry: Asked for the time access is needed for the apartment for the event.
+14. Service time adjustment: Requested the chef to arrive at 8pm to serve dinner at 9pm.
+15. Final confirmation: Confirmed that the chef will arrive at 7pm and serve dinner at 8pm. 
+
+This provides a comprehensive understanding of the inquiry and confirmations related to the catering services offered by Dani's Catering.

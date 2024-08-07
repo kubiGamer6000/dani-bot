@@ -1,0 +1,20 @@
+1. Customer inquiry: Ordering a mixed box of cheese and charcuterie for Saturday.
+2. Price for the mixed box: €25.
+3. Delivery charge: €10 or free pickup from Elviria.
+4. Pickup time: 19:30.
+5. Inquiry for changing pickup time to 18:30.
+6. Confirmation of delivery/ pickup person: Customer's husband, Norbert.
+7. Payment request: Exact money of €25 requested due to lack of change.
+8. Inquiry: Updated menu available.
+9. Customer inquiry: 2 platters of Canapés with options including:
+   - Thai Chicken
+   - Black Salmon
+   - Burata Caprese 
+   - Fish and chip
+   - Babaganoush
+   - Fois gras
+10. Date for pickup: Sunday 14.05, with total cost of €200 (cash) for 4 boxes.
+11. Second Canapé platter changes: Change Thai chicken to Coronation chicken.
+12. Final order confirmation: 6 boxes totaling €300 (cash), with details on Canapés and Asian platters.
+13. Customer asking if pickup time can be at 14:00.
+14. Feedback: Everything was great, despite it not being exactly what was wanted. Will do business again.

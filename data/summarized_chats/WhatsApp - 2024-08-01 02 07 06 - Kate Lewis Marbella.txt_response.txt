@@ -1,0 +1,7 @@
+1. Customer inquiry: Prices and menus for catering services.
+2. Event type: Hen party.
+3. Event details: Looking to have a dinner at a villa, ideally buffet style with drinks.
+4. Guest count: 15 people.
+5. Dietary requirements: One vegetarian guest.
+6. Customer request: Unable to download attachment; requested pictures of menus.
+7. Inquiry regarding booking: Asking when the party is intended to be hosted to book it temporarily in the diary.

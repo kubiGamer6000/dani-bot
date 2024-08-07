@@ -1,0 +1,47 @@
+1. Event inquiry: Catering for a birthday party in Zagaleta
+2. Guest count: 20 people
+3. Event timing: 21:00 - 00:00
+4. Catering offer inquiry: "What can you offer?"
+5. Birthday details: It is a birthday party for 20 adults.
+6. Menu provided:
+   - Price: €120/person + VAT
+   - Includes:
+     - Buffet of tapas and appetizers with 8 different types
+     - Barbecue menu:
+       - Beef entrecote
+       - Chicken skewers
+       - Mini hamburgers
+       - Teriyaki salmon
+     - Salads:
+       - Greek salad
+       - Italian pasta salad
+       - Potato, mayonnaise, and leek salad
+       - Tomato and onion salad
+     - Vegetable sticks and dips
+     - Homemade guacamole and tortillas
+     - Dessert: Fruit skewers
+     - All plates, utensils, cups, ice, and 4-hour staff service included
+7. Drinks package: €30/person + VAT
+   - Non-Alcoholic Drinks Menu includes:
+     - Mocktail Delight
+     - Fruit Infusion Splash
+     - Citrus Zing Cooler
+     - Tropical Paradise
+     - Garden Fresh Mojito
+     - Berry Blast Smoothie
+     - Minty Lemonade
+     - Iced Green Tea Refresher
+     - Sparkling Raspberry Lemonade
+8. Customer request: Send the menu in English and remove the chorizo due to it being pork.
+9. Additional inquiry: Confirmation for a children's birthday catering with a demand for hamburgers.
+10. Date for children's party: Friday.
+11. Event details for children's birthday:
+    - Hamburger station scheduled for 7:30 PM - 9:30 PM, with 16 adults present.
+    - Confirmation that the children have their food, but adults do not.
+12. Menu for the hamburger station:
+    - Wagyu beef burger station with various toppings and sauces.
+    - Chicken butterfly burger with various toppings and sauces.
+    - Fish burger with toppings and sauces.
+    - Sides: Classic and sweet potato fries, mixed green salad.
+    - Chef's surprise dessert.
+13. Cost for children's event: €150 per person + VAT, totaling €2,400 for 16 people.

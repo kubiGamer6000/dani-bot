@@ -1,0 +1,15 @@
+1. Customer inquiry: Hosting an event on 12.04 for 50 people
+2. Catering inquiry: Looking for catering
+3. Food request: Small bites + soft drinks
+4. Budget: 500 from the sponsor
+5. Event timing: 12-3 pm, daytime
+6. Alcohol: Customer will buy their own alcohol
+7. Equipment inquiry: Do you need equipment as well, glasses, tables, staff service?
+8. Requirements: All equipment needed
+9. Budget proposal:
+   - 1 staff member available from 1:00 PM to 3:00 PM
+   - Offering a selection of cheese and charcuterie platters
+   - Beverages not provided by us
+   - Can supply 50 wine glasses and ice buckets
+   - Arrive one hour earlier to assist with setup
+10. Follow-up: Customer will discuss with business partner and come back tomorrow

@@ -1,0 +1,2 @@
+1. Catering inquiry: Request for catering services for tomorrow.
+2. Information request: Asking about specifics regarding what is required and the number of guests for a quotation.

@@ -1,0 +1,5 @@
+1. Customer inquiry: Interested in catering for a stay at Villa Verde in Marbella from the 28th March to the 2nd of April for 5 guests and a baby.
+2. Service inquiry: Attached private chef menus provided for review and customization.
+3. Availability: Inquires about the date for catering services.
+4. Customer response: Will review the packages and revert.
+5. Customer decision: Will not be exploring the catering packages for this trip.

@@ -1,0 +1,8 @@
+1. Customer inquiry: Do you only do catering in Marbella?
+2. Event capabilities: I want to know if you do any other types of events.
+3. Customer confirmation: Yes, we do all types of events. We cater outside of Marbella. What do you have in mind?
+4. Meeting arrangement: Wednesday works perfectly at 13:00.
+5. Meeting location inquiry: Is the café on Avenida Litoral in Estepona convenient for you?
+6. Guest count: The largest possible venue for a party of 300 people.
+7. Booking inquiry: Information about the house you are looking for, including area, number of rooms, estimated price, etc.
+8. Additional services inquiry: Can I call you later?

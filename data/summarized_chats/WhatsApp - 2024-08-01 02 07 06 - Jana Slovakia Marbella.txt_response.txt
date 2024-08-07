@@ -1,0 +1,16 @@
+1. Customer inquiry: Interested in ordering from Dani's Catering.
+2. Order for pickup requested: Sunday, December 31, but was informed that they are fully booked.
+3. Alternative pickup suggestion: Saturday afternoon or tomorrow (December 30) between 17:00 - 18:00.
+4. Customer inquired about keeping food fresh until New Year’s Eve and sought suggestions for orders.
+5. Provided new menu options and takeaway boxes.
+6. Final order confirmed by customer:
+   - 1 x tapas platter from the new menu with the following choices:
+     - 4 Thai Chili Chicken, Lime & Coriander
+     - 6 Smoked Salmon & Caviar
+     - 8 Mushroom Truffle Croquet
+     - 12 Coronation Chicken & Coriander
+     - 15 Spanish Sobrasada & Chorizo
+7. Customer opted to change original sandwich order to the tapas platter.
+8. Inquired about the delivery cost (€25 + VAT) versus pickup for the order.
+9. Confirmation of pickup time: 17:00 on December 30.
+10. Payment method: Customer confirms paying by card at pickup.

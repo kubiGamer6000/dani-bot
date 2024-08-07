@@ -1,0 +1,14 @@
+1. Customer inquiry: Catering for 15-20 people in Zagaletta on November 9th
+2. Service inquiries:
+   - Appetizers
+   - Bartender with cocktails
+3. Event details:
+   - Location: Zagaletta
+   - Date: November 9th
+   - Guest count: 15-20 people
+4. Company confirms availability for the requested date
+5. Company asks if it's an evening event and about the start time of the party
+6. Company suggests meeting to discuss options
+7. Customer asks about scheduling a meeting
+8. Company suggests meeting the next afternoon
+9. Customer indicates the meeting will be by phone as they are not in Marbella

@@ -1,0 +1,10 @@
+1. Customer inquiry: Catering service for New Year's Eve (December 31)
+2. Event details:
+   - 6 adults, 4 children
+   - Catering delivery and setup service requested
+   - Table setting service requested ("set the table nicely")
+3. Service inquiry: Initially asked for catering service with preparation at home, then clarified only delivery and table setting needed
+4. Menu inquiry: Customer asked for menu options, as they couldn't find a menu on the website
+5. Booking process: Company doesn't have a fixed menu, creates custom proposals based on client preferences
+6. Company policy: For small groups (10 people in this case), only catering delivery is usually offered. Full service would be very expensive.
+7. Customer preference: Budget is not a concern for this event

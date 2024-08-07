@@ -1,0 +1,11 @@
+1. Customer inquiry: Takeaway menus.
+2. Delivery service: Available from €25 + VAT.
+3. Pricing for takeaway boxes: Nearly €55 for boxes.
+4. Customer inquiry: How much will it be for 2 boxes of bagels and 1 box of croissants?
+5. Pricing details for bagels: 
+   - Small box: €50 + VAT
+   - Big box: €75 + VAT
+6. Total cost for order: €165 including VAT if picked up.
+7. Pickup location: Central Marbella; location will be shared closer to the date.
+8. Lead time for orders: 1 week in advance.
+9. Event details: Wedding on June 8.

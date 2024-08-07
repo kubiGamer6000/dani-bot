@@ -1,0 +1,16 @@
+1. Customer inquiry: Request for a service for €1000.
+2. Service details: Meal will be less selective with only one staff member provided, as the event is until 2 a.m.
+3. Payment: Customer inquiring about cash payment the next day.
+4. Equipment inquiry: Customer asking if they can bring their own rum for mojitos.
+5. Coordination for setup: Customer indicating they can bring equipment, tables, and decorations later to see the venue and kitchen.
+6. Time inquiry: Proposing to meet around 6 p.m. to see the location.
+7. Customer asking for location details.
+8. Ice inquiry: Customer requesting to bring plenty of ice for the event.
+9. Thanking for the event: Customer expressing gratitude for the prior event.
+10. Inquiry about picking up catering equipment: Customer asking if they can retrieve items after the event.
+11. Customer requesting five boxes for New Year's with a follow-up for pricing.
+12. Menu inquiry: Customer asking for the menus to choose items for the New Year boxes.
+13. Dietary requirement: Customer specifying "no peanut" for the New Year boxes.
+14. Delivery request: Customer asking if the boxes can be brought to a specific address on New Year's Eve.
+15. Allergy incident: Discussion regarding a triggered allergy related to the food served, and assurance that peanuts and nuts are not used in their dishes.
+16. Apology and assurance: Customer service apologizing for the scare and promising to remove all nuts next time.

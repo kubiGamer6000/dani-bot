@@ -1,0 +1,31 @@
+1. Customer inquiry: Delivery for a party on Saturday, March 26, for 20 people at 5 pm.
+2. Allergy information: Allergy to shrimp (prawn).
+3. Order details:
+   - Takeaway party platters:
+     - Tapas & Pincho Platter; 2 platters, 40 pieces:
+       - Salmon & lemon mousse
+       - Sweet & sour chicken
+       - Battered cod & caramelised onion
+       - Beefsteak & chimichurri
+   - Finger food platters; 2 platters, 40 pieces:
+     - Mini-Burger platter:
+       - Aged Beef burger
+       - Mushrooms & truffles
+       - Butter fried chicken
+       - Fish burger
+   - Fluffy Bread platters
+   - Sandwich platters; 1 platter, 30 pieces:
+     - Turkey cucumber & salad
+     - Mozzarella cheese, tomato, & pesto
+     - Smoked salmon & cream mousse, tuna
+4. Pricing inquiry: Customer asks for the cost and payment process.
+5. Total cost: €250 + IVA = €275.
+6. Payment method inquiry: Customer asks if they can pay in cash.
+7. Guest arrival time confirmation: Initially guests arriving at 5 pm; later confirmed for 7 pm.
+8. Customer request for food tasting before the event: Inquiry about when they can come for tasting.
+9. Confirmation for tasting: Customer seeks to come on a Monday at noon.
+10. Location request for tasting: Customer asks for location details.
+11. Delivery confirmation inquiry: Customer confirms everything for Friday's delivery and asks about payment methods.
+12. Payment method confirmation: Customer specifies cash payment upon arrival.
+13. Customer provides delivery location: Urbano Santa Clara Golf, Calle Eagle, Manzana 2.13, Casa 18, Los Monteros, Marbella, Malaga.
+14. Customer feedback: Thanks for the catering food; everyone loved it.

@@ -1,0 +1,9 @@
+1. Customer inquiry: Requests for use of a specific chef and waitress for an event.
+2. Requirement for staffing: The client prefers an English-speaking chef.
+3. Pricing options provided:
+   - €700/day + VAT + shopping costs for lunch and dinner.
+   - €80/person + VAT for lunch.
+   - €120/person + VAT for dinner.
+4. Location setup: Pin provided for Ashkan’s house, F52 Zagaleta.
+5. Menu confirmation inquiry: The customer seeks confirmation of the menus for the chef at a specific location.
+6. Feedback inquiry: The chef is to check with the owner about their satisfaction with the service provided.

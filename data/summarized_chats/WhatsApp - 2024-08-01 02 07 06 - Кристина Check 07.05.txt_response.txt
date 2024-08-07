@@ -1,0 +1,26 @@
+1. Customer inquiry: How can I make an order for May 7th? Online or can I come to you?
+2. Inquiry about takeaway: Thanks I’ll send you at evening what we want. Is it ok?
+3. Pickup time: We can pick up at 11? Is it ok?
+4. Pricing inquiry: And what about the price?
+5. Pricing details:
+   - 1 burger platter @ €50 + vat 
+   - 1 belini platter @ €50 + vat 
+   - 1 dessert platter @ €50 + vat 
+   - 1 croissant platter @ €50 + vat 
+   - 1 vegetables platter @ €50 + vat 
+   - 1 cheese platter @ €50 + vat 
+   - 1 mini pita platter @ €75 + vat 
+   - 1 tapas platter @ €75 + vat 
+   - Total €450 + vat 
+   - Vat €45 
+   - Grand Total €495
+6. Payment options: Can we pay cash? We don’t need a check.
+7. Prepayment requirement: Cash or card no problem- but we will need prepayment before the order to be done.
+8. Customer confirmation: Can I bring some cash tomorrow please?
+9. Payment inquiry: Can we pay today then? Because for us better pay cash then credit card… Is it possible?
+10. Delivery inquiry: You wanted delivered? Or pick up - depending where you are we charge delivery.
+11. Location for pickup: Puerto Banus.
+12. New pickup time: Can I be there at 14:00?
+13. Payment confirmation: Paid €200.
+14. Inquiry about arrival time on May 7: 11 yes?
+15. Customer's arrival time inquiry: I will be there in 30 min is it ok?

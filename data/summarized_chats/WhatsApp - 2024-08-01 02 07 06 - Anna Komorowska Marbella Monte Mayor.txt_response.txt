@@ -1,0 +1,21 @@
+1. Customer inquiry: Details for the upcoming event
+2. Event Date: 12.04.2024
+3. Starting Lunch: 14:00hrs
+4. Starting Dinner: 19:00hrs
+5. Number of Guests: 10 guests
+6. Price: €250/pp + VAT
+7. Lunch & Dinner Service description: Comprehensive service covering both lunch and dinner, priced at €250 per person plus VAT, featuring tantalizing cuisine, staff service throughout the day, and private chef.
+8. Lunch Menu:
+   - **Tapas Delights:** Selection of Spanish tapas including patatas bravas, garlic shrimp, Spanish tortilla, chorizo al vino, and stuffed peppers.
+   - **Paella Extravaganza:** Signature paella with a choice of seafood or meat.
+9. Dinner Menu:
+   - **Barbecue Bliss:** Barbecue buffet with grilled meats, sauces, desserts, and fruit platters.
+10. Drinks: Provided by the customer, will be chilled and served as requested.
+11. Equipment and Setup: All necessary equipment provided, including plates, cutlery, and glasses.
+12. Singer inquiry: Available for 2 hours during dinner for €300 + VAT.
+13. Vegetarian and dietary accommodations: Vegetarian paella with seafood and chicken & chorizo platter for special requests, plus fish options.
+14. Payment options: Cash payment allows skipping the VAT.
+15. Confirmation of extra table needs: Request for an additional table due to guest count exceeding current seating.
+16. Equipment setup timing: Will arrange to bring equipment one day before the event.
+17. Additional guest dietary preferences: Provision of a roast vegetable and eggplant dish for the vegetarian guest, along with fish options.
+18. Photography and video permission: Granted by the customer for event coverage.

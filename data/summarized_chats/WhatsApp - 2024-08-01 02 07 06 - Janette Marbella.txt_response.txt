@@ -1,0 +1,16 @@
+1. Customer inquiry: Buffet delivery on 9th May
+2. Delivery cost: €25 + VAT
+3. Decoration and setup request: Customer expressed interest in decoration and setup services.
+4. Menu inquiry: Customer loves the following:
+   - Sushi Platter
+   - Tacos Platter - Pulled chicken and prawn and tempura
+   - Mini Burger Platter - Beef and Fish
+   - Tapas Platter - Caramelized Onion and Goat Cheese, Sweet and Sour Chicken
+   - Large Greek Salad
+5. Guest count: 6 adults and 1 child (4 years)
+6. Booking confirmation: Customer confirms the booking and requests delivery time of 12:30.
+7. Payment inquiry: Customer asks if a deposit is needed or if payment is made on the day.
+8. Total cost confirmation: Total is €327.50
+9. Delivery details: Customer provides location for delivery and asks for setup from the boxes on plates.
+10. Service area: Delivery to the specified address in Estepona.
+11. Setup time: The catering service will arrive at 12:00 to set up before the meal.

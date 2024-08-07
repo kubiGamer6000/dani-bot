@@ -1,0 +1,42 @@
+1. Customer inquiry: Chef availability for Christmas Day
+2. Guest count: 6 guests for Christmas breakfast and dinner
+3. Breakfast offer: 
+   - Price: €1000 + VAT for Christmas breakfast based on 6 guests
+   - Continental-Style Breakfast menu:
+     1. Assorted Freshly Baked Pastries
+     2. Station of eggs, bacon & sausages, baked beans
+     3. Seasonal Fresh Fruits and Berries
+     4. Assorted Cold Cuts and Cheeses
+     5. Yogurt Parfait with Granola and Honey
+     6. Fresh cooked pancakes & all fillings 
+     7. Freshly Brewed Coffee, Assorted Teas, and Fruit Juices
+4. Dinner offer:
+   - Price: €2500 + VAT for Christmas dinner based on 6 guests
+   - Traditional Christmas dinner menu:
+     1. Appetizers:
+        - Prawn Cocktail (shrimp cocktail) with Marie Rose Sauce
+        - Smoked Salmon with Horseradish Cream and Rye Bread
+     2. Main Course:
+        - Roast Turkey with Stuffing (sage and onion or chestnut)
+        - Roast Beef with Yorkshire Pudding
+        - Honey-Glazed Gammon (ham)
+     3. Sides:
+        - Roast Potatoes
+        - Brussels Sprouts with Bacon
+        - Glazed Carrots and Parsnips
+        - Buttered Peas
+        - Creamed Leeks
+        - Cauliflower Cheese
+     4. Condiments:
+        - Cranberry Sauce
+        - Bread Sauce
+        - Gravy
+     5. Dessert:
+        - Christmas Pudding with Brandy Sauce
+        - Mince Pies
+     6. Cheese Course:
+        - A Selection of British Cheeses (Cheddar, Stilton, Red Leicester, etc.) with Crackers and Grapes
+5. Additional services: 
+   - Staff service for 3 hours
+   - Beautiful table Christmas setup - decoration and platters necessary
+6. Customization inquiry: The ability to change and update menu as per request.

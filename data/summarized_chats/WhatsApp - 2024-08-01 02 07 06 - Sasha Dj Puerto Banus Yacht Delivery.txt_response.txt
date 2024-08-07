@@ -1,0 +1,24 @@
+1. Customer inquiry: I need catering for an event tomorrow.
+2. Menu inquiry: Would you have the menu?
+3. Event type: It's a birthday on a boat.
+4. Guest count: 10 people.
+5. Menu recommendation inquiry: Could you recommend from the menu for an appetizer for everyone and then sandwiches or burgers?
+6. Customer inquiry: Please let me know the total amount and if it is sufficient for two people.
+7. Menu items requested: 
+   - 1 sandwich platter
+   - 1 mini burger sliders 
+   - Beef black charcoal and chicken with lemon 
+   - 1 sweet box
+8. Pricing: Perfect 125 + 10 euros delivery.
+9. Delivery time request: I need it by 12 at Puerto Banus, preferably before because we leave at that time.
+10. Extra request: Sorry, can I get an extra box? Sandwich box please.
+11. Customer inquiry: Do you have location?
+12. Order inquiry: I need an order for tomorrow please.
+13. Availability response: Sorry, we do not have availability tomorrow.
+14. Christmas menu inquiry: Hi, I would like to ask for Christmas menu please.
+15. Menu availability confirmation: Yes, we do personalized Christmas packages.
+16. Menu inquiry: Can I have the menu please?
+17. New menu announcement: We will be doing new menus as well and will send you as soon as I have them.
+18. Christmas menu request: Ok, I’ll need Christmas menu please.
+19. Pricing for equipment inquiry: It would be 800 including the controller. 
+20. Pricing without equipment inquiry: If it's without the controller, it would be 600.

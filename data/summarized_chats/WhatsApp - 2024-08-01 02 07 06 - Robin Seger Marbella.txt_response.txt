@@ -1,0 +1,16 @@
+1. Customer inquiry: Delivery of catering for 10 adults and 6 kids on Saturday.
+2. Request for details: Interested in either service or buffet station for a birthday party, suggesting a meeting to go through packages.
+3. Customer confirmation: Creating a group with their wife for decisions related to the catering.
+4. Customer inquiry: Availability of catering for 4 adults and 3 kids for Friday, willing to pick up.
+5. Menu options provided:
+   - Taco platter: Pulled chicken, prawns, and lime tempura.
+   - Mini burger platter: Aged beef burger, butter-fried chicken.
+   - Mega salad: Fig, walnut, mozzarella, and rocket salad.
+   - Mezze platter.
+   - Seasonal fruit platter.
+6. Customer confirmation: Menu was just perfect.
+7. Customer inquiry: Requested time for the catering pickup.
+8. Customer specified: Around 14:00, willing to pick up the order.
+9. Pricing inquiry: Delivery option available for €25.00 + VAT; asking about invoice or cash payment.
+10. Payment: Invoice to be issued to Apelsin Invest S.L, with the request to send it in PDF format to an email address.
+11. Customer inquiry: Request for payment receipts.

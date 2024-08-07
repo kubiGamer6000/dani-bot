@@ -1,0 +1,12 @@
+1. Customer inquiry: Can we place the order later tonight or tomorrow morning for delivery on Monday to Monte Mayor?
+2. Delivery cost: To Monte Mayor, it's €30 + VAT for delivery.
+3. Order details:
+   - 1 x Sushi platter
+   - 1 x Charcuterie platter
+4. Delivery address: Monte Mayor, Villa B5 El Estrecho.
+5. Delivery time: Monday at 12:00 PM.
+6. Payment inquiry: How can I make a payment?
+7. Company details for invoicing:
+   - Company Name: ZABEEL STUDIO S.L
+   - Address: Bulevar Príncipe Alfonso de Hohenlohe, Complejo La Poveda Lok.4, 29602 Marbella
+   - NIE: B09931189

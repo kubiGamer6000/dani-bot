@@ -1,0 +1,40 @@
+1. Customer inquiry: BBQ catering for Easter lunch
+2. Package options:
+   - Package 1: €40/person + vat
+     - Selection of BBQ: 4 types of meats
+     - 2 types of salads
+     - Staff helping service
+     - Beautiful buffet table
+   - Package 2: €60/person + vat
+     - Selection of tapas/starters
+     - Selection of BBQ: 6 types of meats
+     - 4 types of salads
+     - Mini desserts/fruits
+     - Staff helping service
+     - Beautiful buffet table
+3. Kids menu inquiry: Customer asking if there is a package for kids
+4. Kids' age group: From 3 to 12 years
+5. Menu options for kids: Mini burgers and mini hotdogs with vegetable sticks and dips
+6. Additional inquiry: Can fish BBQ be included and how much is the kids' menu?
+7. Kids' pricing: Kids under 10 is €10 less across both packages
+8. Confirmation of menu: 
+   - Based on 20 adults & 12 kids
+   - Total package: €1600 + VAT
+   - Menu includes:
+     - Fish tacos
+     - Vegetable soldiers with dips
+     - Mini bao buns
+     - BBQ meat including fish skewers, grilled seafood, beef steak, chicken skewers, and mini burgers
+     - Vegetable sticks and dips
+     - Fresh cut fruit skewers
+     - 4 types of salads
+     - Bread & BBQ sauces selection
+     - 2 homemade lemonades
+     - Beautiful decoration trays, plastic glasses, ice buckets
+     - Staff included for 4 hours
+9. Additions to the order: Request to include Aperol Spritz and ice for drinks
+10. Additional guest inquiry: Adding 1 more adult and 2 more kids for the event
+11. Final total adjustment: Including extra guests and items, total updated to €1800 + VAT and €250 + VAT for animation
+12. Invoice request: Customer prefers to receive an invoice instead of cash payment
+13. Equipment collection: Customer arranging to collect platters and juice jugs after the event
+14. Payment confirmation request: Customer asked for confirmation of payment following the transaction.

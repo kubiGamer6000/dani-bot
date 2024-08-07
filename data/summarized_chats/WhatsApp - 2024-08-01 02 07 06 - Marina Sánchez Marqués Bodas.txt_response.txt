@@ -1,0 +1,23 @@
+1. Customer inquiry: Availability and request for a quote for a cocktail type event for approximately 40 people on October 7th of this year.
+2. Service inquiry: 
+   - Package 1: €60/person + VAT
+     - 8 types of canapés
+     - Beautiful table decoration, trays, light equipment
+     - Staff service for 3 hours
+   - Package 2: €100/person + VAT
+     - 8 types of canapés
+     - Beautiful table decoration, trays, light equipment
+     - All drinks (sparkling wine, wine, beers, still water, sparkling water, soft drinks)
+     - All glassware rental, coolers, etc.
+     - Staff service for 3 hours
+3. Customization options: For premium drinks and premium packages, a custom menu can be made.
+4. Request for additional information: Inquiry about the specific canapés offered, how the centerpieces would look, etc. to pass on to the client.
+5. Menu specifics: Canapés mentioned include:
+   - Smoked salmon belini
+   - Beef carpaccio
+   - Foie gras lollipop
+   - Pulled chicken mini taco
+   - Chicken lollipop
+   - Duck spring roll
+   - Goat cheese profiterol
+   - Mini Italian bruschetta

@@ -1,0 +1,27 @@
+1. Customer inquiry: Interested in catering services for Saturday, June 25, in the evening (from 8:30 PM).
+2. Requested menu items:
+   - Mezze platter
+   - Spanish platter
+   - Burgers: beef-pork and chicken
+   - Fish platter
+   - International menu
+3. Pricing inquiry: The international menu is €15 per person; customer is unsure about the quantities for 7 people.
+4. Selected canapés for the international menu:
+   - Chicken gyoza
+   - Crab avocado cocktail
+   - Tataki tuna
+   - Ceviche
+   - Beef carpaccio
+   - Fried prawns
+   - Foie gras terrine
+   - Goat cheese lollipop
+5. Total cost mentioned: €306.60.
+6. Inquiry about service operation: Asking how the services work and confirmation of home delivery.
+7. Confirmation of delivery location: Customer will be in Puerto Banús.
+8. Payment method discussion: Customer intends to pay by card but is informed that the card machine is not working; will pay via bank transfer instead.
+9. Bank account details provided for payment: Daniela Rosu ES45 0081 0676 5900 0250 6755.
+10. Inquiry about payment via Lydia for automatic transfer or other options like Revolut, Bizum.
+11. Clarification requested: Asking where pork is used in the dishes.
+12. Confirmation of pork dishes: Croquettes and pink burgers contain pork.
+13. Customer feedback: Everything was very good and delicious.
+14. Request for Revolut username for payment purposes.

@@ -1,0 +1,10 @@
+1. Customer inquiry: Catering for a birthday party on the 26th of April for 14 people.
+2. Food order:
+   - Mini burger platter (beef; chicken)
+   - Croissant platter (avocado, serrano, salmon, ham&cheese)
+   - Bellini canape (mini shrimp; Swedish meatballs; Thai pulled chicken; brie & fig; salmon; foie gras)
+   - Tapas platter (items 3, 4, 7, 9, 14 from the menu).
+3. Pickup inquiry: Should they pick up the order themselves? 
+4. Payment inquiry: Asking whether to pay cash or card.
+5. Payment details: Total net = €225; VAT 10% = €22.50; gross total = €247.50.
+6. Collection time: Order ready for collection at 11:30 AM on Friday.

@@ -1,0 +1,15 @@
+1. Customer inquiry: Request for information and quotes for an office event.
+2. Event type: Office event.
+3. Menu requirements:
+   - Appetizers
+   - Cheese table
+   - Desserts
+4. Staffing inquiry: A couple of waiters to serve drinks.
+5. Minimum charge for service in Sotogrande: €2000 + VAT for food and service based on 40 people.
+6. Follow-up request: Options for appetizers and prices.
+7. Request for menu and prices for 60 people.
+8. Pricing information provided: €3000 + VAT for:
+   - 8 types of canapés
+   - Catering equipment
+   - Personal service
+9. Beverage policy: "We will serve your drinks."

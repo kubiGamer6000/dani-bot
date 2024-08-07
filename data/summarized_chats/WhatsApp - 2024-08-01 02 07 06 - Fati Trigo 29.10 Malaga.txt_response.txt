@@ -1,0 +1,23 @@
+1. Type of event: Opening of an optics store for approximately 150-180 people
+2. Service inquiry: Catering with a focus on tapas, described as nothing extraordinary
+3. Availability: Confirmation of availability for the requested date
+4. Inquiry about additional services: Service personnel and drink packages with canapés
+5. Beverage options:
+   - Wine
+   - Cava
+   - Beer
+   - Soft drinks
+6. Event duration: Inquiry about the duration of the event (not specified)
+7. Catering package 1:
+   - Unlimited bar for 4 hours including wine, cava, soft drinks, and 4 types of canapés
+   - Amazing canapés display table
+   - Includes glasses, bar table, ice, disposables, personnel service, cleanup
+   - Price: €35/person + VAT for 180 people = €6300 + VAT
+8. Catering package 2:
+   - Unlimited bar for 4 hours including wine, cava, soft drinks, and 4 types of tapas
+   - Amazing tapas display table
+   - Includes glasses, bar table, ice, disposables, personnel service, cleanup
+   - Price: €40/person + VAT for 180 people = €7200 + VAT
+9. Budget inquiry: Customer mentions a budget of €10 per person
+10. Response regarding budget: Advises that if the customer buys their own drinks, they can only provide food
+11. Final response: Unable to assist within the customer's budget; ends with a thank you from the customer.

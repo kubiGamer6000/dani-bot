@@ -1,0 +1,7 @@
+1. Customer inquiry: Giant paella for lunch next to the swimming pool.
+2. Guest count: 16 guests.
+3. Meal readiness: Food ready at 13:30.
+4. Tapas starters: 12 tapas starting from 12:30.
+5. Menu options: Seafood paella, rabbit, beef, chicken, and chorizo.
+6. Live cooking inquiry: Customer asks for live cooking on a very big plate.
+7. Additional services inquiry: Customer asks about the availability of a DJ or flamenco band to enhance the event.

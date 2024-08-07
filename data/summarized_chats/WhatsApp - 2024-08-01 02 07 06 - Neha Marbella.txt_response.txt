@@ -1,0 +1,12 @@
+1. Customer inquiry: Interested in looking at the menu for catering.
+2. Brunch request:
+   - Date: 29th December
+   - Guest count: 16
+   - Dietary requirements: All vegetarian options please (Fruits, Cheese, Sandwiches, Croissants, Muffins, etc).
+3. Dinner request:
+   - Date: 31st December
+   - Guest count: 16
+   - Dietary requirements: 70% vegetarian, 30% non-vegetarian.
+4. Request for follow-up: Asking if there was any news regarding the menu.
+5. Customer preference: Willing to discuss details the following day.
+6. Mention of holiday deliveries: Stuck with deliveries for Christmas.

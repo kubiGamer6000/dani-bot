@@ -1,0 +1,22 @@
+1. Customer inquiry: Catering for Friday 15.03 for 15-20 people (official office opening) in Marbella
+2. Catering options:
+   - Takeaway boxes: 4/5 platters based on 15/20 guests, each box costs €50 + VAT
+     - 2 sandwich boxes
+     - 1 or 2 mini burger boxes
+     - 1 filled croissant box
+   - Buffet table for 15/20 people with decoration and equipment collection: €40/pp + VAT for 8 types of finger food
+3. Ordering details:
+   - Breakdown of the order:
+     - 1 x Couscous Salad: €50 + VAT
+     - 2 x Seasonal Vegetable Platters and Dips: €100 + VAT
+     - 1 x Bagel Box: €50 + VAT
+     - 1 x Sandwich Platter: €50 + VAT
+     - 1 x Gourmet Burgers: €75 + VAT
+     - 1 x Mini Pita Platter: €75 + VAT
+   - Total Net: €400 + VAT
+   - VAT (10%): €40
+   - Total Gross: €440
+   - Delivery option: Additional €25 + VAT
+4. Delivery time: Requested delivery for March 15th at 12:00
+5. Payment details: Total amount including delivery: €467.50. Payment method suggested: Bizum.
+6. Inquiry about invoice request: "Would you like an invoice? If so, kindly provide the necessary details."

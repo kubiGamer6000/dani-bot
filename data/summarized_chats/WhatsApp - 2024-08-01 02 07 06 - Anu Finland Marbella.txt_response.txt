@@ -1,0 +1,11 @@
+1. Customer inquiry: Request for a quote for a birthday event.
+2. Food preferences:
+   - Sushi and chocolate
+   - Fresh local seafood (shrimps, mussels, cocinas, cigales)
+   - Fish (white, not salmon)
+   - Local Spanish ham and cheese
+   - Good grilled meat, veggies, asparagus
+   - Preference for fresh cuisine, avoiding heavy sauces, fatty meats, or mayonnaise-based dishes
+   - Asian style food, Mexican, and South American cuisine
+3. Venue information: The Villa is in the Benalus area with a rooftop terrace and a kitchen equipped with an oven, microwave, and stove.
+4. Event date: The party is on the evening of June 16th.

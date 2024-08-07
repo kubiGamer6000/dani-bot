@@ -1,0 +1,66 @@
+1. Customer inquiry: Catering for lunch on May 29th
+2. Initial price inquiry: €80/person
+3. Guest count: 14-16 people
+4. Location: Villa near Villa Padierna
+5. Lunch package details:
+   - Price: €80/person + VAT
+   - Includes: 2 starters, 2 meats, 2 salads, 1 dessert
+   - Staff service included
+   - Decorated buffet table
+6. Additional item pricing:
+   - €10 for extra starter/salad/dessert
+   - €15 for extra main course
+   - €5 for extra side
+7. Menu options:
+   Starters (15 options):
+   - Fresh Bruschetta with Tomato and Basil
+   - Crispy Spring Rolls with Dip
+   - Mini Caprese Skewers with Pesto Sauce
+   - Prawns tempura & sweet sour
+   - Grilled Vegetable Skewers with Balsamic Glaze
+   - Meatballs in Marinara Sauce
+   - Spinach and Artichoke Dip with Pita Chips
+   - Smoked Salmon with Cream Cheese and Bagels
+   - Andalusian Gazpacho
+   - Ham Croquettes
+   - Tuna Empanadas
+   - Garlic Shrimp
+   - Spanish Omelette
+   - Chicken Skewers with Chorizo
+   - Tomato and Mozzarella Salad
+
+   Main Courses (10 options):
+   - Slow Cooked Beef Brisket with BBQ Sauce
+   - Grilled Chicken Skewers
+   - Chicken butterfly
+   - Meatballs in Tomato Sauce
+   - Grilled beef Steak
+   - Selection of sausages
+   - Grilled Salmon
+   - Stuffed Portobello Mushrooms with Goat Cheese
+   - Medi Burgers
+   - Iberico ham
+
+   Sides/Salads (9 options):
+   - Potato wedges
+   - Potato salad & chives
+   - Sautéed Asparagus Lemon Butter
+   - Creamy Mashed Potatoes
+   - Penne Pasta with Marinara Sauce
+   - Ratatouille
+   - Patatas Bravas
+   - Greek salad
+   - Italian pesto salad
+
+   Desserts (9 options):
+   - Assorted Mini Cheesecakes
+   - Chocolate Cake with Whipped Cream
+   - Fresh Fruit Platter
+   - Tiramisu
+   - Crème Brûlée
+   - Tarta de Santiago
+   - Flan with Caramel
+   - Crema Catalana
+   - Birthday cake
+
+8. Service flexibility: Offer to personalize menu upon request

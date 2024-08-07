@@ -1,0 +1,31 @@
+1. Customer inquiry: Request for the menu for an event on Saturday.
+2. Menu inquiry: Questions about the international canapé menu, asking if all items are included or if they need to choose specific dishes.
+3. Menu customization: Inquiry about mixing dishes from the Spanish and international menus.
+4. Event details: Party on Saturday, September 25 at 19:30 for 15 adult guests, requesting delivery in Benahavis.
+5. Menu details: Mentioned dishes include:
+   - Brioche plate: salmon mousse, tuna, cheese surprise, curry chicken.
+   - Canapé menu: gaspacho shot, salmorejo shot, falafel with yogurt, tuna tartare skewer, smoked salmon puff, eggplant baba ganoush, salmon tartare, foie gras terrine.
+   - Burger options: black charcoal beef burger bun, truffle vegetarian burger, crispy corn chicken with yellow bun.
+   - Crab and avocado cocktail.
+6. Guest count: The order is for 15 persons.
+7. Pricing: Breakdown of costs:
+   - Canapés selection: €15/person * 15 = €225
+   - 1x Brioche plate: €50
+   - 1x Burger plate: €50
+   - 1x Crab cocktail: €30
+   - Decorative plates, design, shipping, collection: €50
+   - Total: €400
+   - Additional note for extra service: €100 for 5 hours of service.
+8. Payment inquiry: Customer asks how to make the payment.
+9. Delivery time: Request for confirmation if the setup can be completed by Saturday.
+10. Location inquiry: Request for the delivery address.
+11. Event time confirmation: The party is at 19:30.
+12. Note from Dani: No problem to deliver at the specified location.
+13. Customer response: Confirms the order but does not need extra service.
+14. Question about tableware: Request for a quote for the table setup.
+
+----------------------------------------------------
+1. Customer inquiry: Asking about arriving time for a wedding event and how to coordinate.
+2. Inquiry about duration: Questions how many hours are required for event assistance.
+3. Event assistance: Confirmation that assistance will include setting up, serving food, drinks, helping in the kitchen, and managing a buffet station.
+4. Dress code for the event: Notes requirements for comfortable black shoes and a black dress for assistance.

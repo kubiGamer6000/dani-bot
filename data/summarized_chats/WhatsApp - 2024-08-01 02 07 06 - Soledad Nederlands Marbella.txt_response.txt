@@ -1,0 +1,20 @@
+1. Customer inquiry: Interested in the Tapas Platter menu
+2. Menu options:
+   - Serrano Ham, Cream Cheese & Brie
+   - Thai Chili Chicken, Lime & Coriander
+   - Mediterranean Vegetables with Feta
+   - Goat Cheese, Roasted Walnuts & Fig
+   - Pulled Pork & Horseradish’s Sauce
+3. Event date and time: Need it for 16:30 on Thursday, June 13th
+4. Delivery location: Real de La Quinta, Quercus in Benahavis
+5. Pricing:
+   - €75 + VAT for tapas
+   - €25 + VAT for delivery
+   - 10% VAT
+   - Grand total: €110
+6. Payment inquiry: How can they pay for the order?
+7. Inquiry about tray return: Asking if they need to bring back any of the trays used for the tapas delivery
+8. Customer changed plans: They will collect the tapas and requested an invoice for the order
+9. Payment method: Can pay on collection
+10. Confirmation of pick-up time: Originally for 16:30, later changed to arrive at 16:00
+

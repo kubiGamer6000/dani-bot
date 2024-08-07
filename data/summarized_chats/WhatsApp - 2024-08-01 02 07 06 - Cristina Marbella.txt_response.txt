@@ -1,0 +1,5 @@
+1. Customer inquiry: Interested in how the catering service works.
+2. Event date: July 2023.
+3. Guest count: Between 30 to 40 people.
+4. Minimum cost mentioned: €4000.
+5. Inquiry about the menu: Would you send the menu, or do you prepare a quote?

@@ -1,0 +1,28 @@
+1. Customer inquiry: Would like to order a party platter to the boat in Puerto Banus on Saturday at 15:50.
+2. Menu inquiry: Question about whether the menu is the same as on the website.
+3. Catering order: Ordering a tacos platter and a fruit platter.
+4. Pricing details:
+   - Taco @ €50/box + VAT
+   - Fruit @ €30/box + VAT
+   - Delivery €25 + VAT
+   - Total: €115.50 (including VAT of €10.50)
+5. Delivery location: To the boat dock number 6 in Puerto Banus (opposite Gucci).
+6. Payment method: Cash on arrival.
+7. Delivery address confirmation: The boat is called "Freedom", dock number 6, expected arrival at 15:45.
+8. Flavor selection: Customer asked whether flavors were chosen or if it is a mix of all flavors.
+9. Preference: Customer requested a mix of flavors for the taco platter.
+10. Future order inquiry: Request to order boxes for a small housewarming party on a Friday.
+11. Menu inquiry: Customer order including:
+    - Canapés platter (Thai pulled chicken, stuffed turkey, black salmon blini, egg mayo, mini burrata, mini shrimp)
+    - Another canapés platter (pulled duck, Brie and cranberry, sweet and sour chicken, Russian salad, mini fish and chips)
+    - Sandwich platter (turkey, smoked salmon, prawn, baba ganoush)
+12. Portion inquiry: Question whether the order is enough for about 10 people.
+13. Additional order: Inquiring to add another sandwich platter (Serrano ham, mozzarella cheese, tuna, and coronation chicken).
+14. Timing inquiry: Customer requested the platters ready by 12 on Friday.
+15. Delivery area: Inquiry if delivery is possible to Costabella.
+16. Delivery confirmation: Yes, delivery is available for €25 + VAT.
+17. Pickup inquiry: Asking about the possibility of picking up the order.
+18. Pickup time confirmation: Customer asked to pick it up at 11 on Friday.
+19. Customer delivery confirmation: Customer mentioned that Liliana would be there at 11:30 instead.
+20. Total cost inquiry: Inquiry about the total cost for 4 boxes, estimating €200.
+21. Total cost confirmation: Final price confirmation of €220 included VAT.

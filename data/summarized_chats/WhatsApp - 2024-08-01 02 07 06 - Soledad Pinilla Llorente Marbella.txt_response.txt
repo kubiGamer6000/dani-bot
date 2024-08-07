@@ -1,0 +1,60 @@
+1. Customer inquiry: I would like to know what your catering service consists of.
+2. Service details inquiry: If you prepare the food at the house, if you bring the food, etc. Please send me your services.
+3. Event details: Staying from August 11 to August 18.
+4. Event Information:
+   - Event: Birthday Party
+   - Date: August 11
+   - Start time: 2:00 PM
+   - Guests: 10 adults, 7 children
+5. Menu Options (Finger Food menu):
+   - Smoked salmon canapés with cream cheese
+   - Mini bruschettas with tomato, basil, and mozzarella
+   - Melon wrapped in prosciutto
+   - Shrimp cocktail bites
+   - Chicken satay skewers with peanut sauce
+   - Mini quiches with spinach and feta
+   - Goat cheese and caramelized onion tartlets
+   - Garlic and herb stuffed mushrooms
+   - Mini beef burgers with cheddar and caramelized onions
+   - Vegetable spring rolls with sweet and sour sauce
+6. BBQ Station Options:
+   - Tomahawk steak
+   - Marinated chicken skewers
+   - Lamb chops with rosemary and garlic
+   - Iberian pork ribs
+   - Grilled sea bream with lemon and herbs
+   - Cedar plank salmon
+   - Garlic butter shrimp skewers
+   - Grilled calamari
+   - Gourmet mini hot dogs with a variety of toppings
+   - Selection of artisanal sausages
+7. Side Dishes Options:
+   - Greek salad with olives and feta
+   - Italian pesto pasta salad
+   - Caprese salad with balsamic reduction
+   - Herb roasted potatoes
+   - Mediterranean couscous with vegetables
+   - Caesar salad with homemade croutons
+   - Creamy coleslaw
+   - Garlic bread with parsley and olive oil
+   - Grilled vegetables with balsamic reduction
+8. Service details: Staffing for 4 hours + beautiful decoration.
+9. Catering services include:
+   - All equipment provided
+   - All plates and cutlery included
+   - Custom birthday cake, approximately 400 euros depending on design.
+10. Beverage package: (40 euros per adult, 20 euros per child, unlimited for 4 hours, additional hour available upon request)
+    - Unlimited Cava
+    - Selection of white, red, and rosé wine
+    - Beers
+    - Soft drinks or still/sparkling water
+    - Non-alcoholic mocktails for kids
+    - All glasses included
+    - Ice and ice packs
+11. Request for cake details: Please send me details of the available cakes.
+12. Additional services inquiry: Budget for drinks.
+13. Decoration inquiry: Do you provide decoration, or shall we look for it ourselves?
+14. Request for photos of previous birthday parties and decorations.
+15. Budget request for food: Please send me the food budget, please.
+16. Food pricing: 100 euros plus VAT per adult; to set a price for children.
+17. Confirmation request: Can you send me a confirmation of the reservation?

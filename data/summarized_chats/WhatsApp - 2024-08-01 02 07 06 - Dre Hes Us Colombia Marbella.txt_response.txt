@@ -1,0 +1,25 @@
+1. Customer inquiry: Dinner for 8 to 10 people on June 20
+2. Menu inquiry:
+   - **Dinner Menu:**
+     - Spanish Tapas Selection:
+        - Gambas al Pil Pil
+        - Jamón Serrano and Fig
+        - Spanish Bruschetta with Tomato
+        - Spanish Tortilla
+        - Patatas Bravas
+        - Manchego Cheese with Quince
+     - Main Course:
+        - Live Cooking: Mixed Paella with Chicken and Seafood
+     - Salad:
+        - Fresh Mediterranean Salad with Olive Oil and Balsamic Vinegar
+     - Dessert:
+        - Chef's Surprise Dessert
+3. Pricing information: €120 per person + VAT
+4. Total pricing for dinner: €120pp + VAT * 8 = €960 + VAT, VAT 10%, Grand total = €1056
+5. Dietary requirements: No dietary restrictions
+6. Dinner time: Around 8:00 PM
+7. Confirmation of dinner: Confirmed for June 19
+8. Guest count: 8 people
+9. Service details: Food preparation will take about 1.5 hours, with food served around 8 PM.
+10. Payment options: Customer inquired about payment - cash or card payment available.
+11. Location details: Customer provided a pin location; no house number, just a white door, black truck, and car at the entrance.

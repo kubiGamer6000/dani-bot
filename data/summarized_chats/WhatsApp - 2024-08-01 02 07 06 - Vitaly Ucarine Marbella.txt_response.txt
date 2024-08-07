@@ -1,0 +1,4 @@
+1. Customer inquiry: Price of catering for 20 people.
+2. Customer inquiry: Price of a catamaran for an event.
+3. Catamaran service: A bigger catamaran from Flyblue can be arranged for 4500€ + VAT for 4 hours.
+4. Service request: Catalog for event catering is to be sent.

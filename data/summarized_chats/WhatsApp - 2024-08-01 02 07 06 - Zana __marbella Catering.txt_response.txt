@@ -1,0 +1,22 @@
+1. Customer inquiry: Availability for Thursday 2nd May for 10 people at a villa in Marbellamar.
+2. Menu option: Party option £40 per person.
+3. Deposit inquiry: "Do you require a deposit at all?"
+4. Confirmation of booking: "Fantastic, yes definitely we can do that."
+5. Inquiry about menu choices: "What options of food you like?"
+6. Menu selection process: "Just to check do we select 8 options and they’re provided in the amount of 10 people?"
+7. Menu selected:
+   - Mini beef burgers
+   - Teriyaki chicken sticks
+   - Pulled chicken bao
+   - Mini beef tacos
+   - Mini chorizo sticks
+   - Bruschetta bites
+   - Spring rolls & dipping sauce
+   - Mozzarella sticks
+8. Event start time: "We would like it to start at 8 PM if that’s ok?"
+9. Payment inquiry: "Can I just check do you want payment as cash on the day?" followed by "Shall I message you when we’re on our way back to the villa?"
+10. Total cost breakdown: €40 + VAT per person for 10 people = €400 + VAT. Total: €440 with 10% VAT.
+11. Payment methods: Customer opting for cash payment on the day or bank transfer.
+12. Confirmation of address: "10 Urbanización Marbellamar, Marbella, 29602, Spain."
+13. Request for details related to equipment collection.
+14. Inquiry about collection timing and arrangement.

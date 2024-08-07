@@ -1,0 +1,18 @@
+1. Customer inquiry: Would love to know what’s your offering for NYE (New Year's Eve).
+2. Food options inquiry: We would like some platters and maybe hot meals.
+3. Food request: I would like some finger food and hot meals.
+4. Customer inquiry: Can you prepare some offer for 23 people with what food you can include by your choice (finger food + meals (can be sushi too)) and the pricing?
+5. Customer preference: I don’t mind the food choice. Trust you on that.
+6. Party start time: 7 pm.
+7. Recommended menu for 23 guests: 
+   - 3 boxes of tapas
+   - 3 sushi platters
+   - 2 mini burgers
+   - Optional: 2 dessert platters
+8. Delivery/pick-up policy: Deliver or pick up at max 14:00 as there are big events.
+9. Pricing details for catering:
+   - 6 platters/box - €75 + VAT per box = €450 + VAT
+   - 4 platters @ €50 + VAT per box = €200 + VAT
+   - Total: €650 + VAT; VAT 10% = €65
+   - Grand total: €715
+   - Delivery charge: €25 if delivered.

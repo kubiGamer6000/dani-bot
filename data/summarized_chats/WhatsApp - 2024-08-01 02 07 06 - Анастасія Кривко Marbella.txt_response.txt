@@ -1,0 +1,6 @@
+1. Customer inquiry: Do you provide catering for weddings?
+2. Wedding date: September 3rd.
+3. Guest count: 50 guests.
+4. Venue inquiry: The event is at Gamonal restaurant in San Pedro.
+5. Menu inquiry: Customer asking if there is a menu available and expressing interest in pricing.
+6. Service inquiry: Customer is interested in a buffet service and decorations near it.

@@ -1,0 +1,16 @@
+1. Customer inquiry: Order for finger food for 10 persons
+2. Dietary requirements: No nuts in any of the food; almonds are okay but no other nuts due to an employee's allergy.
+3. Event details: Location at an office in Puerto Banus at Plaza Antonio Banderas on Friday at 12:30.
+4. Inquiry about menu options: Customer requesting a list of items to choose from.
+5. Menu response: Dani's Catering Winter Menu provided; some items may not be available due to high demand on Friday.
+6. Order details:
+   - One Spanish platter
+   - One Mezze platter
+   - One Tapas platter containing:
+     - Serrano & camembert cheese
+     - Beefsteak & chimichurri
+     - Wild mushroom & truffle
+7. Confirmation of food presentation: Customer asked about cool looking platters or takeaway boxes; confirmed that takeaway boxes are acceptable.
+8. Invoice request: Customer needs an invoice with specific details for Fastighetsbyran Real Estate Costa del Sol, SL, including CIF number.
+9. Delivery details: Confirmed delivery at 12:30, with a target of 12:30 for arrival.
+10. Additional logistics: Communication about delivery timing, emphasizing that it should not be later than 12:45 due to a meeting starting at 13:00.

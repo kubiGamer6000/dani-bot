@@ -1,0 +1,31 @@
+1. Customer inquiry: Gluten-free options for one person due to celiac disease; needs to be arranged in a separate box/plate.
+2. Inquiry about presentation: Request to present everything on nice platters instead of boxes and willing to pay a deposit for the platters.
+3. Order details:
+   - **1 tapas platter**: @ €75 + VAT
+     - Chili chicken
+     - Smoked salmon & caviar
+     - Goat cheese
+     - Pulled pork
+     - Mushroom Truffle Croquet
+   - **1 sandwich platter**: @ €50 + VAT
+     - Ham, Cheese & Salad
+     - Tuna, Homemade Mayo & Sweet Corn
+     - Prawn, Lime & Mayonnaise
+     - Roast Pepper & Cream of Hummus
+   - **1 sushi box**: @ €75 + VAT
+   - **1 surprise dessert platter**: @ €50 + VAT
+   - Gluten-free sandwich mini selections: €30 + VAT
+   - Presentation charge for platters: €100 + VAT
+   - Deposit required: €100 + VAT
+4. Inquiry about gluten-free tapas options: Are there no gluten-free tapas in the selection?
+5. Confirmation of gluten-free items: Gluten-free sushi can be included, but no soy sauce.
+6. Request to ensure gluten-free items do not touch items with gluten.
+7. Total order price confirmation: €350 + VAT and deposit.
+8. Payment inquiry: Asking if payment can be made at pickup.
+9. Service provision: Inquiry if the setup can be done directly on the customer's table. 
+10. Service area confirmation: Customer location provided for delivery setup.
+11. Note on gluten-free options: Reminder that the gluten-free sushi will not include soy sauce.
+12. Request for location sharing prior to arrival.
+13. Request for invoice details: Description needed on invoice for a network reception.
+14. Additional information for invoicing provided: Company name, VAT number, and address.
+15. Acknowledgment of service received: Customer appreciated the service and requested payment confirmation.

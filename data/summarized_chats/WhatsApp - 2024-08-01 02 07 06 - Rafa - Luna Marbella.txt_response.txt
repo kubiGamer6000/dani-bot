@@ -1,0 +1,18 @@
+1. Customer inquiry: Request for information about a private party in Puerto Banus.
+2. Service inquiry: Asking if there is any delivery service catalog available.
+3. Event date: December 20.
+4. Guest count: 50 people.
+5. Food preference: Finger food.
+6. Package options:
+   - Package 1: €40/person + VAT, buffet of finger food with a selection of 8 different tapas, custom-decorated station with setup and collection of dishes the next day.
+   - Package 2: €60/person + VAT, same as Package 1 plus cheese trays, desserts, fruit skewers, service staff serving drinks and food for 4 hours, partial equipment rental, and custom-decorated station.
+   - Package 3: €80/person + VAT, party food with BBQ and tapas including 6 types of tapas, beef burgers, chicken skewers, fish skewers, beef flank steak, and 4 salad options, a beautifully decorated buffet table, service staff (private chef for BBQ and waitress) for a maximum of 4 hours.
+7. Extras:
+   - DJ: €500
+   - Saxophonist: €500
+   - Flamenco band: €300 for 2 people, €450 for 3
+   - High cocktail tables: €30 each
+   - White tablecloth: €10 each
+8. Customer inquiry: Interested in takeaway/delivery boxes seen on Instagram.
+9. Cost for takeaway box: €50/box.
+10. Customer inquiry: Asking what is included in the takeaway box.

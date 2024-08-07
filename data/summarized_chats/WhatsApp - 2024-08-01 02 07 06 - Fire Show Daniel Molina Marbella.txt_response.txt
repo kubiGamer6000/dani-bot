@@ -1,0 +1,13 @@
+1. Customer inquiry: Looking for a fire show on 31.12 for clients.
+2. Availability inquiry: Confirmed availability for the requested date.
+3. Performance details: Need an acrobatic fire show, for 1 hour, with 2 or 3 performances.
+4. Start time: Shows to start between 21:00 or 22:00.
+5. Artist count: Inquiry about the number of artists—interested in 2 or 3.
+6. Performance proposal:
+   - 3 fire dancers
+   - 2 shows from 21:00 to 22:00
+   - Costumes included
+   - Social security and civil responsibility included
+   - Quote: 1070€ (VAT not included)
+7. Budget concern: Client finds the price very expensive.
+8. Inquiry about budget: Customer asks how much budget they can work with to negotiate with artists.

@@ -1,0 +1,31 @@
+1. Customer inquiry: Questions about the boxes
+2. Delivery inquiry: Asking where to pick up the box or how much the shipping costs
+3. Urgency inquiry: Is it possible to place an order today for tomorrow night?
+4. Pricing: Shipping costs €10 for one box; if two boxes are ordered at the same time, shipping is free.
+5. Box capacity: Perfect for 2-4 people.
+6. Menu options:
+   - Sandwich options include:
+     - Milk bread with beef and horseradish mousse
+     - Baguette with steak and caramelized onions
+     - Crostini with serrano ham and cream cheese
+     - Ham, gouda cheese, and salad
+     - Bacon, lettuce, and tomato sandwich
+     - Turkey, cheese, and tomato sandwich
+     - Mozzarella and chicken pesto wrap
+     - Chicken curry crostini with raisins
+     - Anchovy and roasted pepper crostini
+     - Milk bread with smoked salmon, cheese mousse, and caviar
+     - Homemade Greek salad wrap
+     - Tuna sandwich with homemade mayo and sweet corn
+     - Prawn sandwich with homemade lime mayo
+     - Egg sandwich with homemade mayo and lamb's lettuce
+     - Surprise sandwich with cheese and cucumber
+     - Roasted red pepper hummus and cream cheese wrap
+     - Mozzarella, tomato, and pesto sandwich
+7. Inquiry about gluten-free options: Does Dani's Catering do gluten-free boxes?
+8. Customer inquiry: Asking about sandwich options without gluten.
+9. Breakfast boxes: Question about delivering birthday breakfast boxes as a gift.
+10. Customization options: Can customize according to preferences like butter and jam, oil and tomato, sweet items, fruits, yogurt, juice, and coffee.
+11. Pricing inquiry: €25 per box; €10 for delivery or pickup in Elviria.
+12. Confirming delivery time: Requested delivery at 9:00 AM for a birthday on the 9th.
+13. Delivery logistics: Not guaranteed delivery at 9:00 AM in Estepona; suggested delivery between the 9th and 11th.

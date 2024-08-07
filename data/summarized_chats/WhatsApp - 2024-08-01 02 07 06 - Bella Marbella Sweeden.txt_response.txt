@@ -1,0 +1,47 @@
+1. Customer inquiry: Event planning for next Saturday.
+2. Inquiry for package details: Looking for examples of services and meeting arrangements.
+3. Event details: Planning an event on Saturday, November 11, 2023, for approximately 50 guests.
+4. Menu options discussed:
+   - Savory Food:
+     - Smoked salmon & caviar croissants
+     - Avocado, hummus & pepper wrap
+     - Ciabatta with jamon & tomato
+     - Shrimp cocktail brioche
+     - Mediterranean roast vegetables wrap & babaganoush
+     - Coronation chicken tapa
+     - Selection of cheese, crackers & jams
+     - Homemade guacamole & tortilla
+     - Vegetables sticks and dips
+   - Sweet Options:
+     - Mini mixed berry yogurt parfait
+     - Mini chewy brownies & walnut
+     - Selection of macaroons
+     - Fresh fruit platter
+   - Drinks:
+     - Homemade detox lemonade jar
+     - Fresh orange juice
+     - Still & sparkling water
+5. Pricing inquiry: €60/person + VAT = €3000 + VAT.
+6. Additional services pricing:
+   - Personalized cake: €400 + VAT
+   - DJ & equipment: €400 + VAT
+   - Singer: €200 + VAT
+   - Personalized video reel: €150 + VAT
+7. Adjustments made: Reduced food & service cost to €40/person + VAT.
+8. Revised guest count: 37 guests.
+9. Updated services:
+   - Savory Food options reduced.
+   - 1 staff service included.
+10. Inquiry regarding flower arrangements: Customer asks if flowers are included.
+11. Total pricing inquiry: Customer checks if total is €1500.
+12. Cancellation notice: Customer needs to cancel the event due to personal circumstances.
+13. Future availability: Inquiry about visiting the caterer tomorrow.
+
+----------------------------------------------------
+1. Customer inquiry: Request for DJ services for approximately 40 guests.
+2. Budget estimation provided: Customer states a budget of €1500 for the event.
+3. Confirmation of services: Customer requests flowers and decor within the budget and approves the services.
+4. Total breakdown request: Customer asks for a total price including DJ and flowers.
+5. Final confirmation: Customer confirms understanding of the total pricing and mentions needing to cancel for personal reasons.
+
+The chat contains substantial inquiries and details about catering services which should be maintained for training purposes.

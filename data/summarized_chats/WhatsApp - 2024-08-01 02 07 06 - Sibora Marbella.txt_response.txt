@@ -1,0 +1,40 @@
+1. Inquiry about catering delivery: "Just a question do you take the platters to the place of the birthday?"
+2. Platter portion inquiry: "And how many portions has one plater for the kids?"
+3. Price vs. portion clarification: "The number is for the price or portion on the side?"
+4. Delivery charge: "We charge €20 for delivery."
+5. Platter details: "40 mini pieces for sandwich platter, etc, or 20 mini burgers."
+6. Children's menu recommendations: "Please which one do you recommend for kids? I don't see nuggets or mini pizza for them."
+7. Platter setup: "And you put everything in big platters yes?"
+8. Special options for kids: "And if you suggest something else maybe this is not enough I would appreciate that also."
+9. Inquiry about including wine: "And do you have or include wine?"
+10. Beverage options: "We can add drinks, not including in the price."
+11. Inquiry about party package: "Definitely - how many guests are you having? Maybe a party package with drinks, food, and service will be better for you."
+12. Request for package details: "Please when you can maybe tomorrow can you send me any package?"
+13. Pricing details for menu options: 
+    - "Price @ €50 /Person + VAT."
+    - Kids half price.
+    - Menu options: 
+      - Beef pastrami sandwich 
+      - Smoked salmon & cream cheese
+      - Tuna and sweet corn
+      - Coronation chicken sandwich 
+      - Greek salad
+      - Italian pesto pasta salad
+      - Vegetarian couscous 
+      - Mini burgers 
+      - Chicken nuggets 
+      - Mini pizza 
+      - Homemade selection of lemonades.
+14. Service details: "All plates, platters, decoration, glasses, ice buckets, staff service for 4 hours including setup and cleanup."
+15. Inquiry about platter sizes: "The Spanish platter with croquetta and tortilla for how many people is? It doesn’t say there."
+16. Confirmation of platter portions: "4-6 people."
+17. Inquiry about transporting food: "If you don’t deliver should I come and take the boxes or how?"
+18. Inquiry about food type: "Is all this food cold food?"
+19. Payment methods: "How you proceed with payment? Do you accept cash?"
+20. Payment confirmation: "We need full payment one day before the event."
+21. Specific collection date and time request: "Can they be ready at 12 o'clock?"
+22. Request for on-site setup: "If you don’t deliver should I come and take the boxes or how?"
+23. Event date: "18 February at 12 o'clock please."
+24. Total pricing for food and service: 
+    - "10 boxes total - €500 + VAT."
+    - "Or we can put it on the platters for you; we come 1 hour before, set it up on your table, with our platters, collection and pick up next day including food €650 + VAT."

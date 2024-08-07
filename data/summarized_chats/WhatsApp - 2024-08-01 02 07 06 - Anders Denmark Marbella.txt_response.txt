@@ -1,0 +1,26 @@
+1. Customer inquiry: Request for a private chef for tomorrow, July 7, to cook nice steaks and sides plus some red wine around €40 a bottle for 6 people.
+2. Location reference: Casa Clara, Marbella (provided URL).
+3. Service details for the private chef experience:
+   - Date: Sunday, July 7th
+   - Price: €200 per person plus VAT (€170 per person plus VAT without unlimited red wine)
+   - Includes unlimited red wine throughout the evening.
+   - Duration: up to four hours.
+4. Menu:
+   - Starters: 
+     - Burrata Salad (Creamy burrata cheese with heirloom tomatoes, fresh basil, balsamic reduction, and extra virgin olive oil).
+     - Seared Scallops (Pan-seared with cauliflower puree, crispy pancetta, and lemon-herb beurre blanc).
+   - Main Course:
+     - Beef Tomahawk (Succulent tomahawk steak cooked to liking, perfect for sharing with choice of sauces).
+   - Sides: 
+     - Truffle Mashed Potatoes (Silky mashed potatoes infused with black truffle oil).
+     - Roasted Root Vegetables (Seasonal root vegetables roasted with rosemary and thyme).
+   - Dessert:
+     - Chocolate Chef’s Choice (Exquisite dessert selection crafted by chocolate chef).
+5. Wine pairing: Unlimited premium red wines available throughout the evening.
+6. Payment preferences: Payment can be settled directly with the team or as preferred by the client; inquiry about credit card payment.
+7. Confirmation of dinner time: Client would like to start dinner at 19:30 and inquire about the chef's arrival time.
+8. Dietary preferences or restrictions request: Asking for any specific preferences or dietary restrictions from the client.
+9. Location request: Asking for the villa's location later in the conversation.
+10. Invoice details: Need for company details to raise an invoice or alternatively to send the invoice to Anders for individual payment arrangement.
+11. Confirmation of payment: Payment has been made today.
+12. Feedback: Client had a great time and enjoyed the service.

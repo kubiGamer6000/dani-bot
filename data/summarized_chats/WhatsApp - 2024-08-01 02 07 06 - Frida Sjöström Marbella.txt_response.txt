@@ -1,0 +1,14 @@
+1. Customer inquiry: Need a chef for a group of guests in a villa on September 23rd.
+2. Guest count: Approximately 15 dinner guests.
+3. Menu inquiry: Asking for ready buffet menus to present for clients.
+4. Additional services inquiry: Interested in a drinks/wine package suitable with the food.
+5. Availability: Confirmed availability for the date requested.
+6. Requirements: Guests don’t need a waiter but require dishes/cleaning after dinner.
+7. Price inquiry: Requested price per person for a menu.
+8. Dinner event pricing: €100 per person + VAT for dinner; €80 per person + VAT for lunch.
+9. Inclusion details: Pricing includes plates, cutlery, napkins, glasses, and service but does not include wine.
+10. Budget inquiry: Set a budget of €65 per person including VAT, excluding wine.
+11. Service request: Request for buffet, wine recommendations, and table setting.
+12. Price adjustment inquiry: Inquiring about the price without wine, just the buffet and table setting.
+13. Final pricing discussion: Offered to include wine and soft drinks for €100 plus VAT, if acceptable.
+14. Event specifications: Menu suggested is flexible, can work on budget constraints.

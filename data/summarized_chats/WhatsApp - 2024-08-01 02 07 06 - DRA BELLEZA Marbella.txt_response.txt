@@ -1,0 +1,23 @@
+1. Customer inquiry: Quote for a catering service.
+2. Decoration request: Interested in decoration services similar to a specific Instagram post.
+3. Event details: Event date is July 7 on a rented yacht.
+4. Catering inquiry: "Do you also need catering?"
+5. Pricing inquiry: "What would the price be and what does it include?"
+6. Customer mention: Important influencer's event.
+7. Takeaway boxes confirmed for Sunday, July 7.
+8. Total inquiry: "How much would it be in total?"
+9. Menu items and pricing:
+   - 1 Spanish platter @ €50 + VAT
+   - 1 Canapés @ €50 + VAT
+   - 1 Mini hamburgers @ €50 + VAT
+   - 1 Asian platter @ €75 + VAT
+   - 1 Mini pita @ €75 + VAT
+   - 1 Gourmet hamburgers @ €75 + VAT
+   - 1 Sushi @ €75 + VAT
+   - 1 Tapas @ €75 + VAT
+10. Delivery fee: €25 + VAT
+11. Total without invoice: Net = €550, VAT = €55, Gross = €605
+12. Delivery address: "The boat is in Puerto Banus at the level of the John Scotts bar. The boat leaves at 15:30 and departs at 16:00 on July 7."
+13. Invoice request: "Do you need an invoice?" (Customer responded no)
+14. Payment inquiry: "To what account?"
+15. Confirmation message: "Thank you."

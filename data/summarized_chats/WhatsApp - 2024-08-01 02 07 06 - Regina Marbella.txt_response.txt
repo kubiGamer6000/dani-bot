@@ -1,0 +1,22 @@
+1. Customer inquiry: Request for preparation of dishes for August 15.
+   - Items requested: 
+     - 3 taco platters
+     - 2 sandwich platters
+     - 1 croissant platter
+2. Delivery inquiry: Questions about pick-up and delivery options.
+3. Pricing inquiry: €50 per box + VAT for 6 boxes = €300 + VAT; Delivery charge of €25 + VAT.
+4. Food preparation inquiry: Customer asking if the tacos need to be reheated before serving and the best way to do so.
+5. Revised order: Request for 5 boxes of assorted sandwiches:
+   - Curry chicken
+   - Salmon and cream cheese
+   - Tuna with mayo and corn
+   - Bacon with turkey, tomato and salad
+   - Ham, cheese and salad
+   - Mozzarella, tomato and pesto
+6. Confirmation inquiry: Customer asking about delivery time to Real de la Quinta around 7 PM.
+7. Payment inquiry: Asking about payment methods (card, cash, or bank transfer).
+8. Total cost confirmation: Customer confirms total cost to be €300, which includes:
+   - 5 boxes @ €250 + VAT
+   - Delivery @ €25 + VAT
+   - VAT of €27.50. 
+9. Customer satisfaction: Customer thanks for the service and expresses satisfaction with the food.

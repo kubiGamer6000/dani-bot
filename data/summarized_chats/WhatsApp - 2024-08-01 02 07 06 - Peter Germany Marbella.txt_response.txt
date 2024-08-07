@@ -1,0 +1,27 @@
+1. Customer inquiry: Menu for tomorrow
+2. Pricing for services:
+   - 3 canapé boxes - €150 + VAT
+   - Delivery charge €25 + VAT
+   - Total net = €175 + VAT
+   - Total gross = €192.50
+3. Corrected pricing for services:
+   - 3 canapé boxes - €150 + VAT
+   - 1 pancake box - €50 + VAT
+   - Delivery charge €25 + VAT
+   - Total net = €225 + VAT
+   - Total gross = €247.50
+4. Payment options: Customer inquiring about paying cash or via PayPal; card machine preferred.
+5. Delivery details: Delivery scheduled for 17:00.
+6. Address for delivery: Urb. Lomas del Marqués, Apto. 19, 29679 Benahavís.
+7. Inquiry: Customer asks if Dani’s Catering can provide matching serving plates.
+8. Response: Dani's Catering does not provide plates for takeaway.
+9. Customer feedback: Positive remarks about the canapés and timely delivery, with a note regarding pancakes being too dry compared to website images.
+10. Future inquiry: Customer wants to organize another small party for May 25th at 6:00 p.m.
+11. Inquiry for additional offers and ordering process: Customer asks about other offers and when they can place the order.
+12. Updated order details for the birthday party:
+    - 16 guests expected.
+    - Orders:
+      - 2 Bellini Canapé Boxes (36 pieces each) with specific items.
+      - 2 Tapas Platter Boxes (40 pieces each) with specific items.
+    - Delivery requested at 17:00.
+13. Confirmation of delivery timing: Delivery set for 16:45 for the birthday party order.

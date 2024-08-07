@@ -1,0 +1,3 @@
+1. Customer inquiry: Request for a list of dishes for 6 people for December 24 and December 31.
+2. Customer inquiry: If the list of dishes is not available, they will look at other alternatives.
+3. Confirmation of receipt of the Dani's Catering menu.

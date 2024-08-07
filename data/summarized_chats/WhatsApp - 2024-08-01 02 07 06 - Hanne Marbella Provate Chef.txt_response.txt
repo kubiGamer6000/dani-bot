@@ -1,0 +1,28 @@
+1. Customer inquiry: Looking for a catering company for a group of 8 adults and 4 children for a relaxed afternoon by the pool with an early dinner.
+2. Inquiry about service: Is this a service your company offers?
+3. Request for availability: Inquiry about availability for next Sunday (22/5).
+4. Budget inquiry: Customer asking how much this kind of service normally costs.
+5. Menu options: Inquiry whether there's a menu to choose from.
+6. Suggested menu: Recommendation of a full gourmet BBQ or Spanish paella night at €120/person, children half price, including private chef and waitress experience.
+7. Customer customization request: Looking at a setup including two salads, vegetable sticks, bread, cheese platter with ham, mini burgers, and potato wedges/French fries.
+8. Minimum budget inquiry: Customer questions whether their proposed setup is under the minimum budget per client.
+9. Pricing and setup information: Minimum serviced party price starts from €1000 + VAT; can provide a lighter version of dinner using customer's BBQ or kitchen with various options.
+10. Offer for takeaway service without staffing: Customer can set a budget for Sunday for a takeaway setup without service.
+11. New Year’s Eve request: Customer needs a private chef dinner for 12 people, asking if can be organized for fine dining.
+12. Request for pricing and packages: Customer wants to know about packages and pricing for fine dining, specified as 3-4 courses.
+13. Fine dining pricing: €250/person + VAT for New Year’s Eve with minimum of 2-3 staff.
+14. Kids birthday party inquiry: Organizing a kids birthday party for 20 kids + 20 adults on Sunday 10th March with a budget of €1000-1500 for food and drinks.
+15. Request for suggestion: Customer requests suggestions for what can be included in the price for the kids birthday party.
+16. Proposed menu for birthday party: 
+    - Mini beef burgers
+    - Mini chicken burgers
+    - Avocado and feta bagel
+    - Roasted pepper pita pockets with hummus
+    - Smoked salmon croissants
+    - Serrano ham and brie tapas
+    - Sandwiches
+    - Fresh fruit platters
+    - Mini brownie bites
+17. Drink options for birthday party: Homemade lemonade, freshly squeezed orange and apple juice, still and sparkling water.
+18. Presentation details: Two buffet table displays with necessary equipment.
+19. Pricing for birthday party: €1250 + VAT for setup and delivery; €1500 + VAT for service with staff.

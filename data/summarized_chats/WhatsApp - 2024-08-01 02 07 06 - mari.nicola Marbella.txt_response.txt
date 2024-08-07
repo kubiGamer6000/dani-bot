@@ -1,0 +1,7 @@
+1. Customer inquiry: Looking for catering for a birthday party on Saturday, June 15.
+2. Guest count: 20 people.
+3. Provided menu options include:
+   - Party Menus
+   - Bowls
+   - Private Chef
+   - Takeaway Boxes.

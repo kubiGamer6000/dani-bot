@@ -1,0 +1,41 @@
+1. Customer inquiry: Please send me the menus.
+2. Event type: Kids Birthday Party.
+3. Date of the event: Friday, July 19, 2024.
+4. Number of guests: 30.
+5. Menu details:
+   - Appetizers and Finger Food: A selection of six gourmet finger foods.
+   - Mouth-Watering Barbecue Meats (Choose 5):
+     1. Beef Entrecote or Tomahawk
+     2. Lamb Chops
+     3. Chicken Skewers
+     4. Chicken Thighs
+     5. Lamb Kofta
+     6. Chicken Burgers
+     7. Fish Burgers
+     8. Doradas
+     9. Shrimp Tempura
+     10. Calamari Skewers
+     11. Calamari and Shrimp Skewers
+     12. Salmon on the Grill
+     13. Fillet Steak
+     14. Vegetable Kebabs
+   - Fresh and Flavorful Salads (Choose 4):
+     1. Greek Salad
+     2. Italian Pasta Pesto Salad
+     3. Burrata Salad
+     4. Caprese Salad
+     5. Roast Potatoes
+     6. Potato and Onion Chive Salad
+     7. Couscous Salad
+     8. Fattoush Salad
+     9. Tomato and Onion Salad
+   - Dessert: Chef’s Special Surprise.
+6. Equipment: All necessary equipment, including plates, cutlery, and glasses, provided.
+7. Price per Person: 
+   - Adults: €120
+   - Kids: €60
+8. Optional Add-ons: 
+   - Drinks: Separate quote available upon request. 
+   - Equipment Hire: Tables, chairs, and setup: €3000 + VAT.
+9. Information on bringing the grill: "Yes we can bring the grill definitely."
+10. Total price for 16 adults: €1920 + VAT (10%).

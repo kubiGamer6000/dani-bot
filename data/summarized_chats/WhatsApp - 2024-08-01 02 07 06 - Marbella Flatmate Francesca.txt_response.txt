@@ -1,0 +1,42 @@
+1. Customer inquiry: Examples of food package options.
+2. Decoration inquiry: Asking if table decoration services are provided.
+3. Catering details: Package of food for 8 people for €40 per person + VAT, minimum of 20 guests.
+4. Customer inquiry: Checking availability for a specific date and time.
+5. Catering details: Staff service quoted at €60 per person.
+6. Customization offer: Offer to meet and customize a package together.
+7. Event details: Booking date for Saturday, September 24 at 21:00 for 25 people.
+8. Food items discussed:
+   - Jamón serrano, camembert, and fig
+   - Black belini and smoked salmon
+   - Fried lobsters
+   - Mushroom burgers
+   - Spinach tapas
+   - Prawn cocktail
+   - Grilled octopus
+9. Customer inquiry: Request for recommendations on good tapas.
+10. Menu items listed:
+   - Tempura of pork
+   - Duck dumplings
+   - Vegetarian dumplings
+   - Shredded chicken taco
+   - Shredded pork taco with horseradish
+   - Shredded chicken bao bun
+   - Shredded pork bao bun with horseradish
+   - Mozzarella and tomato skewers
+   - Smoked salmon belini with caviar
+   - Serrano ham and camembert
+   - Caramelized onion profiterole with goat cheese
+   - Selection of wraps
+   - Fried calamari
+   - Fried camembert bites
+   - Mini beef burgers
+   - Mini chicken burgers
+   - Mini fish burgers
+   - Mini vegetarian burgers
+   - Chicken lollipop
+   - Vegetable rolls
+11. Customer inquiry: Need to give a deposit of €500.
+12. Customer details: Confirmation of total guests increased to 21.
+13. Customer request: Asking for a simple tablecloth for the table.
+14. Customer feedback: Feedback on the initial cloth being unsatisfactory and discussing alternatives.
+15. Confirmation of a collection time for the equipment and payment after the event.

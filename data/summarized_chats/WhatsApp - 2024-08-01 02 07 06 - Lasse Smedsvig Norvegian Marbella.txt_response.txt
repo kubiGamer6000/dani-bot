@@ -1,0 +1,15 @@
+1. Customer inquiry: Looking for a partner on catering and private chefs.
+2. Meal request: Order a test meal for 9 people.
+3. Presentation inquiry: Request for a short presentation of the company during the meal.
+4. Event date inquiry: Interested in Tuesday or Wednesday for the catering service.
+5. Address provided: Calle Rododendro, 64 9 B, Benalmádena, Andalusia 29630, Spain.
+6. Event time inquiry: Wanted to confirm the time of the event.
+7. Guest count: 9 guests for dinner, with the timing suggested at 19:00.
+8. Pricing detail: Basic rate for standard family dinner is €100 + VAT per person.
+9. Menu discussion: Request for menus to be provided based on the confirmed guest count and event timing.
+10. Dietary requirements: None reported; confirmation that no one has allergies.
+11. Payment method inquiry: Asking whether to pay cash or request an invoice (invoice preferred).
+12. Invoice details requested: Company information for the invoice, including VAT number and address.
+13. Partnership discussion: Interested in discussing how to offer catering services to their clients during the event.
+14. Feedback inquiry: Request for feedback on the catering experience following the event.
+15. Feedback received: Positive experience, with mention of ethical concerns regarding foie gras.

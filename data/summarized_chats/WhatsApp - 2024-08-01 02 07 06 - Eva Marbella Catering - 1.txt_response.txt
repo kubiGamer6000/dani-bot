@@ -1,0 +1,8 @@
+1. Customer inquiry: Looking for a venue for a child's 6th birthday party on Saturday, April 27.
+2. Venue rental inquiry: "Could you please provide me with some price information, location, entertainment during the party? Pool access?"
+3. Venue pricing: "We charge €250/hour + VAT for venue hire."
+4. Venue details: The venue has a pool.
+5. Guest count inquiry: "How many guests you expecting?"
+6. Booking details: "If you wanted catering I can send you some menus."
+7. Catering inquiry: Do you do finger foods for kids?
+8. Customization options: "Yes definitely- we can bespoke packages - kindly let me know how many guests kids and adults, if you have any dietary requirements, desires and I can create a package for you."

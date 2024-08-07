@@ -1,0 +1,10 @@
+1. Customer inquiry: Looking for takeaway menus for an event on March 11 at 15:30.
+2. Event details: Lunch-snack for 15:30 on March 11.
+3. Service preference: Customer will pick up the boxes and set them up themselves, no staffing required.
+4. Menu preferences:
+   - Mini burgers
+   - Colorful sandwiches
+   - Brioche
+   - Croissant
+   - Another type of sandwich
+5. Request for menu options: Customer asked to choose from the menu and inform preferences.

@@ -1,0 +1,11 @@
+1. Customer inquiry: Request for menu to be sent.
+2. Menu items ordered:
+   - 1 sandwich platter at €50 + VAT
+   - 1 tapas platter at €75 + VAT
+   - 1 delivery at €25 + VAT
+3. VAT: 10%
+4. Total cost: €165 gross.
+5. Payment method inquiry: Customer asking if it's okay to pay in cash.
+6. Delivery timing inquiry: Customer requests delivery at 9:30 am, which was confirmed as possible.
+7. Delivery address: 1A C. Yedras, 2, Nueva Andalucía, 29660 Marbella, Málaga, Spain.
+8. Customer confirms order details and expresses satisfaction with the arrangement.

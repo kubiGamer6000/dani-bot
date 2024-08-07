@@ -1,0 +1,20 @@
+1. Customer inquiry: Lunch for 1st of March - for 25 people
+2. Service inquiry: Inquiry about service included for the event
+3. Pricing inquiry: Customer asking about pricing
+4. Dietary restrictions: No alcohol requested
+5. Event timing: From 11-2
+6. Food selection: Request for finger foods
+7. Budget inquiry: Pricing for a budget of around €40-50 per person
+8. Location: Event to be held at their home
+9. Additional services inquiry: Request for a dessert station and non-alcoholic drinks (fun cocktails or juices) 
+10. Menu proposal: Offer for €50 per person includes:
+    - Selections of open and closed sandwiches
+    - Selection of mini burgers
+    - Vegetable soldiers served with babaganoush and hummus dip, tortillas
+    - Mini bao buns with various fillings
+    - Selection of desserts
+    - Fruit platters
+    - 5 types of lemonades and mocktails jars
+    - Service included
+    - Light decoration and platters
+11. Customer request for examples: Inquiry for pictures showing the offerings or samples.

@@ -1,0 +1,20 @@
+1. Customer inquiry: Sit down dinner for 8 people on Saturday.
+2. Service details:
+   - Setup time: 19:00
+   - Dinner ready at 20:00
+3. Menu details:
+   - Various selection of tapas:
+     - Pill pill
+     - Calamari
+     - Serrano ham & membrillo
+     - Langostinos
+     - Chef's surprises
+   - Main courses:
+     - Chicken chorizo paella (Dani's Catering signature)
+     - Seafood paella (Dani's Catering signature)
+   - Side: Beautiful pairing summer salads
+   - Dessert: Sharing platter
+4. Price: €120 per person based on 8 guests, totaling €960 + VAT.
+5. Payment options: Cash or card on arrival.
+6. Dietary accommodation inquiry: Customer asking if the paella can be made without gluten and lactose due to a guest's allergy.
+7. Confirmation of dietary accommodation: Response confirming that it can be made without gluten and lactose.

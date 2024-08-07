@@ -1,0 +1,18 @@
+1. Customer inquiry: Catering for a sailing outing on Friday, June 30, at 12:30.
+2. Menu inquiry: Lunch with cold dishes; request for a proposal.
+3. Pricing inquiry: Budget of €30 per person, including VAT.
+4. Guest count: 10 people.
+5. Beverage inquiry: Request for two bottles of red wine and two bottles of white wine.
+6. Invoice request: Need for an invoice as they are an agency.
+7. Menu proposal details:
+   - Price: €27.25 per person + VAT
+   - Event type: Boat event
+   - Delivery date: Friday, June 30, 2023
+   - Delivery time: 12:15
+   - Menu items included:
+     - Greek salad
+     - Mixed sandwich platter
+     - Cold cuts platter
+     - Croissants filled platter
+     - 2 bottles of white wine & 2 bottles of red wine
+   - Delivery location: Puerto Banus.

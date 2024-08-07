@@ -1,0 +1,27 @@
+1. Customer inquiry: Breakdown for 10 people for breakfast and lunch.
+2. Event details:
+   - Dates: July 26 (Breakfast for 7 people), July 27 (Breakfast & Dinner for 13 people), July 29 (Breakfast & Lunch for 13 people), July 30 (Breakfast for 13 people).
+3. Pricing for services:
+   - July 26: Breakfast for 7 people @ €160 + VAT + shopping costs.
+   - July 27: Breakfast & Dinner for 13 people @ €700 + VAT + shopping costs.
+   - July 29: Breakfast & Lunch for 13 people @ €700 + VAT + shopping costs.
+   - July 30: Breakfast for 13 people @ €500 + VAT + shopping costs.
+   - Total = €2060 + VAT (service)
+   - Total deposit required: €3000 + VAT shopping
+   - Total net = €5060 + VAT
+   - VAT = €506
+   - Total gross = €5566
+4. Confirmation of breakfast services required.
+5. Customer dietary requirement: No mushrooms in any meal.
+6. Customer request for a BBQ menu.
+7. BBQ pricing: €90/person + VAT for lunch BBQ, €120/person + VAT for dinner BBQ.
+8. BBQ menu request sent, includes a variety of meats, sides, and desserts.
+9. Specific BBQ service details for an upcoming event:
+   - Date: July 26
+   - Time: 2 PM
+   - Guest count: 8
+   - Price: €90 per person.
+   - BBQ selections: Beef burgers, chicken skewers, prawn skewers, assorted sausages with various salads and desserts.
+10. Additional request for shopping list preparation for breakfasts.
+11. Inquiry on payment arrangements and requirement for a payment link for a total of €850.
+12. Arrangement confirmation for credit card payment using a card machine during breakfast service, 9 AM for another payment.
