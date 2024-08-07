@@ -48,6 +48,8 @@ export default function ChatMessages(
       <div className="flex flex-col gap-5 divide-y">
         {props.messages.map((m, i) => {
           const isLoadingMessage = i === messageLength - 1 && props.isLoading;
+          // if (m.role === "user") console.log(`${m.content} | ${m.role}`);
+          // else console.log(`${!isLoadingMessage ? m.content : ""}`);
           return (
             <ChatMessage
               key={m.id}

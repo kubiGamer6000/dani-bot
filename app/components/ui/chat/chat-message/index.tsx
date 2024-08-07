@@ -40,6 +40,7 @@ function ChatMessageContent({
   append: Pick<ChatHandler, "append">["append"];
 }) {
   const annotations = message.annotations as MessageAnnotation[] | undefined;
+
   if (!annotations?.length) return <Markdown content={message.content} />;
 
   const imageData = getAnnotationData<ImageData>(
@@ -129,6 +130,13 @@ export default function ChatMessage({
   append: Pick<ChatHandler, "append">["append"];
 }) {
   const { isCopied, copyToClipboard } = useCopyToClipboard({ timeout: 2000 });
+  // console.log(suggestedQuestionsData[0] ? chatMessage.content : "");
+  // if (chatMessage.role === "user")
+  //   console.log(
+  //     `${!isLoading ? chatMessage.content : ""} | ${chatMessage.role}`,
+  //   );
+  // else console.log(`${!isLoading ? chatMessage.content : ""}`);
+
   return (
     <div className="flex items-start gap-4 pr-5 pt-5">
       <ChatAvatar role={chatMessage.role} />

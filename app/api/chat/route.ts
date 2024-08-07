@@ -2,6 +2,7 @@ import { initObservability } from "@/app/observability";
 import { JSONValue, Message, StreamData, StreamingTextResponse } from "ai";
 import { ChatMessage, Settings } from "llamaindex";
 import { NextRequest, NextResponse } from "next/server";
+import { logMessage } from "../../utils/logger";
 import { createChatEngine } from "./engine/chat";
 import { initSettings } from "./engine/settings";
 // asdf
@@ -68,6 +69,9 @@ export async function POST(request: NextRequest) {
       annotations,
     );
 
+    // console.log("[LlamaIndex] User message:", userMessageContent);
+    logMessage(userMessageContent.toString(), "User");
+
     // Setup callbacks
     const callbackManager = createCallbackManager(vercelStreamData);
 
@@ -88,6 +92,7 @@ export async function POST(request: NextRequest) {
     );
 
     // Return a StreamingTextResponse, which can be consumed by the Vercel/AI client
+    // console.log("[LlamaIndex] Response:", vercelStreamData.stream);
     return new StreamingTextResponse(stream, {}, vercelStreamData);
   } catch (error) {
     console.error("[LlamaIndex]", error);
