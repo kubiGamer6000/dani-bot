@@ -2,6 +2,7 @@ import { initObservability } from "@/app/observability";
 import { JSONValue, Message, StreamData, StreamingTextResponse } from "ai";
 import { ChatMessage, Settings } from "llamaindex";
 import { NextRequest, NextResponse } from "next/server";
+import { logMessage } from "../../utils/logger";
 import { createChatEngine } from "./engine/chat";
 import { initSettings } from "./engine/settings";
 // asdf
@@ -69,7 +70,7 @@ export async function POST(request: NextRequest) {
     );
 
     // console.log("[LlamaIndex] User message:", userMessageContent);
-    // logMessage(userMessageContent.toString(), "User");
+    logMessage(userMessageContent.toString(), "User");
 
     // Setup callbacks
     const callbackManager = createCallbackManager(vercelStreamData);
