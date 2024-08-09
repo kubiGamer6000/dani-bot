@@ -6,7 +6,6 @@ import {
   type AIStreamCallbacksAndOptions,
 } from "ai";
 import { ChatMessage, EngineResponse } from "llamaindex";
-import { logMessage } from "../../../../utils/logger";
 import { generateNextQuestions } from "./suggestion";
 
 export function LlamaIndexStream(
@@ -36,7 +35,8 @@ function createParser(
       const { value, done } = await it.next();
       if (done) {
         controller.close();
-        logMessage(llmTextResponse, "Chatbot");
+        console.log(`Chatbot: ${llmTextResponse}`);
+        // logMessage(llmTextResponse, "Chatbot");
         // LLM stream is done, generate the next questions with a new LLM call
         chatHistory.push({ role: "assistant", content: llmTextResponse });
         const questions: string[] = await generateNextQuestions(chatHistory);
