@@ -73,6 +73,10 @@
 @layer base {
   * {
     @apply border-border;
+
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    touch-action: manipulation;
   }
   html {
     @apply h-full;
